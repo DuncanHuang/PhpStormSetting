@@ -342,6 +342,13 @@
         <mark key="^" line="69" column="10" />
         <mark key="." line="69" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-03-19.yaml" timestamp="1551171307629">
+        <mark key="'" line="4" column="15" />
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/SYS/SysConfigDAO.php" timestamp="1547794837236">
         <mark key="[" line="55" column="12" />
         <mark key="]" line="55" column="12" />
@@ -545,10 +552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="53" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_edit.htm" />
-      <jump line="10" column="36" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/dm/dm_search.htm" />
-      <jump line="5" column="35" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/dm/dm_search.htm" />
       <jump line="2" column="23" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_edit.htm" />
       <jump line="8" column="57" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_edit.htm" />
       <jump line="44" column="7" filename="$USER_HOME$/.ideavimrc" />
@@ -645,13 +648,17 @@
       <jump line="233" column="28" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DataModel/XDoc/XDocConfig.php" />
       <jump line="9" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/phpunit.xml" />
+      <jump line="9" column="64" filename="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-03-19.yaml" />
+      <jump line="6" column="14" filename="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-03-19.yaml" />
+      <jump line="5" column="16" filename="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-03-19.yaml" />
+      <jump line="4" column="15" filename="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-03-19.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRhcmdldC0+Z2V0SWQoKSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Recca</text>
       </register>
       <register name="-" type="4">
-        <text>Foundation/Libraries/</text>
+        <text>Recca</text>
       </register>
       <register name="/" type="4">
         <text>15</text>
@@ -806,7 +813,7 @@
       <last-pattern>15</last-pattern>
       <last-replace />
       <last-substitute>Vim</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
