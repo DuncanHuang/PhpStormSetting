@@ -1,0 +1,900 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks>
+      <mark key="M" line="42" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.importlog-migration.php" protocol="file" />
+    </globalmarks>
+    <filemarks>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Koala/secr.php" timestamp="1550213197352">
+        <mark key="[" line="29" column="9" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
+        <mark key="^" line="29" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/utility.inc" timestamp="1551152152363">
+        <mark key="[" line="499" column="0" />
+        <mark key="]" line="499" column="0" />
+        <mark key="^" line="501" column="65" />
+        <mark key="." line="499" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/gb2utf8.php" timestamp="1550461808733">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="12" />
+        <mark key="." line="30" column="12" />
+        <mark key="^" line="30" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/dm/dm_search.htm" timestamp="1550483506173">
+        <mark key="'" line="5" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_receive.htm" timestamp="1550220119629">
+        <mark key="[" line="407" column="59" />
+        <mark key="]" line="407" column="79" />
+        <mark key="^" line="407" column="79" />
+        <mark key="." line="407" column="79" />
+      </file>
+      <file name="/a.dummy" timestamp="1550647071950">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/91/speed/tests/Tennis2Test.php" timestamp="1549643507023">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/7.11.migration.sql" timestamp="1550734040998">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardSet.inc" timestamp="1548051232588">
+        <mark key="[" line="25" column="66" />
+        <mark key="]" line="25" column="67" />
+        <mark key="^" line="25" column="67" />
+        <mark key="." line="25" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new.htm" timestamp="1550458222677">
+        <mark key="'" line="923" column="59" />
+        <mark key="[" line="831" column="0" />
+        <mark key="]" line="831" column="0" />
+        <mark key="." line="831" column="0" />
+        <mark key="^" line="768" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/dayoff.php" timestamp="1550459219342">
+        <mark key="[" line="322" column="1" />
+        <mark key="]" line="322" column="0" />
+        <mark key="^" line="322" column="0" />
+        <mark key="." line="322" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/Polyfill/ArrayFunctionHelper.php" timestamp="1549959728146">
+        <mark key="[" line="49" column="14" />
+        <mark key="]" line="49" column="13" />
+        <mark key="^" line="49" column="13" />
+        <mark key="." line="49" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/PM/PM_Delete_Cword.inc" timestamp="1550211610022">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="10" />
+        <mark key="^" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.importlog-migration.php" timestamp="1551158015490" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_history.htm" timestamp="1550132092657">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="72" />
+        <mark key="^" line="15" column="72" />
+        <mark key="." line="15" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_edit.htm" timestamp="1550483518293">
+        <mark key="'" line="8" column="57" />
+        <mark key="[" line="8" column="58" />
+        <mark key="]" line="8" column="57" />
+        <mark key="^" line="8" column="57" />
+        <mark key="." line="8" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/VA/KWCR2VacationSettingDAO.php" timestamp="1548382317777">
+        <mark key="[" line="101" column="28" />
+        <mark key="]" line="101" column="27" />
+        <mark key="^" line="101" column="27" />
+        <mark key="." line="101" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/KWCR2SubGroupMemberDAO.php" timestamp="1548309878958">
+        <mark key="[" line="48" column="7" />
+        <mark key="]" line="49" column="24" />
+        <mark key="^" line="49" column="24" />
+        <mark key="." line="49" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/AM/AM_ResourceUpd.inc" timestamp="1551146973307">
+        <mark key="[" line="163" column="27" />
+        <mark key="]" line="163" column="26" />
+        <mark key="." line="163" column="26" />
+        <mark key="^" line="163" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/libraries/REST_Controller.php" timestamp="1550505666632">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="19" column="8" />
+        <mark key="." line="19" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/em/htmlarea.js" timestamp="1550038466632">
+        <mark key="[" line="83" column="18" />
+        <mark key="]" line="83" column="17" />
+        <mark key="." line="83" column="17" />
+        <mark key="^" line="83" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_download.php" timestamp="1551060256391">
+        <mark key="'" line="97" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1550203011158">
+        <mark key="[" line="125" column="35" />
+        <mark key="]" line="125" column="34" />
+        <mark key="^" line="125" column="34" />
+        <mark key="." line="125" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/AuthHelper.php" timestamp="1549874109547">
+        <mark key="[" line="159" column="21" />
+        <mark key="]" line="159" column="20" />
+        <mark key="^" line="159" column="20" />
+        <mark key="." line="159" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/index.htm" timestamp="1551081522139">
+        <mark key="[" line="138" column="12" />
+        <mark key="]" line="138" column="11" />
+        <mark key="^" line="138" column="11" />
+        <mark key="." line="138" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/ShiftFormatter.php" timestamp="1548237931480">
+        <mark key="[" line="173" column="5" />
+        <mark key="]" line="173" column="4" />
+        <mark key="." line="173" column="4" />
+        <mark key="^" line="173" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_Update.inc" timestamp="1548917522489">
+        <mark key="[" line="436" column="20" />
+        <mark key="]" line="436" column="29" />
+        <mark key="." line="436" column="29" />
+        <mark key="^" line="436" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/themes/EIP/css/dsNew.css" timestamp="1550038056976">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/composer.json" timestamp="1550135886942">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/vendor/phpunit/phpunit/src/Framework/TestCase.php" timestamp="1549729535784">
+        <mark key="[" line="1159" column="34" />
+        <mark key="]" line="1159" column="33" />
+        <mark key="^" line="1159" column="33" />
+        <mark key="." line="1159" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Jobs/HisSync.php" timestamp="1548125676487">
+        <mark key="[" line="256" column="15" />
+        <mark key="]" line="256" column="14" />
+        <mark key="^" line="256" column="14" />
+        <mark key="." line="256" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/google_gcm.php" timestamp="1548178559133">
+        <mark key="[" line="76" column="63" />
+        <mark key="]" line="76" column="68" />
+        <mark key="^" line="76" column="68" />
+        <mark key="." line="76" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_view_print.php" timestamp="1550038330954">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/VacationShiftTest.php" timestamp="1547647910706">
+        <mark key="[" line="75" column="9" />
+        <mark key="]" line="75" column="8" />
+        <mark key="." line="75" column="8" />
+        <mark key="^" line="75" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/phpunit.xml" timestamp="1551162473190">
+        <mark key="'" line="9" column="31" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/XDoc/XDocImport.php" timestamp="1551162526690" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1550741194219">
+        <mark key="[" line="898" column="75" />
+        <mark key="]" line="898" column="74" />
+        <mark key="." line="898" column="74" />
+        <mark key="^" line="898" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/new_wf_step3.htm" timestamp="1548928832831">
+        <mark key="[" line="385" column="24" />
+        <mark key="]" line="385" column="23" />
+        <mark key="^" line="385" column="23" />
+        <mark key="." line="385" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManUpdateOrganization.php" timestamp="1548670510558">
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="175" column="100" />
+        <mark key="^" line="175" column="100" />
+        <mark key="." line="175" column="100" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_history.htm" timestamp="1550220149606">
+        <mark key="[" line="264" column="78" />
+        <mark key="]" line="264" column="98" />
+        <mark key="^" line="264" column="98" />
+        <mark key="." line="264" column="98" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" timestamp="1548177825874">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="63" />
+        <mark key="^" line="15" column="63" />
+        <mark key="." line="15" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManDepList.php" timestamp="1551071365921">
+        <mark key="[" line="66" column="34" />
+        <mark key="]" line="67" column="58" />
+        <mark key="." line="67" column="58" />
+        <mark key="^" line="67" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Detail.inc" timestamp="1550124129961">
+        <mark key="[" line="190" column="7" />
+        <mark key="]" line="190" column="6" />
+        <mark key="^" line="190" column="6" />
+        <mark key="." line="190" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/FM/FileManAppendFile2.php" timestamp="1550542992428">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="40" column="14" />
+        <mark key="^" line="40" column="14" />
+        <mark key="." line="40" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/login.php" timestamp="1550041415728">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="37" />
+        <mark key="^" line="18" column="37" />
+        <mark key="." line="18" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CR/CR_TreeList.inc" timestamp="1551065996594">
+        <mark key="[" line="28" column="34" />
+        <mark key="]" line="28" column="33" />
+        <mark key="^" line="28" column="33" />
+        <mark key="." line="28" column="33" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/signin.php" timestamp="1550759866512">
+        <mark key="'" line="163" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Model/Process/HR/UserProcessModel.php" timestamp="1548125663733">
+        <mark key="[" line="70" column="14" />
+        <mark key="]" line="70" column="13" />
+        <mark key="^" line="70" column="13" />
+        <mark key="." line="70" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/xdoc.php" timestamp="1551157929945">
+        <mark key="[" line="540" column="5" />
+        <mark key="]" line="540" column="4" />
+        <mark key="^" line="540" column="4" />
+        <mark key="." line="540" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/AD/AD_loginTest.inc" timestamp="1548125699660">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="11" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/findex.php" timestamp="1551081690390">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/HR/Signature.php" timestamp="1548310013147">
+        <mark key="[" line="57" column="9" />
+        <mark key="]" line="40" column="34" />
+        <mark key="^" line="40" column="34" />
+        <mark key="." line="40" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_finish.htm" timestamp="1550220168801">
+        <mark key="[" line="265" column="78" />
+        <mark key="]" line="265" column="98" />
+        <mark key="^" line="265" column="98" />
+        <mark key="." line="265" column="98" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" timestamp="1548827947637">
+        <mark key="[" line="75" column="42" />
+        <mark key="]" line="75" column="41" />
+        <mark key="^" line="75" column="41" />
+        <mark key="." line="75" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCorpInfo.php" timestamp="1550213557048">
+        <mark key="[" line="69" column="26" />
+        <mark key="]" line="69" column="10" />
+        <mark key="^" line="69" column="10" />
+        <mark key="." line="69" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/SYS/SysConfigDAO.php" timestamp="1547794837236">
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="12" />
+        <mark key="." line="55" column="12" />
+        <mark key="^" line="55" column="100" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManUpdateGroupName_Edit.php" timestamp="1549955109130">
+        <mark key="[" line="79" column="34" />
+        <mark key="]" line="79" column="33" />
+        <mark key="^" line="79" column="33" />
+        <mark key="." line="79" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Jobs/MailToFileParser.php" timestamp="1550656277869">
+        <mark key="'" line="357" column="9" />
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="21" column="4" />
+        <mark key="^" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/remote/flowUpdate4di.php" timestamp="1548817414708">
+        <mark key="[" line="824" column="0" />
+        <mark key="]" line="824" column="0" />
+        <mark key="^" line="570" column="25" />
+        <mark key="." line="824" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CR/CR_NewGroup.inc" timestamp="1551071642855">
+        <mark key="'" line="192" column="0" />
+        <mark key="[" line="227" column="36" />
+        <mark key="]" line="227" column="36" />
+        <mark key="." line="224" column="42" />
+        <mark key="^" line="227" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/koala.Utility.php" timestamp="1548690594440">
+        <mark key="[" line="28" column="107" />
+        <mark key="]" line="28" column="106" />
+        <mark key="^" line="28" column="106" />
+        <mark key="." line="28" column="106" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/notification.php" timestamp="1548827742823">
+        <mark key="[" line="84" column="46" />
+        <mark key="]" line="84" column="45" />
+        <mark key="^" line="84" column="45" />
+        <mark key="." line="84" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.inc" timestamp="1551157752015">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/EscapeFunctionHelper.php" timestamp="1548653449185">
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/im/m/wf/sign.htm" timestamp="1549005876667">
+        <mark key="[" line="39" column="3" />
+        <mark key="]" line="39" column="2" />
+        <mark key="^" line="39" column="2" />
+        <mark key="." line="39" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Update_User_Group.inc" timestamp="1550715765599">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="45" column="8" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.migration.sql" timestamp="1547606626378">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="23" column="76" />
+        <mark key="^" line="23" column="76" />
+        <mark key="." line="23" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/lysCommon.php" timestamp="1549960500186">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="^" line="205" column="4" />
+        <mark key="." line="205" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/91/speed/composer.json" timestamp="1549643302272">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="26" column="5" />
+        <mark key="." line="26" column="5" />
+        <mark key="^" line="26" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/ShortTimeRequestDetector.php" timestamp="1548093337957">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/KWCR2EmployeeRightDAO.php" timestamp="1550112150859">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="12" />
+        <mark key="^" line="31" column="12" />
+        <mark key="." line="31" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/91/poker/src/straightMatcher.php" timestamp="1548125622237">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" timestamp="1551149096069">
+        <mark key="'" line="233" column="28" />
+        <mark key="[" line="231" column="14" />
+        <mark key="]" line="231" column="13" />
+        <mark key="^" line="231" column="13" />
+        <mark key="." line="231" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/vendor/mockery/mockery/library/Mockery.php" timestamp="1548093093291">
+        <mark key="[" line="116" column="43" />
+        <mark key="]" line="116" column="42" />
+        <mark key="^" line="116" column="42" />
+        <mark key="." line="116" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/htmlMimeMail.php" timestamp="1548917148727">
+        <mark key="[" line="211" column="62" />
+        <mark key="]" line="211" column="61" />
+        <mark key="." line="211" column="61" />
+        <mark key="^" line="211" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" timestamp="1550743081609">
+        <mark key="[" line="137" column="68" />
+        <mark key="]" line="137" column="67" />
+        <mark key="." line="137" column="67" />
+        <mark key="^" line="137" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.va_data_export.inc.sample" timestamp="1548212201675">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/SYS/AbstractLogsDAO.php" timestamp="1547880310139">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.inc" timestamp="1549955854520">
+        <mark key="[" line="519" column="20" />
+        <mark key="]" line="519" column="19" />
+        <mark key="^" line="519" column="19" />
+        <mark key="." line="519" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/XDoc/XDocFactoryByDI.php" timestamp="1551162595631" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Common.php" timestamp="1548901146692">
+        <mark key="[" line="109" column="31" />
+        <mark key="]" line="109" column="30" />
+        <mark key="^" line="109" column="30" />
+        <mark key="." line="109" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_User_Detail.inc" timestamp="1550643640713">
+        <mark key="[" line="153" column="37" />
+        <mark key="]" line="153" column="36" />
+        <mark key="^" line="153" column="36" />
+        <mark key="." line="153" column="36" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1550739877141">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/FlowUpdate_return.inc" timestamp="1549874137631">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/showMailAttach.php" timestamp="1548914711248">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/XDoc/XDocFactoryByDITest.php" timestamp="1551163348564">
+        <mark key="[" line="219" column="45" />
+        <mark key="]" line="219" column="44" />
+        <mark key="^" line="219" column="44" />
+        <mark key="." line="219" column="44" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1550542730465">
+        <mark key="'" line="100" column="16" />
+        <mark key="[" line="103" column="1" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DataModel/XDoc/XDocConfig.php" timestamp="1551158440164">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/List.php" timestamp="1550224797242">
+        <mark key="[" line="234" column="46" />
+        <mark key="]" line="234" column="45" />
+        <mark key="^" line="234" column="45" />
+        <mark key="." line="234" column="45" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="3" column="53" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_edit.htm" />
+      <jump line="10" column="36" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/dm/dm_search.htm" />
+      <jump line="5" column="35" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/dm/dm_search.htm" />
+      <jump line="2" column="23" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_edit.htm" />
+      <jump line="8" column="57" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_edit.htm" />
+      <jump line="44" column="7" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="100" column="16" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="133" column="10" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="123" column="15" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="128" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="143" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="131" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="135" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="147" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="150" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="157" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="205" column="16" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.inc" />
+      <jump line="115" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/utility.inc" />
+      <jump line="114" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/utility.inc" />
+      <jump line="108" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/utility.inc" />
+      <jump line="107" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/utility.inc" />
+      <jump line="105" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/utility.inc" />
+      <jump line="289" column="34" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="291" column="13" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="171" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="232" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="185" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="181" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="190" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="192" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="186" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="177" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="209" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="174" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="178" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="188" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="205" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="208" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="214" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="203" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="202" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="198" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="191" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="229" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="236" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="241" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="247" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="256" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="260" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="268" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="288" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
+      <jump line="350" column="37" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Jobs/MailToFileParser.php" />
+      <jump line="357" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Jobs/MailToFileParser.php" />
+      <jump line="96" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordReport.php" />
+      <jump line="97" column="66" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordReport.php" />
+      <jump line="318" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/remote/flowUpdate.php" />
+      <jump line="89" column="70" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/_list.js" />
+      <jump line="15" column="23" filename="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" />
+      <jump line="23" column="57" filename="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" />
+      <jump line="24" column="8" filename="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" />
+      <jump line="29" column="55" filename="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" />
+      <jump line="30" column="5" filename="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="5613" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="5634" column="15" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="5653" column="17" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="5659" column="32" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="5675" column="48" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="5032" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="17" column="37" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="4959" column="13" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="1402" column="39" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/VacationRecordRepoTest.php" />
+      <jump line="149" column="20" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/signin.php" />
+      <jump line="150" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/signin.php" />
+      <jump line="156" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/signin.php" />
+      <jump line="161" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/signin.php" />
+      <jump line="169" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/signin.php" />
+      <jump line="166" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/signin.php" />
+      <jump line="163" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/signin.php" />
+      <jump line="222" column="58" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" />
+      <jump line="66" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" />
+      <jump line="97" column="28" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_download.php" />
+      <jump line="113" column="62" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CR/CR_NewGroup.inc" />
+      <jump line="194" column="38" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CR/CR_NewGroup.inc" />
+      <jump line="186" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CR/CR_NewGroup.inc" />
+      <jump line="192" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CR/CR_NewGroup.inc" />
+      <jump line="5148" column="53" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="5620" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="5603" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="5598" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="5632" column="16" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="5638" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="233" column="28" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DataModel/XDoc/XDocConfig.php" />
+      <jump line="9" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/phpunit.xml" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeSBzdWZmaXg9Ii5waHAiPnRlc3RzPC9kaXJlY3Rvcnk+Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>Foundation/Libraries/</text>
+      </register>
+      <register name="/" type="4">
+        <text>15</text>
+      </register>
+      <register name="o" type="4">
+        <text />
+      </register>
+      <register name="0" type="4">
+        <text>$_POST[&quot;end_date&quot;]</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeSBzdWZmaXg9Ii5waHAiPnRlc3RzPC9kaXJlY3Rvcnk+Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeSBzdWZmaXg9Ii5waHAiPnRlc3RzPC9kaXJlY3Rvcnk+Cg==</text>
+      </register>
+      <register name="r" type="4">
+        <keys>
+          <key char="111" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJE15VGl0bGUpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJGNvbmZpZ1BhdGgpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJGNvbmZpZ1BhdGgpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRzcWxzc3RyKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7CgkJICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkdXNlcmlkKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7CgkJICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkZ3JvdXBpZCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQoJCQkJZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRkYXRhYXJ5KTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CWVjaG8gcmU+Jzt2YXJfZHVtcCgkcyk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOyBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHBtKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7CglleGl0KCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CWVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkcyk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwoJZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRwbSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwoJZXhpdCgpOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>action MethodUp</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>15</last-search>
+      <last-offset />
+      <last-pattern>15</last-pattern>
+      <last-replace />
+      <last-substitute>Vim</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>?2019</entry>
+        <entry>Vim</entry>
+        <entry>rece</entry>
+        <entry>msgid</entry>
+        <entry>ser</entry>
+        <entry>SE</entry>
+        <entry>parser</entry>
+        <entry>-11</entry>
+        <entry>over</entry>
+        <entry>no</entry>
+        <entry>c</entry>
+        <entry>st</entry>
+        <entry>Lov</entry>
+        <entry>function test</entry>
+        <entry encoding="base64">IGZ1bmN0aW9u</entry>
+        <entry>10</entry>
+        <entry>11</entry>
+        <entry>ch</entry>
+        <entry>sub</entry>
+        <entry>15</entry>
+      </history-search>
+      <history-cmd>
+        <entry>action RenameElement</entry>
+        <entry>233</entry>
+        <entry>136</entry>
+        <entry>248</entry>
+        <entry>85</entry>
+        <entry>action IntroduceParameter</entry>
+        <entry>action GotoPreviousError</entry>
+        <entry>action IntroduceField</entry>
+        <entry>61</entry>
+        <entry>action Inline</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action Debug</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
+        <entry>68</entry>
+        <entry>action Run</entry>
+        <entry>action MethodDown</entry>
+        <entry>action Forward</entry>
+        <entry>action Back</entry>
+        <entry>540</entry>
+        <entry>action MethodUp</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F1</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed F1</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift alt pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift alt pressed J</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
