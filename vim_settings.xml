@@ -56,11 +56,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/test.php" timestamp="1551172321047">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="37" />
-        <mark key="." line="2" column="37" />
-        <mark key="^" line="2" column="37" />
+      <file name="$USER_HOME$/Desktop/test.php" timestamp="1551172333571">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardSet.inc" timestamp="1548051232588">
         <mark key="[" line="25" column="66" />
@@ -348,12 +348,12 @@
         <mark key="^" line="69" column="10" />
         <mark key="." line="69" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-03-19.yaml" timestamp="1551172154446">
-        <mark key="'" line="4" column="15" />
-        <mark key="[" line="9" column="1763" />
-        <mark key="]" line="9" column="1762" />
-        <mark key="^" line="9" column="1762" />
-        <mark key="." line="9" column="1762" />
+      <file name="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-03-19.yaml" timestamp="1551173647046">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="58" />
+        <mark key="^" line="0" column="58" />
+        <mark key="." line="0" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/SYS/SysConfigDAO.php" timestamp="1547794837236">
         <mark key="[" line="55" column="12" />
@@ -558,7 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="23" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_edit.htm" />
       <jump line="8" column="57" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_edit.htm" />
       <jump line="44" column="7" filename="$USER_HOME$/.ideavimrc" />
       <jump line="100" column="16" filename="$USER_HOME$/.ideavimrc" />
@@ -658,13 +657,14 @@
       <jump line="6" column="14" filename="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-03-19.yaml" />
       <jump line="5" column="16" filename="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-03-19.yaml" />
       <jump line="4" column="15" filename="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-03-19.yaml" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-03-19.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>https://ubin.io/pn7auh</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>https://ubin.io/pn7auh</text>
       </register>
       <register name="/" type="4">
         <text>15</text>
@@ -861,10 +861,10 @@
         <entry>action MethodUp</entry>
         <entry>action Forward</entry>
         <entry>1180</entry>
-        <entry>action GotoPreviousError</entry>
         <entry>action Run</entry>
         <entry>118</entry>
         <entry>178</entry>
+        <entry>action GotoPreviousError</entry>
         <entry>action Back</entry>
       </history-cmd>
       <history-expr />
