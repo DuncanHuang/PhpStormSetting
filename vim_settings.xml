@@ -497,6 +497,7 @@
         <mark key="^" line="519" column="19" />
         <mark key="." line="519" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_LogList.inc" timestamp="1551230574257" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/XDoc/XDocFactoryByDI.php" timestamp="1551162595631" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Common.php" timestamp="1548901146692">
         <mark key="[" line="109" column="31" />
@@ -804,7 +805,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPGRpcmVjdG9yeSBzdWZmaXg9Ii5waHAiPnRlc3RzPC9kaXJlY3Rvcnk+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>90</text>
       </register>
     </registers>
     <search>
@@ -840,7 +841,6 @@
         <entry>15</entry>
       </history-search>
       <history-cmd>
-        <entry>248</entry>
         <entry>85</entry>
         <entry>action IntroduceParameter</entry>
         <entry>action IntroduceField</entry>
@@ -860,6 +860,7 @@
         <entry>178</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action Back</entry>
+        <entry>90</entry>
       </history-cmd>
       <history-expr />
       <history-input />
