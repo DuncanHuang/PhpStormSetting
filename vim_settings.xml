@@ -168,6 +168,7 @@
         <mark key="." line="173" column="4" />
         <mark key="^" line="173" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/dm/dm_view_detail.htm" timestamp="1551254344969" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_Update.inc" timestamp="1548917522489">
         <mark key="[" line="436" column="20" />
         <mark key="]" line="436" column="29" />
@@ -469,6 +470,13 @@
         <mark key="^" line="231" column="13" />
         <mark key="." line="231" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1551254303404">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="13" column="51" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/vendor/mockery/mockery/library/Mockery.php" timestamp="1548093093291">
         <mark key="[" line="116" column="43" />
         <mark key="]" line="116" column="42" />
@@ -544,10 +552,10 @@
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CM/CM_Delete.inc" timestamp="1551235264118" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_agentCheck.php" timestamp="1551250225051">
-        <mark key="[" line="53" column="79" />
-        <mark key="]" line="53" column="78" />
-        <mark key="." line="53" column="78" />
-        <mark key="^" line="53" column="78" />
+        <mark key="[" line="42" column="79" />
+        <mark key="]" line="42" column="78" />
+        <mark key="." line="42" column="78" />
+        <mark key="^" line="42" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/List.php" timestamp="1551167791177">
         <mark key="[" line="220" column="14" />
@@ -557,8 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/utility.inc" />
-      <jump line="289" column="34" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
       <jump line="291" column="13" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
       <jump line="171" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
       <jump line="232" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
@@ -657,16 +663,18 @@
       <jump line="256" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/WF/FlowStageCoderV1Test.php" />
       <jump line="267" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/WF/FlowStageCoderV1Test.php" />
       <jump line="270" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/WF/FlowStageCoderV1Test.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
+      <jump line="0" column="7" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICdkZCcgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">LSB2OC4xLjggKDIwMTktMDItMjcpCi0gdjguMS44ICgyMDE5LTAyLTI3KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>18</text>
       </register>
       <register name="/" type="4">
-        <text>15</text>
+        <text>18</text>
       </register>
       <register name="o" type="4">
         <text />
@@ -675,10 +683,10 @@
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICdkZCcgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">LSB2OC4xLjggKDIwMTktMDItMjcpCi0gdjguMS44ICgyMDE5LTAyLTI3KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2YnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICdkZCcgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -788,43 +796,41 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2UnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCdlJykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2YnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2QnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2UnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCdlJykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2VjaG8gJzxwcmU+Jzt2YXJfZHVtcCgpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2QnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICdjJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgnYycpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2VjaG8gJzxwcmU+Jzt2YXJfZHVtcCgpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckb3AnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRvcCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICdjJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgnYycpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICdiJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgnYicpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">ZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckb3AnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRvcCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICdhJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgnYScpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">ZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICdiJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgnYicpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
       </register>
     </registers>
     <search>
-      <last-search>15</last-search>
+      <last-search>18</last-search>
       <last-offset />
-      <last-pattern>15</last-pattern>
+      <last-pattern>18</last-pattern>
       <last-replace />
       <last-substitute>Vim</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>?2019</entry>
-        <entry>Vim</entry>
         <entry>rece</entry>
         <entry>msgid</entry>
         <entry>ser</entry>
@@ -843,6 +849,8 @@
         <entry>ch</entry>
         <entry>sub</entry>
         <entry>15</entry>
+        <entry>7</entry>
+        <entry>18</entry>
       </history-search>
       <history-cmd>
         <entry>action IntroduceParameter</entry>
