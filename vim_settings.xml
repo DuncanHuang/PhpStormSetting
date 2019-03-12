@@ -7,10 +7,7 @@
     <filemarks>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_shift_list.htm" timestamp="1552369211751">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="57" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/gb2utf8.php" timestamp="1550461808733">
         <mark key="'" line="36" column="0" />
@@ -140,12 +137,12 @@
         <mark key="^" line="16" column="48" />
         <mark key="." line="16" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/views/apply_2019_view.php" timestamp="1552361398247">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/views/apply_2019_view.php" timestamp="1552377016037">
         <mark key="'" line="337" column="63" />
-        <mark key="[" line="198" column="19" />
-        <mark key="]" line="198" column="20" />
-        <mark key="^" line="190" column="18" />
-        <mark key="." line="198" column="20" />
+        <mark key="[" line="377" column="46" />
+        <mark key="]" line="377" column="92" />
+        <mark key="^" line="377" column="92" />
+        <mark key="." line="377" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_card_shift_export.htm" timestamp="1552368993343">
         <mark key="[" line="7" column="64" />
@@ -223,12 +220,6 @@
         <mark key="]" line="202" column="5" />
         <mark key="^" line="202" column="5" />
         <mark key="." line="202" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_user_detail_tabs.js" timestamp="1552369122054">
-        <mark key="[" line="30" column="74" />
-        <mark key="]" line="30" column="73" />
-        <mark key="." line="30" column="73" />
-        <mark key="^" line="30" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1552354981874">
         <mark key="^" line="629" column="11" />
@@ -453,11 +444,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIuLi9jb21tb24vUlBDQ2FsbF9Bbnl3aGVyZS5qcyI+PC9zY3JpcHQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(請輸入完整姓名。各項人數有增加時，會更新報名時間)</text>
       </register>
       <register name="-" type="4">
-        <text>201902271728_11551_6d1daf11c</text>
+        <text>(請輸入完整姓名。各項人數有增加時，會更新報名時間)</text>
       </register>
       <register name="/" type="4">
         <text>2019</text>
