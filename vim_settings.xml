@@ -25,7 +25,7 @@
         <mark key="^" line="36" column="31" />
         <mark key="." line="36" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/.env" timestamp="1552282607816">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/.env" timestamp="1552355101722">
         <mark key="'" line="10" column="16" />
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="14" />
@@ -80,7 +80,7 @@
         <mark key="^" line="107" column="35" />
         <mark key="." line="107" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/jobs/Report.php" timestamp="1552024335952">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/jobs/Report.php" timestamp="1552354676998">
         <mark key="[" line="35" column="70" />
         <mark key="]" line="35" column="69" />
         <mark key="^" line="35" column="69" />
@@ -182,9 +182,6 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.inc" timestamp="1552299371904">
         <mark key="'" line="31" column="33" />
         <mark key="[" line="399" column="43" />
-        <mark key="]" line="418" column="28" />
-        <mark key="." line="418" column="28" />
-        <mark key="^" line="418" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/ShiftFormatter.php" timestamp="1552010950083">
         <mark key="[" line="31" column="21" />
@@ -192,12 +189,12 @@
         <mark key="^" line="31" column="20" />
         <mark key="." line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/Apply.php" timestamp="1552212039363">
-        <mark key="'" line="70" column="15" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="66" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/Apply.php" timestamp="1552354977923">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="131" column="24" />
+        <mark key="]" line="131" column="23" />
+        <mark key="." line="131" column="23" />
+        <mark key="^" line="131" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/third_party/PHPStorm_CI_CC.php" timestamp="1552282666467" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" timestamp="1552022370885">
@@ -220,18 +217,18 @@
         <mark key="^" line="202" column="5" />
         <mark key="." line="202" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1552295199779">
-        <mark key="[" line="629" column="12" />
-        <mark key="]" line="629" column="11" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1552354981874">
+        <mark key="[" line="653" column="77" />
+        <mark key="]" line="653" column="78" />
         <mark key="^" line="629" column="11" />
-        <mark key="." line="629" column="11" />
+        <mark key="." line="653" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/Tickets_model.php" timestamp="1552228965429">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/Tickets_model.php" timestamp="1552354056514">
         <mark key="'" line="232" column="48" />
-        <mark key="[" line="277" column="38" />
-        <mark key="]" line="277" column="37" />
-        <mark key="^" line="277" column="37" />
-        <mark key="." line="277" column="37" />
+        <mark key="[" line="223" column="21" />
+        <mark key="]" line="223" column="20" />
+        <mark key="^" line="223" column="20" />
+        <mark key="." line="223" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/test_file.php" timestamp="1551247461706">
         <mark key="[" line="4" column="67" />
@@ -327,13 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="15" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
-      <jump line="105" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
-      <jump line="111" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
-      <jump line="116" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
       <jump line="122" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
       <jump line="125" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
       <jump line="129" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
@@ -427,6 +417,13 @@
       <jump line="7" column="41" filename="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/Verification_model.php" />
       <jump line="429" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.inc" />
       <jump line="31" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.inc" />
+      <jump line="87" column="54" filename="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/Apply.php" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/Apply.php" />
+      <jump line="102" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/Apply.php" />
+      <jump line="104" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/Apply.php" />
+      <jump line="109" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/Apply.php" />
+      <jump line="117" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/Apply.php" />
+      <jump line="120" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/Apply.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -647,9 +644,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>33</entry>
         <entry>action GotoNextError</entry>
-        <entry>action GotoPreviousError</entry>
         <entry>58</entry>
         <entry>action MethodUp</entry>
+        <entry>action GotoPreviousError</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
       </history-cmd>
