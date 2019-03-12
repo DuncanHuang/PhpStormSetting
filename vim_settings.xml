@@ -137,12 +137,12 @@
         <mark key="^" line="16" column="48" />
         <mark key="." line="16" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/views/apply_2019_view.php" timestamp="1552377016037">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/views/apply_2019_view.php" timestamp="1552378108590">
         <mark key="'" line="337" column="63" />
-        <mark key="[" line="377" column="46" />
-        <mark key="]" line="377" column="92" />
-        <mark key="^" line="377" column="92" />
-        <mark key="." line="377" column="92" />
+        <mark key="[" line="340" column="47" />
+        <mark key="]" line="337" column="70" />
+        <mark key="." line="337" column="70" />
+        <mark key="^" line="337" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_card_shift_export.htm" timestamp="1552368993343">
         <mark key="[" line="7" column="64" />
@@ -445,10 +445,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>(請輸入完整姓名。各項人數有增加時，會更新報名時間)</text>
+        <text>價</text>
       </register>
       <register name="-" type="4">
-        <text>(請輸入完整姓名。各項人數有增加時，會更新報名時間)</text>
+        <text>價</text>
       </register>
       <register name="/" type="4">
         <text>2019</text>
@@ -460,10 +460,10 @@
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIuLi9jb21tb24vUlBDQ2FsbF9Bbnl3aGVyZS5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJyIC8+CiAgICAgICAgICAgICjmr4/mrKE8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxNnB4OyBjb2xvcjogcmVkOyI+6YCB5Ye66YO95pyD5pu05paw5aCx5ZCN5pmC6ZaT77yM5aaC5p6c5rKS5pyJ5L+u5pS55YWn5a6577yM6KuL5oyJ5Y+W5raI6Zec6ZaJ5pys6aCBKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -573,25 +573,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiYmI0ZmY1ZWMuLi4gSXNzdWUgIzMzNTAgOC4yLjAgUmVsZWFzZSAtIOS/ruatoyBSZWxlYXNlIENhY2hlIOe3qOeivAo=</text>
+        <text encoding="base64">ICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIuLi9jb21tb24vUlBDQ2FsbF9Bbnl3aGVyZS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL2NvbW1vbi9jb21tb24uanM/MjAxOTAzMDYxMzE5XzExNTU4XzU4NzIzYmY4YSI+PC9zY3JpcHQ+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBiYmI0ZmY1ZWMuLi4gSXNzdWUgIzMzNTAgOC4yLjAgUmVsZWFzZSAtIOS/ruatoyBSZWxlYXNlIENhY2hlIOe3qOeivAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQogIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL2NvbW1vbi9jb21tb24uanM/MjAxOTAzMDYxMzE5XzExNTU4XzU4NzIzYmY4YSI+PC9zY3JpcHQ+Cj4+Pj4+Pj4gYmJiNGZmNWVjLi4uIElzc3VlICMzMzUwIDguMi4wIFJlbGVhc2UgLSDkv67mraMgUmVsZWFzZSBDYWNoZSDnt6jnorwK</text>
+        <text encoding="base64">PT09PT09PQogIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL2NvbW1vbi9jb21tb24uanM/MjAxOTAzMDYxMzE5XzExNTU4XzU4NzIzYmY4YSI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRlX2Zvcm1hdCA9IAo=</text>
+        <text encoding="base64">PT09PT09PQogIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL2NvbW1vbi9jb21tb24uanM/MjAxOTAzMDYxMzE5XzExNTU4XzU4NzIzYmY4YSI+PC9zY3JpcHQ+Cj4+Pj4+Pj4gYmJiNGZmNWVjLi4uIElzc3VlICMzMzUwIDguMi4wIFJlbGVhc2UgLSDkv67mraMgUmVsZWFzZSBDYWNoZSDnt6jnorwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRzb3JsaScgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHNvcnRsaXN0KSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
