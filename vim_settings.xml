@@ -207,13 +207,19 @@
         <mark key="^" line="71" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/third_party/PHPStorm_CI_CC.php" timestamp="1552282666467" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/Report_model.php" timestamp="1552443986897">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="7" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" timestamp="1552022370885">
         <mark key="[" line="276" column="41" />
         <mark key="]" line="276" column="47" />
         <mark key="^" line="276" column="41" />
         <mark key="." line="276" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/YearSetting_model.php" timestamp="1552028035337">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/YearSetting_model.php" timestamp="1552443994114">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="25" column="0" />
@@ -616,7 +622,7 @@
         <text encoding="base64">ICAgICAgICAgIDxmb250IGNvbG9yPSJyZWQiPuebuOmXnOaineS7tuimluaDheazgeWNs+aZguWFrOWRijwvZm9udD4K</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action MethodUp</text>
       </register>
     </registers>
     <search>
@@ -652,7 +658,6 @@
         <entry>FB</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">c291cmNlIC9Vc2Vycy9kdW5jYW4vLmlkZWF2aW1yYyA=</entry>
         <entry>23</entry>
         <entry>54</entry>
         <entry>40</entry>
@@ -664,7 +669,6 @@
         <entry>33</entry>
         <entry>action GotoNextError</entry>
         <entry>58</entry>
-        <entry>action MethodUp</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action Forward</entry>
         <entry>action GotoDeclaration</entry>
@@ -672,6 +676,8 @@
         <entry>w</entry>
         <entry>277</entry>
         <entry>action Back</entry>
+        <entry>286</entry>
+        <entry>action MethodUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
