@@ -164,11 +164,10 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/Migration/2.1.0.migration.sql" timestamp="1551858356095">
-        <mark key="[" line="49" column="2" />
-        <mark key="]" line="49" column="1" />
-        <mark key="." line="49" column="1" />
-        <mark key="^" line="49" column="1" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/Migration/2.1.0.migration.sql" timestamp="1552442126052">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/remote/flowUpdate.php" timestamp="1551681837327">
         <mark key="'" line="116" column="51" />
@@ -228,18 +227,25 @@
         <mark key="^" line="202" column="5" />
         <mark key="." line="202" column="5" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/password.php" timestamp="1552441998682">
+        <mark key="'" line="13" column="27" />
+        <mark key="[" line="13" column="74" />
+        <mark key="]" line="13" column="74" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="74" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1552379771120">
         <mark key="[" line="653" column="77" />
         <mark key="]" line="653" column="78" />
         <mark key="^" line="629" column="11" />
         <mark key="." line="653" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/Tickets_model.php" timestamp="1552383575151">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/Tickets_model.php" timestamp="1552397786104">
         <mark key="'" line="232" column="48" />
-        <mark key="[" line="276" column="39" />
-        <mark key="]" line="276" column="38" />
-        <mark key="." line="276" column="38" />
-        <mark key="^" line="276" column="38" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="275" column="38" />
+        <mark key="." line="275" column="38" />
+        <mark key="^" line="275" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/css/bootstrap.min.css" timestamp="1552382576940">
         <mark key="[" line="4" column="122375" />
@@ -259,11 +265,10 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" timestamp="1551859000837">
-        <mark key="'" line="35" column="13" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" timestamp="1552441965551">
+        <mark key="'" line="11" column="40" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1551937532038">
@@ -279,12 +284,12 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="40" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/signin.php" timestamp="1551713342630">
-        <mark key="'" line="274" column="66" />
-        <mark key="[" line="234" column="64" />
-        <mark key="]" line="234" column="63" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/signin.php" timestamp="1552442001456">
+        <mark key="'" line="14" column="28" />
+        <mark key="[" line="14" column="70" />
+        <mark key="]" line="14" column="70" />
         <mark key="^" line="234" column="63" />
-        <mark key="." line="234" column="63" />
+        <mark key="." line="14" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/ProgressBarHelper.php" timestamp="1551752557114">
         <mark key="[" line="54" column="21" />
@@ -341,9 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
-      <jump line="202" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
-      <jump line="189" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
       <jump line="176" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
       <jump line="172" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
       <jump line="173" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" />
@@ -441,6 +443,9 @@
       <jump line="34" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/Apply.php" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/Apply.php" />
       <jump line="52" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/Apply.php" />
+      <jump line="12" column="40" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
+      <jump line="13" column="27" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/password.php" />
+      <jump line="14" column="28" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/signin.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -460,14 +465,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>B</text>
       </register>
       <register name="/" type="4">
-        <text>tic</text>
+        <text>FB</text>
       </register>
       <register name="o" type="4">
         <text />
@@ -476,10 +481,10 @@
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRpY2tldF9pbmZvKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRpY2tldF9pbmZvKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">LyoKICogVGl0bGU6CiAqIERhdGU6CiAqIENvbW1lbnQ6CiovCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -589,34 +594,34 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoJ2Fkc2YnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoJ2FzZGYnKTsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRpY2tldF9pbmZvKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKCdhc2RmJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRpY2tldF9pbmZvKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxmb250IGNvbG9yPSJyZWQiPuebuOmXnOaineS7tuimluaDheazgeWNs+aZguWFrOWRijwvZm9udD4K</text>
+        <text encoding="base64">ICAgICAgICBkaWUoJ2Fkc2YnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgPHNwYW4gY2xhc3M9InRleHQtZGFuZ2VyIj7lkI3lj6TlsYvlnJjlpoLkuIPmnIjlh7rnmbzpnIDliqDlg7lOVEQkMywwMDAv5Lq6PC9zcGFuPgo+Pj4+Pj4+IDFhMDM2ZTUuLi4gSXNzdWUgIzMzNzcg5L+u5pW05paH5a2XCg==</text>
+        <text encoding="base64">ICAgICAgICBkaWUoJ2FzZGYnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCdhc2RmJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjYjYxYmJhLi4uIElzc3VlICMzMzc3IOS/ruaUuQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxmb250IGNvbG9yPSJyZWQiPuebuOmXnOaineS7tuimluaDheazgeWNs+aZguWFrOWRijwvZm9udD4K</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
       </register>
     </registers>
     <search>
-      <last-search>tic</last-search>
+      <last-search>FB</last-search>
       <last-offset />
-      <last-pattern>tic</last-pattern>
+      <last-pattern>FB</last-pattern>
       <last-replace>child</last-replace>
       <last-substitute>adult</last-substitute>
       <last-dir>1</last-dir>
@@ -624,7 +629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry>mock</entry>
         <entry>1600</entry>
         <entry>userda</entry>
@@ -644,6 +648,7 @@
         <entry>33</entry>
         <entry>2019</entry>
         <entry>tic</entry>
+        <entry>FB</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c291cmNlIC9Vc2Vycy9kdW5jYW4vLmlkZWF2aW1yYyA=</entry>
