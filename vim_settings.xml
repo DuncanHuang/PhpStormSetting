@@ -166,12 +166,7 @@
         <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1552458385302" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_DownloadFile.inc" timestamp="1552462749586">
-        <mark key="[" line="76" column="34" />
-        <mark key="]" line="76" column="33" />
-        <mark key="^" line="76" column="33" />
-        <mark key="." line="76" column="33" />
-      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_DownloadFile.inc" timestamp="1552462749586" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/remote/flowUpdate.php" timestamp="1551681837327">
         <mark key="'" line="116" column="51" />
         <mark key="[" line="116" column="12" />
@@ -193,6 +188,7 @@
         <mark key="." line="68" column="8" />
         <mark key="^" line="68" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1552462857057" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/ShiftFormatter.php" timestamp="1552010950083">
         <mark key="[" line="31" column="21" />
         <mark key="]" line="31" column="20" />
@@ -234,15 +230,17 @@
         <mark key="^" line="202" column="5" />
         <mark key="." line="202" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_User_Detail.inc" timestamp="1552471459546">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/password.php" timestamp="1552441998682">
         <mark key="'" line="13" column="27" />
         <mark key="[" line="13" column="74" />
         <mark key="]" line="13" column="74" />
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="74" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1552379771120">
-        <mark key="^" line="629" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/Tickets_model.php" timestamp="1552456589942">
         <mark key="'" line="232" column="48" />
@@ -477,7 +475,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRmcCA9IGZvcGVuKCRGT1BhdGgsICJyYiIpOwogICAgICAgICAgICAgICAgd2hpbGUgKCFmZW9mKCRmcCkpIHsKICAgICAgICAgICAgICAgICAgICAkY29udGVudHMgPSBmcmVhZCgkZnAsIDQwOTYpOwogICAgICAgICAgICAgICAgICAgIGVjaG8gJGNvbnRlbnRzOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZmNsb3NlKCRmcCk7Cg==</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
       </register>
       <register name="-" type="4">
         <text>$FOPath</text>
@@ -492,10 +490,10 @@
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRmcCA9IGZvcGVuKCRGT1BhdGgsICJyYiIpOwogICAgICAgICAgICAgICAgd2hpbGUgKCFmZW9mKCRmcCkpIHsKICAgICAgICAgICAgICAgICAgICAkY29udGVudHMgPSBmcmVhZCgkZnAsIDQwOTYpOwogICAgICAgICAgICAgICAgICAgIGVjaG8gJGNvbnRlbnRzOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZmNsb3NlKCRmcCk7Cg==</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRmcCA9IGZvcGVuKCRGT1BhdGgsICJyYiIpOwogICAgICAgICAgICAgICAgd2hpbGUgKCFmZW9mKCRmcCkpIHsKICAgICAgICAgICAgICAgICAgICAkY29udGVudHMgPSBmcmVhZCgkZnAsIDQwOTYpOwogICAgICAgICAgICAgICAgICAgIGVjaG8gJGNvbnRlbnRzOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZmNsb3NlKCRmcCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -608,25 +606,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRzcWxzdHIgPSA8PDxTUUwKICAgIFVQREFURSBWYWNhdGlvbl9DYXJkUHVuY2gKICAgIFNFVCBIYXNfUGhvdG8gPSAxCiAgICBXSEVSRSBQdW5jaElEID0geyRjdXJyZW50UHVuY2hJRH0KU1FMOwogICAga3djcjJfcmF3cXVlcnlleGVjKCRfX2RiLCAkc3Fsc3RyLCBhcnJheSgpLCAiIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRzcWxzdHIgPSA8PDxTUUwKICAgIFVQREFURSBWYWNhdGlvbl9DYXJkUHVuY2gKICAgIFNFVCBIYXNfUGhvdG8gPSAxCiAgICBXSEVSRSBQdW5jaElEID0geyRjdXJyZW50UHVuY2hJRH0KU1FMOwogICAga3djcjJfcmF3cXVlcnlleGVjKCRfX2RiLCAkc3Fsc3RyLCBhcnJheSgpLCAiIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoKICogVGl0bGU6CiAqIERhdGU6CiAqIENvbW1lbnQ6CiovCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">LyoKICogVGl0bGU6CiAqIERhdGU6CiAqIENvbW1lbnQ6CiovCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRpY2tldF9pbmZvKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRpY2tldF9pbmZvKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>61</text>
       </register>
     </registers>
     <search>
@@ -662,7 +660,6 @@
         <entry>FO</entry>
       </history-search>
       <history-cmd>
-        <entry>23</entry>
         <entry>54</entry>
         <entry>40</entry>
         <entry>154</entry>
@@ -682,6 +679,7 @@
         <entry>286</entry>
         <entry>action MethodUp</entry>
         <entry>action Back</entry>
+        <entry>61</entry>
       </history-cmd>
       <history-expr />
       <history-input />
