@@ -140,12 +140,12 @@
         <mark key="^" line="16" column="48" />
         <mark key="." line="16" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/views/apply_2019_view.php" timestamp="1552383036782">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/views/apply_2019_view.php" timestamp="1552546405975">
         <mark key="'" line="294" column="11" />
-        <mark key="[" line="11" column="50" />
-        <mark key="]" line="11" column="50" />
-        <mark key="." line="11" column="50" />
-        <mark key="^" line="11" column="50" />
+        <mark key="[" line="41" column="24" />
+        <mark key="]" line="41" column="23" />
+        <mark key="." line="41" column="23" />
+        <mark key="^" line="41" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_card_shift_export.htm" timestamp="1552368993343">
         <mark key="[" line="7" column="64" />
@@ -196,12 +196,12 @@
         <mark key="." line="31" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" timestamp="1552458404437" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/Apply.php" timestamp="1552383377842">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/Apply.php" timestamp="1552546533908">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="70" column="37" />
-        <mark key="]" line="71" column="14" />
-        <mark key="." line="71" column="14" />
-        <mark key="^" line="71" column="14" />
+        <mark key="[" line="86" column="35" />
+        <mark key="]" line="86" column="34" />
+        <mark key="." line="86" column="34" />
+        <mark key="^" line="86" column="34" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/third_party/PHPStorm_CI_CC.php" timestamp="1552282666467" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/Report_model.php" timestamp="1552448425462">
@@ -249,12 +249,12 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/Tickets_model.php" timestamp="1552456589942">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/Tickets_model.php" timestamp="1552546341375">
         <mark key="'" line="232" column="48" />
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="4" />
-        <mark key="." line="240" column="4" />
-        <mark key="^" line="240" column="4" />
+        <mark key="[" line="229" column="9" />
+        <mark key="]" line="229" column="8" />
+        <mark key="." line="229" column="8" />
+        <mark key="^" line="229" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/css/bootstrap.min.css" timestamp="1552382576940">
         <mark key="[" line="4" column="122375" />
@@ -273,12 +273,6 @@
         <mark key="]" line="7" column="19" />
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" timestamp="1552441965551">
-        <mark key="'" line="11" column="40" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1552531043959">
         <mark key="[" line="0" column="0" />
@@ -488,11 +482,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W3Jvb3RAaHNjdyBkYXRhXSMK</text>
+      <register name="&quot;" type="4">
+        <text>UpdateTime</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>UpdateTime</text>
       </register>
       <register name="/" type="4">
         <text>208</text>
@@ -638,7 +632,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>365</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -676,7 +670,6 @@
       <history-cmd>
         <entry>40</entry>
         <entry>154</entry>
-        <entry>action MethodDown</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSW50cm9kdWNlUGFyYW1ldGVy</entry>
         <entry encoding="base64">JzwsJz5zL2FkdWx0L2NoaWxkLw==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
@@ -686,14 +679,15 @@
         <entry>action GotoPreviousError</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RenameElement</entry>
-        <entry>w</entry>
         <entry>277</entry>
         <entry>286</entry>
-        <entry>action MethodUp</entry>
         <entry>61</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>365</entry>
+        <entry>w</entry>
+        <entry>action MethodDown</entry>
+        <entry>action MethodUp</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
