@@ -213,6 +213,12 @@
         <mark key="^" line="31" column="20" />
         <mark key="." line="31" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CM/CM_Detail.inc" timestamp="1552892247692">
+        <mark key="[" line="129" column="64" />
+        <mark key="]" line="129" column="63" />
+        <mark key="^" line="129" column="63" />
+        <mark key="." line="129" column="63" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/Apply.php" timestamp="1552640513201">
         <mark key="'" line="98" column="48" />
         <mark key="[" line="31" column="5" />
@@ -330,6 +336,7 @@
         <mark key="^" line="234" column="63" />
         <mark key="." line="14" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Model/Process/HR/UserProcessModel.php" timestamp="1552898546943" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/ProgressBarHelper.php" timestamp="1551752557114">
         <mark key="[" line="54" column="21" />
         <mark key="]" line="54" column="20" />
@@ -349,13 +356,6 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
         <mark key="^" line="103" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CM/CM_List.inc" timestamp="1552891781594">
-        <mark key="'" line="200" column="63" />
-        <mark key="[" line="201" column="55" />
-        <mark key="]" line="202" column="68" />
-        <mark key="." line="202" column="68" />
-        <mark key="^" line="202" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/views/apply_2017_view.php" timestamp="1552028097816">
         <mark key="'" line="0" column="0" />
@@ -396,6 +396,7 @@
         <mark key="^" line="40" column="19" />
         <mark key="." line="40" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/hr/account/create.php" timestamp="1552898552326" />
     </filemarks>
     <jumps>
       <jump line="139" column="45" filename="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/Tickets_model.php" />
@@ -517,8 +518,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAJCQkJZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRyKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
