@@ -264,6 +264,12 @@
         <mark key="^" line="276" column="41" />
         <mark key="." line="276" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordList.php" timestamp="1552965354825">
+        <mark key="[" line="148" column="56" />
+        <mark key="]" line="148" column="64" />
+        <mark key="^" line="148" column="64" />
+        <mark key="." line="148" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/YearSetting_model.php" timestamp="1552443994114">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -373,12 +379,12 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordReport.php" timestamp="1552964550444">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordReport.php" timestamp="1552965345579">
         <mark key="'" line="95" column="0" />
-        <mark key="[" line="99" column="34" />
-        <mark key="]" line="99" column="35" />
-        <mark key="." line="99" column="35" />
-        <mark key="^" line="99" column="35" />
+        <mark key="[" line="99" column="55" />
+        <mark key="]" line="99" column="65" />
+        <mark key="." line="99" column="65" />
+        <mark key="^" line="99" column="65" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/signin.php" timestamp="1552527707284">
         <mark key="'" line="147" column="20" />
@@ -568,10 +574,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>va_overtime_labor_20180301</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>va_overtime_labor_20180301</text>
       </register>
       <register name="/" type="4">
         <text>VacationRecordDAO</text>
