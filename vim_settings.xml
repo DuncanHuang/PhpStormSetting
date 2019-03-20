@@ -316,12 +316,12 @@
         <mark key="^" line="210" column="752" />
         <mark key="." line="210" column="752" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" timestamp="1553050086436">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" timestamp="1553051914651">
         <mark key="'" line="56" column="20" />
-        <mark key="[" line="176" column="101" />
-        <mark key="]" line="171" column="18" />
-        <mark key="^" line="171" column="18" />
-        <mark key="." line="171" column="18" />
+        <mark key="[" line="176" column="56" />
+        <mark key="]" line="177" column="37" />
+        <mark key="^" line="177" column="37" />
+        <mark key="." line="177" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/password.php" timestamp="1552441998682">
         <mark key="'" line="13" column="27" />
@@ -637,11 +637,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8Zm9vdGVyIGNsYXNzPSJjYXJkLWZvb3RlciI+CiAgICAgICAgICAgIDxwIGNsYXNzPSJjYXJkLWZvb3Rlci1pdGVtIj4KICAgICAgICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Int7ICRldmVudFsndXJsJ10gfX0iIHRhcmdldD0iX2JsYW5rIj7mtLvli5XloLHlkI3poIE8L2E+CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDwvcD4KICAgICAgICA8L2Zvb3Rlcj4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JHRoaXMtPnJlY29yZFN0YXJ0RGF0ZVRpbWUgPSA=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">JHRoaXMtPnJlY29yZFN0YXJ0RGF0ZVRpbWUgPSA=</text>
       </register>
       <register name="/" type="4">
         <text>19</text>
