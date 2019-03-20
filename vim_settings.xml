@@ -298,12 +298,11 @@
         <mark key="^" line="210" column="752" />
         <mark key="." line="210" column="752" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" timestamp="1553047766652">
-        <mark key="'" line="161" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="181" column="16" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" timestamp="1553048485624">
+        <mark key="[" line="175" column="34" />
+        <mark key="]" line="179" column="12" />
+        <mark key="." line="179" column="12" />
+        <mark key="^" line="179" column="12" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/password.php" timestamp="1552441998682">
         <mark key="'" line="13" column="27" />
@@ -493,7 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="28" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/signin.php" />
       <jump line="82" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_DownloadFile.inc" />
       <jump line="76" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_DownloadFile.inc" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.inc" />
@@ -593,6 +591,7 @@
       <jump line="171" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" />
       <jump line="167" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" />
       <jump line="162" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" />
+      <jump line="178" column="23" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -613,10 +612,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJF9TRVJWRVJbJ1JFTU9URV9BRERSJ10gPT0gJzIxMS4yMi45Mi4zMScpIHsKICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckcmVjb3JkJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkcmVjb3JkKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text encoding="base64">JHRoaXMtPnJlY29yZFN0YXJ0RGF0ZVRpbWU=</text>
       </register>
       <register name="/" type="4">
         <text>19</text>
@@ -628,10 +627,10 @@
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJF9TRVJWRVJbJ1JFTU9URV9BRERSJ10gPT0gJzIxMS4yMi45Mi4zMScpIHsKICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckcmVjb3JkJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkcmVjb3JkKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICdhc2RmJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkdGhpcy0+cmVjb3JkU3RhcnREYXRlVGltZSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHJlY29yZCcgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHJlY29yZCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -741,28 +740,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHJlY29yZCcgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHJlY29yZCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgfSBjYXRjaCAoRXJyb3IgJGUpIHsKICAgICAgICAgICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkcmVjb3JkKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRfU0VSJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkX1NFUlZFUlsnUkVNT1RFX0FERFInXSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgfSBjYXRjaCAoXFRocm93YWJsZSAkdCkgewo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHJlcXVpcmVfb25jZSAkQkFTRSAuICcvSW5jbHVkZUZpbGUvQU0vQU1fUmVzb3VyY2VVcGQuaW5jJzsKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJF9TRVJWRVJbJ1JFTU9URV9BRERSJ10gPT0gJzIxMS4yMi45Mi4zMScpIHsKICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckcmVjb3JkJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkcmVjb3JkKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHJlcXVpcmVfb25jZSAkQkFTRSAuICcvSW5jbHVkZUZpbGUvQU0vQU1fUmVzb3VyY2VVcGQuaW5jJzsKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAoKCRfX3VzZXJfcmlnaHQtPkdldEFkbWluKCkgIT0gMSkgKSB7CiAgICAgICAgICAgICAgICAgICAgcnBjX3JjX291dCgkX19SUEMsIDk5LCAibm8gdXBkYXRlIHJlc291cmNlIHJpZ2h0ISIpOwogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgcmVxdWlyZV9vbmNlICRCQVNFIC4gJy9JbmNsdWRlRmlsZS9BTS9BTV9SZXNvdXJjZVVwZC5pbmMnOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA3ZGRkYmQyN2QuLi4gSXNzdWUgIzI0MDAgOC4yLjEgUmVsZWFzZSAtIOS/ruatoyBSZWxlYXNlIENhY2hlIOe3qOeivAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>177</text>
       </register>
     </registers>
     <search>
@@ -805,7 +804,6 @@
         <entry>94</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action Forward</entry>
-        <entry>action GotoNextError</entry>
         <entry>action MethodDown</entry>
         <entry>actionlist</entry>
         <entry>:action CodeCompletion</entry>
@@ -815,9 +813,10 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRlTGluZXM=</entry>
         <entry>521</entry>
         <entry>237</entry>
-        <entry>action Back</entry>
-        <entry>177</entry>
         <entry>action MethodUp</entry>
+        <entry>action Back</entry>
+        <entry>action GotoNextError</entry>
+        <entry>177</entry>
       </history-cmd>
       <history-expr />
       <history-input />
