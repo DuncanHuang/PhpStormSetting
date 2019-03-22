@@ -417,7 +417,7 @@
         <mark key="." line="224" column="42" />
         <mark key="^" line="227" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_card_shift_export.htm" timestamp="1553226477593">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_card_shift_export.htm" timestamp="1553227133045">
         <mark key="'" line="247" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.3.0.migration.sql" timestamp="1552903155818">
@@ -440,11 +440,11 @@
         <mark key="." line="11" column="39" />
         <mark key="^" line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/CSVExportHelper.php" timestamp="1553226504956">
-        <mark key="[" line="76" column="76" />
-        <mark key="]" line="76" column="77" />
-        <mark key="." line="76" column="77" />
-        <mark key="^" line="76" column="77" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/CSVExportHelper.php" timestamp="1553227247317">
+        <mark key="[" line="75" column="30" />
+        <mark key="]" line="75" column="30" />
+        <mark key="^" line="75" column="30" />
+        <mark key="." line="75" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" timestamp="1552022370885">
         <mark key="[" line="276" column="41" />
@@ -696,11 +696,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZGQK</text>
+      <register name="&quot;" type="4">
+        <text>…</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC4gY2hyKDB4QkIpIC4gY2hyKDB4QkYpKQ==</text>
+        <text>…</text>
       </register>
       <register name="/" type="4">
         <text>0</text>
