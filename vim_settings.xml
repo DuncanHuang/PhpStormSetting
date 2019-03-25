@@ -73,6 +73,11 @@
         <mark key="^" line="64" column="17" />
         <mark key="." line="64" column="17" />
       </file>
+      <file name="$USER_HOME$/Downloads/jwt/php-jwt-master/src/JWT.php" timestamp="1553501724892">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new.htm" timestamp="1553076174705">
         <mark key="'" line="923" column="59" />
         <mark key="[" line="807" column="74" />
@@ -412,12 +417,12 @@
         <mark key="^" line="0" column="58" />
         <mark key="." line="0" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/aa.php" timestamp="1553499925624">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/aa.php" timestamp="1553499934777">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="10" column="191" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Jobs/MailToFileParser.php" timestamp="1550656277869">
         <mark key="'" line="357" column="9" />
@@ -724,8 +729,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>256</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIFxEb21haW5FeGNlcHRpb247CnVzZSBcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uOwp1c2UgXFVuZXhwZWN0ZWRWYWx1ZUV4Y2VwdGlvbjsKdXNlIFxEYXRlVGltZTsK</text>
       </register>
       <register name="-" type="4">
         <text>256</text>
@@ -740,10 +745,10 @@
         <text encoding="base64">cyBUZW5uaXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JHZlcmlmeSA9ICdaNGZ2b3pLRlI4UDZsMlAzVE5veWlyUmw1eG4tZUlSb2tkWTBOeVJKWkNRJzsK</text>
+        <text encoding="base64">dXNlIFxEb21haW5FeGNlcHRpb247CnVzZSBcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uOwp1c2UgXFVuZXhwZWN0ZWRWYWx1ZUV4Y2VwdGlvbjsKdXNlIFxEYXRlVGltZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JHBheWxvYWQgPSAnZXlKaFkyTnZkVzUwSWpvaVpIVnVZMkZ1YUhWaGJtY2lmUSc7Cg==</text>
+        <text encoding="base64">JHZlcmlmeSA9ICdaNGZ2b3pLRlI4UDZsMlAzVE5veWlyUmw1eG4tZUlSb2tkWTBOeVJKWkNRJzsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -853,25 +858,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JGhlYWRlciA9ICdleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSXNJbVY0Y0NJNklqRTFOVE0xTVRVeU1EQWlmUSc7Cg==</text>
+        <text encoding="base64">JHBheWxvYWQgPSAnZXlKaFkyTnZkVzUwSWpvaVpIVnVZMkZ1YUhWaGJtY2lmUSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JG1zZyA9ICRoZWFkZXIgLicuJy4kcGF5bG9hZDsK</text>
+        <text encoding="base64">JGhlYWRlciA9ICdleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSXNJbVY0Y0NJNklqRTFOVE0xTVRVeU1EQWlmUSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyBoYXNoX2htYWMoJ3NoYTI1NicsICRtc2csICdub3ZheCcpOwo=</text>
+        <text encoding="base64">JG1zZyA9ICRoZWFkZXIgLicuJy4kcGF5bG9hZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpmdW5jdGlvbiBiYXNlNjRVcmxFbmNvZGUoJHN0cmluZykgewogICAgJGJhc2U2NCA9IGJhc2U2NF9lbmNvZGUoJHN0cmluZyk7CiAgICAkdXJsZW5jb2RlID0gc3RyX3JlcGxhY2UoYXJyYXkoJysnLCAnLycpLCBhcnJheSgnLScsICdfJyksICRiYXNlNjQpOwogICAgJHVybGVuY29kZSA9IHRyaW0oJHVybGVuY29kZSwgJz0nKTsKICAgIHJldHVybiAkdXJsZW5jb2RlOwp9Cg==</text>
+        <text encoding="base64">ZWNobyBoYXNoX2htYWMoJ3NoYTI1NicsICRtc2csICdub3ZheCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JG1zZyA9IHVybGVuY29kZSgkaGVhZGVyKSAuIHVybGVuY29kZSgkcGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">CgpmdW5jdGlvbiBiYXNlNjRVcmxFbmNvZGUoJHN0cmluZykgewogICAgJGJhc2U2NCA9IGJhc2U2NF9lbmNvZGUoJHN0cmluZyk7CiAgICAkdXJsZW5jb2RlID0gc3RyX3JlcGxhY2UoYXJyYXkoJysnLCAnLycpLCBhcnJheSgnLScsICdfJyksICRiYXNlNjQpOwogICAgJHVybGVuY29kZSA9IHRyaW0oJHVybGVuY29kZSwgJz0nKTsKICAgIHJldHVybiAkdXJsZW5jb2RlOwp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JG1zZyA9IHVybGVuY29kZSgkaGVhZGVyKSAuIHVybGVuY29kZSgkcGF5bG9hZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWNobyBiYXNlNjRVcmxFbmNvZGUoJGhlYWRlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
