@@ -478,12 +478,12 @@
         <mark key="." line="286" column="47" />
         <mark key="^" line="286" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1553671572173">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1553674275233">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="4" column="43" />
-        <mark key="." line="4" column="43" />
-        <mark key="^" line="4" column="43" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="88" column="2" />
       </file>
       <file name="$USER_HOME$/Downloads/jwt/php-jwt-2.0.0/Authentication/JWT.php" timestamp="1553498714639">
         <mark key="'" line="77" column="34" />
@@ -559,7 +559,7 @@
         <mark key="^" line="279" column="12" />
         <mark key="." line="279" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553327838179">
+      <file name="/Dummy.txt" timestamp="1553673743670">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -590,12 +590,6 @@
         <mark key="]" line="24" column="45" />
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_view_copy.htm" timestamp="1553671439408">
-        <mark key="[" line="512" column="40" />
-        <mark key="]" line="512" column="39" />
-        <mark key="." line="512" column="39" />
-        <mark key="^" line="512" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/StringsHelper.php" timestamp="1553664316420">
         <mark key="[" line="10" column="1" />
@@ -657,7 +651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/91/speed/src/Tennis.php" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/91/speed/src/Tennis.php" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" />
       <jump line="41" column="5" filename="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" />
@@ -757,6 +750,7 @@
       <jump line="5616" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
       <jump line="5264" column="17" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
       <jump line="2623" column="51" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/edi/CardToNetaskTest.php" />
+      <jump line="532" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_view_copy.htm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -845,8 +839,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>19</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA3MTFhMzI1YzEuLi4gSXNzdWUgIzM0MjUgOC4xLjEwIFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
       </register>
       <register name="-" type="4">
         <text>19</text>
@@ -861,10 +855,10 @@
         <text>mysql_escape_mimic(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiA3MTFhMzI1YzEuLi4gSXNzdWUgIzM0MjUgOC4xLjEwIFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -974,25 +968,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChmLmVsZW1lbnRzWzJdLmNoZWNrZWQgPT0gdHJ1ZSkgewogICAgICAgIGlmIChmcm1kYXRlIDwgdGhlZGF0ZSkgewogICAgICAgICAgICBpZiAoRXJyb3JNc3NhZ2UgIT0gIiIpIHsKICAgICAgICAgICAgICAgIEVycm9yTXNzYWdlICs9ICJcbiI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgRXJyb3JNc3NhZ2UgKz0gJGVycl9tc2c7CiAgICAgICAgICAgIGYuZHVlX2RhdGVfZGF5LmZvY3VzKCk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiA3MTFhMzI1YzEuLi4gSXNzdWUgIzM0MjUgOC4xLjEwIFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChmLmVsZW1lbnRzWzJdLmNoZWNrZWQgPT0gdHJ1ZSkgewogICAgICAgIGlmIChmcm1kYXRlIDwgdGhlZGF0ZSkgewogICAgICAgICAgICBpZiAoRXJyb3JNc3NhZ2UgIT0gIiIpIHsKICAgICAgICAgICAgICAgIEVycm9yTXNzYWdlICs9ICJcbiI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgRXJyb3JNc3NhZ2UgKz0gJGVycl9tc2c7CiAgICAgICAgICAgIGYuZHVlX2RhdGVfZGF5LmZvY3VzKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxMSA9PiBudWxsLCAxMiA9PiBudWxsLCAxMyA9PiBudWxsLAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxMSA9PiBudWxsLCAxMiA9PiBudWxsLCAxMyA9PiBudWxsLAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cHVuY2hJbigkY2FyZG5vLCAnMjAxNy0wMS0xMSAxODowMycpOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDE3LTAxLTExJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgMCAgPT4gJycsIDEgPT4gJzE2MDAnLCAyID0+ICcyMDE3LTAxLTExJywKICAgICAgICAgICAgICAgICAgICAzICA9PiAxMDgzLCA0ID0+IG51bGwsIDUgPT4gMTM4MCwgNiA9PiA0MjAsCiAgICAgICAgICAgICAgICAgICAgNyAgPT4gbnVsbCwgOCA9PiAyNDAsIDkgPT4gbnVsbCwKICAgICAgICAgICAgICAgICAgICAxMCA9PiAnJXU2NUU1JXU3M0VEJywKICAgICAgICAgICAgICAgICAgICAxMSA9PiBudWxsLCAxMiA9PiBudWxsLCAxMyA9PiBudWxsLAogICAgICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>559</text>
