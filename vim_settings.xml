@@ -354,12 +354,13 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/TM/TM_PmList.inc" timestamp="1553651795921">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="145" column="37" />
-        <mark key="]" line="145" column="36" />
-        <mark key="." line="145" column="36" />
-        <mark key="^" line="145" column="36" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/TM/TM_PmList.inc" timestamp="1553654482643">
+        <mark key="a" line="148" column="53" />
+        <mark key="'" line="148" column="76" />
+        <mark key="[" line="148" column="53" />
+        <mark key="]" line="148" column="53" />
+        <mark key="." line="148" column="53" />
+        <mark key="^" line="156" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/change.php" timestamp="1552531058256">
         <mark key="'" line="109" column="0" />
@@ -500,14 +501,10 @@
         <mark key="^" line="77" column="34" />
         <mark key="." line="77" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/TM/TM_Update.inc" timestamp="1553652703671">
-        <mark key="a" line="620" column="29" />
-        <mark key="f" line="385" column="33" />
-        <mark key="'" line="620" column="64" />
-        <mark key="[" line="620" column="29" />
-        <mark key="]" line="620" column="29" />
-        <mark key="^" line="385" column="69" />
-        <mark key="." line="620" column="29" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/TM/TM_Update.inc" timestamp="1553654308688">
+        <mark key="a" line="606" column="29" />
+        <mark key="f" line="371" column="33" />
+        <mark key="'" line="606" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/CSVExportHelper.php" timestamp="1553227247317">
         <mark key="[" line="75" column="30" />
@@ -601,11 +598,11 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/StringsHelper.php" timestamp="1553651781336">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="4" column="35" />
-        <mark key="." line="3" column="17" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/StringsHelper.php" timestamp="1553653971093">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/outputDI_get.php" timestamp="1553580973537">
         <mark key="[" line="105" column="13" />
@@ -657,7 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="5" filename="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" />
       <jump line="43" column="35" filename="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" />
       <jump line="25" column="33" filename="$USER_HOME$/Documents/91/speed/src/Tennis.php" />
       <jump line="28" column="76" filename="$USER_HOME$/Documents/91/speed/src/Tennis.php" />
@@ -749,7 +745,6 @@
       <jump line="147" column="22" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/TM/TM_PmList.inc" />
       <jump line="117" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/TM/TM_PmList.inc" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/TM/TM_PmList.inc" />
-      <jump line="148" column="12" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/TM/TM_PmList.inc" />
       <jump line="137" column="102" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/TM/TM_PmList.inc" />
       <jump line="158" column="79" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/TM/TM_PmList.inc" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/TM/TM_PmList.inc" />
@@ -757,6 +752,8 @@
       <jump line="13" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DataModel/XDoc/XDoc.php" />
       <jump line="385" column="68" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/TM/TM_Update.inc" />
       <jump line="620" column="64" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/TM/TM_Update.inc" />
+      <jump line="156" column="53" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/TM/TM_PmList.inc" />
+      <jump line="148" column="76" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/TM/TM_PmList.inc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -846,13 +843,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>mysql_escape_mimic(</text>
+        <text>nl2oa(</text>
       </register>
       <register name="-" type="4">
-        <text>mysql_escape_mimic(</text>
+        <text>nl2oa(</text>
       </register>
       <register name="/" type="4">
-        <text>19</text>
+        <text>nl</text>
       </register>
       <register name="o" type="4">
         <text />
@@ -861,10 +858,10 @@
         <text>mysql_escape_mimic(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlwiLCBcIiIgLiBubDJvYShodG1sc3BlY2lhbGNoYXJzKFN0cmlwU2xhc2hlcyhubDJvYSgkbGlzdG51bXNbJGldWzE5XSkpKSkgLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlwiLCBcIiIgLiBodG1sc3BlY2lhbGNoYXJzKFN0cmlwU2xhc2hlcyhubDJvYSgkbGlzdG51bXNbJGldWzExXSkpKSAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -974,42 +971,41 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAiXCIsIFwiIiAuIGh0bWxzcGVjaWFsY2hhcnMoU3RyaXBTbGFzaGVzKG5sMm9hKCRsaXN0bnVtc1skaV1bMTldKSkpIC4K</text>
+        <text encoding="base64">ZnVuY3Rpb24gbXlzcWxfZXNjYXBlX21pbWljKCRpbnApCnsKICAgIGlmIChpc19hcnJheSgkaW5wKSkgewogICAgICAgIHJldHVybiBhcnJheV9tYXAoX19NRVRIT0RfXywgJGlucCk7CiAgICB9CgogICAgaWYgKCFlbXB0eSgkaW5wKSAmJiBpc19zdHJpbmcoJGlucCkpIHsKICAgICAgICByZXR1cm4gc3RyX3JlcGxhY2UoYXJyYXkoJ1xcJywgIlwwIiwgIlxuIiwgIlxyIiwgIiciLCAnIicsICJceDFhIiksCiAgICAgICAgICAgIGFycmF5KCdcXFxcJywgJ1xcMCcsICdcXG4nLCAnXFxyJywgIlxcJyIsICdcXCInLCAnXFxaJyksICRpbnApOwogICAgfQoKICAgIHJldHVybiAkaW5wOwp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRyWzFdJyAuIFBIUF9FT0wgLiAkclsxXSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlwiLCBcIiIgLiBubDJvYShodG1sc3BlY2lhbGNoYXJzKFN0cmlwU2xhc2hlcyhubDJvYSgkbGlzdG51bXNbJGldWzE5XSkpKSkgLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlwiLCBcIiIgLiBubDJvYShodG1sc3BlY2lhbGNoYXJzKFN0cmlwU2xhc2hlcygkbGlzdG51bXNbJGldWzExXSkpKSAuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlwiLCBcIiIgLiBodG1sc3BlY2lhbGNoYXJzKFN0cmlwU2xhc2hlcyhubDJvYSgkbGlzdG51bXNbJGldWzExXSkpKSAuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlwiLCBcIiIgLiBubDJvYShodG1sc3BlY2lhbGNoYXJzKFN0cmlwU2xhc2hlcygkbGlzdG51bXNbJGldWzE5XSkpKSAuCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAiXCIsIFwiIiAuIGh0bWxzcGVjaWFsY2hhcnMoU3RyaXBTbGFzaGVzKG5sMm9hKCRsaXN0bnVtc1skaV1bMTldKSkpIC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHInIC4gUEhQX0VPTCAuIG5sMm9hKCRyWzFdKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRyWzFdJyAuIFBIUF9FT0wgLiAkclsxXSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlICRCQVNFIC4gJy9Gb3VuZGF0aW9uL0hlbHBlci9Fc2NhcGVGdW5jdGlvbkhlbHBlci5waHAnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlwiLCBcIiIgLiBubDJvYShodG1sc3BlY2lhbGNoYXJzKFN0cmlwU2xhc2hlcygkbGlzdG51bXNbJGldWzExXSkpKSAuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlwiLCBcIiIgLiBubDJvYShodG1sc3BlY2lhbGNoYXJzKFN0cmlwU2xhc2hlcygkbGlzdG51bXNbJGldWzE5XSkpKSAuCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">c291cmNlIC9Vc2Vycy9kdW5jYW4vLmlkZWF2aW1yYyA=</text>
+        <text>action VcsShowNextChangeMarker</text>
       </register>
     </registers>
     <search>
-      <last-search>19</last-search>
+      <last-search>nl</last-search>
       <last-offset />
-      <last-pattern>19</last-pattern>
+      <last-pattern>nl</last-pattern>
       <last-replace>child</last-replace>
       <last-substitute>19</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>F</entry>
         <entry>For</entry>
         <entry>A</entry>
         <entry>Adv</entry>
@@ -1029,11 +1025,9 @@
         <entry>12</entry>
         <entry>nl2</entry>
         <entry>19</entry>
+        <entry>nl</entry>
       </history-search>
       <history-cmd>
-        <entry>606</entry>
-        <entry>630</entry>
-        <entry>145</entry>
         <entry>248</entry>
         <entry>521</entry>
         <entry>578</entry>
@@ -1041,16 +1035,19 @@
         <entry>715</entry>
         <entry>78</entry>
         <entry>79</entry>
-        <entry>action GotoPreviousError</entry>
-        <entry>action Forward</entry>
-        <entry>action MethodDown</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action Back</entry>
         <entry>608</entry>
-        <entry>action MethodUp</entry>
         <entry>reg</entry>
+        <entry>actionlist</entry>
+        <entry>action GotoPreviousError</entry>
+        <entry>action Back</entry>
+        <entry>action Forward</entry>
+        <entry>action MethodUp</entry>
+        <entry>action MethodDown</entry>
         <entry encoding="base64">c291cmNlIC9Vc2Vycy9kdW5jYW4vLmlkZWF2aW1yYyA=</entry>
+        <entry>action VcsShowPrevChangeMarker</entry>
+        <entry>action VcsShowNextChangeMarker</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1112,6 +1109,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift alt pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
