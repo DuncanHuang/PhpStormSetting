@@ -637,11 +637,11 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/91/poker/src/Suit.php" timestamp="1554020262380">
-        <mark key="[" line="192" column="14" />
-        <mark key="]" line="192" column="13" />
-        <mark key="." line="192" column="13" />
-        <mark key="^" line="192" column="13" />
+      <file name="$USER_HOME$/Documents/91/poker/src/Suit.php" timestamp="1554049206852">
+        <mark key="'" line="181" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_agentCheck.php" timestamp="1551250225051">
         <mark key="[" line="42" column="79" />
@@ -689,7 +689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/91/speed/src/Tennis.php" />
       <jump line="54" column="4" filename="$USER_HOME$/Documents/91/speed/src/Tennis.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/91/speed/src/Tennis.php" />
       <jump line="126" column="0" filename="$USER_HOME$/Documents/91/speed/src/Tennis.php" />
@@ -789,6 +788,7 @@
       <jump line="12" column="0" filename="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-01-15.yaml" />
       <jump line="81" column="20" filename="$USER_HOME$/Documents/91/poker/tests/SuitTest.php" />
       <jump line="37" column="48" filename="$USER_HOME$/Documents/91/poker/tests/PokerHandsTest.php" />
+      <jump line="181" column="0" filename="$USER_HOME$/Documents/91/poker/src/Suit.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -877,8 +877,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>28</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3RyYWlnaHQoKSwK</text>
       </register>
       <register name="-" type="4">
         <text>28</text>
@@ -893,10 +893,10 @@
         <text>mysql_escape_mimic(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICYmICR0aGlzLT5jYXJkc1swXVsxXSA9PSAxNAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3RyYWlnaHQoKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzZmZiYmVmNGMuLi4gSXNzdWUgIzM0MjYgOC4yLjIgUmVsZWFzZSAtIOS/ruatoyBSZWxlYXNlIENhY2hlIOe3qOeivAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICYmICR0aGlzLT5jYXJkc1swXVsxXSA9PSAxNAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1006,22 +1006,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLi4vY29tbW9uL2NvbW1vbi5qcz8yMDE5MDMxNTE1MTFfMTE2OTVfNThjYWEwNDY5Ij48L3NjcmlwdD4KPT09PT09PQoK</text>
+        <text encoding="base64">Pj4+Pj4+PiAzZmZiYmVmNGMuLi4gSXNzdWUgIzM0MjYgOC4yLjIgUmVsZWFzZSAtIOS/ruatoyBSZWxlYXNlIENhY2hlIOe3qOeivAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA3MTFhMzI1YzEuLi4gSXNzdWUgIzM0MjUgOC4xLjEwIFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLi4vY29tbW9uL2NvbW1vbi5qcz8yMDE5MDMxNTE1MTFfMTE2OTVfNThjYWEwNDY5Ij48L3NjcmlwdD4KPT09PT09PQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiA3MTFhMzI1YzEuLi4gSXNzdWUgIzM0MjUgOC4xLjEwIFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA3MTFhMzI1YzEuLi4gSXNzdWUgIzM0MjUgOC4xLjEwIFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
