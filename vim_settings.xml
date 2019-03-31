@@ -631,11 +631,11 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/91/poker/src/Suit.php" timestamp="1554017546525">
-        <mark key="[" line="139" column="20" />
-        <mark key="]" line="139" column="19" />
-        <mark key="." line="139" column="19" />
-        <mark key="^" line="139" column="19" />
+      <file name="$USER_HOME$/Documents/91/poker/src/Suit.php" timestamp="1554020262380">
+        <mark key="[" line="192" column="14" />
+        <mark key="]" line="192" column="13" />
+        <mark key="." line="192" column="13" />
+        <mark key="^" line="192" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_agentCheck.php" timestamp="1551250225051">
         <mark key="[" line="42" column="79" />
@@ -1021,7 +1021,7 @@
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action MethodUp</text>
       </register>
     </registers>
     <search>
@@ -1072,11 +1072,11 @@
         <entry>action Back</entry>
         <entry>559</entry>
         <entry>423</entry>
-        <entry>action MethodUp</entry>
-        <entry>action MethodDown</entry>
         <entry>action Debug</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action MethodDown</entry>
+        <entry>action MethodUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
