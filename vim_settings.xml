@@ -559,7 +559,12 @@
         <mark key="^" line="279" column="12" />
         <mark key="." line="279" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/91/speed/src/HelloWord.php" timestamp="1554014803772" />
+      <file name="$USER_HOME$/Documents/91/speed/src/HelloWord.php" timestamp="1554014981508">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1553673743670">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
