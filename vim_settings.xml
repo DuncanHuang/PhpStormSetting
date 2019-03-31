@@ -1009,7 +1009,7 @@
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
-        <text>423</text>
+        <text>action MethodDown</text>
       </register>
     </registers>
     <search>
@@ -1059,12 +1059,12 @@
         <entry>action EditorUnSelectWord</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action Back</entry>
-        <entry>action MethodUp</entry>
-        <entry>action MethodDown</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>559</entry>
         <entry>423</entry>
+        <entry>action MethodUp</entry>
+        <entry>action MethodDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
