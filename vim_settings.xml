@@ -12,7 +12,6 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/91/poker/src/onePairMatcher.php" timestamp="1554176270983" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/gb2utf8.php" timestamp="1550461808733">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="30" column="13" />
@@ -203,6 +202,9 @@
         <mark key="]" line="7" column="53" />
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/91/poker/src/PokerHands.php" timestamp="1554177427704">
+        <mark key="'" line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_edit_comment.htm" timestamp="1553075956159">
         <mark key="[" line="10" column="39" />
@@ -622,7 +624,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/91/poker/tests/PokerHandsTest.php" timestamp="1554049259803">
+      <file name="$USER_HOME$/Documents/91/poker/tests/PokerHandsTest.php" timestamp="1554210617588">
         <mark key="'" line="37" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/outputDI_get.php" timestamp="1553580973537">
@@ -685,10 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/91/speed/src/Tennis.php" />
-      <jump line="126" column="0" filename="$USER_HOME$/Documents/91/speed/src/Tennis.php" />
-      <jump line="118" column="0" filename="$USER_HOME$/Documents/91/speed/src/Tennis.php" />
-      <jump line="110" column="0" filename="$USER_HOME$/Documents/91/speed/src/Tennis.php" />
       <jump line="102" column="0" filename="$USER_HOME$/Documents/91/speed/src/Tennis.php" />
       <jump line="94" column="0" filename="$USER_HOME$/Documents/91/speed/src/Tennis.php" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/91/speed/src/Tennis.php" />
@@ -785,6 +783,10 @@
       <jump line="37" column="48" filename="$USER_HOME$/Documents/91/poker/tests/PokerHandsTest.php" />
       <jump line="181" column="0" filename="$USER_HOME$/Documents/91/poker/src/Suit.php" />
       <jump line="32" column="18" filename="$USER_HOME$/Documents/91/poker/src/PokerHands.php" />
+      <jump line="96" column="21" filename="$USER_HOME$/Documents/91/poker/src/PokerHands.php" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/91/poker/src/PokerHands.php" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/91/poker/src/PokerHands.php" />
+      <jump line="77" column="0" filename="$USER_HOME$/Documents/91/poker/src/PokerHands.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1023,7 +1025,7 @@
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action MethodDown</text>
       </register>
     </registers>
     <search>
@@ -1077,8 +1079,8 @@
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>action Back</entry>
-        <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
+        <entry>action MethodDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
