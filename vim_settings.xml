@@ -118,6 +118,11 @@
         <mark key="^" line="129" column="63" />
         <mark key="." line="129" column="63" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" timestamp="1554707690545">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Export.inc" timestamp="1554693473416">
         <mark key="'" line="128" column="0" />
       </file>
@@ -270,10 +275,11 @@
         <mark key="." line="563" column="21" />
         <mark key="^" line="563" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Import.inc" timestamp="1554706372801">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Import.inc" timestamp="1554707392611">
+        <mark key="[" line="34" column="90" />
+        <mark key="]" line="34" column="117" />
+        <mark key="." line="34" column="117" />
+        <mark key="^" line="34" column="117" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/remote/flowUpdate4di.php" timestamp="1553481460713">
         <mark key="[" line="577" column="27" />
@@ -305,11 +311,10 @@
         <mark key="'" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_stringTable.inc" timestamp="1554705700090" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/CSVExportHelper.php" timestamp="1554704292323">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="20" />
-        <mark key="^" line="22" column="20" />
-        <mark key="." line="22" column="20" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/CSVExportHelper.php" timestamp="1554708354963">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Get_All.inc" timestamp="1553238479315">
         <mark key="[" line="43" column="34" />
@@ -423,8 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
       <jump line="72" column="12" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
       <jump line="37" column="81" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
@@ -523,6 +526,8 @@
       <jump line="35" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/FileDelimiterHelperTest.php" />
       <jump line="74" column="5" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/FileDelimiterHelperTest.php" />
       <jump line="67" column="22" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/FileDelimiterHelperTest.php" />
+      <jump line="65" column="97" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/CSVExportHelper.php" />
+      <jump line="42" column="78" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/CSVExportHelper.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -612,10 +617,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">MjAxMS0wOS0wNSwi6Y2+5reR5aifIC8gaDI3MiIsaDI3MiwwCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKHN0cmVhbV9nZXRfY29udGVudHMoJHN0cmVhbSkpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>號</text>
+        <text>$stream</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
@@ -627,10 +632,10 @@
         <text>mysql_escape_mimic(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MjAxMS0wOS0wNSwi6Y2+5reR5aifIC8gaDI3MiIsaDI3MiwwCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKHN0cmVhbV9nZXRfY29udGVudHMoJHN0cmVhbSkpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MjAxNS0wOC0yMSwi6Zmz5paH5pu4IC8gYWJjMTIzIixhZG1pbiw1MDAuMDAK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2InIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRzdHJlYW0pIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -740,25 +745,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LCwyMDE2LDEK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCR0aGlzLT5kYXRhKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b2ZmaWNlX2RhdGUsY2hfbmFtZS9lbmdfbmFtZSx1c2VyX25hbWUs5LqL5YGHCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRzdCcgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoc3RyZWFtX2dldF9jb250ZW50cygkc3RyZWFtKSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRzdHInIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRzdHJlYW0pIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRzdHJlYW0pIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKHN0cmVhbV9nZXRfY29udGVudHMoJHN0cmVhbSkpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gdGVzdF/liKTmlrcy6KGMX+WIhumalOespuiZn+eCuumAl+iZnygpCiAgICB7CiAgICAgICAgLyoqIEFycmFuZ2UgKi8KICAgICAgICAkY3N2X2NvbnRlbnQgPSA8PDxDU1YKb2ZmaWNlX2RhdGUsY2hfbmFtZS9lbmdfbmFtZSx1c2VyX25hbWUs5LqL5YGHCiwsMjAxNiwxCjIwMTUtMDgtMjEsIumZs+aWh+abuCAvIGFiYzEyMyIsYWRtaW4sNTAwLjAwCjIwMTEtMDktMDUsIumNvua3keWonyAvIGgyNzIiLGgyNzIsMApDU1Y7CiAgICAgICAgJHRoaXMtPnN0cmluZ1RvVGVtcGZpbGUoJGNzdl9jb250ZW50KTsKICAgICAgICAkY2hlY2tfbGluZSA9IDI7CiAgICAgICAgJGV4cGVjdGVkID0gJywnOwoKICAgICAgICAvKiogQWN0ICovCiAgICAgICAgJHRhcmdldCA9IGZpbGVfZGVsaW1pdGVyKCR0aGlzLT50bXBfZmlsZW5hbWUsICRjaGVja19saW5lKTsKCiAgICAgICAgLyoqIGFzc2VydCAqLwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJGV4cGVjdGVkLCAkdGFyZ2V0KTsKICAgIH0K</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKHN0cmVhbV9nZXRfY29udGVudHMoJHN0cmVhbSkpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvcmVhY2ggKCRwdXREYXRhIGFzICRpdGVtKSB7CiAgICAgICAgcnBjX291dCgkX19SUEMsICJcIiIgLiAkIC4gIiBcIiwgXCIiIC4gJG91dERhdGFbJGldWzk5XSAuICJcIiIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKHN0cmVhbV9nZXRfY29udGVudHMoJHN0cmVhbSkpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
