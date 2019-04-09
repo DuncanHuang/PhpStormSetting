@@ -52,6 +52,12 @@
         <mark key="^" line="40" column="7" />
         <mark key="." line="40" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_FlowUpdate.inc" timestamp="1554793970925">
+        <mark key="[" line="74" column="13" />
+        <mark key="]" line="74" column="12" />
+        <mark key="^" line="74" column="12" />
+        <mark key="." line="74" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCorpInfo.php" timestamp="1554791111700">
         <mark key="[" line="51" column="25" />
         <mark key="]" line="51" column="24" />
@@ -113,6 +119,13 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.1.tm_todoStatusTextEncodeConvert.php" timestamp="1554794992943">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="140" column="19" />
+        <mark key="]" line="140" column="18" />
+        <mark key="^" line="140" column="18" />
+        <mark key="." line="140" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_edit.htm" timestamp="1553225957257">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -130,11 +143,6 @@
         <mark key="]" line="254" column="17" />
         <mark key="^" line="254" column="17" />
         <mark key="." line="254" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/DetectUtfEncodingHelper.php" timestamp="1554701864699">
-        <mark key="]" line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-        <mark key="." line="3" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/edi/CardToNetaskTest.php" timestamp="1553668613376">
         <mark key="[" line="4662" column="0" />
@@ -187,12 +195,6 @@
         <mark key="]" line="129" column="63" />
         <mark key="^" line="129" column="63" />
         <mark key="." line="129" column="63" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" timestamp="1554786872200">
-        <mark key="[" line="118" column="29" />
-        <mark key="]" line="118" column="28" />
-        <mark key="^" line="118" column="28" />
-        <mark key="." line="118" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/CSVExportHelper.php" timestamp="1554708354963">
         <mark key="[" line="73" column="0" />
@@ -266,6 +268,13 @@
         <mark key="^" line="29" column="46" />
         <mark key="." line="29" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.3.wf_nextnum.php" timestamp="1554795199210">
+        <mark key="'" line="80" column="11" />
+        <mark key="[" line="56" column="32" />
+        <mark key="]" line="56" column="41" />
+        <mark key="." line="56" column="41" />
+        <mark key="^" line="56" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/test_file.php" timestamp="1551247461706">
         <mark key="[" line="4" column="67" />
         <mark key="]" line="4" column="72" />
@@ -290,7 +299,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554695313243">
+      <file name="/Dummy.txt" timestamp="1554793234581">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -365,11 +374,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/7.14.0.signature-migration.php" timestamp="1553219984174">
-        <mark key="[" line="202" column="28" />
-        <mark key="]" line="202" column="27" />
-        <mark key="." line="202" column="27" />
-        <mark key="^" line="202" column="27" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/7.14.0.signature-migration.php" timestamp="1554795170317">
+        <mark key="[" line="268" column="35" />
+        <mark key="]" line="268" column="34" />
+        <mark key="." line="268" column="34" />
+        <mark key="^" line="268" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_view_check.htm" timestamp="1553076030092">
         <mark key="[" line="8" column="37" />
@@ -410,18 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="81" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
-      <jump line="53" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
-      <jump line="56" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
-      <jump line="60" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
-      <jump line="79" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
-      <jump line="82" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
-      <jump line="141" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
-      <jump line="135" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
-      <jump line="117" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
-      <jump line="113" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
-      <jump line="111" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
       <jump line="107" column="40" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
       <jump line="113" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Export.inc" />
       <jump line="107" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Export.inc" />
@@ -510,6 +507,18 @@
       <jump line="42" column="78" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/CSVExportHelper.php" />
       <jump line="1" column="41" filename="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-03-19.yaml" />
       <jump line="39" column="5" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.0.migration.sql" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.3.wf_nextnum.php" />
+      <jump line="17" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.3.wf_nextnum.php" />
+      <jump line="16" column="23" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.3.wf_nextnum.php" />
+      <jump line="6" column="45" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.1.tm_todoStatusTextEncodeConvert.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.1.tm_todoStatusTextEncodeConvert.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.1.tm_todoStatusTextEncodeConvert.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.1.tm_todoStatusTextEncodeConvert.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.1.tm_todoStatusTextEncodeConvert.php" />
+      <jump line="26" column="72" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.3.wf_nextnum.php" />
+      <jump line="14" column="34" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.3.wf_nextnum.php" />
+      <jump line="65" column="42" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.3.wf_nextnum.php" />
+      <jump line="80" column="11" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.3.wf_nextnum.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -599,13 +608,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>D-Vj82RQvXE</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>D-Vj82RQvXE</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>03</text>
+        <text>TE</text>
       </register>
       <register name="o" type="4">
         <text />
@@ -614,10 +623,10 @@
         <text>mysql_escape_mimic(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKHN0cmVhbV9nZXRfY29udGVudHMoJHN0cmVhbSkpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2InIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRzdHJlYW0pIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -727,45 +736,41 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCR0aGlzLT5kYXRhKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRub3dZZWFyRmxvd0NvdW50QnlUZW1wbGF0ZUlEKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRzdCcgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoc3RyZWFtX2dldF9jb250ZW50cygkc3RyZWFtKSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHJlc3VsdCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRzdHInIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRzdHJlYW0pIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0LT5mCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRzdHJlYW0pIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkYXV0b051bSA9ICRsbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKHN0cmVhbV9nZXRfY29udGVudHMoJHN0cmVhbSkpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJGxvYWRBbGxUZW1wbGF0ZUlEKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKHN0cmVhbV9nZXRfY29udGVudHMoJHN0cmVhbSkpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkbG9hZEFsbFRlbXBsYXRlSUQgPSAkdGhpcy0+bG9hZEFsbFRlbXBsYXRlSUQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKHN0cmVhbV9nZXRfY29udGVudHMoJHN0cmVhbSkpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
       </register>
     </registers>
     <search>
-      <last-search>03</last-search>
+      <last-search>TE</last-search>
       <last-offset />
-      <last-pattern>03</last-pattern>
+      <last-pattern>TE</last-pattern>
       <last-replace>child</last-replace>
       <last-substitute>19</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>12</entry>
-        <entry>nl2</entry>
-        <entry>19</entry>
-        <entry>nl</entry>
         <entry>f</entry>
         <entry>html</entry>
         <entry>23</entry>
@@ -782,6 +787,10 @@
         <entry>function test</entry>
         <entry encoding="base64">IGZ1bmN0aW9u</entry>
         <entry>03</entry>
+        <entry>WF</entry>
+        <entry>no</entry>
+        <entry>fe</entry>
+        <entry>TE</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
@@ -792,17 +801,17 @@
         <entry>559</entry>
         <entry>423</entry>
         <entry>action ReformatCode</entry>
-        <entry>action GotoNextError</entry>
-        <entry>action GotoPreviousError</entry>
         <entry>action Forward</entry>
         <entry>70</entry>
-        <entry>action MethodUp</entry>
-        <entry>action MethodDown</entry>
         <entry>action Debug</entry>
         <entry>action Run</entry>
         <entry>action Inline</entry>
         <entry>action RenameElement</entry>
         <entry>67</entry>
+        <entry>action GotoPreviousError</entry>
+        <entry>action MethodDown</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action MethodUp</entry>
         <entry>action Back</entry>
       </history-cmd>
       <history-expr />
