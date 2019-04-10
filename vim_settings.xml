@@ -204,11 +204,12 @@
         <mark key="^" line="7" column="41" />
         <mark key="." line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_AttDetail.inc" timestamp="1554864352030">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_AttDetail.inc" timestamp="1554865228483">
+        <mark key="'" line="114" column="81" />
+        <mark key="[" line="136" column="1" />
+        <mark key="]" line="138" column="0" />
+        <mark key="^" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" timestamp="1552022370885">
         <mark key="[" line="276" column="41" />
@@ -411,7 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Export.inc" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Export.inc" />
       <jump line="116" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Export.inc" />
@@ -511,6 +511,7 @@
       <jump line="9" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_AttDetail.inc" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_AttDetail.inc" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_AttDetail.inc" />
+      <jump line="112" column="81" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_AttDetail.inc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -600,10 +601,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAndXRmX2ZuYW1lJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkdXRmX2ZuYW1lKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRwYScgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJG1zZy0+cGFyYW1ldGVycykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>成功</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>TE</text>
@@ -615,10 +616,10 @@
         <text>mysql_escape_mimic(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAndXRmX2ZuYW1lJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkdXRmX2ZuYW1lKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRwYScgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJG1zZy0+cGFyYW1ldGVycykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckbWJveCcgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJG1ib3gpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -728,28 +729,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRtYm94JyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZShtYm94KSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICBWCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ3EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCdxJykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHJlJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkcmV0KSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAndXRmX2ZuYW1lJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkdXRmX2ZuYW1lKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkcHJvZ3Jlc3NfaGVscGVyLT5jb21wbGV0ZVByb2dyZXNzKCkgLiBQSFBfRU9MOwo=</text>
+        <text encoding="base64">ZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckbWJveCcgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJG1ib3gpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRtYm94JyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZShtYm94KSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBWCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRub3dZZWFyRmxvd0NvdW50QnlUZW1wbGF0ZUlEKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHJlJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkcmV0KSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>101</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -785,7 +786,6 @@
         <entry>TE</entry>
       </history-search>
       <history-cmd>
-        <entry>action VcsShowPrevChangeMarker</entry>
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>action EditorUnSelectWord</entry>
         <entry>559</entry>
@@ -805,6 +805,7 @@
         <entry>action MethodDown</entry>
         <entry>742</entry>
         <entry>101</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
