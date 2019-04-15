@@ -24,7 +24,12 @@
         <mark key="^" line="40" column="7" />
         <mark key="." line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/insert_IFrameInclude.js" timestamp="1555318581126" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/insert_IFrameInclude.js" timestamp="1555319579846">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="4" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/jobs/Report.php" timestamp="1552456613699">
         <mark key="[" line="9" column="53" />
         <mark key="]" line="9" column="56" />
@@ -684,8 +689,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -700,10 +705,10 @@
         <text>mysql_escape_mimic(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc2VjdGlvbl90ZXh0ID0gJ2InOwo=</text>
+        <text encoding="base64">ICAgIGlmIChsb2NhdGlvbi5ocmVmLmluZGV4T2YoIndmX3ZpZXdfYXR0LnBocCIpID49IDApIHsKICAgICAgSUZyYW1lSW5jbHVkZSgiaWZyIiwgX3B0aCArICJzcF9mb3Jtcy9jYXJkX2ZpeGVkLmh0bSIsICI5OSUiKTsKICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -813,25 +818,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc2VjdGlvbl90ZXh0ID0gJ2InOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlID09ICdkYXlvZmYnCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHlwZSA9PSAncmV2aXNlJykgeyByZXR1cm4gfQo=</text>
+        <text encoding="base64">ICAgICAgICB0eXBlID09ICdkYXlvZmYnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc3RhdHVzX3RleHQgPSAnYSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodHlwZSA9PSAncmV2aXNlJykgeyByZXR1cm4gfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
