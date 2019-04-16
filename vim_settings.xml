@@ -48,12 +48,6 @@
         <mark key="^" line="9" column="1402" />
         <mark key="." line="9" column="1402" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.cn" timestamp="1555321559388">
-        <mark key="[" line="421" column="30" />
-        <mark key="]" line="421" column="25" />
-        <mark key="^" line="421" column="29" />
-        <mark key="." line="421" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" timestamp="1553053956728">
         <mark key="[" line="293" column="78" />
         <mark key="]" line="293" column="77" />
@@ -138,10 +132,6 @@
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.tw" timestamp="1555321736767">
         <mark key="'" line="289" column="21" />
-        <mark key="[" line="424" column="25" />
-        <mark key="]" line="424" column="26" />
-        <mark key="." line="424" column="26" />
-        <mark key="^" line="424" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/ShiftFormatter.php" timestamp="1552010950083">
         <mark key="[" line="31" column="21" />
@@ -289,11 +279,11 @@
         <mark key="^" line="36" column="31" />
         <mark key="." line="36" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/laradiner/laradiner-2019-03-23.yaml" timestamp="1553938195172">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="8" />
-        <mark key="^" line="11" column="35" />
-        <mark key="." line="11" column="8" />
+      <file name="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/laradiner/laradiner-2019-03-23.yaml" timestamp="1555385391466">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="2811" />
+        <mark key="^" line="9" column="2811" />
+        <mark key="." line="9" column="2811" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/util/xhrCall.js" timestamp="1553226358052">
         <mark key="[" line="0" column="10" />
@@ -355,12 +345,6 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardRecord_List.php" timestamp="1555308921632">
         <mark key="'" line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_dayoff_view_card.htm" timestamp="1555322027878">
-        <mark key="[" line="199" column="65" />
-        <mark key="]" line="199" column="64" />
-        <mark key="^" line="199" column="64" />
-        <mark key="." line="199" column="64" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1555308444594">
         <mark key="'" line="112" column="30" />
         <mark key="[" line="297" column="31" />
@@ -386,24 +370,11 @@
         <mark key="^" line="276" column="41" />
         <mark key="." line="276" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordList.php" timestamp="1555317307423">
-        <mark key="'" line="197" column="57" />
-        <mark key="[" line="203" column="40" />
-        <mark key="]" line="203" column="62" />
-        <mark key="." line="203" column="62" />
-        <mark key="^" line="203" column="62" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" timestamp="1554824493502">
         <mark key="[" line="28" column="19" />
         <mark key="]" line="28" column="18" />
         <mark key="^" line="28" column="18" />
         <mark key="." line="28" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.en" timestamp="1555321646146">
-        <mark key="[" line="424" column="25" />
-        <mark key="]" line="424" column="32" />
-        <mark key="^" line="424" column="32" />
-        <mark key="." line="424" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/css/bootstrap.min.css" timestamp="1552382576940">
         <mark key="[" line="4" column="122375" />
@@ -471,12 +442,6 @@
         <mark key="]" line="112" column="62" />
         <mark key="." line="112" column="62" />
         <mark key="^" line="112" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.vn" timestamp="1555321672072">
-        <mark key="[" line="423" column="25" />
-        <mark key="]" line="423" column="30" />
-        <mark key="^" line="423" column="30" />
-        <mark key="." line="423" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/91/poker/src/Suit.php" timestamp="1554049687718">
         <mark key="[" line="90" column="22" />
@@ -696,10 +661,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">PGgyPjxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzogMXB4O3dpZHRoOiAxcHg7IGhlaWdodDogOHB4OyBiYWNrZ3JvdW5kOiAjMDAwMDAwOyBtYXJnaW4tcmlnaHQ6IDE2cHg7IGJvcmRlci1yYWRpdXM6IDVweCI+Jm5ic3A7PC9zcGFuPuism+iAheS7i+e0uTwvaDI+IDxoMj7lj7DngaPvvJpTYXNheWHjgIFNb3Vzb27jgIFEdW5jYW48YnIgLz4g5pel5pys77yaVGFrYVl1a2kgU3V6dWtp44CBWXVraSBLYWthenU8L2gyPiA8cD4mbmJzcDs8L3A+IDxoMj48c3BhbiBzdHlsZT0ibGV0dGVyLXNwYWNpbmc6IDFweDt3aWR0aDogMXB4OyBoZWlnaHQ6IDhweDsgYmFja2dyb3VuZDogIzAwMDAwMDsgbWFyZ2luLXJpZ2h0OiAxNnB4OyBib3JkZXItcmFkaXVzOiA1cHgiPiZuYnNwOzwvc3Bhbj7orJvogIXlvbHniYc8L2gyPiA8aDI+U2FzYXlh77yaPGEgaHJlZj0iaHR0cHM6Ly95b3V0dS5iZS9KYXhjSkFOcTByZz90PTc0OCI+aHR0cHM6Ly95b3V0dS5iZS9KYXhjSkFOcTByZz90PTc0ODwvYT48YnIgLz4gTW91c29u77yaPGEgaHJlZj0iaHR0cHM6Ly95b3V0dS5iZS9KYXhjSkFOcTByZz90PTIyNzMiPmh0dHBzOi8veW91dHUuYmUvSmF4Y0pBTnEwcmc/dD0yMjczPC9hPjxiciAvPiBZdWtpIEtha2F6de+8mjxhIGhyZWY9Imh0dHBzOi8veW91dHUuYmUvSmF4Y0pBTnEwcmc/dD01NDYwIj5odHRwczovL3lvdXR1LmJlL0pheGNKQU5xMHJnP3Q9NTQ2MDwvYT48YnIgLz4gRHVuY2Fu77yaPGEgaHJlZj0iaHR0cHM6Ly95b3V0dS5iZS9KYXhjSkFOcTByZz90PTY0MDIiPmh0dHBzOi8veW91dHUuYmUvSmF4Y0pBTnEwcmc/dD02NDAyPC9hPjxiciAvPiBUYWthWXVraSBTdXp1a2nvvJo8YSBocmVmPSJodHRwczovL3lvdXR1LmJlL0pheGNKQU5xMHJnP3Q9ODk0OSI+aHR0cHM6Ly95b3V0dS5iZS9KYXhjSkFOcTByZz90PTg5NDk8L2E+PC9oMj4gPHA+Jm5ic3A7PC9wPiA8aDI+PHNwYW4gc3R5bGU9ImxldHRlci1zcGFjaW5nOiAxcHg7d2lkdGg6IDFweDsgaGVpZ2h0OiA4cHg7IGJhY2tncm91bmQ6ICMwMDAwMDA7IG1hcmdpbi1yaWdodDogMTZweDsgYm9yZGVyLXJhZGl1czogNXB4Ij4mbmJzcDs8L3NwYW4+6K2w6aGM57Ch5LuLPC9oMj4gPGgyPkxhcmF2ZWwg6YGT5aC044CM5ZyL6Zqb5Lqk5rWB44CNPC9oMj4gPHA+TGFyYXZlbCDpgZPloLTku4rlubTluqbnmoTph43pu57lsLHmmK/jgIzlnIvpmpvkuqTmtYHjgI3vvIzkuI3oq5bmmK/lsIflj7DngaPnpL7nvqTmjqjlh7rljrvjgIHmiJbmmK/lsIflnIvlpJbnpL7nvqTlvJXpgLLkvobjgILpppbnmbzloLTlsLHmmK/ot5/mspbnuannmoQgTGFyYXZlbCDnpL7nvqTlgZrkuqTmtYHvvIHmiJHlgJHlvojpq5joiIjlnLDpgoDoq4vliLAgTGFyYXZlbCBNZWV0dXAgT2tpbmF3YSDnmoTkuLvovqbkurog6Yi05pyo5a2d5LmLIOWFiOeUn+WPiuWFtuekvue+pOaIkOWToeWIsOWPsOWMl+iIh+aIkeWAkSBMYXJhdmVsIOWPsOeBo+WbuuWumuePreW6leWPiuaWueWuoueJuSAoRm9udGVjaCkg55qE5aSl5Ly05LiA5ZCM5Lqk5rWB44CC5oiR5YCR5bCH55Sx6ZuZ5pa556S+576k5oiQ5ZOh6Lyq55Wq5YiG5Lqr5ZCE6Ieq5bCNIFBIUCDlj4ogTGFyYXZlbCDnm7jpl5zmioDooZPnmoTlr6bli5nlv4PlvpfoiIfmioDlt6flsZXnpLrjgII8L3A+IDxwPiZuYnNwOzwvcD4gPGgyPjxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzogMXB4O3dpZHRoOiAxcHg7IGhlaWdodDogOHB4OyBiYWNrZ3JvdW5kOiAjMDAwMDAwOyBtYXJnaW4tcmlnaHQ6IDE2cHg7IGJvcmRlci1yYWRpdXM6IDVweCI+Jm5ic3A7PC9zcGFuPua0u+WLleioiuaBrzwvaDI+IDxwPuaZgumWk++8mjIwMTkvMDMvMjMmbmJzcDsxNDowMCB+IDE3OjAwPC9wPiA8cD7lnLDlnYDvvJrlj7DljJfluILkuK3mraPljYDph43mhbbljZfot6/kuIDmrrUxMDXomZ8y5qiTICjlpKnnk4/mm7jlsYDkuozmqJMpPC9wPiA8cD4mbmJzcDs8L3A+IDxoMj48c3BhbiBzdHlsZT0ibGV0dGVyLXNwYWNpbmc6IDFweDt3aWR0aDogMXB4OyBoZWlnaHQ6IDhweDsgYmFja2dyb3VuZDogIzAwMDAwMDsgbWFyZ2luLXJpZ2h0OiAxNnB4OyBib3JkZXItcmFkaXVzOiA1cHgiPiZuYnNwOzwvc3Bhbj7mtLvli5XmtYHnqIs8L2gyPiA8cD4xNDowMCB+IDE0OjEwIOiBluS9keOAgemItOacqOWtneS5iyDoh7ToqZ48L3A+IDxwPjE0OjEwIH4gMTQ6MzUgU2FzYXlhIChQSFAgTWFnaWMgTWV0aG9kcyk8YnIgLz4gMTQ6MzUgfiAxNTowMCBNb3Vzb24gKFRocmVlIGdpdCBUaXBzKTxiciAvPiAxNTowMCB+IDE1OjI1Jm5ic3A7WXVraSBLYWthenUgKOaylue5qei7n+mrlOekvue+pOeUn+aFiyk8L3A+IDxwPjE1OjI1IH4gMTU6MzUg5Lit6ZaT5LyR5oGvPC9wPiA8cD4xNTozNSB+IDE2OjA1IER1bmNhbiAoUGhwU3Rvcm0g5qW16YCf6ZaL55m8KTxiciAvPiAxNjowNSB+IDE2OjMwIFRha2FZdWtpIFN1enVraSAoTGFyYXZlbOOBp+ewoeWNmOOBq1NQQSBXZWLjgqLjg5fjg6og5L2c5oiQ77yBSldU6KqN6Ki85bCO5YWlKTwvcD4gPHA+MTY6MzAgfiAxNzowMCDkuqTmtYHmmYLplpM8L3A+IDxwPiZuYnNwOzwvcD4gPGgyPjxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzogMXB4O3dpZHRoOiAxcHg7IGhlaWdodDogOHB4OyBiYWNrZ3JvdW5kOiAjMDAwMDAwOyBtYXJnaW4tcmlnaHQ6IDE2cHg7IGJvcmRlci1yYWRpdXM6IDVweCI+Jm5ic3A7PC9zcGFuPuS4u+i+puWWruS9jTwvaDI+IDxoMz5MYXJhdmVsIOmBk+WgtDwvaDM+IDxwPiZuYnNwOzwvcD4gPGgyPjxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzogMXB4O3dpZHRoOiAxcHg7IGhlaWdodDogOHB4OyBiYWNrZ3JvdW5kOiAjMDAwMDAwOyBtYXJnaW4tcmlnaHQ6IDE2cHg7IGJvcmRlci1yYWRpdXM6IDVweCI+Jm5ic3A7PC9zcGFuPuWQiOS9nOWWruS9jTwvaDI+IDxoMz7lpKnnk4/mm7jlupc8L2gzPiA8cD4mbmJzcDs8L3A+IDxoMj48c3BhbiBzdHlsZT0ibGV0dGVyLXNwYWNpbmc6IDFweDt3aWR0aDogMXB4OyBoZWlnaHQ6IDhweDsgYmFja2dyb3VuZDogIzAwMDAwMDsgbWFyZ2luLXJpZ2h0OiAxNnB4OyBib3JkZXItcmFkaXVzOiA1cHgiPiZuYnNwOzwvc3Bhbj7lhbbku5bms6jmhI/kuovpoIU8L2gyPiA8dWw+IDxsaT48c3BhbiBzdHlsZT0iY29sb3I6I2U3NGMzYzsiPuacrOasoea0u+WLleaOoemCgOiri+WItjwvc3Bhbj48L2xpPiA8L3VsPg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">PGgyPjxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzogMXB4O3dpZHRoOiAxcHg7IGhlaWdodDogOHB4OyBiYWNrZ3JvdW5kOiAjMDAwMDAwOyBtYXJnaW4tcmlnaHQ6IDE2cHg7IGJvcmRlci1yYWRpdXM6IDVweCI+Jm5ic3A7PC9zcGFuPuism+iAheS7i+e0uTwvaDI+IDxoMj7lj7DngaPvvJpTYXNheWHjgIFNb3Vzb27jgIFEdW5jYW48YnIgLz4g5pel5pys77yaVGFrYVl1a2kgU3V6dWtp44CBWXVraSBLYWthenU8L2gyPiA8cD4mbmJzcDs8L3A+IDxoMj48c3BhbiBzdHlsZT0ibGV0dGVyLXNwYWNpbmc6IDFweDt3aWR0aDogMXB4OyBoZWlnaHQ6IDhweDsgYmFja2dyb3VuZDogIzAwMDAwMDsgbWFyZ2luLXJpZ2h0OiAxNnB4OyBib3JkZXItcmFkaXVzOiA1cHgiPiZuYnNwOzwvc3Bhbj7orJvogIXlvbHniYc8L2gyPiA8aDI+U2FzYXlh77yaPGEgaHJlZj0iaHR0cHM6Ly95b3V0dS5iZS9KYXhjSkFOcTByZz90PTc0OCI+aHR0cHM6Ly95b3V0dS5iZS9KYXhjSkFOcTByZz90PTc0ODwvYT48YnIgLz4gTW91c29u77yaPGEgaHJlZj0iaHR0cHM6Ly95b3V0dS5iZS9KYXhjSkFOcTByZz90PTIyNzMiPmh0dHBzOi8veW91dHUuYmUvSmF4Y0pBTnEwcmc/dD0yMjczPC9hPjxiciAvPiBZdWtpIEtha2F6de+8mjxhIGhyZWY9Imh0dHBzOi8veW91dHUuYmUvSmF4Y0pBTnEwcmc/dD01NDYwIj5odHRwczovL3lvdXR1LmJlL0pheGNKQU5xMHJnP3Q9NTQ2MDwvYT48YnIgLz4gRHVuY2Fu77yaPGEgaHJlZj0iaHR0cHM6Ly95b3V0dS5iZS9KYXhjSkFOcTByZz90PTY0MDIiPmh0dHBzOi8veW91dHUuYmUvSmF4Y0pBTnEwcmc/dD02NDAyPC9hPjxiciAvPiBUYWthWXVraSBTdXp1a2nvvJo8YSBocmVmPSJodHRwczovL3lvdXR1LmJlL0pheGNKQU5xMHJnP3Q9ODk0OSI+aHR0cHM6Ly95b3V0dS5iZS9KYXhjSkFOcTByZz90PTg5NDk8L2E+PC9oMj4gPHA+Jm5ic3A7PC9wPiA8aDI+PHNwYW4gc3R5bGU9ImxldHRlci1zcGFjaW5nOiAxcHg7d2lkdGg6IDFweDsgaGVpZ2h0OiA4cHg7IGJhY2tncm91bmQ6ICMwMDAwMDA7IG1hcmdpbi1yaWdodDogMTZweDsgYm9yZGVyLXJhZGl1czogNXB4Ij4mbmJzcDs8L3NwYW4+6K2w6aGM57Ch5LuLPC9oMj4gPGgyPkxhcmF2ZWwg6YGT5aC044CM5ZyL6Zqb5Lqk5rWB44CNPC9oMj4gPHA+TGFyYXZlbCDpgZPloLTku4rlubTluqbnmoTph43pu57lsLHmmK/jgIzlnIvpmpvkuqTmtYHjgI3vvIzkuI3oq5bmmK/lsIflj7DngaPnpL7nvqTmjqjlh7rljrvjgIHmiJbmmK/lsIflnIvlpJbnpL7nvqTlvJXpgLLkvobjgILpppbnmbzloLTlsLHmmK/ot5/mspbnuannmoQgTGFyYXZlbCDnpL7nvqTlgZrkuqTmtYHvvIHmiJHlgJHlvojpq5joiIjlnLDpgoDoq4vliLAgTGFyYXZlbCBNZWV0dXAgT2tpbmF3YSDnmoTkuLvovqbkurog6Yi05pyo5a2d5LmLIOWFiOeUn+WPiuWFtuekvue+pOaIkOWToeWIsOWPsOWMl+iIh+aIkeWAkSBMYXJhdmVsIOWPsOeBo+WbuuWumuePreW6leWPiuaWueWuoueJuSAoRm9udGVjaCkg55qE5aSl5Ly05LiA5ZCM5Lqk5rWB44CC5oiR5YCR5bCH55Sx6ZuZ5pa556S+576k5oiQ5ZOh6Lyq55Wq5YiG5Lqr5ZCE6Ieq5bCNIFBIUCDlj4ogTGFyYXZlbCDnm7jpl5zmioDooZPnmoTlr6bli5nlv4PlvpfoiIfmioDlt6flsZXnpLrjgII8L3A+IDxwPiZuYnNwOzwvcD4gPGgyPjxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzogMXB4O3dpZHRoOiAxcHg7IGhlaWdodDogOHB4OyBiYWNrZ3JvdW5kOiAjMDAwMDAwOyBtYXJnaW4tcmlnaHQ6IDE2cHg7IGJvcmRlci1yYWRpdXM6IDVweCI+Jm5ic3A7PC9zcGFuPua0u+WLleioiuaBrzwvaDI+IDxwPuaZgumWk++8mjIwMTkvMDMvMjMmbmJzcDsxNDowMCB+IDE3OjAwPC9wPiA8cD7lnLDlnYDvvJrlj7DljJfluILkuK3mraPljYDph43mhbbljZfot6/kuIDmrrUxMDXomZ8y5qiTICjlpKnnk4/mm7jlsYDkuozmqJMpPC9wPiA8cD4mbmJzcDs8L3A+IDxoMj48c3BhbiBzdHlsZT0ibGV0dGVyLXNwYWNpbmc6IDFweDt3aWR0aDogMXB4OyBoZWlnaHQ6IDhweDsgYmFja2dyb3VuZDogIzAwMDAwMDsgbWFyZ2luLXJpZ2h0OiAxNnB4OyBib3JkZXItcmFkaXVzOiA1cHgiPiZuYnNwOzwvc3Bhbj7mtLvli5XmtYHnqIs8L2gyPiA8cD4xNDowMCB+IDE0OjEwIOiBluS9keOAgemItOacqOWtneS5iyDoh7ToqZ48L3A+IDxwPjE0OjEwIH4gMTQ6MzUgU2FzYXlhIChQSFAgTWFnaWMgTWV0aG9kcyk8YnIgLz4gMTQ6MzUgfiAxNTowMCBNb3Vzb24gKFRocmVlIGdpdCBUaXBzKTxiciAvPiAxNTowMCB+IDE1OjI1Jm5ic3A7WXVraSBLYWthenUgKOaylue5qei7n+mrlOekvue+pOeUn+aFiyk8L3A+IDxwPjE1OjI1IH4gMTU6MzUg5Lit6ZaT5LyR5oGvPC9wPiA8cD4xNTozNSB+IDE2OjA1IER1bmNhbiAoUGhwU3Rvcm0g5qW16YCf6ZaL55m8KTxiciAvPiAxNjowNSB+IDE2OjMwIFRha2FZdWtpIFN1enVraSAoTGFyYXZlbOOBp+ewoeWNmOOBq1NQQSBXZWLjgqLjg5fjg6og5L2c5oiQ77yBSldU6KqN6Ki85bCO5YWlKTwvcD4gPHA+MTY6MzAgfiAxNzowMCDkuqTmtYHmmYLplpM8L3A+IDxwPiZuYnNwOzwvcD4gPGgyPjxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzogMXB4O3dpZHRoOiAxcHg7IGhlaWdodDogOHB4OyBiYWNrZ3JvdW5kOiAjMDAwMDAwOyBtYXJnaW4tcmlnaHQ6IDE2cHg7IGJvcmRlci1yYWRpdXM6IDVweCI+Jm5ic3A7PC9zcGFuPuS4u+i+puWWruS9jTwvaDI+IDxoMz5MYXJhdmVsIOmBk+WgtDwvaDM+IDxwPiZuYnNwOzwvcD4gPGgyPjxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzogMXB4O3dpZHRoOiAxcHg7IGhlaWdodDogOHB4OyBiYWNrZ3JvdW5kOiAjMDAwMDAwOyBtYXJnaW4tcmlnaHQ6IDE2cHg7IGJvcmRlci1yYWRpdXM6IDVweCI+Jm5ic3A7PC9zcGFuPuWQiOS9nOWWruS9jTwvaDI+IDxoMz7lpKnnk4/mm7jlupc8L2gzPiA8cD4mbmJzcDs8L3A+IDxoMj48c3BhbiBzdHlsZT0ibGV0dGVyLXNwYWNpbmc6IDFweDt3aWR0aDogMXB4OyBoZWlnaHQ6IDhweDsgYmFja2dyb3VuZDogIzAwMDAwMDsgbWFyZ2luLXJpZ2h0OiAxNnB4OyBib3JkZXItcmFkaXVzOiA1cHgiPiZuYnNwOzwvc3Bhbj7lhbbku5bms6jmhI/kuovpoIU8L2gyPiA8dWw+IDxsaT48c3BhbiBzdHlsZT0iY29sb3I6I2U3NGMzYzsiPuacrOasoea0u+WLleaOoemCgOiri+WItjwvc3Bhbj48L2xpPiA8L3VsPg==</text>
       </register>
       <register name="/" type="4">
         <text>中</text>
