@@ -36,4 +36,5 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
+  <action id="tasks.open.in.browser" />
 </keymap>
