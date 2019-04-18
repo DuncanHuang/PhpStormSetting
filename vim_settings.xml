@@ -124,11 +124,10 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_user_detail_tabs.js" timestamp="1555402570095">
         <mark key="'" line="14" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/class/CardToNetask.php" timestamp="1555491354879">
-        <mark key="[" line="1232" column="5" />
-        <mark key="]" line="1253" column="55" />
-        <mark key="." line="1253" column="55" />
-        <mark key="^" line="1253" column="81" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/class/CardToNetask.php" timestamp="1555555415248">
+        <mark key="[" line="1253" column="0" />
+        <mark key="]" line="1253" column="0" />
+        <mark key="." line="1253" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_export.htm" timestamp="1555402576271" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_view_copy.htm" timestamp="1555402557924">
@@ -336,8 +335,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>|| empty($item[$punchIndex]) == false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAK</text>
       </register>
       <register name="-" type="4">
         <text>|| empty($item[$punchIndex]) == false</text>
@@ -352,10 +351,10 @@
         <text>mysql_escape_mimic(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJGNhcmRfcmVzdWx0KTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -465,28 +464,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRjYXJkX3Jlc3VsdFsnZGF0YSddKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJGNhcmRfcmVzdWx0KTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRzdGFmZl9maWxlX2RhdGFbJ2RhdGEnXSwgJG5ldGFza19jYXJkX3VzZXIsICRhbGxfZHV0eSwgJGFsbF92YWNhdGlvbl9jYXJkLCAkdmFjYXRpb25fY2FyZF9yZXZpc2UpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRjYXJkX3Jlc3VsdFsnZGF0YSddKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRjYXJkX3Jlc3VsdCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRzdGFmZl9maWxlX2RhdGFbJ2RhdGEnXSwgJG5ldGFza19jYXJkX3VzZXIsICRhbGxfZHV0eSwgJGFsbF92YWNhdGlvbl9jYXJkLCAkdmFjYXRpb25fY2FyZF9yZXZpc2UpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRjYXJkX3Jlc3VsdCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFyZ2V0LT5zZXRDcm9zc2RheVdvcmtBZHZhbmNlTWludXRlcygzMDApOyAgLy8g6Leo5pel5LiK54+t5o+Q5YmN5YiG6ZCY5pW4Cg==</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRjYXJkX3Jlc3VsdCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXJyYXlfbWFwKCd0cmltJywgJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGFyZ2V0LT5zZXRDcm9zc2RheVdvcmtBZHZhbmNlTWludXRlcygzMDApOyAgLy8g6Leo5pel5LiK54+t5o+Q5YmN5YiG6ZCY5pW4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRkYXRhKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">YXJyYXlfbWFwKCd0cmltJywgJGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -522,7 +521,6 @@
         <entry>05</entry>
       </history-search>
       <history-cmd>
-        <entry>action ReformatCode</entry>
         <entry>1368</entry>
         <entry>action GotoNextError</entry>
         <entry>action Forward</entry>
@@ -542,6 +540,7 @@
         <entry>action GotoPreviousError</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
