@@ -415,12 +415,12 @@
         <mark key="^" line="120" column="29" />
         <mark key="." line="120" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1555401538280">
-        <mark key="'" line="0" column="7" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1556073229002">
+        <mark key="'" line="71" column="3" />
         <mark key="[" line="0" column="21" />
-        <mark key="]" line="9" column="37" />
-        <mark key="." line="9" column="37" />
-        <mark key="^" line="9" column="37" />
+        <mark key="]" line="72" column="3" />
+        <mark key="." line="72" column="3" />
+        <mark key="^" line="72" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1555308444594">
         <mark key="'" line="112" column="30" />
@@ -555,8 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordReport.php" />
-      <jump line="20" column="70" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="41" column="35" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="1321" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="1319" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
@@ -655,6 +653,8 @@
       <jump line="779" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/hr/hr_setup_data.htm" />
       <jump line="337" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/hr/hr_setup_data.htm" />
       <jump line="339" column="76" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/hr/hr_setup_data.htm" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
+      <jump line="71" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -744,10 +744,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>https://youtu.be/</text>
+        <text>16</text>
       </register>
       <register name="-" type="4">
-        <text>https://youtu.be/</text>
+        <text>16</text>
       </register>
       <register name="/" type="4">
         <text>3</text>
@@ -755,8 +755,8 @@
       <register name="o" type="4">
         <text />
       </register>
-      <register name="0" type="4">
-        <text>mysql_escape_mimic(</text>
+      <register name="0" type="2">
+        <text encoding="base64">LSB2OC4yLjQgKDIwMTktMDQtMTYpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRjYXJkTG9va3VwID0gYXJyYXkoMyA9PiAxMSwgNCA9PiAxMywgNyA9PiAxMik7ICAK</text>
