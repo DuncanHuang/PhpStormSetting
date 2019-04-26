@@ -290,6 +290,9 @@
         <mark key="." line="24" column="39" />
         <mark key="^" line="24" column="39" />
       </file>
+      <file name="/fragment.php" timestamp="1556259996314">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/7.17.0.migration.sql" timestamp="1555040324268">
         <mark key="[" line="1" column="1" />
         <mark key="]" line="1" column="0" />
@@ -434,11 +437,12 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/sp/hr/time_check_exit_emp_create.php" timestamp="1554688768213">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/DateTimeConvertHelper.php" timestamp="1556256867755">
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="40" />
-        <mark key="." line="27" column="40" />
-        <mark key="^" line="27" column="40" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/DateTimeConvertHelper.php" timestamp="1556260498214">
+        <mark key="'" line="4" column="24" />
+        <mark key="[" line="55" column="26" />
+        <mark key="]" line="56" column="6" />
+        <mark key="." line="56" column="6" />
+        <mark key="^" line="56" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardRecord_List.php" timestamp="1555308921632">
         <mark key="'" line="38" column="0" />
@@ -471,11 +475,12 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" timestamp="1556257000989">
-        <mark key="[" line="80" column="44" />
-        <mark key="]" line="80" column="45" />
-        <mark key="^" line="80" column="45" />
-        <mark key="." line="80" column="45" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" timestamp="1556260398944">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="93" column="44" />
+        <mark key="]" line="93" column="46" />
+        <mark key="^" line="93" column="46" />
+        <mark key="." line="93" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.en" timestamp="1556163401938">
         <mark key="'" line="444" column="21" />
@@ -608,12 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_move.htm" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_move.htm" />
-      <jump line="186" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/sel_date_range2.htm" />
-      <jump line="426" column="34" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="0" column="7" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="12" column="11" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/mobile.htm" />
       <jump line="14" column="84" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_user_detail_tabs.js" />
       <jump line="38" column="22" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/sel_date_range2.htm" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Office3Login.php" />
@@ -706,8 +705,14 @@
       <jump line="11" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/ImportEncodingSelect.js" />
       <jump line="17" column="6" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_card_import.htm" />
       <jump line="54" column="71" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
+      <jump line="80" column="61" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
+      <jump line="4" column="24" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/DateTimeConvertHelper.php" />
+      <jump line="4" column="30" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
-      <jump line="84" column="5" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
+      <jump line="67" column="35" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
+      <jump line="84" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
+      <jump line="93" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -797,13 +802,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Apr</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>Apr</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IGZ1bmN0aW9u</text>
+        <text>CS</text>
       </register>
       <register name="o" type="4">
         <text />
@@ -925,43 +930,41 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgppZiAoZW1wdHkoJGtvYWxhX3NlY1siTW9yZUxhbmciXSkgPT0gZmFsc2UpIHsKICAgICR0ZW1wX2xhbmcgPSBleHBsb2RlKCIsIiwgJGtvYWxhX3NlY1siTW9yZUxhbmciXSk7CiAgICBmb3JlYWNoICgkdGVtcF9sYW5nIGFzICRsYW5nKSB7CiAgICAgICAgJExhbmdTZXRbJGxhbmddID0gJGxhbmdIZWxwZXItPmdldCgnbG9naW4nLCAkbGFuZyk7CiAgICAgICAgaWYgKGFycmF5X2tleV9leGlzdHMoJGxhbmcsICRMYW5nU2V0KSAmJiBpbl9hcnJheSgkbGFuZywgJG1vcmVfbGFuZykgPT09IGZhbHNlKSB7CiAgICAgICAgICAgICRtb3JlX2xhbmdbXSA9ICRsYW5nOwogICAgICAgIH0KICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiRtb3JlX2xhbmcgPSBhcnJheSgkZGVmYXVsdExhbmcpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGEgPSAoaW50KSRtYXRjaEFycmF5WzNdOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDE9PicnCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yZWFjaCAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmVnX21hdGNoKCRudW1iZXJNb250aEZvcm1hdFJlZ3gsICRkYXRlU3RyLCAkbWF0Y2hBcnJheSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRtb3JlX2xhbmcpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJG1hdGNoQXJyYXkpPT1mYWxzZSkgewogICAgICAgICAgICAkZGF0ZUFyeSA9IAogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRtb3JlX2xhbmcpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">ICAgICAgICAkbWF0Y2hBcnJheS5lbXB0eSgkdmFyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IGZ1bmN0aW9u</last-search>
+      <last-search>CS</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IGZ1bmN0aW9u</last-pattern>
+      <last-pattern>CS</last-pattern>
       <last-replace>child</last-replace>
       <last-substitute>19</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>[15]</entry>
-        <entry>sms</entry>
         <entry>13</entry>
         <entry>2019</entry>
         <entry>10</entry>
@@ -980,12 +983,10 @@
         <entry>04</entry>
         <entry>function test</entry>
         <entry encoding="base64">IGZ1bmN0aW9u</entry>
+        <entry>8</entry>
+        <entry>CS</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoPreviousError</entry>
-        <entry>51</entry>
-        <entry>11</entry>
-        <entry>114</entry>
         <entry>144</entry>
         <entry>w</entry>
         <entry>448</entry>
@@ -994,13 +995,17 @@
         <entry>action Forward</entry>
         <entry>actionlist</entry>
         <entry encoding="base64">c291cmNlIC9Vc2Vycy9kdW5jYW4vLmlkZWF2aW1yYyA=</entry>
-        <entry>action VcsShowNextChangeMarker</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
-        <entry>action VcsShowPrevChangeMarker</entry>
         <entry>28</entry>
-        <entry>action MethodUp</entry>
+        <entry>action VcsShowPrevChangeMarker</entry>
+        <entry>action VcsShowNextChangeMarker</entry>
         <entry>action Debug</entry>
+        <entry>action IntroduceField</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
+        <entry>action ChangeSignature</entry>
+        <entry>action MethodDown</entry>
+        <entry>action MethodUp</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
