@@ -5,11 +5,11 @@
       <mark key="M" line="42" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.importlog-migration.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_card_sel.htm" timestamp="1556095702861">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="^" line="137" column="33" />
-        <mark key="." line="139" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" timestamp="1556507014767">
+        <mark key="[" line="516" column="67" />
+        <mark key="]" line="516" column="74" />
+        <mark key="^" line="516" column="74" />
+        <mark key="." line="516" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/community/routes/web.php" timestamp="1553051529186">
         <mark key="[" line="13" column="57" />
@@ -79,12 +79,6 @@
         <mark key="]" line="55" column="13" />
         <mark key="^" line="55" column="13" />
         <mark key="." line="55" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/login_lang.tw" timestamp="1556179089274">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CM/CM_TmList.inc" timestamp="1552891451033">
         <mark key="[" line="3" column="17" />
@@ -162,7 +156,7 @@
         <mark key="^" line="54" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.inc" timestamp="1556256272073">
-        <mark key="'" line="234" column="17" />
+        <mark key="'" line="232" column="17" />
         <mark key="[" line="184" column="59" />
         <mark key="]" line="185" column="112" />
         <mark key="^" line="185" column="112" />
@@ -196,6 +190,7 @@
         <mark key="^" line="7" column="41" />
         <mark key="." line="7" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt_Fin_Va.inc" timestamp="1556506933576" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/YearSetting_model.php" timestamp="1552443994114">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -437,12 +432,8 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/sp/hr/time_check_exit_emp_create.php" timestamp="1554688768213">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/DateTimeConvertHelper.php" timestamp="1556260498214">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/DateTimeConvertHelper.php" timestamp="1556260703713">
         <mark key="'" line="4" column="24" />
-        <mark key="[" line="55" column="26" />
-        <mark key="]" line="56" column="6" />
-        <mark key="." line="56" column="6" />
-        <mark key="^" line="56" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardRecord_List.php" timestamp="1555308921632">
         <mark key="'" line="38" column="0" />
@@ -475,12 +466,8 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" timestamp="1556260398944">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="93" column="44" />
-        <mark key="]" line="93" column="46" />
-        <mark key="^" line="93" column="46" />
-        <mark key="." line="93" column="46" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" timestamp="1556273305808">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.en" timestamp="1556163401938">
         <mark key="'" line="444" column="21" />
@@ -489,7 +476,7 @@
         <mark key="^" line="445" column="52" />
         <mark key="." line="445" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Common.php" timestamp="1556251110148">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Common.php" timestamp="1556506603936">
         <mark key="[" line="110" column="68" />
         <mark key="]" line="110" column="67" />
         <mark key="^" line="110" column="67" />
@@ -704,15 +691,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManEmpList.php" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/ImportEncodingSelect.js" />
       <jump line="17" column="6" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_card_import.htm" />
-      <jump line="54" column="71" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
       <jump line="80" column="61" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
       <jump line="4" column="24" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/DateTimeConvertHelper.php" />
       <jump line="4" column="30" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
       <jump line="67" column="35" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
       <jump line="84" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
+      <jump line="93" column="66" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
+      <jump line="54" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
-      <jump line="93" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -951,7 +938,7 @@
         <text encoding="base64">ICAgICAgICAkbWF0Y2hBcnJheS5lbXB0eSgkdmFyKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action MethodDown</text>
       </register>
     </registers>
     <search>
@@ -1004,9 +991,9 @@
         <entry>action IntroduceField</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action ChangeSignature</entry>
-        <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
         <entry>action Run</entry>
+        <entry>action MethodDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
