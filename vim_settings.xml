@@ -5,12 +5,12 @@
       <mark key="M" line="42" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.importlog-migration.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" timestamp="1556517720722">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="160" column="1" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
-        <mark key="^" line="160" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" timestamp="1556531137339">
+        <mark key="'" line="226" column="0" />
+        <mark key="[" line="86" column="6" />
+        <mark key="]" line="86" column="6" />
+        <mark key="." line="86" column="6" />
+        <mark key="^" line="86" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/community/routes/web.php" timestamp="1553051529186">
         <mark key="[" line="13" column="57" />
@@ -198,10 +198,9 @@
         <mark key="." line="7" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt_Fin_Va.inc" timestamp="1556517518857">
-        <mark key="[" line="64" column="44" />
-        <mark key="]" line="65" column="100" />
-        <mark key="^" line="65" column="100" />
-        <mark key="." line="65" column="100" />
+        <mark key="]" line="18" column="100" />
+        <mark key="^" line="18" column="100" />
+        <mark key="." line="18" column="100" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/YearSetting_model.php" timestamp="1552443994114">
         <mark key="[" line="25" column="0" />
@@ -312,6 +311,7 @@
         <mark key="." line="54" column="54" />
         <mark key="^" line="54" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/login.php" timestamp="1556529951880" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/ProgressBarHelper.php" timestamp="1551752557114">
         <mark key="[" line="54" column="21" />
         <mark key="]" line="54" column="20" />
@@ -505,13 +505,7 @@
         <mark key="^" line="4" column="122374" />
         <mark key="." line="4" column="122374" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/class/CardToNetask.php" timestamp="1556508479667">
-        <mark key="'" line="1254" column="25" />
-        <mark key="[" line="1260" column="21" />
-        <mark key="]" line="1260" column="20" />
-        <mark key="." line="1260" column="20" />
-        <mark key="^" line="1260" column="20" />
-      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/class/CardToNetask.php" timestamp="1556508479667" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/mp_lang.tw" timestamp="1555558056519">
         <mark key="[" line="50" column="15" />
         <mark key="]" line="50" column="15" />
@@ -624,30 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/hr/hr_setup_data.htm" />
-      <jump line="339" column="76" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/hr/hr_setup_data.htm" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="71" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="79" column="35" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="75" column="45" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="385" column="34" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/wf_lang.en" />
-      <jump line="9" column="24" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/dayoff.lang" />
-      <jump line="98" column="28" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/wf_lang.en" />
-      <jump line="112" column="30" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/wf_lang.en" />
-      <jump line="104" column="28" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.en" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.en" />
-      <jump line="436" column="39" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.en" />
-      <jump line="460" column="115" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.en" />
-      <jump line="457" column="81" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.en" />
-      <jump line="439" column="58" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.en" />
-      <jump line="440" column="47" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.en" />
-      <jump line="441" column="17" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.en" />
-      <jump line="444" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.en" />
-      <jump line="432" column="73" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/List.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.inc" />
-      <jump line="349" column="35" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.inc" />
-      <jump line="102" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_Detail.inc" />
       <jump line="181" column="49" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.inc" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.inc" />
       <jump line="237" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.inc" />
@@ -687,10 +657,6 @@
       <jump line="37" column="7" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
       <jump line="109" column="16" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
       <jump line="241" column="15" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
-      <jump line="245" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
-      <jump line="267" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
-      <jump line="270" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
-      <jump line="287" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="65" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="67" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
@@ -703,12 +669,9 @@
       <jump line="204" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="207" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="224" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
-      <jump line="152" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="473" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
-      <jump line="170" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="174" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="171" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
-      <jump line="153" column="10" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="179" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="168" column="1" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="157" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
@@ -719,11 +682,42 @@
       <jump line="118" column="40" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="458" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="18" column="23" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
-      <jump line="19" column="50" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="160" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="155" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="164" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="41" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/login.php" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/login.php" />
+      <jump line="239" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="269" column="16" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="287" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="295" column="14" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="300" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="351" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="379" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="366" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="146" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="386" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="240" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="245" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="267" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="270" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="128" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="170" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="153" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="262" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="294" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="291" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="285" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="280" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="265" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="263" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="159" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="152" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="19" column="43" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="214" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
+      <jump line="221" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -812,14 +806,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8g5Y+W5b6XIENhcmQgXyBTZXR0aW5nIOeahOioreWumuizh+aWmQokaWRDYXJkPWFycmF5KCk7CiRjYXJkSUQ9YXJyYXkoKTsKJG5vd0R1dHkgPSBhcnJheSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>//補下班卡</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVsc2Ug</text>
+        <text>//補下班卡</text>
       </register>
       <register name="/" type="4">
-        <text>CS</text>
+        <text>wh</text>
       </register>
       <register name="o" type="4">
         <text />
@@ -827,11 +821,11 @@
       <register name="0" type="2">
         <text encoding="base64">LSB2OC4yLjQgKDIwMTktMDQtMTYpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8g5Y+W5b6XIENhcmQgXyBTZXR0aW5nIOeahOioreWumuizh+aWmQokaWRDYXJkPWFycmF5KCk7CiRjYXJkSUQ9YXJyYXkoKTsKJG5vd0R1dHkgPSBhcnJheSgpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGVsc2Ugey8v5Yyv5YWl5Yi35Y2h6LOH5paZCiAgICAkcHV0SW5kZXggPSBhcnJheSgiMSIsICIwIiwgIjIiKTsKICAgIGlmIChjb3VudCgkX1BPU1RbJ3JlY29yZCddKSA9PSAwKSB7CiAgICAgICAgJGZwICAgICAgID0gZm9wZW4oJGltcG9ydF9maWxlLCAiciIpOwogICAgICAgICRwdXREYXRhICA9IGFycmF5KCk7CiAgICAgICAgJHB1dEluZGV4ID0gYXJyYXkoKTsKICAgICAgICAkQXR0ck51bSAgPSAwOwoKICAgICAgICBpZiAoJGZwID09IHRydWUpIHsKICAgICAgICAgICAgd2hpbGUgKCRsbmRhdGEgPSBmZ2V0Y3N2KCRmcCwgNTEyMCwgIiwiKSkgewogICAgICAgICAgICAgICAgLy8gIOS4jeino+aekOashOS9jSwg5Zu65a6a56ys5LiA5qyE54K65pmC6ZaTLCDnrKzkuozmrITngrrljaHomZ8sIOesrOS4ieashOeCuuS4iuS4i+ePrQogICAgICAgICAgICAgICAgJEF0dHJOdW0gID0gMzsKICAgICAgICAgICAgICAgICRwdXRJbmRleCA9IGFycmF5KCIxIiwgIjAiLCAiMiIpOwogICAgICAgICAgICAgICAgJHRlbXAgICAgID0gYXJyYXkoIiIsICIiKTsKICAgICAgICAgICAgICAgIGZvciAoJGkgPSAwOyAkaSA8ICRBdHRyTnVtOyAkaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgJGlkeCA9ICRwdXRJbmRleFskaV07CiAgICAgICAgICAgICAgICAgICAgaWYgKCFlbXB0eSgkZW5jb2RpbmcpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICR0c3RyID0ga3d1dDJfY29udmVydCgkZW5jb2RpbmcsICJVVEY4IiwgJGxuZGF0YVskaV0pOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICR0c3RyID0ga3d1dDJfY29udmVydCgiQklHNSIsICJVVEY4IiwgJGxuZGF0YVskaV0pOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAkdHN0ciAgICAgICA9IHN0cl9yZXBsYWNlKCJcclxuIiwgIiIsICR0c3RyKTsKICAgICAgICAgICAgICAgICAgICAkdHN0ciAgICAgICA9IGFkZHNsYXNoZXMoJHRzdHIpOwogICAgICAgICAgICAgICAgICAgICR0ZW1wWyRpZHhdID0gJHRzdHI7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkdGVtcEFsbCA9IGFycmF5KCk7CiAgICAgICAgICAgICAgICAkZGV0YWlsICA9IGdldGRhdGUoc3RydG90aW1lKCR0ZW1wWzFdKSk7CgogICAgICAgICAgICAgICAgaWYgKGdldFRJTUUoJGRldGFpbCkgPT0gMCkKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKCiAgICAgICAgICAgICAgICBpZiAoaXNzZXQoJHRlbXBbMF0pKSB7IC8vIOashOS9jeato+eiuiwg5pyJ5YC8CiAgICAgICAgICAgICAgICAgICAgaWYgKGlzc2V0KCRjYXJkSURbJHRlbXBbMF1dKSkgeyAvLyDmnInpgJnlgIvljaHomZ8KCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpc3NldCgkZHV0eVskaWREdXR5WyRjYXJkSURbJHRlbXBbMF1dXV0pKSAvLyDmnInpgJnlgIvnj63liKUKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJGlkQXJyYXlbJGNhcmRJRFskdGVtcFswXV1dICAgICAgICAgICAgICAgICAgICAgICAgICAgPSAkY2FyZElEWyR0ZW1wWzBdXTsgLy8gZm9yIHNldCBzaGlmdAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJG5vd0luY2x1ZGVUaW1lICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPSBzdHJ0b3RpbWUoJHRlbXBbMV0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJG5ld1RlbXBbJGNhcmRJRFskdGVtcFswXV1dW2VtcHR5YmFjaygkdGVtcFsyXSwgMCldW10gPSAkbm93SW5jbHVkZVRpbWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoJHN0YXJ0ID4gJG5vd0luY2x1ZGVUaW1lKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRzdGFydCA9ICRub3dJbmNsdWRlVGltZTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICgkZW5kIDwgJG5vd0luY2x1ZGVUaW1lKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRlbmQgPSAkbm93SW5jbHVkZVRpbWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bnNldCgkeSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkcm93Kys7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZmNsb3NlKCRmcCk7CiAgICAgICAgfQogICAgfSBlbHNlIHsKICAgICAgICAvLyDovYnmj5sgLyDnmoTml6XmnJ/miJAgLQogICAgICAgIC8vIGlmIChlbXB0eWJhY2soJF9QT1NUWydub19zeXN0ZW10aW1lJ10sMCk9PTEpewogICAgICAgIC8vICAgICAkX1BPU1RbJ3JlY29yZCddW2NvdW50KCRfUE9TVFsncmVjb3JkJ10pLTFdWzFdID0gc3RyX3JlcGxhY2UoIi8iLCItIiwkX1BPU1RbJ3JlY29yZCddW2NvdW50KCRfUE9TVFsncmVjb3JkJ10pLTFdWzFdKTsKICAgICAgICAvLyB9ZWxzZXsKICAgICAgICAvLyAgICAgJF9QT1NUWydyZWNvcmQnXVtjb3VudCgkX1BPU1RbJ3JlY29yZCddKS0xXVsxXSA9IGRhdGUoIlktbS1qIEg6aTpzIik7CiAgICAgICAgLy8gfQoKICAgICAgICAvLyAkX1BPU1RbJ3JlY29yZCddW2NvdW50KCRfUE9TVFsncmVjb3JkJ10pLTFdWzJdID0gJF9TRVJWRVJbJ1JFTU9URV9BRERSJ107IC8vIOWPluW+l+aJk+WNoeS9jee9riBJUAogICAgICAgICRsYXN0ZXN0UmVjb3JkID0gJF9QT1NUWydyZWNvcmQnXVtjb3VudCgkX1BPU1RbJ3JlY29yZCddKSAtIDFdOyAvLyDmnIDov5HnmoToqJjpjIQKICAgICAgICAkdGVtcGRhdGUgICAgICA9IHNwbGl0KCIgIiwgJGxhc3Rlc3RSZWNvcmRbMV0pOwogICAgICAgICRnb0hvbWUgICAgICAgID0gKGNvdW50KCRfUE9TVFsncmVjb3JkJ10pID09IDMpID8gdHJ1ZSA6IGZhbHNlOyAvLyDkuIvnj63miZPljaEKICAgICAgICAvLyDmlLnnlLHlhYjmipPos4fmlpksIOWGjeaPkuWFpSwg5oqT6LOH5paZ5LiA5a6a5piv5LiK5qyh55qE57WQ5p6cLCDmipPlrozlvozlho3lkIjkvbXpgJnmrKHos4fmlpkKICAgICAgICAkdW5DbG9zZWQgPSByc0V4dCgic2VsZWN0IHVzZXJpZCwgY3JlYXRldGltZSwgcmVtb3RlX2FkZHIsIHB1bmNodHlwZSBmcm9tIHZhY2F0aW9uX2NhcmRwdW5jaCB3aGVyZSB1c2VyaWQ9PyBhbmQgY3JlYXRldGltZSBiZXR3ZWVuID8gYW5kID8gIiwKICAgICAgICAgICAgImV4ZU9ubGluZSIsIGFycmF5KCRsYXN0ZXN0UmVjb3JkWzBdLCAkdGVtcGRhdGVbMF0gLiAiIDAwOjAwIiwgJHRlbXBkYXRlWzBdIC4gIiAyMzo1OSIpKTsKICAgICAgICAvLyDmj5LlhaUKICAgICAgICBzZXRycygiaW5zZXJ0IGludG8gdmFjYXRpb25fY2FyZHB1bmNoICh1c2VyaWQsY3JlYXRldGltZSxyZW1vdGVfYWRkcixwdW5jaHR5cGUpIHZhbHVlcyAoPyw/LD8sPykiLAogICAgICAgICAgICBhcnJheSgkbGFzdGVzdFJlY29yZFswXSwgJGxhc3Rlc3RSZWNvcmRbMV0sICRsYXN0ZXN0UmVjb3JkWzJdLCAoJGdvSG9tZSA/IDIgOiAxKSkpOwogICAgICAgICR1bkNsb3NlZFtdID0gYXJyYXkoCiAgICAgICAgICAgICRsYXN0ZXN0UmVjb3JkWzBdLAogICAgICAgICAgICBzdHJfcmVwbGFjZSgiLjAwMCIsICIiLCBzdHJfcmVwbGFjZSgiOjAwLjAwMCIsICIiLCAkbGFzdGVzdFJlY29yZFsxXSkpLAogICAgICAgICAgICAkbGFzdGVzdFJlY29yZFsyXSwKICAgICAgICAgICAgKCRnb0hvbWUgPyAyIDogMSkKICAgICAgICApOwogICAgICAgIHVuc2V0KCRfUE9TVFsncmVjb3JkJ10pOwoKICAgICAgICBmb3IgKCR4ID0gMDsgJHggPCBjb3VudCgkdW5DbG9zZWQpOyAkeCsrKSB7CiAgICAgICAgICAgIGlmIChpc3NldCgkdW5DbG9zZWRbJHhdWzBdKSkgeyAvLyDmrITkvY3mraPnorosIOacieWAvAogICAgICAgICAgICAgICAgaWYgKGlzc2V0KCRkdXR5WyRpZER1dHlbJHVuQ2xvc2VkWyR4XVswXV1dKSkgLy8g5pyJ6YCZ5YCL54+t5YilCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgJGlkQXJyYXlbJHVuQ2xvc2VkWyR4XVswXV0gPSAkdW5DbG9zZWRbJHhdWzBdOyAvLyBmb3Igc2V0IHNoaWZ0CiAgICAgICAgICAgICAgICAgICAgJG5vd0luY2x1ZGVUaW1lICAgICAgICAgICAgPSBzdHJ0b3RpbWUoJHVuQ2xvc2VkWyR4XVsxXSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGNvdW50KCR1bkNsb3NlZCkgPT0gMSkgLy8g5Y+q5pyJ5LiA562G5LiN5YiG5LiK5LiL54+tCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAkbmV3VGVtcFskdW5DbG9zZWRbJHhdWzBdXVswXVtdID0gJG5vd0luY2x1ZGVUaW1lOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICRuZXdUZW1wWyR1bkNsb3NlZFskeF1bMF1dWyR1bkNsb3NlZFskeF1bM11dW10gPSAkbm93SW5jbHVkZVRpbWU7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBpZiAoJHN0YXJ0ID4gJG5vd0luY2x1ZGVUaW1lKQogICAgICAgICAgICAgICAgICAgICAgICAkc3RhcnQgPSAkbm93SW5jbHVkZVRpbWU7CiAgICAgICAgICAgICAgICAgICAgaWYgKCRlbmQgPCAkbm93SW5jbHVkZVRpbWUpCiAgICAgICAgICAgICAgICAgICAgICAgICRlbmQgPSAkbm93SW5jbHVkZVRpbWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cn0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JHNoaWZ0RHV0eSA9IGFycmF5KCk7IC8vIGZvciBzZXQgc2hpZnQKJGlkRHV0eSA9IGFycmF5KCk7CiRZTUQgPSAiMTk5OS0xMi0zMSI7IC8vIOewoeWMlueoi+W8j+eivOeUqCwg5b6eICRZTUQg5L6G55qECiRzdGFydCA9IDMwMDAwMDAwMDA7CgoK</text>
+        <text encoding="base64">Ly8gICAgaWYgKGZpbGVfZXhpc3RzKCRpbXBvcnRfZmlsZSkpIHsKLy8gICAgICAgIHNldHJzKCJpbnNlcnQgaW50byBhcF9pb2ZpbGUgKHJwYyx1c2VyaWQsZmlsZSkgdmFsdWVzICg/LD8sPykiLGFycmF5KCJWQV9JbXBvcnRfY2xvY2tpbmcuaW5jIiwkX191aWQsIiEhZm4iLiRpbXBvcnRfZmlsZSkpOwovLyAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -941,34 +935,34 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JGR1dHkgPSByc0V4dGV4ZTIoInNlbGVjdCBDQVRFR09SWSxUMDAsVDAxLFQwMixUMDMsVDEwLFQxMSxUMTIsVDEzLFQyMCxUMjEsVDIyLFQyMyxUMzAsVDMxLFQzMixUMzMsVDQwLFQ0MSxUNDIsVDQzLFQ1MCxUNTEsVDUyLFQ1MyxUNjAsVDYxLFQ2MixUNjMscmVnaW9uIGZyb20gRFVUWSIsYXJyYXkoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGR1dHlfaWQgPSByc0V4dCgic2VsZWN0IGR1dHlfaWQgLCBjYXRlZ29yeSBmcm9tIGR1dHkgIiwiZXhlMyIpOwo=</text>
+        <text encoding="base64">c2V0U2hpZnQoIGRhdGUoIlktbS1kIiwoJHN0YXJ0LTg2NDAwKSksZGF0ZSgiWS1tLWQiLCRlbmQrODY0MDApLCRpZEFycmF5KTsgLy8g5YWI6aCQ5YWl6LyJ5YWlCgovLyDmjpLkuIDkuIssIOWPluW+l+acgOWkp+aZgumWk+WSjOacgOWwj+aZgumWkwoKd2hpbGUobGlzdCgkdSwkdmFsdWVzKSA9IGVhY2goJG5ld1RlbXApKSB7IC8vICR1ID0g5L2/55So6ICFIGlkCiAgICB3aGlsZShsaXN0KCRrZXksJHZhbHVlKSA9IGVhY2goJHZhbHVlcykpIHsgLy8gJGtleSA9IOS4iuS4i+ePreaIluaykuiorSwgJHZhbHVlID0gdG90YWwgcmVjb3JkCiAgICAgICAgJGIgPSAmJHZhbHVlOwogICAgICAgIHNvcnQoJGIpOwogICAgICAgIGZvciAoJGk9MDskaTxjb3VudCgkdmFsdWUpOyRpKyspCiAgICAgICAgewogICAgICAgICAgICBpZiAoJGtleT09MSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJG5EID0gd2hhdER1dHkoJHZhbHVlWyRpXSwkdSk7CiAgICAgICAgICAgICAgICAkWU1EID0gZGF0ZSgiWS1tLWQiLCR2YWx1ZVskaV0pOwogICAgICAgICAgICAgICAgJFNFQyA9IGdldFRJTUUoJHZhbHVlWyRpXSk7Ci8vICAgICAgICAgICAgICAgIGVjaG8gInRlc3QiLiR2YWx1ZVskaV0uIi0iLnN0cnRvdGltZSgkWU1EKS4iXG4iOwovLyAgICAgICAgICAgICAgICBlY2hvICJraWxsLSIuKCgkdmFsdWVbJGldLXN0cnRvdGltZSgkWU1EKSkvNjApLiJ0bz8iOwogICAgICAgICAgICAgICAgJHRvZGF5QnllID0gMDsKCiAgICAgICAgICAgICAgICBpZiAoJG5EWzNdIT0wIHx8ICRuRFsyXSE9MCl7CiAgICAgICAgICAgICAgICAgICAgJHRvZGF5QnllID0gc3RydG90aW1lKCRZTUQpICsgJG5EWzNdKjYwOwogICAgICAgICAgICAgICAgfWVsc2UgaWYgKCRuRFsxXSE9MCB8fCAkbkRbMF0hPTApCiAgICAgICAgICAgICAgICAgICAgJHRvZGF5QnllID0gc3RydG90aW1lKCRZTUQpICsgJG5EWzNdKjYwOwoKICAgICAgICAgICAgICAgIGlmICgkdG9kYXlCeWU9PTApIC8vIOS7iuWkqeaUvuWBhwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICRuZXh0WU1EID0gZGF0ZSgiWS1tLWQiLCR2YWx1ZVskaV0rODY0MDApOwogICAgICAgICAgICAgICAgICAgICR0bkQgPSB3aGF0RHV0eSgkdmFsdWVbJGldKzg2NDAwLCR1KTsgLy8g5piO5aSp55qE54+t5YilCiAgICAgICAgICAgICAgICAgICAgJHRvbW9ycm93Q29tZSA9IDA7CgogICAgICAgICAgICAgICAgICAgIGlmICgkdG5EWzBdIT0wIHx8ICR0bkRbMV0hPTApCiAgICAgICAgICAgICAgICAgICAgICAgICR0b21vcnJvd0NvbWUgPSBzdHJ0b3RpbWUoJG5leHRZTUQpICsgJHRuRFswXSo2MDsKCiAgICAgICAgICAgICAgICAgICAgaWYgKCR0b21vcnJvd0NvbWU9PTAgfHwgKGFicyggKCR2YWx1ZVskaV0tJHRvbW9ycm93Q29tZSkgKSA+ICg2MCo2MCo0KSApKSAvLyDmmI7lpKnkuZ/mmK/mlL7lgYcsIOS4iuePreaZgumWk+i2hemBjuaYjuWkqeS4iuePreaZgumWk+Wbm+Wwj+aZguS7peS4iiwg6KqN54K66YCZ5piv5LiA5YCL5Yqg54+tCiAgICAgICAgICAgICAgICAgICAgICAgIG5vcm1hbFJvdXRlKCRtYWluWyR1XVskWU1EXSwkdmFsdWVbJGldLCRuRCk7CiAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlzc2V0KCRtYWluWyR1XVskbmV4dFlNRF1bMF0pKQogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoJHZhbHVlWyRpXTwkbWFpblskdV1bJG5leHRZTURdWzBdKSAvLyDopoHmr5TmmI7lpKnnmoTkuIrnj63ml6kKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkbWFpblskdV1bJG5leHRZTURdWzBdPSR2YWx1ZVskaV07ICAgICAgICAvLyBhY3RbMV0gPSDliLfljaHkuIvnj60KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRtYWluWyR1XVskbmV4dFlNRF1bMF09JHZhbHVlWyRpXTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgaWYgKCR2YWx1ZVskaV08PSR0b2RheUJ5ZSkgLy8g5pyA6YGg6Zui5LuK5aSp5LiL54+t5pmC6ZaTLCDlsLHmmK/ku4rlpKnnmoTkuIrnj63oqJjpjIQsIOS4jeeEtuWwseaYr+aYjuWkqeeahOS4iuePrSwg5q2k6KiY6YyELCDkuI3lvpfmr5TmmI7lpKnnmoTkuIvnj63mmZoKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBpZiAoaXNzZXQoJG1haW5bJHVdWyRZTURdWzBdKSkKICAgICAgICAgICAgICAgICAgICB7IC8vIOacieioreWumuafkOaXpeeahOacgOaXqeWIt+WNoeaZgumWkywg5Yik5pa35piv5ZCm5pyJ5pu05bCP5pmC6ZaTCiAgICAgICAgICAgICAgICAgICAgICAgIGlmICgkdmFsdWVbJGldIDwgJG1haW5bJHVdWyRZTURdWzBdKQogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkbGFzdFlNRCA9IGRhdGUoIlktbS1kIiwkdmFsdWVbJGldLTg2NDAwKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpc3NldCgkbWFpblskdV1bJGxhc3RZTURdWzFdKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoJHZhbHVlWyRpXT4kbWFpblskdV1bJGxhc3RZTURdWzFdKSAvLyDopoHmr5TmmKjlpKnnmoTkuIvnj63ml6kKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRtYWluWyR1XVskWU1EXVswXT0kdmFsdWVbJGldOyAgICAgICAgLy8gYWN0WzBdID0g5Yi35Y2h5LiK54+tCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlCiAgICAgICAgICAgICAgICAgICAgICAgICRtYWluWyR1XVskWU1EXVswXT0kdmFsdWVbJGldOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAkWU1EID0gZGF0ZSgiWS1tLWQiLCR2YWx1ZVskaV0rODY0MDApOwogICAgICAgICAgICAgICAgICAgICRTRUMgPSBnZXRUSU1FKCR2YWx1ZVskaV0pOwogICAgICAgICAgICAgICAgICAgIGlmIChpc3NldCgkbWFpblskdV1bJFlNRF1bMF0pKQogICAgICAgICAgICAgICAgICAgIHsgLy8g5pyJ5q+U5piO5aSp55qE5LiK54+t5pep5LiA6bueLCDoppbngrrmmI7lpKnnmoTkuIrnj60KICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCR2YWx1ZVskaV0gPCAkbWFpblskdV1bJFlNRF1bMF0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkbWFpblskdV1bJFlNRF1bMF09JHZhbHVlWyRpXTsgICAgICAgIC8vIGFjdFswXSA9IOWIt+WNoeS4iuePrQogICAgICAgICAgICAgICAgICAgIH0gZWxzZQogICAgICAgICAgICAgICAgICAgICAgICAkbWFpblskdV1bJFlNRF1bMF09JHZhbHVlWyRpXTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgIH0gZWxzZSBpZiAoJGtleT09MikgewogICAgICAgICAgICAgICAgJG5EID0gd2hhdER1dHkoJHZhbHVlWyRpXSwkdSk7CiAgICAgICAgICAgICAgICAkWU1EID0gZGF0ZSgiWS1tLWQiLCR2YWx1ZVskaV0pOwogICAgICAgICAgICAgICAgJFNFQyA9IGdldFRJTUUoJHZhbHVlWyRpXSk7CgogICAgICAgICAgICAgICAgJHRvZGF5Q29tZSA9IDA7CgogICAgICAgICAgICAgICAgaWYgKCRuRFswXSE9MCB8fCAkbkRbMV0hPTApCiAgICAgICAgICAgICAgICAgICAgJHRvZGF5Q29tZSA9IHN0cnRvdGltZSgkWU1EKSArICRuRFswXSo2MDsKCiAgICAgICAgICAgICAgICBpZiAoJHRvZGF5Q29tZT09MCkgLy8g5LuK5aSp5pS+5YGHCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgJGxhc3RZTUQgPSBkYXRlKCJZLW0tZCIsJHZhbHVlWyRpXS04NjQwMCk7CiAgICAgICAgICAgICAgICAgICAgJGxuRCA9IHdoYXREdXR5KCR2YWx1ZVskaV0tODY0MDAsJHUpOyAvLyDmmKjlpKnnmoTnj63liKUKICAgICAgICAgICAgICAgICAgICAkeWVzdG9kYXlCeWUgPSAwOwoKICAgICAgICAgICAgICAgICAgICBpZiAoJGxuRFsyXSE9MCB8fCAkbG5EWzNdIT0wKXsKICAgICAgICAgICAgICAgICAgICAgICAgJHllc3RvZGF5QnllID0gc3RydG90aW1lKCRsYXN0WU1EKSArICRsbkRbM10qNjA7CiAgICAgICAgICAgICAgICAgICAgfWVsc2UgaWYgKCRuRFsxXSE9MCB8fCAkbkRbMF0hPTApCiAgICAgICAgICAgICAgICAgICAgICAgICR5ZXN0b2RheUJ5ZSA9IHN0cnRvdGltZSgkbGFzdFlNRCkgKyAkbG5EWzNdKjYwOwoKICAgICAgICAgICAgICAgICAgICBpZiAoJHllc3RvZGF5QnllPT0wIHx8IChhYnMoICgkdmFsdWVbJGldLSR5ZXN0b2RheUJ5ZSkgKSA+ICg2MCo2MCo0KSApKSB7Ly8g5pio5aSp5Lmf5piv5pS+5YGHLCDkuIvnj63mmYLplpPotoXpgY7mmKjlpKnkuIvnj63mmYLplpPlm5vlsI/mmYLku6XkuIosIOiqjeeCuumAmeaYr+S4gOWAi+WKoOePrQogICAgICAgICAgICAgICAgICAgICAgICBub3JtYWxSb3V0ZSgkbWFpblskdV1bJFlNRF0sJHZhbHVlWyRpXSwkbkQpOwogICAgICAgICAgICAgICAgICAgIH1lbHNlCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXNzZXQoJG1haW5bJHVdWyRsYXN0WU1EXVsxXSkpCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICgkdmFsdWVbJGldPiRtYWluWyR1XVskbGFzdFlNRF1bMV0pIC8vIOimgeavlOaYqOWkqeeahOS4i+ePreaZmgogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRtYWluWyR1XVskbGFzdFlNRF1bMV09JHZhbHVlWyRpXTsgICAgICAgIC8vIGFjdFsxXSA9IOWIt+WNoeS4i+ePrQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJG1haW5bJHVdWyRsYXN0WU1EXVsxXT0kdmFsdWVbJGldOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZWxzZSBpZiAoJHZhbHVlWyRpXT49JHRvZGF5Q29tZSkgLy8g5pyA6Z2g6L+R5LuK5aSp5LiK54+t5pmC6ZaTLCDlsLHmmK/ku4rlpKnnmoTkuIvnj63oqJjpjIQsIOS4jeeEtuWwseaYr+aYqOWkqeeahOS4i+ePrQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGlmIChpc3NldCgkbWFpblskdV1bJFlNRF1bMV0pKQogICAgICAgICAgICAgICAgICAgIHsgLy8g5pyJ6Kit5a6a5p+Q5pel55qE5pyA5pma5Yi35Y2h5pmC6ZaTLCDliKTmlrfmmK/lkKbmnInmm7TlsI/mmYLplpMKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCR2YWx1ZVskaV0gPiAkbWFpblskdV1bJFlNRF1bMV0pCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRuZXh0WU1EID0gZGF0ZSgiWS1tLWQiLCR2YWx1ZVskaV0rODY0MDApOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlzc2V0KCRtYWluWyR1XVskbmV4dFlNRF1bMF0pKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICgkdmFsdWVbJGldPCRtYWluWyR1XVskbmV4dFlNRF1bMF0pIC8vIOimgeavlOaYjuWkqeeahOS4iuePreaXqQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJG1haW5bJHVdWyRZTURdWzFdPSR2YWx1ZVskaV07ICAgICAgICAvLyBhY3RbMV0gPSDliLfljaHkuIvnj60KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgJG1haW5bJHVdWyRZTURdWzFdPSR2YWx1ZVskaV07CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICRZTUQgPSBkYXRlKCJZLW0tZCIsJHZhbHVlWyRpXS04NjQwMCk7CgogICAgICAgICAgICAgICAgICAgIGlmIChpc3NldCgkbWFpblskdV1bJFlNRF1bMV0pKQogICAgICAgICAgICAgICAgICAgIHsgLy8g5pyJ5q+U5YmN5LiA5aSp55qE5LiL54+t55qE5pma5LiA6bueLCDoppbngrrliY3kuIDlpKnnmoTkuIvnj60KICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCR2YWx1ZVskaV0gPiAkbWFpblskdV1bJFlNRF1bMV0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkbWFpblskdV1bJFlNRF1bMV09JHZhbHVlWyRpXTsgICAgICAgIC8vIGFjdFsxXSA9IOWIt+WNoeS4i+ePrQogICAgICAgICAgICAgICAgICAgIH0gZWxzZQogICAgICAgICAgICAgICAgICAgICAgICAkbWFpblskdV1bJFlNRF1bMV09JHZhbHVlWyRpXTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgIH0gZWxzZSBpZiAoJGtleT09MykgeyAvLyAzIOaYr+WwiOmWgOeUqOS+hiBkZWxldGUg55qECiAgICAgICAgICAgICAgICAkWU1EID0gZGF0ZSgiWS1tLWQiLCR2YWx1ZVskaV0pOwogICAgICAgICAgICAgICAgc2V0cnMoImRlbGV0ZSBmcm9tIHZhY2F0aW9uX2NhcmQgd2hlcmUgdXNlcmlkPT8gYW5kIGNhcmRkYXRlPT8iLGFycmF5KCR1LCRZTUQpKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICRuRCA9IHdoYXREdXR5KCR2YWx1ZVskaV0sJHUpOwogICAgICAgICAgICAgICAgJFlNRCA9IGRhdGUoIlktbS1kIiwkdmFsdWVbJGldKTsKICAgICAgICAgICAgICAgIG5vcm1hbFJvdXRlKCRtYWluWyR1XVskWU1EXSwkdmFsdWVbJGldLCRuRCk7CiAgICAgICAgICAgIH0KICAgICAgICB9IC8vIGZvciAkaQogICAgfQp9Ci8vIOi3keWFqeasoei/tOWciOaYr+WboOeCuumAmeS4gOWAi+i/tOWciOimgeWFiOWhq+WlveWAvCwg5omN6IO96YCy6LOH5paZ5bqrCiRzID0gMDsgLy8gc3VjY2VzcwoKd2hpbGUobGlzdCgkdXNlcl9pZCwkZGF0ZV9wYXJ0KSA9IGVhY2goJG1haW4pKQp7CiAgICB3aGlsZShsaXN0KCRrZXksJHZhbHVlKSA9IGVhY2goJGRhdGVfcGFydCkpCiAgICB7CiAgICAgICAgJG5vd0R1dHkgPSB3aGF0RHV0eShzdHJ0b3RpbWUoJGtleSksJHVzZXJfaWQpOwovLyAgICAgICAg6Kit5a6aIFsyXX5bN10KICAgICAgICBzZXRNYWluKCRub3dEdXR5LCRrZXksJG1haW5bJHVzZXJfaWRdWyRrZXldKTsKLy8gICAgICAgIOWIpOWIpeWvq+WFpeeLgOaFiwogICAgICAgICRTVEFUPTA7Ci8vICAgICAgICDkuIrnj63nuL3lsI/mmYLmlbggKOS4iuePreWIt+WNoS3kuIvnj63liLfljaEpCiAgICAgICAgJEhPVVI9KCRtYWluWyR1c2VyX2lkXVska2V5XVsxXT09MCB8fCAkbWFpblskdXNlcl9pZF1bJGtleV1bMF09PTAgfHwgIWlzc2V0KCRtYWluWyR1c2VyX2lkXVska2V5XVsxXSkgfHwgIWlzc2V0KCRtYWluWyR1c2VyX2lkXVska2V5XVswXSkgPyAwIDogKCRtYWluWyR1c2VyX2lkXVska2V5XVsxXS0kbWFpblskdXNlcl9pZF1bJGtleV1bMF0pLzYwICk7Ci8vICAgICAgICDmgaLlvqnkuIrkuIvnj63liLfljaHmmYLplpPngrogMC0xNDQwCiAgICAgICAgbm9ybWFsVGltZSgkbWFpblskdXNlcl9pZF1bJGtleV0pOwovLyAgICAgICAg5bCP5pmC5pW4LCAo5LiL54+t5Yi35Y2h5bCP5pa85Lit5Y2I5LiK54+t5pmC6ZaTIG9yIOS4iuePreWIt+WNoeWkp+aWvOS4iuWNiOS4i+ePreaZgumWkykg5bCx5LiN5rib5Y675Lit5Y2I5LyR5oGv5pmC6ZaTCi8vICAgICAgICBlY2hvICIka2V5LSIuJG1haW5bJHVzZXJfaWRdWyRrZXldWzBdLiItIi4kbWFpblskdXNlcl9pZF1bJGtleV1bMV0uIi0iLiRtYWluWyR1c2VyX2lkXVska2V5XVszXS4iLSIuJG1haW5bJHVzZXJfaWRdWyRrZXldWzRdLiJcbiI7CiAgICAgICAgJEhPVVI9JEhPVVItKCAoJG1haW5bJHVzZXJfaWRdWyRrZXldWzFdPCRtYWluWyR1c2VyX2lkXVska2V5XVs0XSB8fCAkbWFpblskdXNlcl9pZF1bJGtleV1bMF0+JG1haW5bJHVzZXJfaWRdWyRrZXldWzddKSA/IDAgOiRtYWluWyR1c2VyX2lkXVska2V5XVs2XSk7CgogICAgICAgIGlmICgkSE9VUjw9MCkKICAgICAgICAgICAgJEhPVVIgPSAwOwogICAgICAgIGVsc2UKICAgICAgICAgICAgJEhPVVI9cm91bmQoJEhPVVIvNjAsMik7CiAgICAgICAgc2V0cnMoImRlbGV0ZSBmcm9tIHZhY2F0aW9uX2NhcmQgd2hlcmUgdXNlcmlkPT8gYW5kIGNhcmRkYXRlPT8iLGFycmF5KCR1c2VyX2lkLCRrZXkpKTsKICAgICAgICBzZXRycygiaW5zZXJ0IGludG8gdmFjYXRpb25fY2FyZCAodXNlcmlkLCBjYXJkZGF0ZSwgYWN0X3N0YXJ0LGFjdF9lbmQgLCBkdXR5X3N0YXJ0ICwgZHV0eV9lbmQgLCBzdGF0dXMgLCBob3VycyAsIGR1dHksIGR1dHlfbWlkLGFjdF9taWQpIHZhbHVlcyAoPyw/LD8sPyw/LD8sPyw/LD8sPyw/KSIsCiAgICAgICAgICAgIGFycmF5KCR1c2VyX2lkLCRrZXksJG1haW5bJHVzZXJfaWRdWyRrZXldWzBdLCRtYWluWyR1c2VyX2lkXVska2V5XVsxXSwkbWFpblskdXNlcl9pZF1bJGtleV1bMl0sJG1haW5bJHVzZXJfaWRdWyRrZXldWzNdLCRTVEFULCRIT1VSLGdldER1dHkoJGtleSwkdXNlcl9pZCksJG1haW5bJHVzZXJfaWRdWyRrZXldWzRdLCRtYWluWyR1c2VyX2lkXVska2V5XVs1XSkpOwogICAgICAgICRzKys7CiAgICAgICAgaWYgKCRzJTgwPT03OSkgLy8g5q+P5YWr5Y2B562G6YeN5ZWf6LOH5paZ5bqrCiAgICAgICAgewogICAgICAgICAgICAkX19kYiA9IHJwY19jb25uZWN0X2RiKCk7CiAgICAgICAgfQoKICAgIH0KfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JG1haW4gPSByc0V4dGV4ZTEoInNlbGVjdCBoLnNlY3VyaXR5LHUuaWQsaC5kdXR5IGZyb20gdXNlcmdyb3VwIHUsaHJfZW1wbG95ZWUgaCB3aGVyZSBoLm93bmVyaWQ9dS5pZCBhbmQgdS5sb2NrPTAgYW5kIGguZHV0eSBpcyBub3QgbnVsbCBhbmQgaC5zZWN1cml0eSBpcyBub3QgbnVsbCBhbmQgaC5zZWN1cml0eTw+JycgYW5kIGguZHV0eTw+JyciLGFycmF5KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JG5ld1RlbXAgPSBhcnJheSgpOwo=</text>
+        <text encoding="base64">JHNoaWZ0RHV0eSA9IGFycmF5KCk7IC8vIGZvciBzZXQgc2hpZnQKJGlkRHV0eSA9IGFycmF5KCk7CiRZTUQgPSAiMTk5OS0xMi0zMSI7IC8vIOewoeWMlueoi+W8j+eivOeUqCwg5b6eICRZTUQg5L6G55qECiRzdGFydCA9IDMwMDAwMDAwMDA7CiRkdXR5ID0gcnNFeHRleGUyKCJzZWxlY3QgQ0FURUdPUlksVDAwLFQwMSxUMDIsVDAzLFQxMCxUMTEsVDEyLFQxMyxUMjAsVDIxLFQyMixUMjMsVDMwLFQzMSxUMzIsVDMzLFQ0MCxUNDEsVDQyLFQ0MyxUNTAsVDUxLFQ1MixUNTMsVDYwLFQ2MSxUNjIsVDYzLHJlZ2lvbiBmcm9tIERVVFkiLGFycmF5KCkpOwokZHV0eV9pZCA9IHJzRXh0KCJzZWxlY3QgZHV0eV9pZCAsIGNhdGVnb3J5IGZyb20gZHV0eSAiLCJleGUzIik7CiRtYWluID0gcnNFeHRleGUxKCJzZWxlY3QgaC5zZWN1cml0eSx1LmlkLGguZHV0eSBmcm9tIHVzZXJncm91cCB1LGhyX2VtcGxveWVlIGggd2hlcmUgaC5vd25lcmlkPXUuaWQgYW5kIHUubG9jaz0wIGFuZCBoLmR1dHkgaXMgbm90IG51bGwgYW5kIGguc2VjdXJpdHkgaXMgbm90IG51bGwgYW5kIGguc2VjdXJpdHk8PicnIGFuZCBoLmR1dHk8PicnIixhcnJheSgpKTsKJG5ld1RlbXAgPSBhcnJheSgpOwokY2FsSHIgPSByc0V4dCgic2VsZWN0IHJlZ2lvbiwgc2V0eWVhciwgc2V0bW9udGgsIHNldGRheSwgaG9saXR5cGUgZnJvbSBocl9jb2NhbGVuZGFyIiwiZXhlNCIpOwokRXhwb3J0VEMgPSAi5Y2h6JmfLOaZgumWkyI7CiRFeHBvcnRFbiA9ICJObyxUaW1lIjsKJEV4cG9ydENuID0gIuWNoSYjMjE0OTU7LCYjMjYxMDI7JiMzODM4ODsiOwokSW1wb3J0QXJyID0gYXJyYXkoCiLljaHomZ8iID0+IDAsICLmmYLplpMiID0+IDEsCiJObyIgPT4gMCwgIlRpbWUiID0+IDEsCiLljaEmIzIxNDk1OyIgPT4gMCwgIiYjMjYxMDI7JiMzODM4ODsiID0+IDEKKTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JGNhbEhyID0gcnNFeHQoInNlbGVjdCByZWdpb24sIHNldHllYXIsIHNldG1vbnRoLCBzZXRkYXksIGhvbGl0eXBlIGZyb20gaHJfY29jYWxlbmRhciIsImV4ZTQiKTsK</text>
+        <text encoding="base64">Ly8g5Y+W5b6XIENhcmQgXyBTZXR0aW5nIOeahOioreWumuizh+aWmQokaWRDYXJkPWFycmF5KCk7CiRjYXJkSUQ9YXJyYXkoKTsKJG5vd0R1dHkgPSBhcnJheSgpOwpmdW5jdGlvbiBnZXRXZWVrKCYkdCkgewogICAgcmV0dXJuIGRhdGUoInciLChpbnQpJHQpOwp9CgpmdW5jdGlvbiBnZXRNRDIoJHllYXIsJG1vbnRoLCRkYXkpeyAvLyBNIOWwseaYr+aciCwgRCDlsLHmmK/ml6UKICAgIHJldHVybiAkeWVhci4iLSIuc3Vic3RyKCIwIi4kbW9udGgsLTIsMikuIi0iLnN1YnN0cigiMCIuJGRheSwtMiwyKTsKfQoKZnVuY3Rpb24gZ2V0VElNRSgmJHZhbCl7CiAgICByZXR1cm4gZGF0ZSgiaSIsKGludCkkdmFsKSsoZGF0ZSgiSCIsKGludCkkdmFsKSo2MCk7Cn0KZnVuY3Rpb24gZXhlNCgmJGFyciwkcm93LCRrZXksJHZhbCkgIC8vIOWPluW+l+aVtOmrlOihjOS6iwp7CiAgICBpZiAoJGtleT09MCkKICAgIHsKICAgICAgICAkYXJyWyRyb3ddWyRrZXldID0gJHZhbDsKICAgIH0gZWxzZSBpZiAoJGtleT09MSkgewogICAgICAgICRhcnJbJHJvd11bJGtleV0gPSAkdmFsOwogICAgfSBlbHNlIGlmICgka2V5PT0yKSB7CiAgICAgICAgJGFyclskcm93XVska2V5XSA9ICR2YWw7CiAgICB9IGVsc2UgaWYgKCRrZXk9PTMpIHsKICAgICAgICAkYXJyWyRyb3ddWyRrZXldID0gJHZhbDsKICAgIH0gZWxzZSBpZiAoJGtleT09NCkgewogICAgICAgICRhcnJbZ2V0TUQyKCRhcnJbJHJvd11bMV0sJGFyclskcm93XVsyXSwkYXJyWyRyb3ddWzNdKV1bMF0gPSAkYXJyWyRyb3ddWzBdOwogICAgICAgICRhcnJbZ2V0TUQyKCRhcnJbJHJvd11bMV0sJGFyclskcm93XVsyXSwkYXJyWyRyb3ddWzNdKV1bMV0gPSAkdmFsOwogICAgICAgIHVuc2V0KCRhcnJbJHJvd10pOwogICAgfQp9CmZ1bmN0aW9uIGV4ZU9ubGluZSgmJGFyciwkcm93LCRrZXksJHZhbCkgIC8vIOe3muS4iuWIt+WNoQp7Ci8vICBnbG9iYWwgJF9QT1NULCRsYXN0ZXN0UmVjb3JkOwogICAgaWYgKCRrZXk9PTEpCiAgICB7CiAgICAgICAgJGFyclskcm93XVska2V5XSA9IHN0cl9yZXBsYWNlKCIuMDAwIiwiIixzdHJfcmVwbGFjZSgiOjAwLjAwMCIsIiIsJHZhbCkpOyAvLyDlsL7mlbjkuI3opoHkuoYsIOWIsOWIhumQmAogICAgfSBlbHNlIHsKICAgICAgICAkYXJyWyRyb3ddWyRrZXldID0gJHZhbDsKICAgIH0KfQpmdW5jdGlvbiBzZXRTaGlmdCgmJHMsJiRlLCYkYWNjTGlzdCkgLy8g6Kit5a6a5o6S54+t6KGoLCDliIblibLkvb/nlKjogIUsIOW7uueri+mZo+WIlwp7CiAgICBnbG9iYWwgJHNoaWZ0RHV0eTsKICAgIHNsaWNlUnMoInNlbGVjdCBzZXRkYXRlLHVzZXJpZCxkdXR5X2lkLHJlc3QgZnJvbSB2YWNhdGlvbl9jYXJkX3NoaWZ0IHdoZXJlIHNldGRhdGU+PT8gYW5kIHNldGRhdGUgPD0/IGFuZCB1c2VyaWQgIiwgJGFjY0xpc3QsIGFycmF5KCRzLCRlKSwgImV4ZTUiLCBmYWxzZSk7Cn0KCgpmdW5jdGlvbiBleGU1KCYkYXJyLCRyb3csJGtleSwkdmFsKSAgLy8g5Y+W5b6X5o6S54+tCnsKICAgIGdsb2JhbCAkZHV0eV9pZCwkc2hpZnREdXR5OwogICAgaWYgKCRrZXk9PTApCiAgICB7CiAgICAgICAgJGFyclskcm93XVska2V5XSA9ICR2YWw7CiAgICB9IGVsc2UgaWYgKCRrZXk9PTEpIHsKICAgICAgICAkYXJyWyRyb3ddWyRrZXldID0gJHZhbDsKICAgIH0gZWxzZSBpZiAoJGtleT09MikgewogICAgICAgICRzaGlmdER1dHlbJGFyclskcm93XVswXV1bJGFyclskcm93XVsxXV1bImR1dHkiXT0kZHV0eV9pZFskdmFsXTsKICAgIH0gZWxzZSBpZiAoJGtleT09MykgewogICAgICAgICRzaGlmdER1dHlbJGFyclskcm93XVswXV1bJGFyclskcm93XVsxXV1bInJlc3QiXT0kdmFsOwogICAgICAgIHVuc2V0KCRhcnJbJHJvd10pOwogICAgfQp9CmZ1bmN0aW9uIGV4ZTMoJiRhcnIsJHJvdywka2V5LCR2YWwpICAvLyDlj5blvpdEdXR5X0lEIC0tLSDnj63liKUKewogICAgaWYgKCRrZXk9PTApCiAgICB7CiAgICAgICAgJGFyclsiUyIuJHJvd11bJGtleV0gPSAkdmFsOwogICAgfSBlbHNlIGlmICgka2V5PT0xKSB7CiAgICAgICAgJGFyclskYXJyWyJTIi4kcm93XVswXV0gPSAkdmFsOwogICAgICAgIHVuc2V0KCRhcnJbIlMiLiRyb3ddKTsKICAgIH0KfQpmdW5jdGlvbiBleGUyKCYkYXJyLCRyb3csJGtleSwkdmFsKSAgLy8g5Y+W5b6XRHV0eeWIl+ihqAp7CiAgICBpZiAoJGtleT09MCkKICAgIHsKICAgICAgICAkYXJyWyRyb3ddWyRrZXldID0gJHZhbDsKICAgIH0gZWxzZSBpZiAoJGtleT4wICYmICRrZXkgPD0yOCkgewogICAgICAgIGlmICgkdmFsIT0iIikKICAgICAgICB7CiAgICAgICAgICAgICRnID0gZXhwbG9kZSgiOiIsJHZhbCk7CiAgICAgICAgICAgICRhcnJbJGFyclskcm93XVswXV1bKCgka2V5LTEpLzQpXVsgKCgka2V5LTEpICUgNCldPSRnWzBdKjYwKyRnWzFdOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICRhcnJbJGFyclskcm93XVswXV1bKCgka2V5LTEpLzQpXVsgKCgka2V5LTEpICUgNCldPTA7CiAgICAgICAgfQogICAgfSBlbHNlIGlmICgka2V5PT0yOSkgewogICAgICAgICRhcnJbJGFyclskcm93XVswXV1bInJlZ2lvbiJdPSR2YWw7CiAgICAgICAgdW5zZXQoJGFyclskcm93XSk7CiAgICB9Cn0KZnVuY3Rpb24gbGltaXQoJiRhKSAvLyDpmZDliLbkuI3og73otoXpgY4gc3RhcnQgJiBlbmQKewovLyAgICByZXR1cm47CiAgICBnbG9iYWwgJHN0YXJ0LCAkZW5kOwogICAgaWYgKCRhPCRpbnRzdGFydCkgJGEgPSAkaW50c3RhcnQ7CiAgICBpZiAoJGE+JGludGVuZCkgJGEgPSAkaW50ZW5kOwp9CmZ1bmN0aW9uIGdldER1dHkoJFlNRCwmJHUpCnsKICAgIGdsb2JhbCAkc2hpZnREdXR5LCRjYWxIciwkZHV0eSwkaWREdXR5OwoKICAgICRZTUQgPSBkYXRlKCJZLW0tZCIsIHN0cnRvdGltZSgkWU1EKSk7CgogICAgaWYgKGlzc2V0KCRzaGlmdER1dHlbJFlNRF1bJHVdWyJyZXN0Il0pICYmICgkc2hpZnREdXR5WyRZTURdWyR1XVsicmVzdCJdPT0xIHx8ICRzaGlmdER1dHlbJFlNRF1bJHVdWyJyZXN0Il09PTApKSAvLyAgICDmjpLnj63kuIrnj60KICAgIHsKICAgICAgICAvLyDlnKjmjpLnj63ooajkuK3mnInoqK3lrpoKICAgICAgICByZXR1cm4gJHNoaWZ0RHV0eVskWU1EXVskdV1bImR1dHkiXTsKICAgIH0gZWxzZSB7IC8vIOS4gOiIrOS4iuePreaXpQogICAgICAgIHJldHVybiAkaWREdXR5WyR1XTsKICAgIH0KfQpmdW5jdGlvbiByYW5nZUR1dHkoJGRlc0FycikKewogICAgaWYgKCRkZXNBcnJbMV08JGRlc0FyclswXSAmJiAoJGRlc0FyclswXSE9MCB8fCAkZGVzQXJyWzFdIT0wKSkgJGRlc0FyclsxXSArPSAxNDQwOwogICAgaWYgKCRkZXNBcnJbMl08JGRlc0FyclsxXSAmJiAoJGRlc0FyclsxXSE9MCB8fCAkZGVzQXJyWzJdIT0wKSkgJGRlc0FyclsyXSArPSAxNDQwOwogICAgaWYgKCRkZXNBcnJbM108JGRlc0FyclsyXSAmJiAoJGRlc0FyclsyXSE9MCB8fCAkZGVzQXJyWzNdIT0wKSkgJGRlc0FyclszXSArPSAxNDQwOwogICAgcmV0dXJuICRkZXNBcnI7Cn0KZnVuY3Rpb24gd2hhdER1dHkoJHQsJiR1KQp7CiAgICBnbG9iYWwgJHNoaWZ0RHV0eSwkY2FsSHIsJGR1dHksJGlkRHV0eTsKCiAgICAkWU1EID0gZGF0ZSgiWS1tLWQiLCR0KTsKCiAgICAkdyA9IGdldFdlZWsoJHQpOwoKICAgIGlmIChpc3NldCgkc2hpZnREdXR5WyRZTURdWyR1XVsicmVzdCJdKSAmJiAoJHNoaWZ0RHV0eVskWU1EXVskdV1bInJlc3QiXT09MSB8fCAkc2hpZnREdXR5WyRZTURdWyR1XVsicmVzdCJdPT0wKSkgLy8gICAg5o6S54+t5LiK54+tCiAgICB7CiAgICAgICAgLy8g5Zyo5o6S54+t6KGo5Lit5pyJ6Kit5a6aCiAgICAgICAgaWYgKCRzaGlmdER1dHlbJFlNRF1bJHVdWyJyZXN0Il09PTApCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gcmFuZ2VEdXR5KCRkdXR5WyRzaGlmdER1dHlbJFlNRF1bJHVdWyJkdXR5Il1dWyR3XSk7CiAgICAgICAgfSBlbHNlIGlmICgkc2hpZnREdXR5WyRZTURdWyR1XVsicmVzdCJdPT0xKSB7CiAgICAgICAgLy8g5o6S5a6a5LyR5YGHCiAgICAgICAgICAgIHJldHVybiBhcnJheSgwLDAsMCwwKTsKICAgICAgICB9CgogICAgfSBlbHNlICBpZiAoaXNzZXQoJGNhbEhyWyRZTURdKSAmJiAkZHV0eVskaWREdXR5WyR1XV1bInJlZ2lvbiJdPT0kY2FsSHJbJFlNRF1bMF0pIHsgLy8g5ZyL5a6a5YGH5pelCiAgICAgICAgaWYgKCRjYWxIclskWU1EXVsxXT09MCkgeyAvLyDpgJnlpKnmmK/lnIvlrprlgYfml6UKICAgICAgICAgICAgcmV0dXJuIGFycmF5KDAsMCwwLDApOwogICAgICAgIH0gZWxzZSBpZiAoJGNhbEhyWyRZTURdWzFdPjEpIHsgLy8g6KaB6KOc5LiK54+tCiAgICAgICAgICAgIGlmICgkY2FsSHJbJFlNRF1bMV09PTgpICR3ID0gMDsgZWxzZSAkdyA9ICRjYWxIclskWU1EXVsxXS0xOyA7CiAgICAgICAgICAgIHJldHVybiByYW5nZUR1dHkoJGR1dHlbJGlkRHV0eVskdV1dWyR3XSk7CiAgICAgICAgfQogICAgfSBlbHNlIHsgLy8g5LiA6Iis5LiK54+t5pelCiAgICAgICAgcmV0dXJuIHJhbmdlRHV0eSgkZHV0eVskaWREdXR5WyR1XV1bJHddKTsKICAgIH0KfQpmdW5jdGlvbiBzZXRNYWluKCYkbm93RHV0eSwmJFlNRCwgJiRkYXRhICkgLy8g5L2/55So54+t5YilLCDmmYLplpMsIOizh+aWmeeahHJlZgp7CiAgICBpZiAoJG5vd0R1dHlbMF0gPT0gMCAmJiAkbm93RHV0eVsxXSA9PTApeyAvLyDpgqPlpKnkuIrljYjopoHkuIrnj60gICAgWzJd5LiK54+t5pmC6ZaTCiAgICAgICAgJGRhdGFbMl0gPSAkbm93RHV0eVsyXTsKICAgICAgICAkZGF0YVs3XSA9ICRub3dEdXR5WzNdOyAvLyBbN10g5LiK5Y2I5LiK54+t5LmL5LiL54+t5pmC6ZaTLCDlg4XnlKjkvobnrpcgJEhPVVIg5omj5Y2I5LyR5pmC6ZaT5Yik5pa3CiAgICB9ZWxzZSB7CiAgICAgICAgJGRhdGFbMl0gPSAkbm93RHV0eVswXTsKICAgICAgICAkZGF0YVs3XSA9ICRub3dEdXR5WzFdOwogICAgfQogICAgaWYgKCRub3dEdXR5WzJdID09IDAgJiYgJG5vd0R1dHlbM10gPT0gMCkgeyAvLyDpgqPlpKnkuIvljYjopoHkuIrnj60gWzNd5LiL54+t5pmC6ZaTCiAgICAgICAgJGRhdGFbM10gPSAkbm93RHV0eVsxXTsKICAgIH0gZWxzZQogICAgICAgICRkYXRhWzNdID0gJG5vd0R1dHlbM107Ci8vICAgIOS4reWNiOWIt+WNoSBbNF0g6KiY6YyE5a2Y5Zyo6LOH5paZ5bqr55qECiAgICBpZiAoJG5vd0R1dHlbMl0gPT0gMCAmJiAkbm93RHV0eVszXSA9PSAwKSB7CiAgICAgICAgJGRhdGFbNF0gPSAwOwogICAgICAgICRkYXRhWzVdID0gMDsKICAgICAgICAkZGF0YVs2XSA9IDA7IC8vIOS4reWNiOS8keaBr+aZgumWkwogICAgfSBlbHNlIHsKICAgICAgICAgLy8g6YKj5aSp5LiL5Y2I6KaB5LiK54+tCiAgICAgICAgJGRhdGFbNF0gPSAkbm93RHV0eVsyXTsKICAgICAgICAkZGF0YVs2XSA9ICRub3dEdXR5WzJdIC0gJG5vd0R1dHlbMV07IC8vIOS4reWNiOS8keaBr+aZgumWkwogICAgfQp9CmZ1bmN0aW9uIG5vcm1hbFRpbWUoJiRkYXRhKQp7CiAgICBpZiAoaXNzZXQoJGRhdGFbMF0pKQogICAgICAgIGlmICgkZGF0YVswXT4yODgwKQogICAgICAgICAgICAkZGF0YVswXSA9IGdldFRJTUUoJGRhdGFbMF0pOwogICAgaWYgKGlzc2V0KCRkYXRhWzFdKSkKICAgICAgICBpZiAoJGRhdGFbMV0+Mjg4MCkKICAgICAgICAgICAgJGRhdGFbMV0gPSBnZXRUSU1FKCRkYXRhWzFdKTsKLy8gICAgaWYgKCRkYXRhWzBdPjE0NDApCi8vICAgICAgICAkZGF0YVswXSA9ICRkYXRhWzBdLTE0NDA7Ci8vICAgIGlmICgkZGF0YVsxXT4xNDQwKQovLyAgICAgICAgJGRhdGFbMV0gPSAkZGF0YVsxXS0xNDQwOwp9CmZ1bmN0aW9uIG5vcm1hbFJvdXRlKCYkZGF0YSwmJHQsJiRub3dEdXR5KQp7CiAgICBpZiAoaXNzZXQoJGRhdGFbMF0pKQogICAgeyAvLyDmnInoqK3lrprmn5Dml6XnmoTmnIDml6nliLfljaHmmYLplpMsIOWIpOaWt+aYr+WQpuacieabtOWwj+aZgumWkwogICAgICAgIGlmICgkdCA8ICRkYXRhWzBdKQogICAgICAgICAgICAkZGF0YVswXT0kdDsgICAgICAgIC8vIGFjdFswXSA9IOWIt+WNoeS4iuePrQogICAgfSBlbHNlCiAgICAgICAgJGRhdGFbMF09JHQ7CiAgICBpZiAoaXNzZXQoJGRhdGFbMV0pKQogICAgeyAvLyDmnInoqK3lrprmn5Dml6XnmoTmnIDmmZrliLfljaHmmYLplpMsIOWIpOaWt+aYr+WQpuacieabtOWwj+aZgumWkwogICAgICAgIGlmICgkdCA+ICRkYXRhWzFdKQogICAgICAgICAgICAkZGF0YVsxXT0kdDsgICAgICAgIC8vIGFjdFsxXSA9IOWIt+WNoeS4i+ePrQogICAgfSBlbHNlCiAgICAgICAgJGRhdGFbMV09JHQ7CgogICAgaWYgKCRub3dEdXR5WzJdICE9IDApIHsKICAgICAgICBpZiAoKCFpc3NldCgkZGF0YVs1XSkpIHx8ICRkYXRhWzVdPT0wKQogICAgICAgIHsgLy8g5pyJ6Kit5a6a5p+Q5pel55qE5pyA5pep5Yi35Y2h5pmC6ZaTLCDliKTmlrfmmK/lkKbmnInmm7TlsI/mmYLplpMKICAgICAgICAgICAgaWYgKGdldFRJTUUoJGRhdGFbMV0pID4gJG5vd0R1dHlbMV0gKQogICAgICAgICAgICAgICAgJGRhdGFbNV09Z2V0VElNRSgkZGF0YVsxXSk7ICAgICAgICAvLyBhY3RbNV0gPSDkuK3ljYjlr6bpmpvliLfljaEKICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgJGRhdGFbNV09MDsKICAgICAgICB9CiAgICB9Cgp9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JEV4cG9ydFRDID0gIuWNoeiZnyzmmYLplpMiOwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0TUQoJGFycil7IC8vIE0g5bCx5piv5pyILCBEIOWwseaYr+aXpQogICAgcmV0dXJuICRhcnJbJ3llYXInXS4iLSIuc3Vic3RyKCIwIi4kYXJyWydtb24nXSwtMiwyKS4iLSIuc3Vic3RyKCIwIi4kYXJyWydtZGF5J10sLTIsMik7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JEV4cG9ydEVuID0gIk5vLFRpbWUiOwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gZXhlMSgmJGFyciwkcm93LCRrZXksJHZhbCkgIC8vIOWPluW+l0NhcmRMaXN05YiX6KGoCnsKICAgIGdsb2JhbCAkaWRDYXJkLCRpZER1dHksJGNhcmRJRDsKCiAgICBpZiAoJGtleT09MCkKICAgIHsKICAgICAgICAkYXJyWyJTIi4kcm93XVska2V5XSA9ICR2YWw7CiAgICB9IGVsc2UgaWYgKCRrZXk9PTEpIHsKICAgICAgICAkYXJyWyJTIi4kcm93XVska2V5XSA9ICR2YWw7CiAgICAgICAgJGlkQ2FyZFskdmFsXT0gJGFyclsiUyIuJHJvd11bMF07CiAgICAgICAgJGNhcmRJRFskYXJyWyJTIi4kcm93XVswXV09ICR2YWw7CiAgICB9IGVsc2UgaWYgKCRrZXk9PTIpIHsKICAgICAgICAkaWREdXR5WyRhcnJbIlMiLiRyb3ddWzFdXSA9ICR2YWw7CgogICAgICAgICRhcnJbJGFyclsiUyIuJHJvd11bMV1dID0gYXJyYXkoKTsKICAgICAgICB1bnNldCgkYXJyWyJTIi4kcm93XSk7CiAgICB9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>action MethodDown</text>
       </register>
     </registers>
     <search>
-      <last-search>CS</last-search>
+      <last-search>wh</last-search>
       <last-offset />
-      <last-pattern>CS</last-pattern>
+      <last-pattern>wh</last-pattern>
       <last-replace>child</last-replace>
       <last-substitute>19</last-substitute>
       <last-dir>1</last-dir>
@@ -976,7 +970,6 @@
     </search>
     <history>
       <history-search>
-        <entry>13</entry>
         <entry>2019</entry>
         <entry>10</entry>
         <entry>va</entry>
@@ -996,10 +989,9 @@
         <entry encoding="base64">IGZ1bmN0aW9u</entry>
         <entry>8</entry>
         <entry>CS</entry>
+        <entry>wh</entry>
       </history-search>
       <history-cmd>
-        <entry>144</entry>
-        <entry>w</entry>
         <entry>448</entry>
         <entry>445</entry>
         <entry>action GotoNextError</entry>
@@ -1014,9 +1006,11 @@
         <entry>action IntroduceField</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action ChangeSignature</entry>
-        <entry>action MethodUp</entry>
         <entry>action Run</entry>
+        <entry>action Inline</entry>
+        <entry>w</entry>
         <entry>action Back</entry>
+        <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
       </history-cmd>
       <history-expr />
