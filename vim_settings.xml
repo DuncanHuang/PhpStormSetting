@@ -404,6 +404,12 @@
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_shift.inc" timestamp="1556790095346">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="102" column="15" />
+        <mark key="." line="102" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.3.0.migration.sql" timestamp="1555318228140">
         <mark key="[" line="13" column="25" />
         <mark key="]" line="13" column="24" />
@@ -800,10 +806,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA0YTYxZGQ0OTguLi4gSXNzdWUgIzM1MzggOC4zLjEgUmVsZWFzZSAtIOS/ruatoyBSZWxlYXNlIENhY2hlIOe3qOeivAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>24</text>
+        <text>microtime(true)</text>
       </register>
       <register name="/" type="4">
         <text>con</text>
@@ -815,10 +821,10 @@
         <text encoding="base64">LSB2OC4yLjQgKDIwMTktMDQtMTYpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA0YTYxZGQ0OTguLi4gSXNzdWUgIzM1MzggOC4zLjEgUmVsZWFzZSAtIOS/ruatoyBSZWxlYXNlIENhY2hlIOe3qOeivAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL3NjcmlwdC9jb21tb24uanM/MjAxOTA0MTYxMzU1XzExODc2XzdlMDhiYWVkOCI+PC9zY3JpcHQ+PCEtLW11c3QgbG9hZGVkIGFmdGVyIE5ldGFzay5qcy0tPgo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIuLi9zY3JpcHQvdXRpbHMuanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIuLi9zY3JpcHQvSU1EYXRlUGlja2VyLmpzIj48L3NjcmlwdD4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLi4vdXRpbGl0aWVzL0F0dGFjaGVzX0FkZC5qcz8yMDE5MDQxNjEzNTVfMTE4NzZfN2UwOGJhZWQ4Ij48L3NjcmlwdD4KPT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHRpbWUnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -928,28 +934,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA0YTYxZGQ0OTguLi4gSXNzdWUgIzM1MzggOC4zLjEgUmVsZWFzZSAtIOS/ruatoyBSZWxlYXNlIENhY2hlIOe3qOeivAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECjxzY3JpcHQgc3JjPSIuLi9zY3JpcHQvY29tbW9uLmpzPzIwMTkwNDE2MTM1NV8xMTg3Nl83ZTA4YmFlZDgiPjwvc2NyaXB0PjwhLS1tdXN0IGxvYWRlZCBhZnRlciBOZXRhc2tUb3AuanMtLT4KPT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA0YTYxZGQ0OTguLi4gSXNzdWUgIzM1MzggOC4zLjEgUmVsZWFzZSAtIOS/ruatoyBSZWxlYXNlIENhY2hlIOe3qOeivAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA0YTYxZGQ0OTguLi4gSXNzdWUgIzM1MzggOC4zLjEgUmVsZWFzZSAtIOS/ruatoyBSZWxlYXNlIENhY2hlIOe3qOeivAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL3NjcmlwdC9jb21tb24uanM/MjAxOTA0MTYxMzU1XzExODc2XzdlMDhiYWVkOCI+PC9zY3JpcHQ+PCEtLW11c3QgbG9hZGVkIGFmdGVyIE5ldGFzay5qcy0tPgo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIuLi9zY3JpcHQvdXRpbHMuanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIuLi9zY3JpcHQvSU1EYXRlUGlja2VyLmpzIj48L3NjcmlwdD4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLi4vdXRpbGl0aWVzL0F0dGFjaGVzX0FkZC5qcz8yMDE5MDQxNjEzNTVfMTE4NzZfN2UwOGJhZWQ4Ij48L3NjcmlwdD4KPT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL3NjcmlwdC9jb21tb24uanM/MjAxOTA0MTYxMzU1XzExODc2XzdlMDhiYWVkOCI+PC9zY3JpcHQ+PCEtLW11c3QgbG9hZGVkIGFmdGVyIE5ldGFzay5qcy0tPgo9PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiA0YTYxZGQ0OTguLi4gSXNzdWUgIzM1MzggOC4zLjEgUmVsZWFzZSAtIOS/ruatoyBSZWxlYXNlIENhY2hlIOe3qOeivAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA0YTYxZGQ0OTguLi4gSXNzdWUgIzM1MzggOC4zLjEgUmVsZWFzZSAtIOS/ruatoyBSZWxlYXNlIENhY2hlIOe3qOeivAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECjxzY3JpcHQgc3JjPSIuLi9zY3JpcHQvY29tbW9uLmpzPzIwMTkwNDE2MTM1NV8xMTg3Nl83ZTA4YmFlZDgiPjwvc2NyaXB0PjwhLS1tdXN0IGxvYWRlZCBhZnRlciBOZXRhc2tUb3AuanMtLT4KPT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL3NjcmlwdC9jb21tb24uanM/MjAxOTA0MTYxMzU1XzExODc2XzdlMDhiYWVkOCI+PC9zY3JpcHQ+PCEtLW11c3QgbG9hZGVkIGFmdGVyIE5ldGFzay5qcy0tPgo9PT09PT09Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Pj4+Pj4+PiA0YTYxZGQ0OTguLi4gSXNzdWUgIzM1MzggOC4zLjEgUmVsZWFzZSAtIOS/ruatoyBSZWxlYXNlIENhY2hlIOe3qOeivAo=</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL3NjcmlwdC9jb21tb24uanM/MjAxOTA0MTYxMzU1XzExODc2XzdlMDhiYWVkOCI+PC9zY3JpcHQ+PCEtLW11c3QgbG9hZGVkIGFmdGVyIE5ldGFzay5qcy0tPgo9PT09PT09Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>121</text>
+        <text>80</text>
       </register>
     </registers>
     <search>
@@ -985,8 +991,6 @@
         <entry>con</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
-        <entry>174</entry>
         <entry>13</entry>
         <entry>action IntroduceField</entry>
         <entry>199</entry>
@@ -1005,6 +1009,8 @@
         <entry>action Back</entry>
         <entry>4</entry>
         <entry>121</entry>
+        <entry>80</entry>
+        <entry encoding="base64">JzwsJz44MA==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
