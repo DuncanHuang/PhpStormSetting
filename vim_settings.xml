@@ -299,11 +299,11 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/findex.php" timestamp="1556876504277">
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
-        <mark key="^" line="233" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/findex.php" timestamp="1556877762681">
+        <mark key="[" line="234" column="0" />
+        <mark key="]" line="234" column="0" />
+        <mark key="^" line="234" column="98" />
+        <mark key="." line="234" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.jp" timestamp="1556090675907">
         <mark key="[" line="144" column="22" />
@@ -777,7 +777,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>600</text>
+        <text>JSON</text>
       </register>
       <register name="/" type="4">
         <text>PDO</text>
@@ -905,25 +905,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZGF0YSA9IEpTT04ucGFyc2Uocy5yZXBsYWNlKC9eW1xzXFNdKihkYXRhPSkvLCAnJykucmVwbGFjZSgvKDtcbnBhcmVudC5EYXRhUmVhZHkpW1xzXFNdKiQvLCAnJykpOwoKICAgICAgICBpZiAoZGF0YVswXVswXSAhPT0gMCkgewogICAgICAgICAgYWxlcnQoZGF0YVswXVsxXSk7CiAgICAgICAgICBsb2NhdGlvbi5ocmVmID0gJy8nICsgZ2V0Q29va2llKCdsYW5nJykgKyAnLyc7CiAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZGF0YSA9IEpTT04ucGFyc2Uocy5yZXBsYWNlKC9eW1xzXFNdKihkYXRhPSkvLCAnJykucmVwbGFjZSgvKDtcbnBhcmVudC5EYXRhUmVhZHkpW1xzXFNdKiQvLCAnJykpOwoKICAgICAgICBpZiAoZGF0YVswXVswXSAhPT0gMCkgewogICAgICAgICAgYWxlcnQoZGF0YVswXVsxXSk7CiAgICAgICAgICBsb2NhdGlvbi5ocmVmID0gJy8nICsgZ2V0Q29va2llKCdsYW5nJykgKyAnLyc7CiAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JHRlc3QgPSAkS1dDUjJUZW1wbGF0ZURBTy0+dGVzdCgpOwplY2hvICc8cHJlPic7dmFyX2R1bXAoJHRlc3QpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU0VMRUNUIFVTRUFHRU5UIAogICAgICAgICAgICAgIEZST00gSFJfRU1QTE9ZRUUKICAgICAgICAgICAgIFdIRVJFIE9XTkVSSUQgPSA/Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">JHRlc3QgPSAkS1dDUjJUZW1wbGF0ZURBTy0+dGVzdCgpOwplY2hvICc8cHJlPic7dmFyX2R1bXAoJHRlc3QpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU0VMRUNUIFVTRUFHRU5UIAogICAgICAgICAgICAgIEZST00gSFJfRU1QTE9ZRUUKICAgICAgICAgICAgIFdIRVJFIE9XTkVSSUQgPSA/Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgKCFlbXB0eSgkcmVzdWx0KSAmJiAkcmVzdWx0WydVU0VBR0VOVCddID09IDEpIHsKICAgICRpc191c2VkX2FnZW50ID0gdHJ1ZTsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -959,7 +959,6 @@
         <entry>PDO</entry>
       </history-search>
       <history-cmd>
-        <entry>action Inline</entry>
         <entry>action Forward</entry>
         <entry>160</entry>
         <entry>4</entry>
@@ -976,9 +975,10 @@
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
         <entry>6</entry>
-        <entry>action Back</entry>
         <entry>219</entry>
         <entry>w</entry>
+        <entry>44</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
