@@ -5,6 +5,13 @@
       <mark key="M" line="42" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.importlog-migration.php" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/DBConnector.php" timestamp="1556870615028">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="22" />
+        <mark key="^" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" timestamp="1556863208267" />
       <file name="$USER_HOME$/Documents/laravel-tw/community/routes/web.php" timestamp="1553051529186">
         <mark key="[" line="13" column="57" />
@@ -429,6 +436,12 @@
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/AbstractEmployeeDAO.php" timestamp="1556870478605">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.3.0.migration.sql" timestamp="1555318228140">
         <mark key="[" line="13" column="25" />
         <mark key="]" line="13" column="24" />
@@ -480,11 +493,11 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/dao.php" timestamp="1556869483646">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="50" />
-        <mark key="." line="10" column="50" />
-        <mark key="^" line="10" column="50" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/dao.php" timestamp="1556870827342">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="6" column="51" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" timestamp="1552022370885">
         <mark key="[" line="276" column="41" />
@@ -498,11 +511,11 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/WF/KWCR2TemplateDAO.php" timestamp="1556869698640">
-        <mark key="[" line="70" column="67" />
-        <mark key="]" line="70" column="66" />
-        <mark key="." line="70" column="66" />
-        <mark key="^" line="70" column="66" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/WF/KWCR2TemplateDAO.php" timestamp="1556870398473">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="82" column="60" />
+        <mark key="." line="82" column="60" />
+        <mark key="^" line="82" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Common.php" timestamp="1556614169162">
         <mark key="[" line="107" column="25" />
@@ -547,7 +560,13 @@
         <mark key="^" line="91" column="8" />
         <mark key="." line="91" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556869696975">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/PDOEmployeeDAO.php" timestamp="1556870527622">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556870811544">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -655,8 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="47" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="65" column="15" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
       <jump line="68" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
       <jump line="77" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
@@ -755,6 +772,8 @@
       <jump line="42" column="1" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
       <jump line="208" column="48" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Service/XDoc/XDocMakerByFlow.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/dao.php" />
+      <jump line="2" column="44" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/dao.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/DBConnector.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -844,13 +863,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">JHRlc3QgPSAkS1dDUjJUZW1wbGF0ZURBTy0+dGVzdCgpOwplY2hvICc8cHJlPic7dmFyX2R1bXAoJHRlc3QpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>600</text>
       </register>
       <register name="/" type="4">
-        <text>temp</text>
+        <text>PDO</text>
       </register>
       <register name="o" type="4">
         <text />
@@ -859,10 +878,10 @@
         <text encoding="base64">LSB2OC4yLjQgKDIwMTktMDQtMTYpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">JHRlc3QgPSAkS1dDUjJUZW1wbGF0ZURBTy0+dGVzdCgpOwplY2hvICc8cHJlPic7dmFyX2R1bXAoJHRlc3QpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfY29tYmluZSgkZmllbGRzLCAkdG1wKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU0VMRUNUIFVTRUFHRU5UIAogICAgICAgICAgICAgIEZST00gSFJfRU1QTE9ZRUUKICAgICAgICAgICAgIFdIRVJFIE9XTkVSSUQgPSA/Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -972,34 +991,34 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGR1bmNhbgogKiBEYXRlOiAyMDE5LTA1LTAzCiAqIFRpbWU6IDE1OjQxCiAqLwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsKLy8gfCBQcm9qZWN0ICA6IGNhcmQgZGF0YSB0byBOZXRhc2sgICAgICAgICAgICAgICAgICAgICAgIHwKLy8gfCBQcm9ncmFtICA6IGNhcmQybmV0YXNrLnBocCAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKLy8gKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsKLy8gfCBJbnB1dCAgIDogREIgTWFrZXIgJiBGaWxlIGRhdGEgICAgICAgICAgICAgICAgICAgICAgIHwKLy8gfCBPdXRwdXQgIDogSU5TRVJUIERCICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKLy8gfCBDZGF0ZSAgIDogMjAxMS4xMi4xMiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKLy8gfCBVcGRhdGUgIDogMjAxNi4wNS4xMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKLy8gfCBWZXJzaW9uIDogMi4wICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKLy8gKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSsKLyoqCiAqIFVzYWdlOgogKiBseW54IGh0dHA6Ly9sb2NhbGhvc3QvY2FyZDJuZXRhc2sucGhwP29uZWRheT0xJmFjdD0tMSZjb25mPTEKICogRGF0YSBmb3JtYXQ6IOS+neaTmiBjb25maWcuY2FyZGRhdGFfaW1waXJ0LmluYwogKgogKiAvKgogKiBDaGFuZ2UgTG9nCiAqIHYyLjAKICogKDEp6Kq/5pW054K65b6e6Kit5a6a5qqUIGNvbmZpZy5jYXJkZGF0YV9pbXBpcnQuaW5jIOWPluW+l+agvOW8j+Wumue+qQogKgogKiB2MS42CiAqICgxKWZpeCBkdXR5IHdlZWsgY2hvaWNlIGVycm9yCiAqICgyKWZpeCDoqbLnj63liKXlj6rmnInkuIrljYjmiJbkuIvljYjvvIzlt6XkvZzmmYLmlbjoqIjnrpfpjK/oqqTllY/poYwKICoKICogdjEuNAogKiBhZGQgcGFyYW1ldGVyIHRvIHNldCBpbXBvcnQgb25lIGRheSBvciBhbGwgcmVjb3JkCiAqCiAqIHYxLjMKICogc2V0IGR1dHkgdGltZSBmcm9tIGRhdGFiYXNlCiAqCiAqIHYxLjI0CiAqIG1vZGlmeSBpbnNlcnREQigpIGZvciBtdWxpdCB2YWx1ZSBkZXRlY3QuCiAqCiAqIHYxLjIzCiAqIHNldCBkdXR5IHRpbWUgNTQwIC0+IDUxMCwgMTA4MCAtPiAxMDUwCiAqCiAqIHYxLjIyCiAqIG1vZGlmeSBnZXRGSUxFX2RhdGEoKSBmb3IgTWljcm9Qcm9ncmFtIGNhcmRkYXRhIGZvcm1hdC4KICogYWRkIHJlbW92ZUJPTSgpIGZyb20gcmVtb3ZlIDxVK0ZFRkY+IHN0YXJ0IHdpdGggZmlsZS4KICoKICogdjEuMjEKICogRml4IG9ubHkgdXBkYXRlIG9uZSByb3cgaXNzdWUuCiAqCiAqIHYxLjIKICogQWRkIHVwZGF0ZSBmdW5jdGlvbiB3aGVuIGFscmVhZHkgaW1wb3J0IGRhdGEgYmVmb3JlLgogKgogKiB2MS4xCiAqIEZpbGUgbmFtZSBjaGFuZ2UgdG8gWVlZTU1ERCsiLlR4dCIgb3IgIi5jc3YiCiAqCiAqIHYxLjAKICogRmlsZSBuYW1lIGNoYW5nZSB0byAiRFVUIitZWVlNTUREKyIudHh0IgogKi8KCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHN0YWZmX2ZpbGVfZGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2V4aXQoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJGNhcmRGaWxlU3RyZWFtKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7ZXhpdCgpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRjYXJkX2ZpbGVfZGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2V4aXQoKTsK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aWYgKCFlbXB0eSgkcmVzdWx0KSAmJiAkcmVzdWx0WydVU0VBR0VOVCddID09IDEpIHsKICAgICRpc191c2VkX2FnZW50ID0gdHJ1ZTsKfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">JGlzX3VzZWRfYWdlbnQgPSBmYWxzZTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">JEJBU0UgPSByZWFscGF0aChkaXJuYW1lKF9fRklMRV9fKSAuICcvLi4vLi4nKTsKcmVxdWlyZV9vbmNlICRCQVNFIC4gJy9Gb3VuZGF0aW9uL0RBTy9XRi9LV0NSMlRlbXBsYXRlREFPLnBocCc7CgokS1dDUjJUZW1wbGF0ZURBTyA9IG5ldyBLV0NSMlRlbXBsYXRlREFPKCk7CgokdGVzdCA9ICRLV0NSMlRlbXBsYXRlREFPLT50ZXN0KCk7CmVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkdGVzdCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8kZGV0YWlsICAgICAgICAgICA9ICRLV0NSMlRlbXBsYXRlREFPLT5nZXREZXRhaWwoMTUpOwovL2VjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkZGV0YWlsKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJHRtcCA9PSBmYWxzZSkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>temp</last-search>
+      <last-search>PDO</last-search>
       <last-offset />
-      <last-pattern>temp</last-pattern>
+      <last-pattern>PDO</last-pattern>
       <last-replace>child</last-replace>
       <last-substitute>19</last-substitute>
       <last-dir>1</last-dir>
@@ -1007,7 +1026,6 @@
     </search>
     <history>
       <history-search>
-        <entry>function test</entry>
         <entry encoding="base64">IGZ1bmN0aW9u</entry>
         <entry>8</entry>
         <entry>CS</entry>
@@ -1027,9 +1045,9 @@
         <entry>fge</entry>
         <entry>flowc</entry>
         <entry>temp</entry>
+        <entry>PDO</entry>
       </history-search>
       <history-cmd>
-        <entry>120</entry>
         <entry>132</entry>
         <entry>action Inline</entry>
         <entry>action Forward</entry>
@@ -1045,10 +1063,11 @@
         <entry>action RenameElement</entry>
         <entry>action Back</entry>
         <entry>2</entry>
-        <entry>action MethodDown</entry>
         <entry>action GotoNextError</entry>
-        <entry>w</entry>
+        <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
+        <entry>6</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
