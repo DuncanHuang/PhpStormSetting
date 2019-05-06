@@ -85,6 +85,13 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-05-21.yaml" timestamp="1557129981647">
+        <mark key="'" line="7" column="44" />
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CM/CM_TmList.inc" timestamp="1552891451033">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="16" />
@@ -590,7 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
       <jump line="77" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
       <jump line="24" column="19" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.carddata_import.inc" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.carddata_import.inc" />
@@ -690,6 +696,7 @@
       <jump line="2" column="44" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/dao.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/DBConnector.php" />
       <jump line="49" column="20" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/activity.php" />
+      <jump line="7" column="44" filename="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-05-21.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -779,10 +786,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>_8v42xzLBPY</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>_8v42xzLBPY</text>
       </register>
       <register name="/" type="4">
         <text>104</text>
