@@ -505,12 +505,12 @@
         <mark key="^" line="26" column="3" />
         <mark key="." line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.3.2.migration.sql" timestamp="1557194881500">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.3.2.migration.sql" timestamp="1557195933893">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="1" column="74" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1557194439547">
         <mark key="[" line="0" column="0" />
@@ -1005,12 +1005,12 @@
         <entry>215</entry>
         <entry>234</entry>
         <entry>action MethodUp</entry>
-        <entry>redo</entry>
         <entry>action EditorDeleteLine</entry>
         <entry>actionlist</entry>
         <entry encoding="base64">c291cmNlIC9Vc2Vycy9kdW5jYW4vLmlkZWF2aW1yYyA=</entry>
         <entry>action osmedile.intellij.stringmanip.ToUpperCaseAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gb3NtZWRpbGUuaW50ZWxsaWouc3RyaW5nbWFuaXAuVG9VcHBlckNhc2VBY3Rpb24=</entry>
+        <entry>redo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
