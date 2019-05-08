@@ -202,12 +202,12 @@
         <mark key="^" line="5" column="85" />
         <mark key="." line="5" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/remote/flowUpdate.php" timestamp="1557306828965">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/remote/flowUpdate.php" timestamp="1557308267517">
         <mark key="'" line="271" column="23" />
-        <mark key="[" line="271" column="33" />
-        <mark key="]" line="271" column="53" />
-        <mark key="^" line="271" column="53" />
-        <mark key="." line="271" column="53" />
+        <mark key="[" line="271" column="29" />
+        <mark key="]" line="271" column="28" />
+        <mark key="^" line="271" column="28" />
+        <mark key="." line="271" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_view_fixed.htm" timestamp="1553076077378">
         <mark key="[" line="10" column="38" />
@@ -451,12 +451,12 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_FlowUpdate.inc" timestamp="1557306853059">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_FlowUpdate.inc" timestamp="1557308241377">
         <mark key="'" line="156" column="4" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="150" column="17" />
-        <mark key="^" line="150" column="17" />
-        <mark key="." line="150" column="17" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="^" line="152" column="3" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.va_data_export.inc" timestamp="1557305014804">
         <mark key="[" line="22" column="0" />
@@ -1046,10 +1046,10 @@
         <text>?201905081426_12237_00d88a682</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgKCRfUE9TVFsnY2hlY2tEdXBsaWNhdGUnXSAhPSAnbm8nKSB7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1159,25 +1159,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9QYXRoIG9mIGV4cG9ydCBmaWxlIHRvIHNhdmUKZGVmaW5lKCdGSUxFX1BBVEgnLCAnL0NhcmREYXRhLycpOy8vIHNob3VsZCBiZSBjaG1vZCA3NzcKCi8v5piv5ZCm6L2J5o+b5YGH5Yil5Luj6JmfCmRlZmluZSgnVFJBTlNfVkFOTycsICcwJyk7Ly8gMDrkuI3ovYksIDE66L2J77yM6KaB5a2Y5ZyoIEZJTEVfUEFUSC52YV90YmwuY3N2CgovL+aYr+WQpui9ieaPm+WKoOePremhnuWIpeS7o+iZnwpkZWZpbmUoJ1RSQU5TX09UTk8nLCAnMCcpOy8vIDA65LiN6L2JLCAxOui9ie+8jOimgeWtmOWcqCBGSUxFX1BBVEgub3RfdGJsLmNzdgoKLy/ovYnnorzoqK3lrpogdTJiIG9yIGIydQpkZWZpbmUoJ1RSQU5TX0NIQVJTRVQnLCAndTJiJyk7CgovL+aYr+WQpui9ieeCunhsc+aqlOKWqwpkZWZpbmUoJ1RSQU5TMlhMUycsICcwJyk7Ly8gMDrkuI3ovYksIDE66L2J77yM6KaB5YWI5a6J6KOdIHVub2NvbnYKCi8v6Ly45Ye65qqU5qC85byPCmRlZmluZSgnSFJTWVNURU0nLCAnd2luY2FydCcpOyAgLy8gd2luY2FydCDmma7lpKlIUgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9QYXRoIG9mIGV4cG9ydCBmaWxlIHRvIHNhdmUKZGVmaW5lKCdGSUxFX1BBVEgnLCAnL0NhcmREYXRhLycpOy8vIHNob3VsZCBiZSBjaG1vZCA3NzcKCi8v5piv5ZCm6L2J5o+b5YGH5Yil5Luj6JmfCmRlZmluZSgnVFJBTlNfVkFOTycsICcwJyk7Ly8gMDrkuI3ovYksIDE66L2J77yM6KaB5a2Y5ZyoIEZJTEVfUEFUSC52YV90YmwuY3N2CgovL+aYr+WQpui9ieaPm+WKoOePremhnuWIpeS7o+iZnwpkZWZpbmUoJ1RSQU5TX09UTk8nLCAnMCcpOy8vIDA65LiN6L2JLCAxOui9ie+8jOimgeWtmOWcqCBGSUxFX1BBVEgub3RfdGJsLmNzdgoKLy/ovYnnorzoqK3lrpogdTJiIG9yIGIydQpkZWZpbmUoJ1RSQU5TX0NIQVJTRVQnLCAndTJiJyk7CgovL+aYr+WQpui9ieeCunhsc+aqlOKWqwpkZWZpbmUoJ1RSQU5TMlhMUycsICcwJyk7Ly8gMDrkuI3ovYksIDE66L2J77yM6KaB5YWI5a6J6KOdIHVub2NvbnYKCi8v6Ly45Ye65qqU5qC85byPCmRlZmluZSgnSFJTWVNURU0nLCAnd2luY2FydCcpOyAgLy8gd2luY2FydCDmma7lpKlIUgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMzNTY1ICAgIOS/ruatoyAg5beu5Yuk566h55CGLeWIt+WNoeiomOmMhC3mqqLoppbliLfljaHoqJjpjIQt5omT5Y2h54Wn54mH55qE6YCj57WQ6bue5LiN6ZaLCiAgICAjMzU2NiAgICDkv67mraMgIEFQUC3lt67li6TnrqHnkIYt5Zyo57O757Wx6Kit5a6a54K65ZWf55So5ouN54Wn5omT5Y2h5pmC77yM5o6l5pS254Wn54mH5Yik5pa355Ww5bi4Cg==</text>
+        <text encoding="base64">PD9waHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMzNTY2ICAgIOS/ruatoyAgQVBQLeW3ruWLpOeuoeeQhi3lnKjns7vntbHoqK3lrprngrrllZ/nlKjmi43nhafmiZPljaHmmYLvvIzmjqXmlLbnhafniYfliKTmlrfnlbDluLgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Forward</text>
