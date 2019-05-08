@@ -84,7 +84,13 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_progress_quarterly.htm" timestamp="1557287927453" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_progress_quarterly.htm" timestamp="1557299892415">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="6" column="84" />
+        <mark key="]" line="6" column="83" />
+        <mark key="^" line="6" column="83" />
+        <mark key="." line="6" column="83" />
+      </file>
       <file name="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-05-21.yaml" timestamp="1557291317106">
         <mark key="'" line="7" column="44" />
         <mark key="[" line="9" column="14" />
@@ -211,7 +217,12 @@
         <mark key="." line="7" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/fm/DragUpload.js" timestamp="1557282183916" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_progress_yearly.htm" timestamp="1557287920366" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_progress_yearly.htm" timestamp="1557298349606">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationCalculatorSuite.php" timestamp="1557214312754">
         <mark key="'" line="46" column="20" />
         <mark key="[" line="61" column="93" />
@@ -695,7 +706,13 @@
         <mark key="^" line="105" column="12" />
         <mark key="." line="105" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_progress_monthly.htm" timestamp="1557287934037" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_progress_monthly.htm" timestamp="1557299899064">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="84" />
+        <mark key="]" line="5" column="83" />
+        <mark key="." line="5" column="83" />
+        <mark key="^" line="5" column="83" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.vn" timestamp="1556090661846">
         <mark key="[" line="144" column="28" />
         <mark key="]" line="144" column="27" />
@@ -752,9 +769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="57" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
-      <jump line="125" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
-      <jump line="121" column="89" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
       <jump line="1362" column="13" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="228" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="223" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
@@ -852,6 +866,9 @@
       <jump line="115" column="88" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/index_va.htm" />
       <jump line="117" column="68" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/index_va.htm" />
       <jump line="7" column="62" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/tm/tm_viewDetail_new.htm" />
+      <jump line="6" column="12" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_progress_quarterly.htm" />
+      <jump line="5" column="60" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_progress_monthly.htm" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_progress_monthly.htm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1111,7 +1128,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>895</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -1164,9 +1181,9 @@
         <entry>action MethodDown</entry>
         <entry>action Forward</entry>
         <entry>action MethodUp</entry>
-        <entry>action Back</entry>
         <entry>892</entry>
         <entry>895</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
