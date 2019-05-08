@@ -61,7 +61,12 @@
         <mark key="^" line="9" column="1402" />
         <mark key="." line="9" column="1402" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/scripts/sign_stages_1.js" timestamp="1557279647310" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/scripts/sign_stages_1.js" timestamp="1557279849186">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.cn" timestamp="1556090644558">
         <mark key="[" line="144" column="20" />
         <mark key="]" line="144" column="21" />
@@ -197,6 +202,7 @@
         <mark key="^" line="7" column="41" />
         <mark key="." line="7" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/fm/DragUpload.js" timestamp="1557282183916" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationCalculatorSuite.php" timestamp="1557214312754">
         <mark key="'" line="46" column="20" />
         <mark key="[" line="61" column="93" />
@@ -458,6 +464,12 @@
         <mark key="]" line="192" column="54" />
         <mark key="^" line="192" column="54" />
         <mark key="." line="192" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1557283411104">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="46" />
+        <mark key="." line="10" column="46" />
+        <mark key="^" line="10" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/VacationRecordRepoTest.php" timestamp="1557207886935">
         <mark key="'" line="66" column="0" />
@@ -887,10 +899,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, 'end'</text>
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="-" type="4">
-        <text>, 'end'</text>
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="/" type="4">
         <text>getR</text>
