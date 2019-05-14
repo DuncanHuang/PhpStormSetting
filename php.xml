@@ -9,7 +9,7 @@
     <interpreters>
       <interpreter home="/Applications/MAMP/bin/php/php7.1.13/bin/php" id="17b4c1a0-3bb8-4c5e-87cc-70e0af860981" name="PHP 7.1.13" debugger_id="php.debugger.XDebug" />
       <interpreter home="/Applications/MAMP/bin/php/php7.1.20/bin/php" id="13d687f9-4a00-4788-b5ba-a6e154dbc259" name="PHP 7.1.20(MAMP)" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/MAMP/bin/php/php7.1.20/lib/php/extensions/no-debug-non-zts-20160303/xdebug.so" />
-      <interpreter home="$USER_HOME$/.phpbrew/php/php-7.1.23/bin/php" id="c8995579-cfc0-46af-ae8c-3016c567c290" name="PHP 7.1.23(phpbrew)" debugger_id="php.debugger.XDebug" />
+      <interpreter home="$USER_HOME$/.phpbrew/php/php-7.1.27/bin/php" id="c8995579-cfc0-46af-ae8c-3016c567c290" name="PHP 7.1.27(phpbrew)" debugger_id="php.debugger.XDebug" />
       <interpreter home="/Applications/MAMP/bin/php/php7.2.8/bin/php" id="25a8f461-6a5a-4258-a619-8146af32f418" name="PHP 7.2.8(MAMP)" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/MAMP/bin/php/php7.2.8/lib/php/extensions/no-debug-non-zts-20170718/xdebug.so" />
       <interpreter home="/Applications/MAMP/bin/php/php5.6.37/bin/php" id="db0c4c90-b1d8-487c-87d5-9944d49ed216" name="PHP 5.6.37(MAMP)" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/MAMP/bin/php/php5.6.37/lib/php/extensions/no-debug-non-zts-20131226/xdebug.so" />
     </interpreters>
@@ -87,6 +87,57 @@
           </loaded_extensions>
         </phpinfo>
       </interpreter>
+      <interpreter name="PHP 7.1.27(phpbrew)">
+        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/.phpbrew/php/php-7.1.27/bin/php-cgi" php_cli="$USER_HOME$/.phpbrew/php/php-7.1.27/bin/php" path_separator=":" version="7.1.27">
+          <additional_php_ini />
+          <configuration_file>$USER_HOME$/.phpbrew/php/php-7.1.27/etc/php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".:/Users/duncan/.phpbrew/php/php-7.1.27/lib/php/pear" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="hash" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mcrypt" />
+            <extension name="openssl" />
+            <extension name="pcntl" />
+            <extension name="pcre" />
+            <extension name="posix" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="shmop" />
+            <extension name="sockets" />
+            <extension name="standard" />
+            <extension name="sysvmsg" />
+            <extension name="sysvsem" />
+            <extension name="sysvshm" />
+            <extension name="tokenizer" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="xsl" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
       <interpreter name="PHP 7.2.8(MAMP)">
         <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.2.8/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.2.8/bin/php" path_separator=":" version="7.2.8">
           <additional_php_ini />
@@ -145,62 +196,6 @@
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
-            <extension name="xdebug" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlwriter" />
-            <extension name="xsl" />
-            <extension name="zip" />
-            <extension name="zlib" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
-      <interpreter name="PHP 7.1.23(phpbrew)">
-        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/.phpbrew/php/php-7.1.23/bin/php-cgi" php_cli="$USER_HOME$/.phpbrew/php/php-7.1.23/bin/php" path_separator=":" version="7.1.23">
-          <additional_php_ini>$USER_HOME$/.phpbrew/php/php-7.1.23/var/db/xdebug.ini</additional_php_ini>
-          <configuration_file>$USER_HOME$/.phpbrew/php/php-7.1.23/etc/php.ini</configuration_file>
-          <configuration_options>
-            <configuration_option name="include_path" value=".:/Users/duncan/.phpbrew/php/php-7.1.23/lib/php/pear" />
-          </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.6.1">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
-          <loaded_extensions>
-            <extension name="Core" />
-            <extension name="PDO" />
-            <extension name="Phar" />
-            <extension name="Reflection" />
-            <extension name="SPL" />
-            <extension name="SimpleXML" />
-            <extension name="bcmath" />
-            <extension name="bz2" />
-            <extension name="calendar" />
-            <extension name="ctype" />
-            <extension name="curl" />
-            <extension name="date" />
-            <extension name="dom" />
-            <extension name="fileinfo" />
-            <extension name="filter" />
-            <extension name="hash" />
-            <extension name="json" />
-            <extension name="libxml" />
-            <extension name="mbstring" />
-            <extension name="mcrypt" />
-            <extension name="openssl" />
-            <extension name="pcntl" />
-            <extension name="pcre" />
-            <extension name="posix" />
-            <extension name="readline" />
-            <extension name="session" />
-            <extension name="shmop" />
-            <extension name="sockets" />
-            <extension name="standard" />
-            <extension name="sysvmsg" />
-            <extension name="sysvsem" />
-            <extension name="sysvshm" />
-            <extension name="tokenizer" />
             <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
