@@ -12,12 +12,6 @@
         <mark key="^" line="28" column="22" />
         <mark key="." line="28" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/community/routes/web.php" timestamp="1553051529186">
-        <mark key="[" line="13" column="57" />
-        <mark key="]" line="13" column="64" />
-        <mark key="^" line="13" column="64" />
-        <mark key="." line="13" column="64" />
-      </file>
       <file name="/a.dummy" timestamp="1557758375263">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,84 +22,12 @@
         <mark key="." line="7" column="59" />
         <mark key="^" line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/FileDelimiterHelper.php" timestamp="1554706680680">
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="40" column="7" />
-        <mark key="^" line="40" column="7" />
-        <mark key="." line="40" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/insert_IFrameInclude.js" timestamp="1555319579846">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="4" />
-        <mark key="^" line="39" column="0" />
-        <mark key="." line="39" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1557712315327">
         <mark key="'" line="53" column="27" />
         <mark key="[" line="53" column="28" />
         <mark key="]" line="53" column="27" />
         <mark key="^" line="53" column="27" />
         <mark key="." line="53" column="27" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/admob.php" timestamp="1556213191114">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/controllers/jobs/Report.php" timestamp="1552456613699">
-        <mark key="[" line="9" column="53" />
-        <mark key="]" line="9" column="56" />
-        <mark key="^" line="9" column="56" />
-        <mark key="." line="9" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardSet.inc" timestamp="1552024687015">
-        <mark key="[" line="79" column="10" />
-        <mark key="]" line="79" column="9" />
-        <mark key="^" line="79" column="9" />
-        <mark key="." line="79" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/laravel/laravel-2019-03-23.yaml" timestamp="1553051332476">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="1402" />
-        <mark key="^" line="9" column="1402" />
-        <mark key="." line="9" column="1402" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/scripts/sign_stages_1.js" timestamp="1557279849186">
-        <mark key="[" line="0" column="43" />
-        <mark key="]" line="0" column="42" />
-        <mark key="^" line="0" column="42" />
-        <mark key="." line="0" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.cn" timestamp="1556090644558">
-        <mark key="[" line="144" column="20" />
-        <mark key="]" line="144" column="21" />
-        <mark key="^" line="144" column="21" />
-        <mark key="." line="144" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" timestamp="1553053956728">
-        <mark key="[" line="293" column="78" />
-        <mark key="]" line="293" column="77" />
-        <mark key="^" line="293" column="77" />
-        <mark key="." line="293" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Detail.php" timestamp="1556173468933">
-        <mark key="[" line="55" column="14" />
-        <mark key="]" line="55" column="13" />
-        <mark key="^" line="55" column="13" />
-        <mark key="." line="55" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/outputXDoc.php" timestamp="1556869290911">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/system/database/drivers/mysqli/mysqli_driver.php" timestamp="1557758141670">
-        <mark key="[" line="69" column="5" />
-        <mark key="]" line="70" column="132" />
-        <mark key="." line="70" column="132" />
-        <mark key="^" line="70" column="132" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_progress_quarterly.htm" timestamp="1557798658390">
         <mark key="'" line="0" column="0" />
@@ -121,24 +43,6 @@
         <mark key="." line="9" column="2413" />
         <mark key="^" line="9" column="2413" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/EscapeFunctionHelperTest.php" timestamp="1557209608020">
-        <mark key="[" line="169" column="29" />
-        <mark key="]" line="169" column="32" />
-        <mark key="." line="169" column="32" />
-        <mark key="^" line="169" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CM/CM_TmList.inc" timestamp="1552891451033">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/test.php" timestamp="1557712106479">
-        <mark key="[" line="28" column="1" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_edit.htm" timestamp="1557136174188">
         <mark key="'" line="560" column="23" />
         <mark key="[" line="76" column="6" />
@@ -146,30 +50,12 @@
         <mark key="^" line="76" column="10" />
         <mark key="." line="76" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1557279442059">
-        <mark key="[" line="405" column="52" />
-        <mark key="]" line="405" column="51" />
-        <mark key="." line="405" column="51" />
-        <mark key="^" line="405" column="51" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va_o2csv.inc" timestamp="1557815370648">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="132" column="0" />
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
         <mark key="^" line="131" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/tm/tm_viewdep_sel.htm.bak" timestamp="1551256174390">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="16" column="48" />
-        <mark key="^" line="16" column="48" />
-        <mark key="." line="16" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/hr_lang.tw" timestamp="1556244000344">
-        <mark key="[" line="254" column="18" />
-        <mark key="]" line="254" column="17" />
-        <mark key="^" line="254" column="17" />
-        <mark key="." line="254" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_newpm.htm" timestamp="1557798609648">
         <mark key="'" line="0" column="0" />
@@ -186,41 +72,11 @@
         <mark key="^" line="12" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/em/em_ab/em_select_com.htm" timestamp="1557799730177" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/WF_UserDefineField.js" timestamp="1557135543524">
-        <mark key="[" line="85" column="90" />
-        <mark key="]" line="85" column="89" />
-        <mark key="." line="85" column="89" />
-        <mark key="^" line="85" column="89" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/edi/CardToNetaskTest.php" timestamp="1553668613376">
-        <mark key="[" line="4662" column="0" />
-        <mark key="]" line="4662" column="0" />
-        <mark key="^" line="4673" column="4" />
-        <mark key="." line="4662" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/mp/lang.tw" timestamp="1556090047772">
-        <mark key="[" line="108" column="18" />
-        <mark key="]" line="108" column="17" />
-        <mark key="^" line="108" column="17" />
-        <mark key="." line="108" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/login_lang.en" timestamp="1556178521445">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DetectUtfEncodingHelperTest.php" timestamp="1554701774606">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1557814961434">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1557817461198">
         <mark key="'" line="175" column="0" />
-        <mark key="[" line="170" column="13" />
-        <mark key="]" line="170" column="12" />
-        <mark key="." line="170" column="12" />
+        <mark key="[" line="418" column="30" />
+        <mark key="]" line="418" column="30" />
+        <mark key="." line="418" column="30" />
         <mark key="^" line="170" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/OverTimeSplitTest.php" timestamp="1557738393154">
@@ -237,42 +93,12 @@
         <mark key="^" line="271" column="28" />
         <mark key="." line="271" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_view_fixed.htm" timestamp="1553076077378">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="38" />
-        <mark key="^" line="10" column="16" />
-        <mark key="." line="10" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/CSVImportHelper.php" timestamp="1554705764564">
-        <mark key="[" line="54" column="38" />
-        <mark key="]" line="54" column="37" />
-        <mark key="." line="54" column="37" />
-        <mark key="^" line="54" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/ShiftFormatter.php" timestamp="1552010950083">
-        <mark key="[" line="31" column="21" />
-        <mark key="]" line="31" column="20" />
-        <mark key="^" line="31" column="20" />
-        <mark key="." line="31" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CM/CM_Detail.inc" timestamp="1552892247692">
-        <mark key="[" line="129" column="64" />
-        <mark key="]" line="129" column="63" />
-        <mark key="^" line="129" column="63" />
-        <mark key="." line="129" column="63" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" timestamp="1557739681106">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="155" column="5" />
         <mark key="]" line="155" column="4" />
         <mark key="^" line="155" column="4" />
         <mark key="." line="155" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/Report_model.php" timestamp="1552448425462">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="41" />
-        <mark key="^" line="7" column="41" />
-        <mark key="." line="7" column="41" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/consociation/missionDownloadReport.php" timestamp="1557760668699">
         <mark key="'" line="41" column="0" />
@@ -295,60 +121,12 @@
         <mark key="." line="61" column="92" />
         <mark key="^" line="61" column="92" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/YearSetting_model.php" timestamp="1552443994114">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/community/resources/views/activities/partials/sidebar/laradiner.blade.php" timestamp="1553238498843">
-        <mark key="[" line="7" column="54" />
-        <mark key="]" line="7" column="53" />
-        <mark key="." line="7" column="53" />
-        <mark key="^" line="7" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_user_detail.htm" timestamp="1556090678808">
-        <mark key="[" line="555" column="58" />
-        <mark key="]" line="555" column="66" />
-        <mark key="^" line="555" column="66" />
-        <mark key="." line="555" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_edit_comment.htm" timestamp="1553075956159">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="39" />
-        <mark key="." line="10" column="39" />
-        <mark key="^" line="10" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_view_att.php" timestamp="1553075998538">
-        <mark key="[" line="36" column="31" />
-        <mark key="]" line="36" column="30" />
-        <mark key="^" line="36" column="30" />
-        <mark key="." line="36" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" timestamp="1557803509296">
         <mark key="'" line="56" column="20" />
         <mark key="[" line="314" column="21" />
         <mark key="]" line="314" column="19" />
         <mark key="^" line="314" column="19" />
         <mark key="." line="314" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/pdo.php" timestamp="1556870884731">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/91/speed/vendor/phpunit/phpunit/src/Framework/Assert.php" timestamp="1552834370922">
-        <mark key="[" line="530" column="28" />
-        <mark key="]" line="530" column="27" />
-        <mark key="^" line="530" column="27" />
-        <mark key="." line="530" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/community/resources/views/activities/show.blade.php" timestamp="1553051782240">
-        <mark key="[" line="29" column="47" />
-        <mark key="]" line="29" column="46" />
-        <mark key="^" line="29" column="46" />
-        <mark key="." line="29" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/Migration/2.3.0.migration.sql" timestamp="1557760432985">
         <mark key="'" line="4" column="7" />
@@ -357,24 +135,6 @@
         <mark key="." line="4" column="7" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/test_file.php" timestamp="1551247461706">
-        <mark key="[" line="4" column="67" />
-        <mark key="]" line="4" column="72" />
-        <mark key="." line="4" column="72" />
-        <mark key="^" line="4" column="72" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/util/IEDetector.js" timestamp="1551765916163">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="19" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/wf-sp_forms_lang.en" timestamp="1556094095876">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/tm/tm_viewDetail_new.htm" timestamp="1557798761066">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="57" />
@@ -382,26 +142,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="7" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Libraries/Verification/GeneralValidatorTest.php" timestamp="1552633518230">
-        <mark key="[" line="1922" column="0" />
-        <mark key="]" line="1921" column="1" />
-        <mark key="^" line="1921" column="1" />
-        <mark key="." line="1921" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/HR/FormatValidateHelperTest.php" timestamp="1556245206595">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="24" column="39" />
-        <mark key="." line="24" column="39" />
-        <mark key="^" line="24" column="39" />
-      </file>
       <file name="/fragment.php" timestamp="1557804245545">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/7.17.0.migration.sql" timestamp="1555040324268">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordReport.php" timestamp="1557217652414">
         <mark key="'" line="65" column="22" />
@@ -417,59 +159,11 @@
         <mark key="^" line="809" column="12" />
         <mark key="." line="809" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/ProgressBarHelper.php" timestamp="1551752557114">
-        <mark key="[" line="54" column="21" />
-        <mark key="]" line="54" column="20" />
-        <mark key="^" line="54" column="20" />
-        <mark key="." line="54" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Service/XDoc/XDocMakerByFlowForMeeting.php" timestamp="1553675166784">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_card_for_supervisor_view.htm" timestamp="1557799755619">
         <mark key="[" line="10" column="58" />
         <mark key="]" line="10" column="85" />
         <mark key="." line="10" column="85" />
         <mark key="^" line="10" column="85" />
-      </file>
-      <file name="$USER_HOME$/Documents/91/speed/tests/HelloWorldTest.php" timestamp="1553326657420">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/7.14.0.signature-migration.php" timestamp="1554795170317">
-        <mark key="[" line="268" column="35" />
-        <mark key="]" line="268" column="34" />
-        <mark key="." line="268" column="34" />
-        <mark key="^" line="268" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_view_check.htm" timestamp="1553076030092">
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="8" column="36" />
-        <mark key="^" line="8" column="36" />
-        <mark key="." line="8" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/test.php" timestamp="1557193599839">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/Exceptions/SignatureInvalidException.php" timestamp="1553498913952">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/ExportVA2File.php" timestamp="1557738792362">
-        <mark key="[" line="55" column="37" />
-        <mark key="]" line="55" column="37" />
-        <mark key="." line="55" column="37" />
-        <mark key="^" line="55" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/findex.php" timestamp="1557194327104">
         <mark key="'" line="233" column="63" />
@@ -478,42 +172,12 @@
         <mark key="^" line="233" column="107" />
         <mark key="." line="233" column="107" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.jp" timestamp="1556090675907">
-        <mark key="[" line="144" column="22" />
-        <mark key="]" line="144" column="23" />
-        <mark key="^" line="144" column="23" />
-        <mark key="." line="144" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1556866409371">
         <mark key="'" line="152" column="34" />
         <mark key="[" line="1372" column="0" />
         <mark key="]" line="1372" column="0" />
         <mark key="." line="1372" column="0" />
         <mark key="^" line="1373" column="40" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/banner.php" timestamp="1551250571892">
-        <mark key="[" line="36" column="32" />
-        <mark key="]" line="36" column="31" />
-        <mark key="^" line="36" column="31" />
-        <mark key="." line="36" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/laradiner/laradiner-2019-03-23.yaml" timestamp="1555387381257">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="2663" />
-        <mark key="^" line="9" column="2663" />
-        <mark key="." line="9" column="2663" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/util/xhrCall.js" timestamp="1553226358052">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/ayetstudios.php" timestamp="1557759917722">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/.env" timestamp="1557758278557">
         <mark key="[" line="16" column="39" />
@@ -522,35 +186,11 @@
         <mark key="." line="16" column="38" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/system/language/english/db_lang.php" timestamp="1557757927128" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/card.js" timestamp="1551693549249">
-        <mark key="[" line="314" column="69" />
-        <mark key="]" line="314" column="68" />
-        <mark key="^" line="314" column="68" />
-        <mark key="." line="314" column="68" />
-      </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-03-19.yaml" timestamp="1556641736330">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="2038" />
-        <mark key="^" line="9" column="2038" />
-        <mark key="." line="9" column="2038" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Service/XDoc/XDocMakerByDI.php" timestamp="1553503731698">
-        <mark key="[" line="563" column="22" />
-        <mark key="]" line="563" column="21" />
-        <mark key="." line="563" column="21" />
-        <mark key="^" line="563" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/remote/flowUpdate4di.php" timestamp="1553481460713">
-        <mark key="[" line="577" column="27" />
-        <mark key="]" line="577" column="26" />
-        <mark key="^" line="577" column="26" />
-        <mark key="." line="577" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-04-16.yaml" timestamp="1556641578831">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="12" />
-        <mark key="." line="13" column="12" />
-        <mark key="^" line="13" column="12" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.va_data_export.inc" timestamp="1557817256084">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="8" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/ab/ab_data_co.htm" timestamp="1557799476930">
         <mark key="'" line="6" column="92" />
@@ -560,24 +200,12 @@
         <mark key="." line="7" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/common.js" timestamp="1557798844334" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/AbstractEmployeeDAO.php" timestamp="1556870478605">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/supersonic.php" timestamp="1557557707802">
         <mark key="'" line="311" column="0" />
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="7" />
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.3.0.migration.sql" timestamp="1555318228140">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="24" />
-        <mark key="^" line="13" column="24" />
-        <mark key="." line="13" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/system/database/DB_result.php" timestamp="1557759338790" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_progress.htm" timestamp="1557798676563">
@@ -594,12 +222,6 @@
         <mark key="." line="5" column="57" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/system/database/DB_driver.php" timestamp="1557758060825">
-        <mark key="[" line="115" column="71" />
-        <mark key="]" line="115" column="70" />
-        <mark key="." line="115" column="70" />
-        <mark key="^" line="115" column="70" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/OverTimeSplit.php" timestamp="1557814128438">
         <mark key="f" line="70" column="9" />
         <mark key="'" line="25" column="22" />
@@ -607,12 +229,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="20" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/lysCommon.php" timestamp="1556594913134">
-        <mark key="[" line="345" column="10" />
-        <mark key="]" line="345" column="9" />
-        <mark key="." line="345" column="9" />
-        <mark key="^" line="345" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/ShortTimeRequestDetector.php" timestamp="1557457883397">
         <mark key="'" line="39" column="74" />
@@ -622,12 +238,6 @@
         <mark key="^" line="39" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/utilities/Attaches_Add.js" timestamp="1557799765612" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCorpUpdate.php" timestamp="1556875663602">
-        <mark key="[" line="118" column="34" />
-        <mark key="]" line="118" column="33" />
-        <mark key="^" line="118" column="33" />
-        <mark key="." line="118" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" timestamp="1557209445193">
         <mark key="'" line="186" column="52" />
         <mark key="[" line="192" column="55" />
@@ -664,12 +274,6 @@
         <mark key="." line="69" column="12" />
         <mark key="^" line="69" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/VA/KWCR2VacationCardReviseDAO.php" timestamp="1555309358949">
-        <mark key="[" line="77" column="28" />
-        <mark key="]" line="77" column="27" />
-        <mark key="." line="77" column="27" />
-        <mark key="^" line="77" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" timestamp="1557742744852">
         <mark key="'" line="35" column="10" />
         <mark key="[" line="0" column="2" />
@@ -677,71 +281,10 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Get_All.inc" timestamp="1553238479315">
-        <mark key="[" line="43" column="34" />
-        <mark key="]" line="43" column="33" />
-        <mark key="^" line="43" column="33" />
-        <mark key="." line="43" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" timestamp="1557814982726">
-        <mark key="[" line="144" column="9" />
-        <mark key="]" line="144" column="10" />
-        <mark key="." line="144" column="10" />
-        <mark key="^" line="144" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/AttachFileList.php" timestamp="1556867169528">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="15" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="11" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/dao.php" timestamp="1556870827342">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="6" column="51" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/ShiftFormatterTest.php" timestamp="1552022370885">
-        <mark key="[" line="276" column="41" />
-        <mark key="]" line="276" column="47" />
-        <mark key="^" line="276" column="41" />
-        <mark key="." line="276" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordList.php" timestamp="1557217777385">
-        <mark key="[" line="32" column="48" />
-        <mark key="]" line="32" column="47" />
-        <mark key="^" line="32" column="47" />
-        <mark key="." line="32" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/attach.js" timestamp="1556092264759">
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="30" column="1" />
-        <mark key="^" line="30" column="1" />
-        <mark key="." line="30" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/WF/KWCR2TemplateDAO.php" timestamp="1556870398473">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="82" column="60" />
-        <mark key="." line="82" column="60" />
-        <mark key="^" line="82" column="60" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Common.php" timestamp="1556614169162">
-        <mark key="[" line="107" column="25" />
-        <mark key="]" line="107" column="24" />
-        <mark key="^" line="107" column="24" />
-        <mark key="." line="107" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/css/bootstrap.min.css" timestamp="1552382576940">
-        <mark key="[" line="4" column="122375" />
-        <mark key="]" line="4" column="122374" />
-        <mark key="^" line="4" column="122374" />
-        <mark key="." line="4" column="122374" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/mp_lang.tw" timestamp="1555558056519">
-        <mark key="[" line="50" column="15" />
-        <mark key="]" line="50" column="15" />
-        <mark key="." line="50" column="15" />
-        <mark key="^" line="50" column="15" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" timestamp="1557817370886">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/exchange.php" timestamp="1557759155568">
         <mark key="'" line="15" column="26" />
@@ -757,24 +300,6 @@
         <mark key="^" line="270" column="20" />
         <mark key="." line="270" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/91/speed/src/HelloWord.php" timestamp="1554014981508">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_top.php" timestamp="1556090067991">
-        <mark key="[" line="91" column="9" />
-        <mark key="]" line="91" column="8" />
-        <mark key="^" line="91" column="8" />
-        <mark key="." line="91" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/PDOEmployeeDAO.php" timestamp="1556870527622">
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="26" column="3" />
-        <mark key="^" line="26" column="3" />
-        <mark key="." line="26" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.3.2.migration.sql" timestamp="1557195933893">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="1" column="29" />
@@ -782,62 +307,13 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/bb/bb_searchlist.htm" timestamp="1557799522756">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="86" />
+        <mark key="." line="6" column="57" />
+      </file>
       <file name="/Dummy.txt" timestamp="1557803530792">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/cm/new.htm" timestamp="1556785283515">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/6.6.15.7.migration.sql" timestamp="1554014771329">
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="13" />
-        <mark key="^" line="19" column="13" />
-        <mark key="." line="19" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/mp_lang.cn" timestamp="1555558490497">
-        <mark key="[" line="50" column="17" />
-        <mark key="]" line="50" column="17" />
-        <mark key="." line="50" column="17" />
-        <mark key="^" line="50" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/FlowUpdate_return.inc" timestamp="1557209951093">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/sinjang_va2csvsplit.php" timestamp="1557733744751">
-        <mark key="[" line="140" column="118" />
-        <mark key="]" line="140" column="135" />
-        <mark key="^" line="140" column="135" />
-        <mark key="." line="140" column="135" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/SharedProgram/foview1.php" timestamp="1552462059272">
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="^" line="214" column="47" />
-        <mark key="." line="220" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/bb/tree.htm" timestamp="1556785119519">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="14" column="5" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/3410.migration.sql" timestamp="1557724770936">
-        <mark key="[" line="15" column="48" />
-        <mark key="]" line="15" column="47" />
-        <mark key="." line="15" column="47" />
-        <mark key="^" line="15" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/StringsHelper.php" timestamp="1553664316420">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/activity.php" timestamp="1557120700970">
         <mark key="'" line="49" column="20" />
@@ -845,12 +321,6 @@
         <mark key="]" line="98" column="63" />
         <mark key="^" line="98" column="63" />
         <mark key="." line="98" column="63" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/outputDI_get.php" timestamp="1553580973537">
-        <mark key="[" line="105" column="13" />
-        <mark key="]" line="105" column="12" />
-        <mark key="^" line="105" column="12" />
-        <mark key="." line="105" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_progress_monthly.htm" timestamp="1557798664527">
         <mark key="'" line="0" column="0" />
@@ -866,18 +336,6 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.vn" timestamp="1556090661846">
-        <mark key="[" line="144" column="28" />
-        <mark key="]" line="144" column="27" />
-        <mark key="^" line="144" column="27" />
-        <mark key="." line="144" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/DefaultShiftMaker.php" timestamp="1557211743299">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="20" />
-        <mark key="^" line="24" column="20" />
-        <mark key="." line="24" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/ExportVA2FileTest.php" timestamp="1557741018667">
         <mark key="'" line="24" column="17" />
         <mark key="[" line="12" column="68" />
@@ -891,54 +349,6 @@
         <mark key="]" line="3" column="7" />
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/91/poker/src/Suit.php" timestamp="1554049687718">
-        <mark key="[" line="90" column="22" />
-        <mark key="]" line="90" column="21" />
-        <mark key="^" line="90" column="21" />
-        <mark key="." line="90" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/hr/js/FormatValidate.js" timestamp="1556244048123">
-        <mark key="[" line="3" column="55" />
-        <mark key="]" line="3" column="54" />
-        <mark key="." line="3" column="54" />
-        <mark key="^" line="3" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/polypla_VaCard2csv.php" timestamp="1557733725956">
-        <mark key="[" line="120" column="101" />
-        <mark key="]" line="120" column="118" />
-        <mark key="^" line="120" column="118" />
-        <mark key="." line="120" column="118" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_agentCheck.php" timestamp="1551250225051">
-        <mark key="[" line="42" column="79" />
-        <mark key="]" line="42" column="78" />
-        <mark key="." line="42" column="78" />
-        <mark key="^" line="42" column="78" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_view_modify.htm" timestamp="1553076203904">
-        <mark key="[" line="924" column="74" />
-        <mark key="]" line="924" column="73" />
-        <mark key="." line="924" column="73" />
-        <mark key="^" line="924" column="73" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/List.php" timestamp="1557217040555">
-        <mark key="[" line="466" column="45" />
-        <mark key="]" line="466" column="44" />
-        <mark key="^" line="466" column="44" />
-        <mark key="." line="466" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/cr/search.htm" timestamp="1556785175772">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt_Remote.inc" timestamp="1554861955051">
-        <mark key="[" line="42" column="52" />
-        <mark key="]" line="43" column="102" />
-        <mark key="^" line="43" column="102" />
-        <mark key="." line="43" column="102" />
       </file>
     </filemarks>
     <jumps>
@@ -1130,8 +540,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VzdG9tU3BsaXRCYXNlID0gYXJyYXkoCiAgICAgICAgICAgICduYXRpb25hbCcgPT4gYXJyYXkoOCwgMiksCiAgICAgICAgICAgICdub3JtYWwnICAgPT4gYXJyYXkoMCwgMjQwKSwKICAgICAgICApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1156,7 +566,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 0</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>休息</text>
@@ -1168,10 +578,10 @@
         <text>?201905131737_12248_d49a051c9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VzdG9tU3BsaXRCYXNlID0gYXJyYXkoCiAgICAgICAgICAgICduYXRpb25hbCcgPT4gYXJyYXkoOCwgMiksCiAgICAgICAgICAgICdub3JtYWwnICAgPT4gYXJyYXkoMCwgMjQwKSwKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZXhwb3J0KCRzdGFmZl9kYl9kYXRhKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY3VzdG9tU3BsaXRCYXNlID0gYXJyYXkoCiAgICAgICAgICAgICduYXRpb25hbCcgPT4gYXJyYXkoOCwgMiksCiAgICAgICAgICAgICdub3JtYWwnICAgPT4gYXJyYXkoMCwgMjQwKSwKICAgICAgICApOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1281,25 +691,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdlbkRhdGEoJ+S+i+WBh+aXpScsICcxMy4wMCcsIDgsIDUsIDApLAo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZXhwb3J0KCRzdGFmZl9kYl9kYXRhKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkdGJsX2JvZHkpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdlbkRhdGEoJ+S+i+WBh+aXpScsICcxMy4wMCcsIDgsIDUsIDApLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkc3RhZmZfZGJfZGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkdGJsX2JvZHkpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkc3RhZmZfZGJfZGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkc3RhZmZfZGJfZGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAkdGhpcy0+Z2VuRGF0YSgn5bmz5pelJywgJzQuMDAnLCAwLCA0LCAwKSwKICAgICAgICBd</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ292ZXJ0aW1lX3NwbGl0Jz0+JG92ZXJ0aW1lU3BsaXQK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNfbnVsbCgkb3ZlcnRpbWVTcGxpdCkgPT0gZmFsc2UpIHsKICAgICAgICAgICAgJGRhdGFbJ292ZXJ0aW1lX3NwbGl0J10gPSAkb3ZlcnRpbWVTcGxpdDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ292ZXJ0aW1lX3NwbGl0Jz0+JG92ZXJ0aW1lU3BsaXQK</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
@@ -1352,11 +762,11 @@
         <entry>action IntroduceField</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action GotoNextError</entry>
-        <entry>action Forward</entry>
-        <entry>action MethodDown</entry>
         <entry>action Inline</entry>
-        <entry>action MethodUp</entry>
         <entry>action Run</entry>
+        <entry>action MethodUp</entry>
+        <entry>action MethodDown</entry>
+        <entry>action Forward</entry>
         <entry>action Back</entry>
       </history-cmd>
       <history-expr />
