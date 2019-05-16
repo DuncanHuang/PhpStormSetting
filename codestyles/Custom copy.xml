@@ -1,4 +1,4 @@
-<code_scheme name="Custom" version="173">
+<code_scheme name="Custom copy" version="173">
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
@@ -104,25 +104,6 @@
             </rule>
           </rules>
         </token>
-        <token id="visibility" name="visibility">
-          <rules>
-            <rule>
-              <match>
-                <PUBLIC>true</PUBLIC>
-              </match>
-            </rule>
-            <rule>
-              <match>
-                <PROTECTED>true</PROTECTED>
-              </match>
-            </rule>
-            <rule>
-              <match>
-                <PRIVATE>true</PRIVATE>
-              </match>
-            </rule>
-          </rules>
-        </token>
         <token id="a" name="a">
           <rules>
             <rule>
@@ -181,6 +162,25 @@
                 </AND>
               </match>
               <order>BY_NAME</order>
+            </rule>
+          </rules>
+        </token>
+        <token id="visibility" name="visibility">
+          <rules>
+            <rule>
+              <match>
+                <PUBLIC>true</PUBLIC>
+              </match>
+            </rule>
+            <rule>
+              <match>
+                <PROTECTED>true</PROTECTED>
+              </match>
+            </rule>
+            <rule>
+              <match>
+                <PRIVATE>true</PRIVATE>
+              </match>
             </rule>
           </rules>
         </token>
