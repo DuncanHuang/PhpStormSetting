@@ -168,6 +168,12 @@
         <mark key="." line="54" column="37" />
         <mark key="^" line="54" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/containers/AboutPage/index.js" timestamp="1558098966752">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
+        <mark key="^" line="116" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-tickets/application/models/Report_model.php" timestamp="1552448425462">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="41" />
@@ -236,10 +242,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/tm/tm_viewDetail_new.htm" timestamp="1557889064542">
-        <mark key="'" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Jobs/XDOCAddressBookUpdater.php" timestamp="1557371185450">
         <mark key="'" line="300" column="29" />
@@ -1233,8 +1235,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8Q29udGFpbmVyPgogICAgICAgICAgICAgICAgPFRpdGxlPuS4u+W9ouixoeS7i+e0uTwvVGl0bGU+CiAgICAgICAgICAgICAgICA8Q29udGVudD4KICAgICAgICAgICAgICAgICAg5Zyo6ZaL55m86ICF55qE5LiW55WM6KOh77yMR2l0aHViIOeahOe2oOiJsiBjb21taXQg5bCP5pa55aGK5bCx5YOP5piv5LiA5YCL5Lq655qE5bel5L2c57Sv56mN5Y+K5ZyY6ZqK5ZCI5L2c55qE6LGh5b6144CCCiAgICAgICAgICAgICAgICAgIOWboOatpO+8jOS7peWkp+acg+acrOW5tOW6puS4u+i7uOOAjOWcmOmaiuWQiOS9nOOAjeeCuuaguOW/g++8jEdpdGh1YiDnmoTntqDoibIgY29tbWl0IOWwj+aWueWhiuWBmueCuuiBr+aDs+eahOi1t+Wni+m7nu+8jOS7peWwj+aWueWhiuepjeaymeaIkOWhlOeahOmaseWWu+WBmuW7tuS8uO+8jAogICAgICAgICAgICAgICAgICDpgI/pgY7lnJjpmorlkIjkvZznmoTliqrlipvloIbnlorlh7ogTGFyYXZlbCDnmoTkuLvlvaLosaHloZTvvIzkuKbmkK3phY0gTGFyYXZlbCDliJ3lp4vlronoo53llZ/li5XnlavpnaLnmoTlrZflnovvvIzli77li5Llh7rmraTmrKHlpKfmnIPkuLvlvaLosaHjgIIKICAgICAgICAgICAgICAgIDwvQ29udGVudD4KICAgICAgICAgICAgICAgIDxUaXRsZT7lubTliIrmiYvlhoo8L1RpdGxlPgogICAgICAgICAgICAgICAgPERvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICAgICAgPExhYmVsPuWFqOS4lueVjOeahCBMYXJhcnZlbCDnoJToqI7mnIMucGRmPC9MYWJlbD4KICAgICAgICAgICAgICAgICAgPERvd25sb2FkQnV0dG9uPuS4i+i8ieaJi+WGijwvRG93bmxvYWRCdXR0b24+CiAgICAgICAgICAgICAgICA8L0Rvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICA8L0NvbnRhaW5lcj4K</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1259,7 +1261,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>common.js</text>
@@ -1271,10 +1273,10 @@
         <text>?201905131737_12248_d49a051c9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRWYWx1ZSgpOiBzdHJpbmcKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnZhbHVlOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkdmFsdWUKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNldFZhbHVlKHN0cmluZyAkdmFsdWUpOiB2b2lkCiAgICB7CiAgICAgICAgJHRoaXMtPnZhbHVlID0gJHZhbHVlOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Q29udGFpbmVyPgogICAgICAgICAgICAgICAgPFRpdGxlPuS4u+W9ouixoeS7i+e0uTwvVGl0bGU+CiAgICAgICAgICAgICAgICA8Q29udGVudD4KICAgICAgICAgICAgICAgICAg5Zyo6ZaL55m86ICF55qE5LiW55WM6KOh77yMR2l0aHViIOeahOe2oOiJsiBjb21taXQg5bCP5pa55aGK5bCx5YOP5piv5LiA5YCL5Lq655qE5bel5L2c57Sv56mN5Y+K5ZyY6ZqK5ZCI5L2c55qE6LGh5b6144CCCiAgICAgICAgICAgICAgICAgIOWboOatpO+8jOS7peWkp+acg+acrOW5tOW6puS4u+i7uOOAjOWcmOmaiuWQiOS9nOOAjeeCuuaguOW/g++8jEdpdGh1YiDnmoTntqDoibIgY29tbWl0IOWwj+aWueWhiuWBmueCuuiBr+aDs+eahOi1t+Wni+m7nu+8jOS7peWwj+aWueWhiuepjeaymeaIkOWhlOeahOmaseWWu+WBmuW7tuS8uO+8jAogICAgICAgICAgICAgICAgICDpgI/pgY7lnJjpmorlkIjkvZznmoTliqrlipvloIbnlorlh7ogTGFyYXZlbCDnmoTkuLvlvaLosaHloZTvvIzkuKbmkK3phY0gTGFyYXZlbCDliJ3lp4vlronoo53llZ/li5XnlavpnaLnmoTlrZflnovvvIzli77li5Llh7rmraTmrKHlpKfmnIPkuLvlvaLosaHjgIIKICAgICAgICAgICAgICAgIDwvQ29udGVudD4KICAgICAgICAgICAgICAgIDxUaXRsZT7lubTliIrmiYvlhoo8L1RpdGxlPgogICAgICAgICAgICAgICAgPERvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICAgICAgPExhYmVsPuWFqOS4lueVjOeahCBMYXJhcnZlbCDnoJToqI7mnIMucGRmPC9MYWJlbD4KICAgICAgICAgICAgICAgICAgPERvd25sb2FkQnV0dG9uPuS4i+i8ieaJi+WGijwvRG93bmxvYWRCdXR0b24+CiAgICAgICAgICAgICAgICA8L0Rvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICA8L0NvbnRhaW5lcj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgPE1haW5TZWN0aW9uPgogICAgICAgIDxHcmlkV3JhcHBlcj4KICAgICAgICAgIDxHcmlkPgogICAgICAgICAgICA8Q29sIHdpZHRoPXtbNCAvIDEyLCAyIC8gMl19IG9mZnNldD17WzEgLyAxMiwgMF19PgogICAgICAgICAgICAgIDxWaXN1YWxJbWc+CiAgICAgICAgICAgICAgICA8SW1nIHNyYz0nL3N0YXRpYy9pbWFnZXMvcGFnZS1kZXNrdG9wLXZpc3VhbC5zdmcnIHR5cGU9J2NvdmVyJyAvPgogICAgICAgICAgICAgIDwvVmlzdWFsSW1nPgogICAgICAgICAgICA8L0NvbD4KICAgICAgICAgICAgPENvbCB3aWR0aD17WzUgLyAxMiwgMiAvIDJdfT4KICAgICAgICAgICAgICA8Q29udGFpbmVyPgogICAgICAgICAgICAgICAgPFRpdGxlPuS4u+W9ouixoeS7i+e0uTwvVGl0bGU+CiAgICAgICAgICAgICAgICA8Q29udGVudD4KICAgICAgICAgICAgICAgICAg5Zyo6ZaL55m86ICF55qE5LiW55WM6KOh77yMR2l0aHViIOeahOe2oOiJsiBjb21taXQg5bCP5pa55aGK5bCx5YOP5piv5LiA5YCL5Lq655qE5bel5L2c57Sv56mN5Y+K5ZyY6ZqK5ZCI5L2c55qE6LGh5b6144CCCiAgICAgICAgICAgICAgICAgIOWboOatpO+8jOS7peWkp+acg+acrOW5tOW6puS4u+i7uOOAjOWcmOmaiuWQiOS9nOOAjeeCuuaguOW/g++8jEdpdGh1YiDnmoTntqDoibIgY29tbWl0IOWwj+aWueWhiuWBmueCuuiBr+aDs+eahOi1t+Wni+m7nu+8jOS7peWwj+aWueWhiuepjeaymeaIkOWhlOeahOmaseWWu+WBmuW7tuS8uO+8jAogICAgICAgICAgICAgICAgICDpgI/pgY7lnJjpmorlkIjkvZznmoTliqrlipvloIbnlorlh7ogTGFyYXZlbCDnmoTkuLvlvaLosaHloZTvvIzkuKbmkK3phY0gTGFyYXZlbCDliJ3lp4vlronoo53llZ/li5XnlavpnaLnmoTlrZflnovvvIzli77li5Llh7rmraTmrKHlpKfmnIPkuLvlvaLosaHjgIIKICAgICAgICAgICAgICAgIDwvQ29udGVudD4KICAgICAgICAgICAgICAgIDxUaXRsZT7lubTliIrmiYvlhoo8L1RpdGxlPgogICAgICAgICAgICAgICAgPERvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICAgICAgPExhYmVsPuWFqOS4lueVjOeahCBMYXJhcnZlbCDnoJToqI7mnIMucGRmPC9MYWJlbD4KICAgICAgICAgICAgICAgICAgPERvd25sb2FkQnV0dG9uPuS4i+i8ieaJi+WGijwvRG93bmxvYWRCdXR0b24+CiAgICAgICAgICAgICAgICA8L0Rvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICA8L0NvbnRhaW5lcj4KICAgICAgICAgICAgPC9Db2w+CiAgICAgICAgICA8L0dyaWQ+CiAgICAgICAgPC9HcmlkV3JhcHBlcj4KICAgICAgPC9NYWluU2VjdGlvbj4K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1384,28 +1386,29 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPENvbCB3aWR0aD17WzUgLyAxMiwgMiAvIDJdfT4KICAgICAgICAgICAgICA8Q29udGFpbmVyPgogICAgICAgICAgICAgICAgPFRpdGxlPuS4u+W9ouixoeS7i+e0uTwvVGl0bGU+CiAgICAgICAgICAgICAgICA8Q29udGVudD4KICAgICAgICAgICAgICAgICAg5Zyo6ZaL55m86ICF55qE5LiW55WM6KOh77yMR2l0aHViIOeahOe2oOiJsiBjb21taXQg5bCP5pa55aGK5bCx5YOP5piv5LiA5YCL5Lq655qE5bel5L2c57Sv56mN5Y+K5ZyY6ZqK5ZCI5L2c55qE6LGh5b6144CCCiAgICAgICAgICAgICAgICAgIOWboOatpO+8jOS7peWkp+acg+acrOW5tOW6puS4u+i7uOOAjOWcmOmaiuWQiOS9nOOAjeeCuuaguOW/g++8jEdpdGh1YiDnmoTntqDoibIgY29tbWl0IOWwj+aWueWhiuWBmueCuuiBr+aDs+eahOi1t+Wni+m7nu+8jOS7peWwj+aWueWhiuepjeaymeaIkOWhlOeahOmaseWWu+WBmuW7tuS8uO+8jAogICAgICAgICAgICAgICAgICDpgI/pgY7lnJjpmorlkIjkvZznmoTliqrlipvloIbnlorlh7ogTGFyYXZlbCDnmoTkuLvlvaLosaHloZTvvIzkuKbmkK3phY0gTGFyYXZlbCDliJ3lp4vlronoo53llZ/li5XnlavpnaLnmoTlrZflnovvvIzli77li5Llh7rmraTmrKHlpKfmnIPkuLvlvaLosaHjgIIKICAgICAgICAgICAgICAgIDwvQ29udGVudD4KICAgICAgICAgICAgICAgIDxUaXRsZT7lubTliIrmiYvlhoo8L1RpdGxlPgogICAgICAgICAgICAgICAgPERvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICAgICAgPExhYmVsPuWFqOS4lueVjOeahCBMYXJhcnZlbCDnoJToqI7mnIMucGRmPC9MYWJlbD4KICAgICAgICAgICAgICAgICAgPERvd25sb2FkQnV0dG9uPuS4i+i8ieaJi+WGijwvRG93bmxvYWRCdXR0b24+CiAgICAgICAgICAgICAgICA8L0Rvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICA8L0NvbnRhaW5lcj4KICAgICAgICAgICAgPC9Db2w+Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzOwo=</text>
+      <register name="4" type="4">
+        <text>，希望讓更多開發者理解如何在框架的輔助下，加強成員間協作能力並提升產能。本次共計 12 
+        場專題講題，內容囊括 Laravel 導入經驗、團隊合作模式、效能調校、測試部署及使用技巧，並邀請實務團隊參與案例論壇供會眾提問。</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGR1bmNhbgogKiBEYXRlOiAyMDE5LTA1LTE3CiAqIFRpbWU6IDE3OjM1CiAqLwoK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRWYWx1ZSgpOiBzdHJpbmcKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnZhbHVlOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkdmFsdWUKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNldFZhbHVlKHN0cmluZyAkdmFsdWUpOiB2b2lkCiAgICB7CiAgICAgICAgJHRoaXMtPnZhbHVlID0gJHZhbHVlOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgICAkbnVtYmVyOwogICAgcHJvdGVjdGVkICRhID0gMzsKCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdCgpCiAgICB7CiAgICAgICAgJG51bWJlciA9IDA7CiAgICAgICAgaWYgKCRudW1iZXIgPiAwKSB7CiAgICAgICAgICAgIHJldHVybiAnSm9leSc7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJ0pvZXknOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0MigpCiAgICB7CiAgICAgICAgJHRoaXMtPm51bWJlciA9IDA7CgogICAgICAgIGlmICgkdGhpcy0+bnVtYmVyID09IDEpIHsKICAgICAgICAgICAgcmV0dXJuICdhYSc7CiAgICAgICAgfQoKICAgICAgICBpZiAoJHRoaXMtPm51bWJlciA9PSAyKSB7CiAgICAgICAgICAgIHJldHVybiAnYWEnOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICdhYWEnOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bnVtYmVyID0gMDsKCiAgICAgICAgaWYgKCR0aGlzLT5udW1iZXIgPT0gMSkgewogICAgICAgICAgICByZXR1cm4gJ2FhJzsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgcmV0dXJuICdhYWEnOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICdhZGYnOwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGR1bmNhbgogKiBEYXRlOiAyMDE5LTA1LTE3CiAqIFRpbWU6IDE3OjM1CiAqLwoK</text>
+      </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -1458,9 +1461,9 @@
         <entry>action Run</entry>
         <entry>action IntroduceField</entry>
         <entry>action GotoPreviousError</entry>
-        <entry>action Back</entry>
         <entry>redo</entry>
         <entry>action MethodUp</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
