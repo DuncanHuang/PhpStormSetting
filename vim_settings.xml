@@ -424,6 +424,12 @@
         <mark key="^" line="32" column="47" />
         <mark key="." line="32" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/components/Header/index.js" timestamp="1558092355581">
+        <mark key="[" line="382" column="13" />
+        <mark key="]" line="382" column="12" />
+        <mark key="^" line="382" column="12" />
+        <mark key="." line="382" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.2.0.tm_todoSubjectEncodeConvert.php" timestamp="1557898567296">
         <mark key="[" line="133" column="15" />
         <mark key="]" line="133" column="14" />
@@ -935,12 +941,12 @@
         <mark key="^" line="107" column="24" />
         <mark key="." line="107" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/test3.php" timestamp="1558085739263">
-        <mark key="'" line="9" column="20" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="4" />
-        <mark key="." line="24" column="4" />
-        <mark key="^" line="24" column="4" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/test3.php" timestamp="1558085849747">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+        <mark key="^" line="24" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/mp_lang.tw" timestamp="1555558056519">
         <mark key="[" line="50" column="15" />
@@ -1039,7 +1045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
       <jump line="8" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
       <jump line="385" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="143" column="63" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" />
@@ -1139,6 +1144,7 @@
       <jump line="4" column="21" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/test2.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/test3.php" />
       <jump line="9" column="20" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/test3.php" />
+      <jump line="10" column="4" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/test3.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1227,8 +1233,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1253,7 +1259,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Tom</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>common.js</text>
@@ -1265,10 +1271,10 @@
         <text>?201905131737_12248_d49a051c9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRWYWx1ZSgpOiBzdHJpbmcKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnZhbHVlOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkdmFsdWUKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNldFZhbHVlKHN0cmluZyAkdmFsdWUpOiB2b2lkCiAgICB7CiAgICAgICAgJHRoaXMtPnZhbHVlID0gJHZhbHVlOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1378,25 +1384,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGR1bmNhbgogKiBEYXRlOiAyMDE5LTA1LTE3CiAqIFRpbWU6IDE3OjM1CiAqLwoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgICAkbnVtYmVyOwogICAgcHJvdGVjdGVkICRhID0gMzsKCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdCgpCiAgICB7CiAgICAgICAgJG51bWJlciA9IDA7CiAgICAgICAgaWYgKCRudW1iZXIgPiAwKSB7CiAgICAgICAgICAgIHJldHVybiAnSm9leSc7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJ0pvZXknOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0MigpCiAgICB7CiAgICAgICAgJHRoaXMtPm51bWJlciA9IDA7CgogICAgICAgIGlmICgkdGhpcy0+bnVtYmVyID09IDEpIHsKICAgICAgICAgICAgcmV0dXJuICdhYSc7CiAgICAgICAgfQoKICAgICAgICBpZiAoJHRoaXMtPm51bWJlciA9PSAyKSB7CiAgICAgICAgICAgIHJldHVybiAnYWEnOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICdhYWEnOwogICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bnVtYmVyID0gMDsKCiAgICAgICAgaWYgKCR0aGlzLT5udW1iZXIgPT0gMSkgewogICAgICAgICAgICByZXR1cm4gJ2FhJzsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgcmV0dXJuICdhYWEnOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICdhZGYnOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGR1bmNhbgogKiBEYXRlOiAyMDE5LTA1LTE3CiAqIFRpbWU6IDE3OjM1CiAqLwoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgICAkbnVtYmVyOwogICAgcHJvdGVjdGVkICRhID0gMzsKCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdCgpCiAgICB7CiAgICAgICAgJG51bWJlciA9IDA7CiAgICAgICAgaWYgKCRudW1iZXIgPiAwKSB7CiAgICAgICAgICAgIHJldHVybiAnSm9leSc7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJ0pvZXknOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0MigpCiAgICB7CiAgICAgICAgJHRoaXMtPm51bWJlciA9IDA7CgogICAgICAgIGlmICgkdGhpcy0+bnVtYmVyID09IDEpIHsKICAgICAgICAgICAgcmV0dXJuICdhYSc7CiAgICAgICAgfQoKICAgICAgICBpZiAoJHRoaXMtPm51bWJlciA9PSAyKSB7CiAgICAgICAgICAgIHJldHVybiAnYWEnOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICdhYWEnOwogICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bnVtYmVyID0gMDsKCiAgICAgICAgaWYgKCR0aGlzLT5udW1iZXIgPT0gMSkgewogICAgICAgICAgICByZXR1cm4gJ2FhJzsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgcmV0dXJuICdhYWEnOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICdhZGYnOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action MethodUp</text>
