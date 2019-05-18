@@ -231,18 +231,25 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" timestamp="1558106981159">
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" timestamp="1558106992790">
         <mark key="'" line="186" column="37" />
         <mark key="[" line="250" column="41" />
-        <mark key="]" line="250" column="41" />
-        <mark key="^" line="186" column="61" />
-        <mark key="." line="250" column="41" />
+        <mark key="]" line="250" column="40" />
+        <mark key="^" line="250" column="40" />
+        <mark key="." line="250" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/wf-sp_forms_lang.en" timestamp="1556094095876">
         <mark key="[" line="9" column="1" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/.allowip" timestamp="1558169343881">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="26" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="26" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Jobs/XDOCAddressBookUpdater.php" timestamp="1557371185450">
         <mark key="'" line="300" column="29" />
@@ -1037,7 +1044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="42" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
       <jump line="52" column="35" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
       <jump line="84" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
       <jump line="79" column="1" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
@@ -1137,6 +1143,7 @@
       <jump line="97" column="20" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/ad.php" />
       <jump line="186" column="37" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/views/ad_create-view.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/.allowip" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1226,7 +1233,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text>1.34.241.178</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1251,7 +1258,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>1.34.241.178</text>
       </register>
       <register name="/" type="4">
         <text>355</text>
@@ -1259,8 +1266,8 @@
       <register name="o" type="4">
         <text />
       </register>
-      <register name="0" type="4">
-        <text>?201905131737_12248_d49a051c9</text>
+      <register name="0" type="2">
+        <text encoding="base64">YWxsb3cgMS4zNC4yNDEuMTc4Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8Q29udGFpbmVyPgogICAgICAgICAgICAgICAgPFRpdGxlPuS4u+W9ouixoeS7i+e0uTwvVGl0bGU+CiAgICAgICAgICAgICAgICA8Q29udGVudD4KICAgICAgICAgICAgICAgICAg5Zyo6ZaL55m86ICF55qE5LiW55WM6KOh77yMR2l0aHViIOeahOe2oOiJsiBjb21taXQg5bCP5pa55aGK5bCx5YOP5piv5LiA5YCL5Lq655qE5bel5L2c57Sv56mN5Y+K5ZyY6ZqK5ZCI5L2c55qE6LGh5b6144CCCiAgICAgICAgICAgICAgICAgIOWboOatpO+8jOS7peWkp+acg+acrOW5tOW6puS4u+i7uOOAjOWcmOmaiuWQiOS9nOOAjeeCuuaguOW/g++8jEdpdGh1YiDnmoTntqDoibIgY29tbWl0IOWwj+aWueWhiuWBmueCuuiBr+aDs+eahOi1t+Wni+m7nu+8jOS7peWwj+aWueWhiuepjeaymeaIkOWhlOeahOmaseWWu+WBmuW7tuS8uO+8jAogICAgICAgICAgICAgICAgICDpgI/pgY7lnJjpmorlkIjkvZznmoTliqrlipvloIbnlorlh7ogTGFyYXZlbCDnmoTkuLvlvaLosaHloZTvvIzkuKbmkK3phY0gTGFyYXZlbCDliJ3lp4vlronoo53llZ/li5XnlavpnaLnmoTlrZflnovvvIzli77li5Llh7rmraTmrKHlpKfmnIPkuLvlvaLosaHjgIIKICAgICAgICAgICAgICAgIDwvQ29udGVudD4KICAgICAgICAgICAgICAgIDxUaXRsZT7lubTliIrmiYvlhoo8L1RpdGxlPgogICAgICAgICAgICAgICAgPERvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICAgICAgPExhYmVsPuWFqOS4lueVjOeahCBMYXJhcnZlbCDnoJToqI7mnIMucGRmPC9MYWJlbD4KICAgICAgICAgICAgICAgICAgPERvd25sb2FkQnV0dG9uPuS4i+i8ieaJi+WGijwvRG93bmxvYWRCdXR0b24+CiAgICAgICAgICAgICAgICA8L0Rvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICA8L0NvbnRhaW5lcj4K</text>
