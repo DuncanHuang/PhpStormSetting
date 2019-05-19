@@ -33,9 +33,6 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/database.php" timestamp="1557757748371">
-        <mark key="'" line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardSet.inc" timestamp="1552024687015">
         <mark key="[" line="79" column="10" />
         <mark key="]" line="79" column="9" />
@@ -139,9 +136,6 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_left.htm" timestamp="1557888486452">
-        <mark key="'" line="3" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/OverTimeSplitTest.php" timestamp="1557820083542">
         <mark key="'" line="147" column="26" />
         <mark key="[" line="121" column="35" />
@@ -231,12 +225,12 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" timestamp="1558106992790">
-        <mark key="'" line="186" column="37" />
-        <mark key="[" line="250" column="41" />
-        <mark key="]" line="250" column="40" />
-        <mark key="^" line="250" column="40" />
-        <mark key="." line="250" column="40" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" timestamp="1558243613139">
+        <mark key="'" line="68" column="40" />
+        <mark key="[" line="108" column="50" />
+        <mark key="]" line="109" column="43" />
+        <mark key="^" line="109" column="43" />
+        <mark key="." line="109" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/wf-sp_forms_lang.en" timestamp="1556094095876">
         <mark key="[" line="9" column="1" />
@@ -310,11 +304,12 @@
         <mark key="." line="1372" column="0" />
         <mark key="^" line="1373" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/ayetstudios.php" timestamp="1557759917722">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/ayetstudios.php" timestamp="1558244276738">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/.env" timestamp="1557758278557">
         <mark key="[" line="16" column="39" />
@@ -335,9 +330,6 @@
         <mark key="^" line="314" column="68" />
         <mark key="." line="314" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_move.htm" timestamp="1557888473507">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Service/XDoc/XDocMakerByDI.php" timestamp="1553503731698">
         <mark key="[" line="563" column="22" />
         <mark key="]" line="563" column="21" />
@@ -357,17 +349,14 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/supersonic.php" timestamp="1557557707802">
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/supersonic.php" timestamp="1558243211933">
         <mark key="'" line="311" column="0" />
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="7" />
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="40" column="4" />
+        <mark key="^" line="40" column="4" />
+        <mark key="." line="40" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/system/database/DB_result.php" timestamp="1557759338790" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_job_view.htm" timestamp="1557888500569">
-        <mark key="'" line="1" column="5" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/system/database/DB_driver.php" timestamp="1557758060825">
         <mark key="[" line="115" column="71" />
         <mark key="]" line="115" column="70" />
@@ -606,9 +595,6 @@
         <mark key="^" line="293" column="77" />
         <mark key="." line="293" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_progress_flash.htm" timestamp="1557798671034">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/outputXDoc.php" timestamp="1556869290911">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="2" column="0" />
@@ -647,9 +633,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/database.php" timestamp="1557757749269">
-        <mark key="'" line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/test.php" timestamp="1558022502686">
         <mark key="'" line="49" column="8" />
@@ -696,9 +679,6 @@
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_mypm_spi_list.htm" timestamp="1557888915852">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/test2.php" timestamp="1558085690617">
         <mark key="[" line="30" column="1" />
         <mark key="]" line="30" column="0" />
@@ -723,6 +703,13 @@
         <mark key="^" line="36" column="30" />
         <mark key="." line="36" column="30" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" timestamp="1558244320417">
+        <mark key="'" line="11" column="31" />
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/pdo.php" timestamp="1556870884731">
         <mark key="[" line="13" column="18" />
         <mark key="]" line="13" column="17" />
@@ -741,6 +728,13 @@
         <mark key="]" line="4" column="72" />
         <mark key="." line="4" column="72" />
         <mark key="^" line="4" column="72" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" timestamp="1558243591026">
+        <mark key="'" line="72" column="32" />
+        <mark key="[" line="72" column="27" />
+        <mark key="]" line="72" column="32" />
+        <mark key="." line="72" column="32" />
+        <mark key="^" line="72" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Libraries/Verification/GeneralValidatorTest.php" timestamp="1552633518230">
         <mark key="[" line="1922" column="0" />
@@ -770,9 +764,6 @@
         <mark key="." line="97" column="0" />
         <mark key="^" line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/ProgressBarHelper.php" timestamp="1557899773825">
-        <mark key="'" line="110" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/7.14.0.migration.sql" timestamp="1557914969368">
         <mark key="[" line="21" column="29" />
         <mark key="]" line="21" column="28" />
@@ -790,6 +781,13 @@
         <mark key="]" line="268" column="34" />
         <mark key="." line="268" column="34" />
         <mark key="^" line="268" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/tapjoy.php" timestamp="1558244310140">
+        <mark key="'" line="281" column="4" />
+        <mark key="[" line="144" column="97" />
+        <mark key="]" line="144" column="96" />
+        <mark key="^" line="144" column="96" />
+        <mark key="." line="144" column="96" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/findex.php" timestamp="1557194327104">
         <mark key="'" line="233" column="63" />
@@ -907,14 +905,6 @@
         <mark key="]" line="5" column="114" />
         <mark key="^" line="5" column="85" />
         <mark key="." line="5" column="85" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" timestamp="1557897881655">
-        <mark key="b" line="84" column="0" />
-        <mark key="'" line="146" column="0" />
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="37" column="20" />
-        <mark key="." line="37" column="20" />
-        <mark key="^" line="37" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/VA/KWCR2VacationCardReviseDAO.php" timestamp="1555309358949">
         <mark key="[" line="77" column="28" />
@@ -1044,38 +1034,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="35" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="84" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="79" column="1" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="61" column="7" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="133" column="5" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="143" column="42" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="94" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="113" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="164" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="71" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="83" column="5" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="70" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="136" column="40" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="155" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="165" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="177" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="174" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="25" column="22" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/OverTimeSplit.php" />
-      <jump line="74" column="53" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="116" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="83" column="22" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="95" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="98" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="145" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="149" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="26" column="53" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
-      <jump line="102" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
       <jump line="147" column="26" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/OverTimeSplitTest.php" />
       <jump line="89" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
       <jump line="120" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/splitOvertimeToMultiRecordTest.php" />
@@ -1144,6 +1102,38 @@
       <jump line="186" column="37" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/views/ad_create-view.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/.allowip" />
+      <jump line="137" column="41" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/tapjoy.php" />
+      <jump line="2" column="10" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/ayetstudios.php" />
+      <jump line="181" column="4" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/tapjoy.php" />
+      <jump line="71" column="57" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="159" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="143" column="39" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="196" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="162" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="84" column="4" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="14" column="67" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="38" column="38" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="238" column="28" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
+      <jump line="85" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
+      <jump line="87" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="110" column="29" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="146" column="39" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="49" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="50" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="147" column="8" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
+      <jump line="128" column="24" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
+      <jump line="107" column="8" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
+      <jump line="69" column="60" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
+      <jump line="72" column="32" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="109" column="43" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
+      <jump line="108" column="8" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
+      <jump line="130" column="24" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
+      <jump line="68" column="40" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
+      <jump line="18" column="104" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/ayetstudios.php" />
+      <jump line="281" column="4" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/tapjoy.php" />
+      <jump line="6" column="31" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1232,8 +1222,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>1.34.241.178</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJF9kZXZpY2VBcnJheSA9IFsxXTsKICAgIHByaXZhdGUgJF9kZXZpY2U7CiAgICBwcml2YXRlICRfZGV2aWNlSUQ7CiAgICBwcml2YXRlICRfdG9kYXlMaW1pdDsKCg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1258,10 +1248,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1.34.241.178</text>
+        <text>Ayetstudios</text>
       </register>
       <register name="/" type="4">
-        <text>355</text>
+        <text>34</text>
       </register>
       <register name="o" type="4">
         <text />
@@ -1270,10 +1260,10 @@
         <text encoding="base64">YWxsb3cgMS4zNC4yNDEuMTc4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Q29udGFpbmVyPgogICAgICAgICAgICAgICAgPFRpdGxlPuS4u+W9ouixoeS7i+e0uTwvVGl0bGU+CiAgICAgICAgICAgICAgICA8Q29udGVudD4KICAgICAgICAgICAgICAgICAg5Zyo6ZaL55m86ICF55qE5LiW55WM6KOh77yMR2l0aHViIOeahOe2oOiJsiBjb21taXQg5bCP5pa55aGK5bCx5YOP5piv5LiA5YCL5Lq655qE5bel5L2c57Sv56mN5Y+K5ZyY6ZqK5ZCI5L2c55qE6LGh5b6144CCCiAgICAgICAgICAgICAgICAgIOWboOatpO+8jOS7peWkp+acg+acrOW5tOW6puS4u+i7uOOAjOWcmOmaiuWQiOS9nOOAjeeCuuaguOW/g++8jEdpdGh1YiDnmoTntqDoibIgY29tbWl0IOWwj+aWueWhiuWBmueCuuiBr+aDs+eahOi1t+Wni+m7nu+8jOS7peWwj+aWueWhiuepjeaymeaIkOWhlOeahOmaseWWu+WBmuW7tuS8uO+8jAogICAgICAgICAgICAgICAgICDpgI/pgY7lnJjpmorlkIjkvZznmoTliqrlipvloIbnlorlh7ogTGFyYXZlbCDnmoTkuLvlvaLosaHloZTvvIzkuKbmkK3phY0gTGFyYXZlbCDliJ3lp4vlronoo53llZ/li5XnlavpnaLnmoTlrZflnovvvIzli77li5Llh7rmraTmrKHlpKfmnIPkuLvlvaLosaHjgIIKICAgICAgICAgICAgICAgIDwvQ29udGVudD4KICAgICAgICAgICAgICAgIDxUaXRsZT7lubTliIrmiYvlhoo8L1RpdGxlPgogICAgICAgICAgICAgICAgPERvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICAgICAgPExhYmVsPuWFqOS4lueVjOeahCBMYXJhcnZlbCDnoJToqI7mnIMucGRmPC9MYWJlbD4KICAgICAgICAgICAgICAgICAgPERvd25sb2FkQnV0dG9uPuS4i+i8ieaJi+WGijwvRG93bmxvYWRCdXR0b24+CiAgICAgICAgICAgICAgICA8L0Rvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICA8L0NvbnRhaW5lcj4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJF9kZXZpY2VBcnJheSA9IFsxXTsKICAgIHByaXZhdGUgJF9kZXZpY2U7CiAgICBwcml2YXRlICRfZGV2aWNlSUQ7CiAgICBwcml2YXRlICRfdG9kYXlMaW1pdDsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPE1haW5TZWN0aW9uPgogICAgICAgIDxHcmlkV3JhcHBlcj4KICAgICAgICAgIDxHcmlkPgogICAgICAgICAgICA8Q29sIHdpZHRoPXtbNCAvIDEyLCAyIC8gMl19IG9mZnNldD17WzEgLyAxMiwgMF19PgogICAgICAgICAgICAgIDxWaXN1YWxJbWc+CiAgICAgICAgICAgICAgICA8SW1nIHNyYz0nL3N0YXRpYy9pbWFnZXMvcGFnZS1kZXNrdG9wLXZpc3VhbC5zdmcnIHR5cGU9J2NvdmVyJyAvPgogICAgICAgICAgICAgIDwvVmlzdWFsSW1nPgogICAgICAgICAgICA8L0NvbD4KICAgICAgICAgICAgPENvbCB3aWR0aD17WzUgLyAxMiwgMiAvIDJdfT4KICAgICAgICAgICAgICA8Q29udGFpbmVyPgogICAgICAgICAgICAgICAgPFRpdGxlPuS4u+W9ouixoeS7i+e0uTwvVGl0bGU+CiAgICAgICAgICAgICAgICA8Q29udGVudD4KICAgICAgICAgICAgICAgICAg5Zyo6ZaL55m86ICF55qE5LiW55WM6KOh77yMR2l0aHViIOeahOe2oOiJsiBjb21taXQg5bCP5pa55aGK5bCx5YOP5piv5LiA5YCL5Lq655qE5bel5L2c57Sv56mN5Y+K5ZyY6ZqK5ZCI5L2c55qE6LGh5b6144CCCiAgICAgICAgICAgICAgICAgIOWboOatpO+8jOS7peWkp+acg+acrOW5tOW6puS4u+i7uOOAjOWcmOmaiuWQiOS9nOOAjeeCuuaguOW/g++8jEdpdGh1YiDnmoTntqDoibIgY29tbWl0IOWwj+aWueWhiuWBmueCuuiBr+aDs+eahOi1t+Wni+m7nu+8jOS7peWwj+aWueWhiuepjeaymeaIkOWhlOeahOmaseWWu+WBmuW7tuS8uO+8jAogICAgICAgICAgICAgICAgICDpgI/pgY7lnJjpmorlkIjkvZznmoTliqrlipvloIbnlorlh7ogTGFyYXZlbCDnmoTkuLvlvaLosaHloZTvvIzkuKbmkK3phY0gTGFyYXZlbCDliJ3lp4vlronoo53llZ/li5XnlavpnaLnmoTlrZflnovvvIzli77li5Llh7rmraTmrKHlpKfmnIPkuLvlvaLosaHjgIIKICAgICAgICAgICAgICAgIDwvQ29udGVudD4KICAgICAgICAgICAgICAgIDxUaXRsZT7lubTliIrmiYvlhoo8L1RpdGxlPgogICAgICAgICAgICAgICAgPERvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICAgICAgPExhYmVsPuWFqOS4lueVjOeahCBMYXJhcnZlbCDnoJToqI7mnIMucGRmPC9MYWJlbD4KICAgICAgICAgICAgICAgICAgPERvd25sb2FkQnV0dG9uPuS4i+i8ieaJi+WGijwvRG93bmxvYWRCdXR0b24+CiAgICAgICAgICAgICAgICA8L0Rvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICA8L0NvbnRhaW5lcj4KICAgICAgICAgICAgPC9Db2w+CiAgICAgICAgICA8L0dyaWQ+CiAgICAgICAgPC9HcmlkV3JhcHBlcj4KICAgICAgPC9NYWluU2VjdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmlucHV0LT5nZXQoJ2RldmljZScpICYmICFpbl9hcnJheSgkdGhpcy0+aW5wdXQtPmdldCgnZGV2aWNlJyksICR0aGlzLT5fZGV2aWNlQXJyYXkpKSB7CiAgICAgICAgICAgICR0aGlzLT5yZXNwb25zZShhcnJheSgnc3RhdHVzJyA9PiBmYWxzZSwgJ2NvZGUnID0+IDEwMSksIDIwMCk7CiAgICAgICAgfQogICAgICAgIGlmICghJHRoaXMtPmlucHV0LT5nZXQoJ2RldmljZUlEJywgdHJ1ZSkpIHsKICAgICAgICAgICAgJHRoaXMtPnJlc3BvbnNlKGFycmF5KCdzdGF0dXMnID0+IGZhbHNlLCAnY29kZScgPT4gMTAyKSwgMjAwKTsKICAgICAgICB9CgogICAgICAgICR0aGlzLT5fZGV2aWNlICAgPSAoJHRoaXMtPmlucHV0LT5nZXQoJ2RldmljZScpKSA/ICR0aGlzLT5pbnB1dC0+Z2V0KCdkZXZpY2UnKSA6ICR0aGlzLT5fZGV2aWNlOwogICAgICAgICR0aGlzLT5fZGV2aWNlSUQgPSAkdGhpcy0+aW5wdXQtPmdldCgnZGV2aWNlSUQnLCB0cnVlKTsKCiAgICAgICAgJGxvYWRUb2RheUNvbXBsZXRlQ291bnQgPSAkdGhpcy0+c2RrX21vZGVsLT5sb2FkVG9kYXlDb21wbGV0ZUNvdW50KAogICAgICAgICAgICAkdGhpcy0+X2RldmljZUlELAogICAgICAgICAgICAnQXlldFN0dWRpb3NDYWxsYmFjaycsCiAgICAgICAgICAgICd1aWQnCiAgICAgICAgKTsKICAgICAgICBpZiAoJGxvYWRUb2RheUNvbXBsZXRlQ291bnQgPj0gJHRoaXMtPl90b2RheUxpbWl0KSB7CiAgICAgICAgICAgICR0aGlzLT5yZXNwb25zZShhcnJheSgnc3RhdHVzJyA9PiBmYWxzZSwgJ2NvZGUnID0+IDIwMiksIDIwMCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJHRoaXMtPnJlc3BvbnNlKGFycmF5KCdzdGF0dXMnID0+IHRydWUpLCAyMDApOwogICAgICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1383,35 +1373,34 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPENvbCB3aWR0aD17WzUgLyAxMiwgMiAvIDJdfT4KICAgICAgICAgICAgICA8Q29udGFpbmVyPgogICAgICAgICAgICAgICAgPFRpdGxlPuS4u+W9ouixoeS7i+e0uTwvVGl0bGU+CiAgICAgICAgICAgICAgICA8Q29udGVudD4KICAgICAgICAgICAgICAgICAg5Zyo6ZaL55m86ICF55qE5LiW55WM6KOh77yMR2l0aHViIOeahOe2oOiJsiBjb21taXQg5bCP5pa55aGK5bCx5YOP5piv5LiA5YCL5Lq655qE5bel5L2c57Sv56mN5Y+K5ZyY6ZqK5ZCI5L2c55qE6LGh5b6144CCCiAgICAgICAgICAgICAgICAgIOWboOatpO+8jOS7peWkp+acg+acrOW5tOW6puS4u+i7uOOAjOWcmOmaiuWQiOS9nOOAjeeCuuaguOW/g++8jEdpdGh1YiDnmoTntqDoibIgY29tbWl0IOWwj+aWueWhiuWBmueCuuiBr+aDs+eahOi1t+Wni+m7nu+8jOS7peWwj+aWueWhiuepjeaymeaIkOWhlOeahOmaseWWu+WBmuW7tuS8uO+8jAogICAgICAgICAgICAgICAgICDpgI/pgY7lnJjpmorlkIjkvZznmoTliqrlipvloIbnlorlh7ogTGFyYXZlbCDnmoTkuLvlvaLosaHloZTvvIzkuKbmkK3phY0gTGFyYXZlbCDliJ3lp4vlronoo53llZ/li5XnlavpnaLnmoTlrZflnovvvIzli77li5Llh7rmraTmrKHlpKfmnIPkuLvlvaLosaHjgIIKICAgICAgICAgICAgICAgIDwvQ29udGVudD4KICAgICAgICAgICAgICAgIDxUaXRsZT7lubTliIrmiYvlhoo8L1RpdGxlPgogICAgICAgICAgICAgICAgPERvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICAgICAgPExhYmVsPuWFqOS4lueVjOeahCBMYXJhcnZlbCDnoJToqI7mnIMucGRmPC9MYWJlbD4KICAgICAgICAgICAgICAgICAgPERvd25sb2FkQnV0dG9uPuS4i+i8ieaJi+WGijwvRG93bmxvYWRCdXR0b24+CiAgICAgICAgICAgICAgICA8L0Rvd25sb2FkV3JhcHBlcj4KICAgICAgICAgICAgICA8L0NvbnRhaW5lcj4KICAgICAgICAgICAgPC9Db2w+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nVGltZXMoJ2JlZm9yZV8kdGhpcy0+c2RrX21vZGVsLT5sb2FkVG9kYXlDb21wbGV0ZUNvdW50Jyk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>，希望讓更多開發者理解如何在框架的輔助下，加強成員間協作能力並提升產能。本次共計 12 
-        場專題講題，內容囊括 Laravel 導入經驗、團隊合作模式、效能調校、測試部署及使用技巧，並邀請實務團隊參與案例論壇供會眾提問。</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nVGltZXMoJ2FmdGVyXyR0aGlzLT5zZGtfbW9kZWwtPmxvYWRUb2RheUNvbXBsZXRlQ291bnQnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRWYWx1ZSgpOiBzdHJpbmcKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnZhbHVlOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkdmFsdWUKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNldFZhbHVlKHN0cmluZyAkdmFsdWUpOiB2b2lkCiAgICB7CiAgICAgICAgJHRoaXMtPnZhbHVlID0gJHZhbHVlOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJF9HQUlEOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJF9uaWNrbmFtZUZsYWc7CiAgICBwcml2YXRlICRfdGltZUxpbWl0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmlucHV0LT5nZXQoJ2RldmljZScpICYmICFpbl9hcnJheSgkdGhpcy0+aW5wdXQtPmdldCgnZGV2aWNlJyksICR0aGlzLT5fZGV2aWNlQXJyYXkpKSB7CiAgICAgICAgICAgICR0aGlzLT5yZXNwb25zZShhcnJheSgnc3RhdHVzJyA9PiBmYWxzZSwgJ2NvZGUnID0+IDEwMSksIDIwMCk7CiAgICAgICAgfQogICAgICAgIGlmICghJHRoaXMtPmlucHV0LT5nZXQoJ2RldmljZUlEJywgdHJ1ZSkpIHsKICAgICAgICAgICAgJHRoaXMtPnJlc3BvbnNlKGFycmF5KCdzdGF0dXMnID0+IGZhbHNlLCAnY29kZScgPT4gMTAyKSwgMjAwKTsKICAgICAgICB9CgogICAgICAgICR0aGlzLT5fZGV2aWNlICAgPSAoJHRoaXMtPmlucHV0LT5nZXQoJ2RldmljZScpKSA/ICR0aGlzLT5pbnB1dC0+Z2V0KCdkZXZpY2UnKSA6ICR0aGlzLT5fZGV2aWNlOwogICAgICAgICR0aGlzLT5fZGV2aWNlSUQgPSAkdGhpcy0+aW5wdXQtPmdldCgnZGV2aWNlSUQnLCB0cnVlKTsKICAgICAgICAkdGhpcy0+X0dBSUQgICAgID0gJHRoaXMtPmlucHV0LT5nZXQoJ0dBSUQnKTsKCiAgICAgICAgJGxvYWRUb2RheUNvbXBsZXRlQ291bnQgPSAkdGhpcy0+c2RrX21vZGVsLT5sb2FkVG9kYXlDb21wbGV0ZUNvdW50KCR0aGlzLT5fZGV2aWNlSUQsICdUYXBqb3lDYWxsYmFjaycsICdzbnVpZCcpOwogICAgICAgIGlmICgkbG9hZFRvZGF5Q29tcGxldGVDb3VudCA+PSAkdGhpcy0+X3RvZGF5TGltaXQpIHsKICAgICAgICAgICAgJHRoaXMtPnJlc3BvbnNlKGFycmF5KCdzdGF0dXMnID0+IEZBTFNFLCAnY29kZScgPT4gMjAyKSwgMjAwKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkdGhpcy0+cmVzcG9uc2UoYXJyYXkoJ3N0YXR1cycgPT4gVFJVRSksIDIwMCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzOwo=</text>
+        <text encoding="base64">ICAgICAgICAkbG9hZE5pY2tuYW1lRmxhZyAgICA9ICR0aGlzLT5zZGtfbW9kZWwtPmNoZWNrTG9hZE5pY2tuYW1lKCR0aGlzLT5fZGV2aWNlLCAkdGhpcy0+X2RldmljZUlEKTsKICAgICAgICAkdGhpcy0+X25pY2tuYW1lRmxhZyA9ICRsb2FkTmlja25hbWVGbGFnWydkYXRhJ11bJ0ZsYWcnXTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGR1bmNhbgogKiBEYXRlOiAyMDE5LTA1LTE3CiAqIFRpbWU6IDE3OjM1CiAqLwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoNextError</text>
       </register>
     </registers>
     <search>
-      <last-search>355</last-search>
+      <last-search>34</last-search>
       <last-offset />
-      <last-pattern>355</last-pattern>
+      <last-pattern>34</last-pattern>
       <last-replace>child</last-replace>
       <last-substitute>19</last-substitute>
       <last-dir>1</last-dir>
@@ -1419,8 +1408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>atio</entry>
-        <entry>nat</entry>
         <entry>13</entry>
         <entry>2</entry>
         <entry>Du</entry>
@@ -1439,6 +1426,8 @@
         <entry>apps.js</entry>
         <entry>common.js</entry>
         <entry>355</entry>
+        <entry>33</entry>
+        <entry>34</entry>
       </history-search>
       <history-cmd>
         <entry>182</entry>
@@ -1453,14 +1442,14 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action MethodDown</entry>
         <entry>action RearrangeCode</entry>
-        <entry>action GotoNextError</entry>
         <entry>action Run</entry>
         <entry>action IntroduceField</entry>
-        <entry>action GotoPreviousError</entry>
         <entry>redo</entry>
-        <entry>action MethodUp</entry>
-        <entry>action Back</entry>
         <entry>w</entry>
+        <entry>action GotoPreviousError</entry>
+        <entry>action Back</entry>
+        <entry>action MethodUp</entry>
+        <entry>action GotoNextError</entry>
       </history-cmd>
       <history-expr />
       <history-input />
