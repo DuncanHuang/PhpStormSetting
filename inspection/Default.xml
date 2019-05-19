@@ -1,3 +1,16 @@
-<inspections profile_name="Default" version="1.0">
+<profile version="1.0">
   <option name="myName" value="Default" />
-</inspections>
+  <inspection_tool class="SSBasedInspection" enabled="true" level="Refactor" enabled_by_default="true">
+    <replaceConfiguration name="merge if" text="if ($predicate1$) {&#10;$statements$&#10;}&#10;&#10;if ($predicate2$) {&#10;$statements$&#10;}" recursive="true" caseInsensitive="false" type="PHP" reformatAccordingToStyle="true" shortenFQN="true" replacement="if ($predicate1$ || $predicate2$) {&#10;$statements$&#10;}">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="statements" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="predicate1" nameOfExprType="boolean" within="" contains="" />
+      <constraint name="predicate2" nameOfExprType="boolean" within="" contains="" />
+    </replaceConfiguration>
+    <replaceConfiguration name="if condition" text="if ($predicate$) {&#10;return $statements$;&#10;}&#10;&#10;return $statements$;" recursive="true" caseInsensitive="false" type="PHP" reformatAccordingToStyle="true" shortenFQN="true" useStaticImport="true" replacement="return $statements$;">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="statements" within="" contains="" />
+      <constraint name="predicate" nameOfExprType="boolean" within="" contains="" />
+    </replaceConfiguration>
+  </inspection_tool>
+</profile>
