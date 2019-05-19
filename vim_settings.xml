@@ -323,12 +323,11 @@
       <file name="/Dummy.txt" timestamp="1558085699931">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" timestamp="1558255154948">
+      <file name="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" timestamp="1558259294867">
         <mark key="'" line="100" column="0" />
-        <mark key="[" line="70" column="39" />
-        <mark key="]" line="70" column="38" />
-        <mark key="^" line="70" column="38" />
-        <mark key="." line="70" column="38" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/.allowip" timestamp="1558169343881">
         <mark key="'" line="0" column="0" />
@@ -625,7 +624,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCwgJHNjb3JlKTsK</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -650,7 +649,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>asdf</text>
+        <text>$expected$</text>
       </register>
       <register name="/" type="4">
         <text>34</text>
@@ -662,7 +661,7 @@
         <text encoding="base64">YWxsb3cgMS4zNC4yNDEuMTc4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCwgJHNjb3JlKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -775,25 +774,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRleHBlY3RlZCwgJHNjb3JlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbnVtYmVyID0gMDsKICAgICAgICBpZiAoJG51bWJlciA+IDEpIHsKICAgICAgICAgICAgcmV0dXJuICdhZHNmJzsKICAgICAgICB9CgogICAgICAgIHJldHVybiAnYXNkZic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRhc2RmLCAkYXNkZik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKCgoKICAgICAgICAkbnVtYmVyID0gMDsKICAgICAgICBpZiAoJG51bWJlciA+IDApIHsKICAgICAgICAgICAgcmV0dXJuICdKb2V5JzsKICAgICAgICB9CgogICAgICAgIHJldHVybiAnSm9leSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKGFyZywgJGFzZGYpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkbnVtYmVyID0gMDsKICAgICAgICBpZiAoJG51bWJlciA+IDApIHsKICAgICAgICAgICAgcmV0dXJuICdKb2V5JzsKICAgICAgICB9CgogICAgICAgIHJldHVybiAnSm9leSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCwgJGFzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPl9kZXZpY2VBcnJheSA9PSAxKSB7CiAgICAgICAgICAgIHJldHVybiAnYWRzZic7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJ2FzZGYnOwo=</text>
+        <text encoding="base64">ICAgICAgICAkYXNkZi5hZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action MethodDown</text>
