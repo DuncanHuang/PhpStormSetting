@@ -299,12 +299,12 @@
         <mark key="." line="24" column="21" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/class/CardToNetask.php" timestamp="1558335768421">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/class/CardToNetask.php" timestamp="1558337579351">
         <mark key="'" line="1269" column="55" />
-        <mark key="[" line="374" column="38" />
-        <mark key="]" line="754" column="29" />
-        <mark key="^" line="754" column="29" />
-        <mark key="." line="754" column="29" />
+        <mark key="[" line="1259" column="24" />
+        <mark key="]" line="1259" column="30" />
+        <mark key="^" line="1259" column="30" />
+        <mark key="." line="1259" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/Migration/2.3.0.migration.sql" timestamp="1557760432985">
         <mark key="'" line="4" column="7" />
@@ -631,8 +631,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRjYXJkX3Jlc3VsdCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+      <register name="&quot;" type="4">
+        <text>empty</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -671,7 +671,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>is_null</text>
+        <text>empty</text>
       </register>
       <register name="/" type="4">
         <text>revice</text>
