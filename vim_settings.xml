@@ -338,11 +338,12 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" timestamp="1558368407301">
-        <mark key="[" line="190" column="61" />
-        <mark key="]" line="190" column="60" />
-        <mark key="." line="190" column="60" />
-        <mark key="^" line="190" column="60" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" timestamp="1558374776169">
+        <mark key="'" line="204" column="4" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" timestamp="1558259294867">
         <mark key="'" line="100" column="0" />
@@ -453,8 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/test.php" />
-      <jump line="190" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/ProgressBarHelperTest.php" />
       <jump line="156" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/ProgressBarHelperTest.php" />
       <jump line="180" column="5" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/ProgressBarHelperTest.php" />
       <jump line="389" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/ProgressBarHelperTest.php" />
@@ -553,6 +552,8 @@
       <jump line="137" column="59" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
       <jump line="1269" column="55" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/class/CardToNetask.php" />
       <jump line="127" column="62" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
+      <jump line="173" column="28" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
+      <jump line="204" column="4" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -827,7 +828,7 @@
         <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRlbWRhKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>187</text>
+        <text>action MethodDown</text>
       </register>
     </registers>
     <search>
@@ -876,13 +877,13 @@
         <entry>action GotoPreviousError</entry>
         <entry>actionlist</entry>
         <entry encoding="base64">c291cmNlIC9Vc2Vycy9kdW5jYW4vLmlkZWF2aW1yYyA=</entry>
-        <entry>action MethodDown</entry>
         <entry>360</entry>
         <entry>action Back</entry>
         <entry>action MethodUp</entry>
         <entry>61</entry>
         <entry>17</entry>
         <entry>187</entry>
+        <entry>action MethodDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
