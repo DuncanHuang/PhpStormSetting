@@ -180,12 +180,11 @@
         <mark key="^" line="5" column="85" />
         <mark key="." line="5" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" timestamp="1558428362645">
-        <mark key="'" line="173" column="24" />
-        <mark key="[" line="1428" column="0" />
-        <mark key="]" line="1428" column="0" />
-        <mark key="." line="1428" column="0" />
-        <mark key="^" line="159" column="37" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" timestamp="1558428942762">
+        <mark key="[" line="166" column="53" />
+        <mark key="]" line="166" column="60" />
+        <mark key="^" line="166" column="60" />
+        <mark key="." line="166" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/VacationRecordRepoTest.php" timestamp="1557207886935">
         <mark key="'" line="66" column="0" />
@@ -571,8 +570,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSAkc3RhcnRTdHIKICAgICAqIEBwYXJhbSAkZW5kU3RyCiAgICAgKiBAcmV0dXJuIENsb3N1cmUKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBjdXN0b21XaXRoQXJncygkc3RhcnRTdHIsICRlbmRTdHIpCiAgICB7CiAgICAgICAgcmV0dXJuIGZ1bmN0aW9uICgkdXNlcklkLCBEYXRlVGltZSAkc3RhcnQsIERhdGVUaW1lICRlbmQpIHVzZSAoJHN0YXJ0U3RyLCAkZW5kU3RyKSB7CiAgICAgICAgICAgIGlmICgKICAgICAgICAgICAgICAgICRzdGFydC0+Zm9ybWF0KCdZLW0tZCBIOmk6cycpID09ICRzdGFydFN0cgogICAgICAgICAgICAgICAgJiYgJGVuZC0+Zm9ybWF0KCdZLW0tZCBIOmk6cycpID09ICRlbmRTdHIKICAgICAgICAgICAgKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH07CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'2016-12-13 18:00:00'</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -611,7 +610,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>'2016-12-13 18:00:00'</text>
       </register>
       <register name="/" type="4">
         <text>return</text>
@@ -805,13 +804,13 @@
         <entry>128</entry>
         <entry>action ChangeSignature</entry>
         <entry>162</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action IntroduceParameter</entry>
         <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
-        <entry>action Back</entry>
         <entry>action Inline</entry>
+        <entry>action Back</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
