@@ -180,11 +180,10 @@
         <mark key="^" line="5" column="85" />
         <mark key="." line="5" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" timestamp="1558428942762">
-        <mark key="[" line="166" column="53" />
-        <mark key="]" line="166" column="60" />
-        <mark key="^" line="166" column="60" />
-        <mark key="." line="166" column="60" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" timestamp="1558430496571">
+        <mark key="]" line="193" column="6" />
+        <mark key="^" line="193" column="6" />
+        <mark key="." line="193" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/VacationRecordRepoTest.php" timestamp="1557207886935">
         <mark key="'" line="66" column="0" />
@@ -756,7 +755,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Inline</text>
       </register>
     </registers>
     <search>
@@ -792,7 +791,6 @@
         <entry>return</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>actionlist</entry>
         <entry encoding="base64">c291cmNlIC9Vc2Vycy9kdW5jYW4vLmlkZWF2aW1yYyA=</entry>
         <entry>360</entry>
@@ -806,12 +804,13 @@
         <entry>162</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action IntroduceParameter</entry>
-        <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
-        <entry>action Inline</entry>
         <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action Run</entry>
+        <entry>action MethodUp</entry>
+        <entry>159</entry>
+        <entry>action Inline</entry>
       </history-cmd>
       <history-expr />
       <history-input />
