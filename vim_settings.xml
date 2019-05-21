@@ -96,12 +96,12 @@
         <mark key="^" line="76" column="10" />
         <mark key="." line="76" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va_o2csv.inc" timestamp="1557897167495">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="^" line="131" column="13" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va_o2csv.inc" timestamp="1558418073454">
+        <mark key="'" line="42" column="24" />
+        <mark key="[" line="118" column="21" />
+        <mark key="]" line="118" column="28" />
+        <mark key="^" line="118" column="28" />
+        <mark key="." line="118" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_newpm.htm" timestamp="1557888453975">
         <mark key="'" line="6" column="41" />
@@ -157,7 +157,14 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_KWCR2CalculateVacationDutyRange.php" timestamp="1558343198045">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1558417919219">
+        <mark key="'" line="53" column="38" />
+        <mark key="[" line="53" column="41" />
+        <mark key="]" line="53" column="40" />
+        <mark key="^" line="53" column="40" />
+        <mark key="." line="53" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_KWCR2CalculateVacationDutyRange.php" timestamp="1558403063995">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -204,8 +211,8 @@
         <mark key="^" line="5" column="85" />
         <mark key="." line="5" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" timestamp="1557739681106">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" timestamp="1558418080177">
+        <mark key="'" line="138" column="29" />
         <mark key="[" line="155" column="5" />
         <mark key="]" line="155" column="4" />
         <mark key="^" line="155" column="4" />
@@ -279,10 +286,6 @@
         <mark key="^" line="133" column="14" />
         <mark key="." line="133" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" timestamp="1558245131630">
-        <mark key="'" line="6" column="31" />
-        <mark key="[" line="5" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" timestamp="1557803509296">
         <mark key="'" line="56" column="20" />
         <mark key="[" line="314" column="21" />
@@ -304,7 +307,7 @@
         <mark key="^" line="24" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/class/CardToNetask.php" timestamp="1558338064483">
-        <mark key="'" line="1269" column="55" />
+        <mark key="'" line="1268" column="55" />
         <mark key="[" line="86" column="63" />
         <mark key="]" line="87" column="69" />
         <mark key="^" line="87" column="69" />
@@ -454,15 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/ProgressBarHelperTest.php" />
-      <jump line="180" column="5" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/ProgressBarHelperTest.php" />
-      <jump line="389" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/ProgressBarHelperTest.php" />
-      <jump line="393" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/ProgressBarHelperTest.php" />
-      <jump line="397" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/ProgressBarHelperTest.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/test.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/test2.php" />
-      <jump line="20" column="1" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/test2.php" />
-      <jump line="14" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/test2.php" />
       <jump line="26" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/test.php" />
       <jump line="74" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/test.php" />
       <jump line="38" column="37" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/test.php" />
@@ -554,6 +548,15 @@
       <jump line="127" column="62" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
       <jump line="173" column="28" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
       <jump line="204" column="4" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" />
+      <jump line="159" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" />
+      <jump line="36" column="43" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va_o2csv.inc" />
+      <jump line="144" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va_o2csv.inc" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va_o2csv.inc" />
+      <jump line="53" column="38" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
+      <jump line="118" column="16" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va_o2csv.inc" />
+      <jump line="42" column="24" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va_o2csv.inc" />
+      <jump line="138" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -642,8 +645,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRzJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkc3RhcnRfZGF0ZSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckZScgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJGVuZF9kYXRlKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -682,7 +685,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>empty</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>User</text>
@@ -828,7 +831,7 @@
         <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRlbWRhKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodDown</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -878,12 +881,12 @@
         <entry>actionlist</entry>
         <entry encoding="base64">c291cmNlIC9Vc2Vycy9kdW5jYW4vLmlkZWF2aW1yYyA=</entry>
         <entry>360</entry>
-        <entry>action Back</entry>
-        <entry>action MethodUp</entry>
         <entry>61</entry>
         <entry>17</entry>
         <entry>187</entry>
         <entry>action MethodDown</entry>
+        <entry>action MethodUp</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
