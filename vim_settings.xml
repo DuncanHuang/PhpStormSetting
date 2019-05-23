@@ -55,12 +55,12 @@
         <mark key="." line="7" column="59" />
         <mark key="^" line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1558543284694">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="62" column="45" />
-        <mark key="]" line="62" column="49" />
-        <mark key="^" line="62" column="49" />
-        <mark key="." line="62" column="49" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1558624667141">
+        <mark key="'" line="103" column="3" />
+        <mark key="[" line="74" column="15" />
+        <mark key="]" line="74" column="36" />
+        <mark key="^" line="74" column="36" />
+        <mark key="." line="74" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.va_data_export.inc" timestamp="1557819776441">
         <mark key="[" line="8" column="22" />
@@ -399,6 +399,12 @@
         <mark key="^" line="26" column="26" />
         <mark key="." line="26" column="26" />
       </file>
+      <file name="$USER_HOME$/Downloads/未命名檔案夾 2/2019-website__20190523231038__b93c6f0_Diff_8d8c73a.tar/src/apis/agenda.js" timestamp="1558624275031">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="11" />
+        <mark key="^" line="24" column="11" />
+        <mark key="." line="24" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/utilities/lang_loader.js" timestamp="1558579800197" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordReport.php" timestamp="1557217652414">
         <mark key="'" line="65" column="22" />
@@ -479,12 +485,6 @@
         <mark key="^" line="144" column="96" />
         <mark key="." line="144" column="96" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" timestamp="1558543333831">
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="21" column="47" />
-        <mark key="." line="21" column="47" />
-        <mark key="^" line="21" column="47" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/NoClockProcess.php" timestamp="1558497256347">
         <mark key="'" line="191" column="5" />
         <mark key="[" line="340" column="8" />
@@ -521,10 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va_o2csv.inc" />
-      <jump line="167" column="19" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" />
-      <jump line="53" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va_o2csv.inc" />
       <jump line="12" column="25" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va_o2csv.inc" />
       <jump line="14" column="34" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va_o2csv.inc" />
       <jump line="49" column="34" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va_o2csv.inc" />
@@ -621,6 +617,10 @@
       <jump line="33" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
       <jump line="138" column="3" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
       <jump line="47" column="43" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
+      <jump line="71" column="9" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="46" column="21" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="31" column="27" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="101" column="3" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -709,8 +709,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -749,7 +749,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>14</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>addMsg</text>
@@ -895,7 +895,7 @@
         <text encoding="base64">ICB7CiAgICBpZDogMiwKICAgIG5hbWU6ICfnsKHlv5fosaonLAogICAgbmlja25hbWU6ICdSb25hbGQnLAogICAgY29tcGFueTogJ0JhbGl2aWxsYXMnLAogICAgcG9zaXRpb246ICflkIjlpKXkuronLAogICAgY29udGVudDogYOebruWJjeS7u+iBt+aWvCA0R2FtZXJzIO+8jCDplovnmbxQSFDmmYLplpPntITlm5vlubTvvIzlvp7mnIDljp/lp4vnmoQgUEhQIOWvq+WcqOWQjOS4gOaUr+aqlOahiOmWi+Wni+WFpemWgO+8jAogICAg5Yiw5L2/55SoIHNtYXJ0eSDmqKPmnb/lvJXmk47kvobliIbpm6LnqIvlvI/norzvvIzkuIDnm7TliLDnj77lnKjnmoQgRnJhbWV3b3JrIChDb2RlaWduaXRlciwgTGFyYXZlbCkg6ZaL55m877yMCiAgICBsIExvdmUgTGFyYXZlbCAmIEkgTG92ZSBDb21wb3Nlcu+8gWAsCiAgICBhdmF0YXJTcmM6ICdodHRwczovL3BpY3N1bS5waG90b3MvaWQvMTAwNS8xMjAwLzEyMDAnLAogICAgZmFjZWJvb2s6ICcvJywKICAgIHR3aXR0ZXI6ICcvJywKICAgIGdpdGh1YjogJy8nLAogICAgd2Vic2l0ZTogJy8nLAogIH0sCiAgewogICAgaWQ6IDMsCiAgICBuYW1lOiAn5YqJ5a6H54OdJywKICAgIG5pY2tuYW1lOiAnSmFtZXMnLAogICAgY29tcGFueTogJ+S4iueZruenkeaKgCcsCiAgICBwb3NpdGlvbjogJ+e4veW3peeoi+W4qycsCiAgICBjb250ZW50OiAn5b6e5bCP54ax5oSb6Zu76IWm56eR5oqA77yM5LqU5bm05YmN6ZaL5aeL5oqV5YWlIFBIUCDplovnmbzvvIznj77mraPmjonpgLIgRGV2T3BzIOWdke+8jOacquS+huacn+acm+iDveiuk+abtOWkmuS6uuiqjeeCuumWi+eZvOi7n+mrlOaYr+S7tuaciei2o+eahOS6i+OAgicsCiAgICBhdmF0YXJTcmM6ICdodHRwczovL3BpY3N1bS5waG90b3MvaWQvMTAvMTIwMC8xMjAwJywKICAgIGZhY2Vib29rOiAnJywKICAgIHR3aXR0ZXI6ICcnLAogICAgZ2l0aHViOiAnJywKICAgIHdlYnNpdGU6ICcnLAogIH0sCiAgewogICAgaWQ6IDQsCiAgICBuYW1lOiAn57Ch5b+X6LGqJywKICAgIG5pY2tuYW1lOiAnUm9uYWxkJywKICAgIGNvbXBhbnk6ICdCYWxpdmlsbGFzJywKICAgIHBvc2l0aW9uOiAn5ZCI5aSl5Lq6JywKICAgIGNvbnRlbnQ6IGDkuK3ljp/lpKflrbjljJblrbjnoJTnqbbmiYDljZrlo6vvvIzmm77ku7vjgJDkuK3lpK7noJTnqbbpmaLnlJ/nianovrLmpa3noJTnqbbmiYDjgJHlnIvpmLLlvbnnoJTnqbblk6HvvIwKICAgIOOAkOmAoOmbqOS6uuenkeaKgOOAkeWwiOahiOe2k+eQhuOAgeOAkOWvjOaJv+enkeaKgOOAkeWJtei+puS6uuOAgee4vee2k+eQhu+8jOePvuS7u+OAkGlGaXQg6Im+57Wy6LOH6KiK44CR6LOH6KiK6ZW377yMCiAgICDkuLvopoHlt6XkvZzngrrluLbpoJjos4foqIrmioDooZPlnJjpmorlsI7lhaXjgIHlu7rnva7kuKbntq3orbflhazlj7jlkITpoIXmnI3li5nntrLnq5noiIfkvIHmpa3nh5/pgYvnrqHnkIbns7vntbHvvIjlpoJIUk3vvIxDUk3vvIxFSVDvvIxXTVPvvIxFUlDnrYnvvInvvIwKICAgIOS7peWPiuWFrOWPuOWFp+mDqOWQhOmgheizh+ioiuebuOmXnOacjeWLmeiIh+izh+ioiuioreWCmeeuoeeQhuOAgmAsCiAgICBhdmF0YXJTcmM6ICdodHRwczovL3BpY3N1bS5waG90b3MvaWQvMTAwMy8xMjAwLzEyMDAnLAogICAgZmFjZWJvb2s6ICcvJywKICAgIHR3aXR0ZXI6ICcnLAogICAgZ2l0aHViOiAnJywKICAgIHdlYnNpdGU6ICcnLAogIH0sCiAgewogICAgaWQ6IDUsCiAgICBuYW1lOiAn5YqJ5a6H54OdJywKICAgIG5pY2tuYW1lOiAnSmFtZXMnLAogICAgY29tcGFueTogJ+S4iueZruenkeaKgCcsCiAgICBwb3NpdGlvbjogJ+e4veW3peeoi+W4qycsCiAgICBjb250ZW50OiAn5pu+5Lu76KGM6Yq35YWs5Y+45bCI5qGI566h55CG77yM5pyf6ZaT5b6e5LqLIFVYIOimj+WKg+W4q++8jOacgOe1guiHquW3sei1sOS4iuS6hiBjb2Rpbmcg5LmL6Lev44CCJywKICAgIGF2YXRhclNyYzogJ2h0dHBzOi8vcGljc3VtLnBob3Rvcy9pZC8xMC8xMjAwLzEyMDAnLAogICAgZmFjZWJvb2s6ICcnLAogICAgdHdpdHRlcjogJycsCiAgICBnaXRodWI6ICcnLAogICAgd2Vic2l0ZTogJycsCiAgfSwKICB7CiAgICBpZDogNiwKICAgIG5hbWU6ICfnsKHlv5fosaonLAogICAgbmlja25hbWU6ICdSb25hbGQnLAogICAgY29tcGFueTogJ0JhbGl2aWxsYXMnLAogICAgcG9zaXRpb246ICflkIjlpKXkuronLAogICAgY29udGVudDogJ+abvuS7u+ihjOmKt+WFrOWPuOWwiOahiOeuoeeQhu+8jOacn+mWk+W+nuS6iyBVWCDopo/lioPluKvvvIzmnIDntYLoh6rlt7HotbDkuIrkuoYgY29kaW5nIOS5i+i3r+OAgicsCiAgICBhdmF0YXJTcmM6ICdodHRwczovL3BpY3N1bS5waG90b3MvaWQvMTAwNS8xMjAwLzEyMDAnLAogICAgZmFjZWJvb2s6ICcvJywKICAgIHR3aXR0ZXI6ICcvJywKICAgIGdpdGh1YjogJy8nLAogICAgd2Vic2l0ZTogJy8nLAogIH0sCiAgewogICAgaWQ6IDcsCiAgICBuYW1lOiAn5YqJ5a6H54OdJywKICAgIG5pY2tuYW1lOiAnSmFtZXMnLAogICAgY29tcGFueTogJ+S4iueZruenkeaKgCcsCiAgICBwb3NpdGlvbjogJ+e4veW3peeoi+W4qycsCiAgICBjb250ZW50OiAn5b6e5bCP54ax5oSb6Zu76IWm56eR5oqA77yM5LqU5bm05YmN6ZaL5aeL5oqV5YWlIFBIUCDplovnmbzvvIznj77mraPmjonpgLIgRGV2T3BzIOWdke+8jOacquS+huacn+acm+iDveiuk+abtOWkmuS6uuiqjeeCuumWi+eZvOi7n+mrlOaYr+S7tuaciei2o+eahOS6i+OAgicsCiAgICBhdmF0YXJTcmM6ICdodHRwczovL3BpY3N1bS5waG90b3MvaWQvMTAvMTIwMC8xMjAwJywKICAgIGZhY2Vib29rOiAnJywKICAgIHR3aXR0ZXI6ICcnLAogICAgZ2l0aHViOiAnJywKICAgIHdlYnNpdGU6ICcnLAogIH0sCiAgewogICAgaWQ6IDgsCiAgICBuYW1lOiAn57Ch5b+X6LGqJywKICAgIG5pY2tuYW1lOiAnUm9uYWxkJywKICAgIGNvbXBhbnk6ICdCYWxpdmlsbGFzJywKICAgIHBvc2l0aW9uOiAn5ZCI5aSl5Lq6JywKICAgIGNvbnRlbnQ6ICfmm77ku7vooYzpirflhazlj7jlsIjmoYjnrqHnkIbvvIzmnJ/plpPlvp7kuosgVVgg6KaP5YqD5bir77yM5pyA57WC6Ieq5bex6LWw5LiK5LqGIGNvZGluZyDkuYvot6/jgIInLAogICAgYXZhdGFyU3JjOiAnaHR0cHM6Ly9waWNzdW0ucGhvdG9zL2lkLzEwMDMvMTIwMC8xMjAwJywKICAgIGZhY2Vib29rOiAnLycsCiAgICB0d2l0dGVyOiAnLycsCiAgICBnaXRodWI6ICcvJywKICAgIHdlYnNpdGU6ICcnLAogIH0sCiAgewogICAgaWQ6IDksCiAgICBuYW1lOiAn5YqJ5a6H54OdJywKICAgIG5pY2tuYW1lOiAnSmFtZXMnLAogICAgY29tcGFueTogJ+S4iueZruenkeaKgCcsCiAgICBwb3NpdGlvbjogJ+e4veW3peeoi+W4qycsCiAgICBjb250ZW50OiAn5b6e5bCP54ax5oSb6Zu76IWm56eR5oqA77yM5LqU5bm05YmN6ZaL5aeL5oqV5YWlIFBIUCDplovnmbzvvIznj77mraPmjonpgLIgRGV2T3BzIOWdke+8jOacquS+huacn+acm+iDveiuk+abtOWkmuS6uuiqjeeCuumWi+eZvOi7n+mrlOaYr+S7tuaciei2o+eahOS6i+OAgicsCiAgICBhdmF0YXJTcmM6ICdodHRwczovL3BpY3N1bS5waG90b3MvaWQvMTAvMTIwMC8xMjAwJywKICAgIGZhY2Vib29rOiAnJywKICAgIHR3aXR0ZXI6ICcnLAogICAgZ2l0aHViOiAnJywKICAgIHdlYnNpdGU6ICcnLAogIH0sCiAgewogICAgaWQ6IDEwLAogICAgbmFtZTogJ+ewoeW/l+ixqicsCiAgICBuaWNrbmFtZTogJ1JvbmFsZCcsCiAgICBjb21wYW55OiAnQmFsaXZpbGxhcycsCiAgICBwb3NpdGlvbjogJ+WQiOWkpeS6uicsCiAgICBjb250ZW50OiBg5Lit5Y6f5aSn5a245YyW5a2456CU56m25omA5Y2a5aOr77yM5pu+5Lu744CQ5Lit5aSu56CU56m26Zmi55Sf54mp6L6y5qWt56CU56m25omA44CR5ZyL6Ziy5b2556CU56m25ZOh77yMCiAgICDjgJDpgKDpm6jkurrnp5HmioDjgJHlsIjmoYjntpPnkIbjgIHjgJDlr4zmib/np5HmioDjgJHlibXovqbkurrjgIHnuL3ntpPnkIbvvIznj77ku7vjgJBpRml0IOiJvue1suizh+ioiuOAkeizh+ioiumVt++8jAogICAg5Li76KaB5bel5L2c54K65bi26aCY6LOH6KiK5oqA6KGT5ZyY6ZqK5bCO5YWl44CB5bu6572u5Lim57at6K235YWs5Y+45ZCE6aCF5pyN5YuZ57ay56uZ6IiH5LyB5qWt54ef6YGL566h55CG57O757Wx77yI5aaCSFJN77yMQ1JN77yMRUlQ77yMV01T77yMRVJQ562J77yJ77yMCiAgICDku6Xlj4rlhazlj7jlhafpg6jlkITpoIXos4foqIrnm7jpl5zmnI3li5noiIfos4foqIroqK3lgpnnrqHnkIbjgIJgLAogICAgYXZhdGFyU3JjOiAnaHR0cHM6Ly9waWNzdW0ucGhvdG9zL2lkLzEwMDUvMTIwMC8xMjAwJywKICAgIGZhY2Vib29rOiAnLycsCiAgICB0d2l0dGVyOiAnJywKICAgIGdpdGh1YjogJycsCiAgICB3ZWJzaXRlOiAnLycsCiAgfSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>45</text>
       </register>
     </registers>
     <search>
@@ -931,7 +931,6 @@
         <entry>addMsg</entry>
       </history-search>
       <history-cmd>
-        <entry>187</entry>
         <entry>128</entry>
         <entry>162</entry>
         <entry>159</entry>
@@ -951,6 +950,7 @@
         <entry>action GotoPreviousError</entry>
         <entry>action Back</entry>
         <entry>action MethodUp</entry>
+        <entry>45</entry>
       </history-cmd>
       <history-expr />
       <history-input />
