@@ -266,13 +266,7 @@
         <mark key="^" line="233" column="107" />
         <mark key="." line="233" column="107" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1558519773767">
-        <mark key="'" line="1279" column="80" />
-        <mark key="[" line="1251" column="43" />
-        <mark key="]" line="1251" column="43" />
-        <mark key="." line="1251" column="43" />
-        <mark key="^" line="1251" column="43" />
-      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1558519773767" />
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/ayetstudios.php" timestamp="1558245146656">
         <mark key="[" line="18" column="54" />
         <mark key="]" line="18" column="53" />
@@ -389,6 +383,13 @@
         <mark key="]" line="192" column="54" />
         <mark key="^" line="192" column="54" />
         <mark key="." line="192" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1558577914815">
+        <mark key="'" line="66" column="43" />
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_edit.htm" timestamp="1557888541953">
         <mark key="'" line="2" column="60" />
@@ -532,7 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" />
       <jump line="95" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va_o2csv.inc" />
       <jump line="167" column="19" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" />
       <jump line="53" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" />
@@ -632,6 +632,7 @@
       <jump line="195" column="9" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
       <jump line="138" column="3" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
+      <jump line="47" column="43" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -721,7 +722,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>AlexChang</text>
+        <text>14</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -760,7 +761,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AlexChang</text>
+        <text>14</text>
       </register>
       <register name="/" type="4">
         <text>addMsg</text>
