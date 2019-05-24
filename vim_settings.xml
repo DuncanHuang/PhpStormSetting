@@ -89,11 +89,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/.next/static/webpack/static/development/pages/agenda.js.6ea1421079b3acd84b2f.hot-update.js" timestamp="1558537332659">
-        <mark key="[" line="100" column="12" />
-        <mark key="]" line="100" column="12" />
-        <mark key="." line="100" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/laravel-tw/2019-website/.next/server/static/development/pages/speakers.js" timestamp="1558538831145">
         <mark key="[" line="4800" column="27" />
         <mark key="]" line="4800" column="26" />
@@ -165,11 +160,6 @@
         <mark key="." line="123" column="17" />
         <mark key="^" line="123" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/PersonalData.php" timestamp="1558256852760">
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="0" />
-        <mark key="." line="189" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_progress.htm" timestamp="1557798676563">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="55" />
@@ -211,11 +201,6 @@
         <mark key="]" line="55" column="97" />
         <mark key="^" line="55" column="97" />
         <mark key="." line="55" column="97" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_KWCR2CalculateVacationDutyRange.php" timestamp="1558403063995">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/OverTimeSplitTest.php" timestamp="1557820083542">
         <mark key="'" line="147" column="26" />
@@ -318,7 +303,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/未命名檔案夾 2/php-isbn-validator/tests/Validators/ISBNValidatorTest.php" timestamp="1558676407180">
+      <file name="$USER_HOME$/Downloads/未命名檔案夾 2/php-isbn-validator/tests/Validators/ISBNValidatorTest.php" timestamp="1558677692193">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="9" column="26" />
         <mark key="]" line="10" column="39" />
@@ -338,21 +323,11 @@
         <mark key="^" line="214" column="18" />
         <mark key="." line="214" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/containers/AgendaPage/TalkSection/index.js" timestamp="1558543053031">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/va_lang.en" timestamp="1558493297130">
         <mark key="[" line="443" column="33" />
         <mark key="]" line="443" column="32" />
         <mark key="^" line="443" column="32" />
         <mark key="." line="443" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Common.php" timestamp="1558512572888">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1558675705647">
         <mark key="[" line="0" column="0" />
@@ -494,7 +469,7 @@
       <file name="/__dummy.php" timestamp="1558326040517">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/未命名檔案夾 2/php-isbn-validator/tests/Converters/ISBNConverterTest.php" timestamp="1558676476220">
+      <file name="$USER_HOME$/Downloads/未命名檔案夾 2/php-isbn-validator/tests/Converters/ISBNConverterTest.php" timestamp="1558677716356">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -942,7 +917,7 @@
         <text encoding="base64">ICAgICAqIEBjb3ZlcnMgXEFwcFxWYWxpZGF0b3JzXElTQk5WYWxpZGF0b3I6OnZhbGlkYXRlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodDown</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -994,10 +969,10 @@
         <entry>action GotoNextError</entry>
         <entry>action GotoPreviousError</entry>
         <entry>45</entry>
-        <entry>action Back</entry>
         <entry>184</entry>
         <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
