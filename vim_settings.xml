@@ -12,8 +12,8 @@
         <mark key="^" line="28" column="22" />
         <mark key="." line="28" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1558663465108">
-        <mark key="'" line="1260" column="47" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1558664009189">
+        <mark key="'" line="1232" column="20" />
         <mark key="[" line="1312" column="39" />
         <mark key="]" line="1312" column="38" />
         <mark key="." line="1312" column="38" />
@@ -115,7 +115,7 @@
         <mark key="." line="9" column="2413" />
         <mark key="^" line="9" column="2413" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" timestamp="1558664001235">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" timestamp="1558664008041">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -249,12 +249,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" timestamp="1557209445193">
-        <mark key="'" line="186" column="52" />
-        <mark key="[" line="192" column="55" />
-        <mark key="]" line="192" column="54" />
-        <mark key="^" line="192" column="54" />
-        <mark key="." line="192" column="54" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" timestamp="1558668985358">
+        <mark key="'" line="207" column="39" />
+        <mark key="[" line="370" column="53" />
+        <mark key="]" line="370" column="52" />
+        <mark key="^" line="370" column="52" />
+        <mark key="." line="370" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1558577914815">
         <mark key="'" line="85" column="43" />
@@ -262,6 +262,12 @@
         <mark key="]" line="37" column="3" />
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1558669378654">
+        <mark key="[" line="182" column="25" />
+        <mark key="]" line="185" column="0" />
+        <mark key="^" line="185" column="0" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_edit.htm" timestamp="1557888541953">
         <mark key="'" line="2" column="60" />
@@ -530,17 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="22" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" />
-      <jump line="166" column="18" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" />
-      <jump line="127" column="59" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="129" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="146" column="59" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="130" column="16" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="131" column="61" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="141" column="112" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="26" column="24" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="801" column="43" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
       <jump line="1381" column="30" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
       <jump line="113" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
@@ -585,7 +580,6 @@
       <jump line="14" column="54" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/cardProcess.php" />
       <jump line="1370" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/cardProcess.php" />
-      <jump line="57" column="62" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
       <jump line="32" column="26" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/cardProcess.php" />
       <jump line="1244" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1247" column="22" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
@@ -617,8 +611,6 @@
       <jump line="31" column="27" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
       <jump line="101" column="3" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
       <jump line="114" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
-      <jump line="1232" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1260" column="47" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
@@ -630,6 +622,20 @@
       <jump line="18" column="87" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.carddata_import.inc" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.carddata_import.inc" />
       <jump line="7" column="1" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.carddata_import.inc" />
+      <jump line="75" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" />
+      <jump line="1232" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="207" column="39" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -904,7 +910,7 @@
         <text encoding="base64">Ci8v6Ly45YWl5qqU5Ymv5qqU5ZCNCmRlZmluZSgnRVhUTkFNRScsJ2NzdicpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>184</text>
       </register>
     </registers>
     <search>
@@ -940,7 +946,6 @@
         <entry>addMsg</entry>
       </history-search>
       <history-cmd>
-        <entry>128</entry>
         <entry>162</entry>
         <entry>159</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSW50cm9kdWNlUGFyYW1ldGVy</entry>
@@ -960,6 +965,7 @@
         <entry>action MethodUp</entry>
         <entry>45</entry>
         <entry>action Back</entry>
+        <entry>184</entry>
       </history-cmd>
       <history-expr />
       <history-input />
