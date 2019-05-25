@@ -355,12 +355,12 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" timestamp="1558374776169">
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" timestamp="1558793174293">
         <mark key="'" line="204" column="4" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="[" line="18" column="60" />
+        <mark key="]" line="18" column="59" />
+        <mark key="." line="18" column="59" />
+        <mark key="^" line="18" column="59" />
       </file>
       <file name="/Dummy.txt" timestamp="1558518698010">
         <mark key="[" line="0" column="0" />
@@ -842,7 +842,7 @@
         <text encoding="base64">ICAgICAqIEBjb3ZlcnMgOjpJU0JOVmFsaWRhdG9yCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text encoding="base64">c291cmNlIC9Vc2Vycy9kdW5jYW4vLmlkZWF2aW1yYyA=</text>
       </register>
     </registers>
     <search>
@@ -878,7 +878,6 @@
         <entry encoding="base64">XDxMb3ZlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>159</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSW50cm9kdWNlUGFyYW1ldGVy</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action Run</entry>
@@ -898,6 +897,7 @@
         <entry>action IntroduceParameter</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
+        <entry encoding="base64">c291cmNlIC9Vc2Vycy9kdW5jYW4vLmlkZWF2aW1yYyA=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
