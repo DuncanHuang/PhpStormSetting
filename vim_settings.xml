@@ -55,7 +55,6 @@
         <mark key="^" line="74" column="36" />
         <mark key="." line="74" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.va_data_export.inc" timestamp="1558968654636" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1558688737265">
         <mark key="'" line="5571" column="27" />
         <mark key="[" line="32" column="1" />
@@ -143,8 +142,7 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1558943655694">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1558968738917">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
@@ -453,12 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/NoClockProcess.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/NoClockProcess.php" />
-      <jump line="347" column="37" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" />
-      <jump line="19" column="46" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/cardProcess.php" />
       <jump line="14" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.carddata_import.inc" />
       <jump line="592" column="60" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="591" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
@@ -553,6 +545,12 @@
       <jump line="89" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" />
       <jump line="85" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" />
       <jump line="80" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" />
+      <jump line="169" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
+      <jump line="168" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
+      <jump line="165" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
+      <jump line="155" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
+      <jump line="139" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
+      <jump line="145" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -827,7 +825,7 @@
         <text encoding="base64">ICAgIHByZWdfbWF0Y2goJycsIDIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>121</text>
+        <text>action MethodDown</text>
       </register>
     </registers>
     <search>
@@ -880,9 +878,9 @@
         <entry>action Back</entry>
         <entry>139</entry>
         <entry>134</entry>
-        <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
         <entry>121</entry>
+        <entry>action MethodDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
