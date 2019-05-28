@@ -46,6 +46,12 @@
         <mark key="." line="7" column="59" />
         <mark key="^" line="6" column="64" />
       </file>
+      <file name="$USER_HOME$/Documents/91/speed/src/Tennis.php" timestamp="1559052481376">
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="39" column="4" />
+        <mark key="." line="39" column="4" />
+        <mark key="^" line="39" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1558624667141">
         <mark key="'" line="103" column="3" />
         <mark key="[" line="74" column="15" />
@@ -110,6 +116,12 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/AbstractEmployeeDAO.php" timestamp="1558924024863">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" timestamp="1559010040763" />
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/supersonic.php" timestamp="1558257370453">
@@ -365,6 +377,12 @@
         <mark key="." line="151" column="23" />
         <mark key="^" line="151" column="23" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/viidle.php" timestamp="1558887313035">
+        <mark key="[" line="90" column="16" />
+        <mark key="]" line="90" column="15" />
+        <mark key="^" line="90" column="15" />
+        <mark key="." line="90" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" timestamp="1558793184690">
         <mark key="'" line="27" column="30" />
         <mark key="[" line="48" column="39" />
@@ -444,6 +462,12 @@
         <mark key="]" line="3" column="7" />
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/test.php" timestamp="1558922686582">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="4" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/findex.php" timestamp="1557194327104">
         <mark key="'" line="233" column="63" />
@@ -656,8 +680,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkbmFtZT0nZHVuY2FuJzsK</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -708,10 +732,10 @@
         <text>s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gYXV0aG9yIDogbGlueWlzCnJlcXVpcmVfb25jZSgnbHlzQ29tbW9uLnBocCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkbmFtZT0nZHVuY2FuJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JHIgPSAK</text>
+        <text encoding="base64">Ly8gYXV0aG9yIDogbGlueWlzCnJlcXVpcmVfb25jZSgnbHlzQ29tbW9uLnBocCcpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -821,28 +845,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtcyA9IGFycmF5KCk7Cg==</text>
+        <text encoding="base64">JHIgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyYW1zID0gYXJyYXkoJGZsb3dfaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtcyA9IGFycmF5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
+        <text encoding="base64">ICAgICAgICAkcGFyYW1zID0gYXJyYXkoJGZsb3dfaWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ09XTkVSSUQnLCAnQ1JFQVRFVElNRScsICdGTE9XSUQnLCAnRkxPV05VTScsICdQUklPUklUWScsICdGUk9NJywgJ0FQUExJQ0FOVCcsICdTVUJKRUNUJywgJ1BST0NFU1NJTkdfVVNFUklEJywKICAgICAgICAgICAgJ1BST0NFU1NJTkdfSU5ERVgnLCAnUkVDSVBJRU5UU19DT1VOVCcsICdEVUVEQVRFJywgJ0RVRUFMRVJUJywgJ1RFTVBMQVRFSUQnLCAnQ09OVEVOVCcsICdOT1RJRlknLCAnU1RBVFVTJywKICAgICAgICAgICAgJ0FQVFlQRScsICdTRUVOJywgJ1JFT1JERVJQRVJNSVQnLCAnRk9SV0FSRExJU1QnLCAnRk9SV0FSRFNVQk1JVCcsICdTSUdOVFlQRScsICdGSU5JU0hEQVRFJywgJ0NMT1NFREFURScsCiAgICAgICAgICAgICdTRU5EX0VNQUlMJywgJ1NFTkRfU01TJywgJ1NFTkRfTVNHJywgJ05PVElGWV9DT01NRU5UJywgJ0xPQ0tTVEFUVVMnLCAnUkVNT1RFSUQnLCAnRk9MREVSJywgJ05GT0xERVInLAogICAgICAgICAgICAnTElNSVRUSU1FJywgJ1RJTUVMSU1JVCcsICdTRU5ETVNHJywgJ0FGT0xERVInCg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ09XTkVSSUQnLCAnQ1JFQVRFVElNRScsICdGTE9XSUQnLCAnRkxPV05VTScsICdQUklPUklUWScsICdGUk9NJywgJ0FQUExJQ0FOVCcsICdTVUJKRUNUJywgJ1BST0NFU1NJTkdfVVNFUklEJywKICAgICAgICAgICAgJ1BST0NFU1NJTkdfSU5ERVgnLCAnUkVDSVBJRU5UU19DT1VOVCcsICdEVUVEQVRFJywgJ0RVRUFMRVJUJywgJ1RFTVBMQVRFSUQnLCAnQ09OVEVOVCcsICdOT1RJRlknLCAnU1RBVFVTJywKICAgICAgICAgICAgJ0FQVFlQRScsICdTRUVOJywgJ1JFT1JERVJQRVJNSVQnLCAnRk9SV0FSRExJU1QnLCAnRk9SV0FSRFNVQk1JVCcsICdTSUdOVFlQRScsICdGSU5JU0hEQVRFJywgJ0NMT1NFREFURScsCiAgICAgICAgICAgICdTRU5EX0VNQUlMJywgJ1NFTkRfU01TJywgJ1NFTkRfTVNHJywgJ05PVElGWV9DT01NRU5UJywgJ0xPQ0tTVEFUVVMnLCAnUkVNT1RFSUQnLCAnRk9MREVSJywgJ05GT0xERVInLAogICAgICAgICAgICAnTElNSVRUSU1FJywgJ1RJTUVMSU1JVCcsICdTRU5ETVNHJywgJ0FGT0xERVInCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkc3Fsc3RyID0gPDw8U1FMCiAgICAgICAgICAgIFNFTEVDVCAlcwogICAgICAgICAgICBGUk9NIFdGX0Zsb3dMaXN0ClNRTDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ09XTkVSSUQnLCAnQ1JFQVRFVElNRScsICdGTE9XSUQnLCAnRkxPV05VTScsICdQUklPUklUWScsICdGUk9NJywgJ0FQUExJQ0FOVCcsICdTVUJKRUNUJywgJ1BST0NFU1NJTkdfVVNFUklEJywKICAgICAgICAgICAgJ1BST0NFU1NJTkdfSU5ERVgnLCAnUkVDSVBJRU5UU19DT1VOVCcsICdEVUVEQVRFJywgJ0RVRUFMRVJUJywgJ1RFTVBMQVRFSUQnLCAnQ09OVEVOVCcsICdOT1RJRlknLCAnU1RBVFVTJywKICAgICAgICAgICAgJ0FQVFlQRScsICdTRUVOJywgJ1JFT1JERVJQRVJNSVQnLCAnRk9SV0FSRExJU1QnLCAnRk9SV0FSRFNVQk1JVCcsICdTSUdOVFlQRScsICdGSU5JU0hEQVRFJywgJ0NMT1NFREFURScsCiAgICAgICAgICAgICdTRU5EX0VNQUlMJywgJ1NFTkRfU01TJywgJ1NFTkRfTVNHJywgJ05PVElGWV9DT01NRU5UJywgJ0xPQ0tTVEFUVVMnLCAnUkVNT1RFSUQnLCAnRk9MREVSJywgJ05GT0xERVInLAogICAgICAgICAgICAnTElNSVRUSU1FJywgJ1RJTUVMSU1JVCcsICdTRU5ETVNHJywgJ0FGT0xERVInCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV0hFUkUgRmxvd0lEID0gPwo=</text>
+        <text encoding="base64">ICAgICAgICAkc3Fsc3RyID0gPDw8U1FMCiAgICAgICAgICAgIFNFTEVDVCAlcwogICAgICAgICAgICBGUk9NIFdGX0Zsb3dMaXN0ClNRTDsK</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action MethodDown</text>
       </register>
     </registers>
     <search>
@@ -896,8 +920,8 @@
         <entry>action Back</entry>
         <entry>207</entry>
         <entry>action GotoPreviousError</entry>
-        <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
+        <entry>action MethodDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
