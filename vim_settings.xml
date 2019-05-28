@@ -18,8 +18,12 @@
         <mark key="]" line="760" column="0" />
         <mark key="." line="760" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" timestamp="1559009518252">
-        <mark key="'" line="347" column="37" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Import_clocking.inc" timestamp="1559028355973">
+        <mark key="'" line="1034" column="37" />
+        <mark key="[" line="412" column="38" />
+        <mark key="]" line="412" column="0" />
+        <mark key="^" line="412" column="0" />
+        <mark key="." line="412" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/ayetstudios.php" timestamp="1558944726158">
         <mark key="f" line="188" column="8" />
@@ -50,7 +54,7 @@
         <mark key="^" line="74" column="36" />
         <mark key="." line="74" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1559021129542">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1559021161526">
         <mark key="'" line="5620" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/models/api/api_model.php" timestamp="1559013207142">
@@ -146,6 +150,13 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
         <mark key="^" line="13" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_card_alert.php" timestamp="1559028349487">
+        <mark key="'" line="111" column="26" />
+        <mark key="[" line="246" column="5" />
+        <mark key="]" line="248" column="14" />
+        <mark key="^" line="248" column="14" />
+        <mark key="." line="248" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/OverTimeSplitTest.php" timestamp="1557820083542">
         <mark key="'" line="147" column="26" />
@@ -464,8 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/ayetstudios.php" />
-      <jump line="147" column="30" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
       <jump line="28" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/tapjoy.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/nativex.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/nativex.php" />
@@ -564,6 +573,8 @@
       <jump line="3790" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
       <jump line="342" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
       <jump line="5620" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="250" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_card_alert.php" />
+      <jump line="111" column="26" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_card_alert.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -652,8 +663,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRwdW5jaF9pbicgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHB1bmNoX2luKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsKICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRuZXRhc2tfY2FyZF91c2VyJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkbmV0YXNrX2NhcmRfdXNlcikgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckYWxsX2R1dHknIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRhbGxfZHV0eSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckYWxsX3ZhY2F0aW9uX2NhcmQnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRhbGxfdmFjYXRpb25fY2FyZCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>member</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -692,7 +703,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{&quot;mode&quot;:15,&quot;duty_start&quot;:1140,&quot;duty_t01&quot;:660,&quot;duty_mid&quot;:0,&quot;duty_end&quot;:240,&quot;resttime&quot;:-660,&quot;crossday&quot;:1,&quot;end_ext&quot;:540,&quot;start_ext&quot;:null,&quot;success&quot;:true}</text>
+        <text>member</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb3ZlXD4=</text>
@@ -700,14 +711,14 @@
       <register name="o" type="4">
         <text />
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YWxsb3cgMS4zNC4yNDEuMTc4Owo=</text>
+      <register name="0" type="4">
+        <text>s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRwdW5jaF9pbicgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHB1bmNoX2luKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsKICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRuZXRhc2tfY2FyZF91c2VyJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkbmV0YXNrX2NhcmRfdXNlcikgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckYWxsX2R1dHknIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRhbGxfZHV0eSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckYWxsX3ZhY2F0aW9uX2NhcmQnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRhbGxfdmFjYXRpb25fY2FyZCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAnZHV0eV9zdGFydCcgPT4gNTQwLAogICAgICAgICAgICAnZHV0eV90MDEnID0+IDcyMCwKICAgICAgICAgICAgJ2R1dHlfbWlkJyA9PiA3ODAsCiAgICAgICAgICAgICdkdXR5X2VuZCcgPT4gMTA4MCwKICAgICAgICAgICAgJ2Nyb3NzZGF5JyA9PiAwLAogICAgICAgICAgICAncmVzdHRpbWUnID0+IDYwLAogICAgICAgIF0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRwdW5jaF9pbicgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHB1bmNoX2luKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsKICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRuZXRhc2tfY2FyZF91c2VyJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkbmV0YXNrX2NhcmRfdXNlcikgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckYWxsX2R1dHknIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRhbGxfZHV0eSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckYWxsX3ZhY2F0aW9uX2NhcmQnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRhbGxfdmFjYXRpb25fY2FyZCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -817,28 +828,28 @@
         </keys>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAnZHV0eV9zdGFydCcgPT4gNTQwLAogICAgICAgICAgICAnZHV0eV90MDEnID0+IDcyMCwKICAgICAgICAgICAgJ2R1dHlfbWlkJyA9PiA3ODAsCiAgICAgICAgICAgICdkdXR5X2VuZCcgPT4gMTA4MCwKICAgICAgICAgICAgJ2Nyb3NzZGF5JyA9PiAwLAogICAgICAgICAgICAncmVzdHRpbWUnID0+IDYwLAogICAgICAgIF0=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAnYWN0X3N0YXJ0JyA9PiBhcnJheSgndGltZScgPT4gNTMwLCAncHVuY2hJRCcgPT4gbnVsbCksCiAgICAgICAgICAgICdhY3RfZW5kJyA9PiBhcnJheSgndGltZScgPT4gMTEwMiwgJ3B1bmNoSUQnID0+IG51bGwpLAogICAgICAgIF0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvKiogQXJyYW5nZSAqLwogICAgICAgICR0YXJnZXQgPSBuZXcgQ2FyZFRvTmV0YXNrKCk7CiAgICAgICAgJGNhcmRkYXRhID0gWwogICAgICAgICAgICAnYWN0X3N0YXJ0JyA9PiBhcnJheSgndGltZScgPT4gNTMwLCAncHVuY2hJRCcgPT4gbnVsbCksCiAgICAgICAgICAgICdhY3RfZW5kJyA9PiBhcnJheSgndGltZScgPT4gMTEwMiwgJ3B1bmNoSUQnID0+IG51bGwpLAogICAgICAgIF07CgogICAgICAgICRkdXR5X21vZGUgPSBbCiAgICAgICAgICAgICdkdXR5X3N0YXJ0JyA9PiA1NDAsCiAgICAgICAgICAgICdkdXR5X3QwMScgPT4gNzIwLAogICAgICAgICAgICAnZHV0eV9taWQnID0+IDc4MCwKICAgICAgICAgICAgJ2R1dHlfZW5kJyA9PiAxMDgwLAogICAgICAgICAgICAnY3Jvc3NkYXknID0+IDAsCiAgICAgICAgICAgICdyZXN0dGltZScgPT4gNjAsCiAgICAgICAgXTsKCiAgICAgICAgLyoqIEFzc3VtZSAqLwogICAgICAgICRleHBlY3RlZCA9IDguNTM7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRjYXJkZGF0YScgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJGNhcmRkYXRhKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsKICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRkdXR5X21vZGUnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRkdXR5X21vZGUpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJGR1dHlfbW9kZSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRwdW5jaF9pbiwgJG5ldGFza19jYXJkX3VzZXIsICRhbGxfZHV0eSwgJGFsbF92YWNhdGlvbl9jYXJkKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJGFjdHVhbCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAnY2FyZG5vJyA9PiBudWxsLAogICAgICAgICAgICAnaXNTaG93QWZ0ZXJub29uJyA9PiAnMCcKICAgICAgICBd</text>
-      </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -877,7 +888,6 @@
         <entry>287</entry>
         <entry>action IntroduceParameter</entry>
         <entry encoding="base64">c291cmNlIC9Vc2Vycy9kdW5jYW4vLmlkZWF2aW1yYyA=</entry>
-        <entry>action Forward</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action IntroduceField</entry>
@@ -889,11 +899,12 @@
         <entry>139</entry>
         <entry>134</entry>
         <entry>121</entry>
-        <entry>action Back</entry>
-        <entry>action MethodDown</entry>
-        <entry>action MethodUp</entry>
         <entry>action Debug</entry>
         <entry>action Run</entry>
+        <entry>action MethodDown</entry>
+        <entry>action MethodUp</entry>
+        <entry>action Forward</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
