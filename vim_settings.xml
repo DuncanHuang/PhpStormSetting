@@ -25,12 +25,12 @@
         <mark key="^" line="412" column="0" />
         <mark key="." line="412" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/.editorconfig" timestamp="1559101756784">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="19" />
-        <mark key="." line="12" column="19" />
-        <mark key="^" line="12" column="19" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/.editorconfig" timestamp="1559101823754">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/.env" timestamp="1558942497966">
         <mark key="'" line="52" column="22" />
@@ -701,7 +701,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -740,7 +740,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb3ZlXD4=</text>
