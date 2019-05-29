@@ -76,11 +76,11 @@
         <mark key="^" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/WF/FlowCoderV1Test.php" timestamp="1559114621447">
-        <mark key="[" line="25" column="11" />
-        <mark key="]" line="25" column="10" />
-        <mark key="^" line="25" column="10" />
-        <mark key="." line="25" column="10" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/WF/FlowCoderV1Test.php" timestamp="1559116285049">
+        <mark key="[" line="30" column="58" />
+        <mark key="]" line="30" column="57" />
+        <mark key="^" line="30" column="57" />
+        <mark key="." line="30" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/WF/KWCR2FlowListDAO.php" timestamp="1559109109089">
         <mark key="'" line="54" column="7" />
@@ -554,7 +554,7 @@
         <text encoding="base64">ZnVuY3Rpb24gdGVzdF/lk4jlk4hf5Y+j5Y+jKCkKICAgIHsKICAgICAgICAkdGhpcy0+aXNEZXVjZSgpOwogICAgICAgICR0aGlzLT5zY29yZVNob3VsZEJlKCdEZXVjZScpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action VcsShowNextChangeMarker</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -607,9 +607,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action IntroduceParameter</entry>
         <entry>action ReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action MethodDown</entry>
         <entry>action VcsShowNextChangeMarker</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
