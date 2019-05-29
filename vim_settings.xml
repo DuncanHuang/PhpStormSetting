@@ -35,12 +35,12 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" timestamp="1558921931627">
         <mark key="'" line="197" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" timestamp="1559115945061">
-        <mark key="'" line="119" column="42" />
-        <mark key="[" line="93" column="93" />
-        <mark key="]" line="93" column="105" />
-        <mark key="^" line="93" column="105" />
-        <mark key="." line="93" column="105" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" timestamp="1559116191907">
+        <mark key="'" line="98" column="52" />
+        <mark key="[" line="93" column="110" />
+        <mark key="]" line="93" column="118" />
+        <mark key="^" line="93" column="118" />
+        <mark key="." line="93" column="118" />
       </file>
       <file name="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" timestamp="1559114347418">
         <mark key="b" line="28" column="3" />
@@ -180,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.inc" />
       <jump line="4" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt_Fin_Va.inc" />
       <jump line="361" column="43" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/models/api/api_model.php" />
       <jump line="383" column="56" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/models/api/api_model.php" />
@@ -280,6 +279,7 @@
       <jump line="79" column="55" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/ayetstudios.php" />
       <jump line="119" column="42" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" />
       <jump line="25" column="20" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/ayetstudios.php" />
+      <jump line="98" column="52" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -369,7 +369,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>AddPointLogCallback</text>
+        <text>uid</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -408,7 +408,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AddPointLogCallback</text>
+        <text>uid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
@@ -554,7 +554,7 @@
         <text encoding="base64">ZnVuY3Rpb24gdGVzdF/lk4jlk4hf5Y+j5Y+jKCkKICAgIHsKICAgICAgICAkdGhpcy0+aXNEZXVjZSgpOwogICAgICAgICR0aGlzLT5zY29yZVNob3VsZEJlKCdEZXVjZScpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodDown</text>
+        <text>action VcsShowNextChangeMarker</text>
       </register>
     </registers>
     <search>
@@ -598,7 +598,6 @@
         <entry>action Forward</entry>
         <entry>207</entry>
         <entry>action GotoPreviousError</entry>
-        <entry>action VcsShowNextChangeMarker</entry>
         <entry>action VcsShowPrevChangeMarker</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
@@ -610,6 +609,7 @@
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>action MethodDown</entry>
+        <entry>action VcsShowNextChangeMarker</entry>
       </history-cmd>
       <history-expr />
       <history-input />
