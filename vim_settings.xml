@@ -101,11 +101,11 @@
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_StageChangeUser.inc" timestamp="1559194080089">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_StageChangeUser.inc" timestamp="1559194345249">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="33" column="52" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/viidle.php" timestamp="1558887313035">
         <mark key="[" line="90" column="16" />
@@ -397,7 +397,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAqIEAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKgogICAgICAgICAgICAgICAgICogQHZhciAkdXNlciBGbG93U3RhZ2UKICAgICAgICAgICAgICAgICAqLwo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -436,7 +436,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>userid</text>
+        <text>$stage[][]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
@@ -448,10 +448,10 @@
         <text encoding="base64">ICAgICAgICAgICAgJGZsb3dbJHN0YWdlRGV0YWlsLT5nZXRPcmRlcigpXVtdID0gJHN0YWdlRGV0YWlsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAqIEAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKgogICAgICAgICAgICAgICAgICogQHZhciAkdXNlciBGbG93U3RhZ2UKICAgICAgICAgICAgICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR1c2VyLT5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIEB2YXIgJHN0YWdlWyRzdGFnZUtleV1bJGtleV0gRmxvd1N0YWdlQ29kZXJGYWN0b3J5CiAgICAgICAgICAgICAqLwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -561,25 +561,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdXNlci0+Z2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdGFnZVskc3RhZ2VLZXldWyRrZXldLT5nZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdXNlci0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdGdyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdXNlci0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKgogICAgICAgICAgICAgICAgICogQHZhciAkdXNlciBGbG93U3RhZ2UKICAgICAgICAgICAgICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkdXNlcik7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAqIEB2YXIgJHN0YWdlIEZsb3dTdGFnZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdGFnZVsnYXNkZiddCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJGZsb3dEZXRhaWwpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR1c2VyLT5nZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRhKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAqIEB2YXIgRmxvd1N0YWdlICRzdGFnZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
