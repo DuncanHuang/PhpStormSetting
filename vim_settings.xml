@@ -29,9 +29,6 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CW/CW_ActDetail.inc" timestamp="1559204712855">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1559112849166">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/91/speed/src/Tennis.php" timestamp="1559052481376">
         <mark key="[" line="39" column="5" />
         <mark key="]" line="39" column="4" />
@@ -43,6 +40,12 @@
         <mark key="]" line="4" column="5" />
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1559269498661">
+        <mark key="[" line="77" column="4" />
+        <mark key="]" line="99" column="3" />
+        <mark key="^" line="99" column="3" />
+        <mark key="." line="99" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Detail.php" timestamp="1559204153908">
         <mark key="[" line="189" column="14" />
@@ -87,9 +90,6 @@
         <mark key="^" line="14" column="21" />
         <mark key="." line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/Downloads/未命名檔案夾 4/yaml_test/format.php" timestamp="1559099607835">
-        <mark key="[" line="6" column="86" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/WF/AbstractAttachFileDAO.php" timestamp="1559101985123">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="36" />
@@ -104,9 +104,6 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/lysCommon.php" timestamp="1559185825646" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1559035906397">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.inc" timestamp="1559198781031">
         <mark key="'" line="416" column="0" />
         <mark key="[" line="181" column="83" />
@@ -156,9 +153,6 @@
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1559184019083">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_view_check.htm" timestamp="1559096149449">
         <mark key="[" line="282" column="15" />
