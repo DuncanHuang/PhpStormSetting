@@ -168,10 +168,11 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" timestamp="1559274897673">
+      <file name="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" timestamp="1559275015387">
         <mark key="b" line="29" column="3" />
+        <mark key="f" line="22" column="9" />
         <mark key="'" line="29" column="2" />
-        <mark key="[" line="22" column="28" />
+        <mark key="[" line="22" column="29" />
         <mark key="]" line="22" column="28" />
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
@@ -606,7 +607,7 @@
         <text encoding="base64">IGVsc2UgewogICAgfQ==</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodDown</text>
+        <text>actionlist</text>
       </register>
     </registers>
     <search>
@@ -642,7 +643,6 @@
         <entry encoding="base64">IGZ1bmN0aW9u</entry>
       </history-search>
       <history-cmd>
-        <entry>207</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action RenameElement</entry>
         <entry>action Inline</entry>
@@ -651,7 +651,6 @@
         <entry>action VcsShowPrevChangeMarker</entry>
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>action EditorUnSelectWord</entry>
-        <entry>actionlist</entry>
         <entry>action ReformatCode</entry>
         <entry>47</entry>
         <entry>23</entry>
@@ -662,6 +661,8 @@
         <entry>action Back</entry>
         <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
+        <entry>action IntroduceField</entry>
+        <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />
