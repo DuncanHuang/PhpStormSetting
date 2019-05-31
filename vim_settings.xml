@@ -41,11 +41,11 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1559272041013">
-        <mark key="[" line="85" column="45" />
-        <mark key="]" line="85" column="55" />
-        <mark key="^" line="85" column="55" />
-        <mark key="." line="85" column="55" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1559273707213">
+        <mark key="[" line="86" column="171" />
+        <mark key="]" line="86" column="170" />
+        <mark key="^" line="86" column="170" />
+        <mark key="." line="86" column="170" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Detail.php" timestamp="1559204153908">
         <mark key="[" line="189" column="14" />
@@ -159,6 +159,12 @@
         <mark key="]" line="282" column="14" />
         <mark key="^" line="282" column="14" />
         <mark key="." line="282" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" timestamp="1559274172134">
+        <mark key="[" line="58" column="15" />
+        <mark key="]" line="58" column="31" />
+        <mark key="^" line="58" column="31" />
+        <mark key="." line="58" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/test.php" timestamp="1558922686582">
         <mark key="[" line="4" column="30" />
@@ -379,7 +385,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ReccaChao</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -418,7 +424,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ReccaChao</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
@@ -430,10 +436,10 @@
         <text encoding="base64">ICAgICAgICAgICAgJGZsb3dbJHN0YWdlRGV0YWlsLT5nZXRPcmRlcigpXVtdID0gJHN0YWdlRGV0YWlsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgIGlkOiA3LAogICAgbmFtZTogJ+iUoeS9s+iJrycsCiAgICBuaWNrbmFtZTogJ1JlY2NhIFRzYWknLAogICAgY29tcGFueTogJ+iHqueUseW3peS9nOiAhScsCiAgICBwb3NpdGlvbjogJycsCiAgICBjb250ZW50OiAnUEhQVW5pdCDlj7DngaPniYjkuLvjgIHkuZ/mmK/lsJHmlbjmnInlnKjmiornjqkgTGFuZ3VhZ2UgU2VydmVyIFByb3RvY29sIOeahOS6uuOAguiBveiqquWcqOmAmeasoeeahOiPr+WxseirluWKjeijoe+8jOS7luacg+W4tuaWsOS9nOWTgeS6ruebuO+8nycsCiAgICBhdmF0YXJTcmM6ICdzdGF0aWMvaW1hZ2VzL3NwZWFrZXJzL1JlY2NhQ2hhby5qcGcnLAogICAgZmFjZWJvb2s6ICcnLAogICAgdHdpdHRlcjogJycsCiAgICBnaXRodWI6ICcnLAogICAgd2Vic2l0ZTogJycsCiAgfSwgIHsKICAgIGlkOiA4LAogICAgbmFtZTogJ+iUoeS9s+iJrycsCiAgICBuaWNrbmFtZTogJ1JlY2NhIFRzYWknLAogICAgY29tcGFueTogJ+iHqueUseW3peS9nOiAhScsCiAgICBwb3NpdGlvbjogJycsCiAgICBjb250ZW50OiAnUEhQVW5pdCDlj7DngaPniYjkuLvjgIHkuZ/mmK/lsJHmlbjmnInlnKjmiornjqkgTGFuZ3VhZ2UgU2VydmVyIFByb3RvY29sIOeahOS6uuOAguiBveiqquWcqOmAmeasoeeahOiPr+WxseirluWKjeijoe+8jOS7luacg+W4tuaWsOS9nOWTgeS6ruebuO+8nycsCiAgICBhdmF0YXJTcmM6ICdzdGF0aWMvaW1hZ2VzL3NwZWFrZXJzL1JlY2NhQ2hhby5qcGcnLAogICAgZmFjZWJvb2s6ICcnLAogICAgdHdpdHRlcjogJycsCiAgICBnaXRodWI6ICcnLAogICAgd2Vic2l0ZTogJycsCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -543,28 +549,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5aaCCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkYWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5aaCCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIOWIqumZpOewveaguOiAhQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkYWYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgIC8vIOWIqumZpOewveaguOiAhQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgfQ==</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action MethodDown</text>
       </register>
     </registers>
     <search>
@@ -617,9 +623,9 @@
         <entry>108</entry>
         <entry>action Forward</entry>
         <entry>action GotoNextError</entry>
-        <entry>action MethodDown</entry>
         <entry>action Back</entry>
         <entry>action MethodUp</entry>
+        <entry>action MethodDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
