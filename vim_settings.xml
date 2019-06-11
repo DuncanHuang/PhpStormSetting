@@ -31,11 +31,12 @@
         <mark key="." line="75" column="45" />
         <mark key="^" line="75" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1559789887163">
-        <mark key="[" line="642" column="73" />
-        <mark key="]" line="642" column="72" />
-        <mark key="^" line="642" column="72" />
-        <mark key="." line="642" column="72" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1560233703835">
+        <mark key="'" line="636" column="14" />
+        <mark key="[" line="778" column="67" />
+        <mark key="]" line="778" column="66" />
+        <mark key="^" line="778" column="66" />
+        <mark key="." line="778" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/.editorconfig" timestamp="1559102026298">
         <mark key="'" line="17" column="0" />
@@ -91,6 +92,7 @@
         <mark key="^" line="680" column="25" />
         <mark key="." line="680" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1560233516001" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/IFlowCoder.php" timestamp="1559719659633">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="8" />
@@ -161,8 +163,8 @@
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" timestamp="1559704443528">
-        <mark key="'" line="328" column="18" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" timestamp="1560233484896">
+        <mark key="'" line="55" column="0" />
         <mark key="[" line="270" column="9" />
         <mark key="]" line="270" column="8" />
         <mark key="." line="270" column="8" />
@@ -293,6 +295,13 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-06-18.yaml" timestamp="1560234204968">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="2087" />
+        <mark key="^" line="9" column="2087" />
+        <mark key="." line="9" column="2087" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt_Fin_Va.inc" timestamp="1560232878409" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/AbstractFlowCoder.php" timestamp="1559719596887">
         <mark key="'" line="2" column="15" />
         <mark key="[" line="1" column="0" />
@@ -483,9 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" />
-      <jump line="328" column="18" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" />
       <jump line="16" column="17" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/WF/FlowCoderV1Test.php" />
       <jump line="2" column="15" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/AbstractFlowCoder.php" />
       <jump line="969" column="57" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/hr/hr_data_edit01.htm" />
@@ -583,6 +589,9 @@
       <jump line="271" column="20" filename="$USER_HOME$/Downloads/9173/storage/vendor/google/cloud-storage/src/Bucket.php" />
       <jump line="93" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" />
       <jump line="43" column="22" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" />
+      <jump line="634" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="636" column="14" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -672,7 +681,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Sasaya</text>
+        <text encoding="base64">PGgyPjxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzogMXB4O3dpZHRoOiAxcHg7IGhlaWdodDogOHB4OyBiYWNrZ3JvdW5kOiAjMDAwMDAwOyBtYXJnaW4tcmlnaHQ6IDE2cHg7IGJvcmRlci1yYWRpdXM6IDVweCI+Jm5ic3A7PC9zcGFuPuism+iAheS7i+e0uTwvaDI+IDxoMj5XaW5uZSBMaW48L2gyPiA8cD48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IC1hcHBsZS1zeXN0ZW0sIHN5c3RlbS11aSwgJnF1b3Q7U2Vnb2UgVUkmcXVvdDssIFJvYm90bywgJnF1b3Q7SGVsdmV0aWNhIE5ldWUmcXVvdDssIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYsICZxdW90O0FwcGxlIENvbG9yIEVtb2ppJnF1b3Q7LCAmcXVvdDtTZWdvZSBVSSBFbW9qaSZxdW90OywgJnF1b3Q7U2Vnb2UgVUkgU3ltYm9sJnF1b3Q7OyBmb250LXNpemU6IDE2cHg7IGxldHRlci1zcGFjaW5nOiAwLjM1cHg7Ij5NaWNyb3NvZnQgTVZQPGJyIC8+IFdlYiBEZXZlbG9wZXI8YnIgLz4gPGJyIC8+IC0g5oWj55So56iL5byP6Kqe6KiAIEMjIOWPiiBQSFDjgII8YnIgLz4gLSDlubPmmYLlt6XkvZzlpKflpJrku6UgQyMg6ZaL55m8IEFTUC5ORVQgTVZDIOWwiOahiOOAgjxiciAvPiAtIOapn+e3o+S4i+WboCBMYXJhdmVsIOWwiOahiOaOpeinuOekvue+pOmAsuiAjOaIkOeCuiBMYXJhdmVsIFRhaXdhbiDnj63lupXjgII8YnIgLz4gLSAyMDE4IOW5tOW6leWKoOWFpSBMYXJhR2lybHMg5pyf5pyb6IO95bi25YuV5pu05aSa5aWz5oCn6ZaL55m86ICF5YWx5ZCM5oiQ6ZW377yM5Lim6ZaL55m85aSa5qy+IFZpc3VhbCBTdHVkaW8gQ29kZSDlj4ogTGFyYXZlbCDlpZfku7bkvpvnpL7nvqTkvb/nlKjjgII8L3NwYW4+PC9wPiA8cD4mbmJzcDs8L3A+IDxoMj48c3BhbiBzdHlsZT0ibGV0dGVyLXNwYWNpbmc6IDFweDt3aWR0aDogMXB4OyBoZWlnaHQ6IDhweDsgYmFja2dyb3VuZDogIzAwMDAwMDsgbWFyZ2luLXJpZ2h0OiAxNnB4OyBib3JkZXItcmFkaXVzOiA1cHgiPiZuYnNwOzwvc3Bhbj7orbDpoYznsKHku4s8L2gyPiA8aDI+VlMgQ29kZSDlr6bmiLDmlpnnkIYgUEhQIOWll+S7tue2suermeS9kCBBenVyZSBQaXBlbGluZXM8L2gyPiA8cD5WaXN1YWwgU3R1ZGlvIENvZGUg6LyV6YeP57eo6Lyv5Zmo77yM6ZuW54S26LyV6YeP77yM5Y+q6KaB5Yqg5LiK6YGp55W25pO05YWF5aWX5Lu277yM5Lmf6IO95omT6YCg5rWB5pqi55qE6ZaL55m85rWB56iL77yB6Kyb5rGC6ZaL55m86KaB5pyJ5ris6Kmm55qE5LuK5aSp77yM5oiR5YCR6KaB5L6G5a+m5oiwIFRERCDplovnmbzplovmupDlpZfku7bvvIzkuKbpgYvnlKggQXp1cmUgUGlwZWxpbmVzIOS+humBlOWIsOiHquWLleWMluaMgee6jOaVtOWQiOOAgjwvcD4gPHA+5aaC5LuKIERldk9wcyDnlbbpgZPvvIzlsI3mlrzplovnmbzkurrlk6HkvoboqqrmnIDph43opoHnmoTlhbbkuK3kuIDnkrAgJm1kYXNoOyBDSe+8jOWNu+WboOeCuuioreWumue5geeRo+OAgeiAl+aZgu+8jOaIluWboOaVtOWQiOeahOacjeWLmeS4jeWkoOWFqOmdouWwseatpOaUvuajhOWXju+8nzwvcD4gPHA+6YKj6bq85bCx6LaV5b+r5L6G6auU6amX5ZKM5oSf5Y+X5LiA5LiL77yMIEF6dXJlIFBpcGVsaW5lcyDlpoLkvZXlgZrliLDmjIHnuozlu7rnva7jgIHmuKzoqablj4rpg6jnvbLliLDku7vkvZXlubPlj7DoiIfpm7Lnq6/vvIE8L3A+IDxwPuaYr+eahO+8jOS9oOaykueci+mMr++9nuS7u+S9leiqnuiogO+8jOS7u+S9leW5s+WPsO+8jOS7u+S9lembsuerr++8gTwvcD4gPHVsPiA8bGk+5L2/55SoIFZpc3VhbCBTdHVkaW8gQ29kZSDnt6jovK/lmajvvIzmkK3phY3mk7TlhYXlpZfku7bvvIzmiZPpgKDmtYHmmqLnmoTplovnmbzmtYHnqIvjgII8L2xpPiA8bGk+5a+m5oiwIFRERCDplovnmbzplovmupDlpZfku7bvvIzkuKbpgYvnlKggQXp1cmUgUGlwZWxpbmVzIOmBlOWIsOiHquWLleWMluaMgee6jOaVtOWQiOOAgjwvbGk+IDxsaT7kuobop6MgQXp1cmUgUGlwZWxpbmVzIOWmguS9leWBmuWIsOaMgee6jOW7uue9ruOAgea4rOippuWPiumDqOe9suWIsOS7u+S9leW5s+WPsOiIh+mbsuerr+OAgjwvbGk+IDwvdWw+IDxwPiZuYnNwOzwvcD4gPGgyPjxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzogMXB4O3dpZHRoOiAxcHg7IGhlaWdodDogOHB4OyBiYWNrZ3JvdW5kOiAjMDAwMDAwOyBtYXJnaW4tcmlnaHQ6IDE2cHg7IGJvcmRlci1yYWRpdXM6IDVweCI+Jm5ic3A7PC9zcGFuPua0u+WLleioiuaBrzwvaDI+IDxwPuaZgumWk++8mjxzcGFuIHN0eWxlPSJjb2xvcjojZTc0YzNjOyI+MjAxOS8wNS8yMSZuYnNwOzE5OjUwIH4gMjE6MzA8L3NwYW4+ICgxOTozMCDplovmlL7lhaXloLQpPC9wPiA8cD7lnLDlnYDvvJo8c3BhbiBzdHlsZT0iY29sb3I6I2U3NGMzYzsiPuWPsOWMl+W4guS4reato+WNgOW4guawkeWkp+mBk+S4ieautSAyIOiZnyAzJm5ic3A75qiTPC9zcGFuPiAoKOS4ieWJteeUn+a0u+WckuWNgCAzIOaokyAvIOW/oOWtneaWsOeUn+ermSAxIOiZn+WHuuWPo+atpeihjCA1IOWIhumQmCkpPC9wPiA8cD48c3BhbiBzdHlsZT0iY29sb3I6I2U3NGMzYzsiPuaPkOmGku+8muacrOasoea0u+WLleaZgumWk+OAgeaok+WxpOacieiuiuWLle+8jOWxhuaZguS4jeimgei3kemMr+WcsOaWuTwvc3Bhbj48L3A+IDxoMj4mbmJzcDs8L2gyPiA8aDI+PHNwYW4gc3R5bGU9ImxldHRlci1zcGFjaW5nOiAxcHg7d2lkdGg6IDFweDsgaGVpZ2h0OiA4cHg7IGJhY2tncm91bmQ6ICMwMDAwMDA7IG1hcmdpbi1yaWdodDogMTZweDsgYm9yZGVyLXJhZGl1czogNXB4Ij4mbmJzcDs8L3NwYW4+5Li76L6m5Zau5L2NPC9oMj4gPGgzPkxhcmF2ZWwg6YGT5aC0PC9oMz4gPGgzPlBIUCDkuZ/mnIkgRGF5PC9oMz4gPHA+Jm5ic3A7PC9wPiA8aDI+PHNwYW4gc3R5bGU9ImxldHRlci1zcGFjaW5nOiAxcHg7d2lkdGg6IDFweDsgaGVpZ2h0OiA4cHg7IGJhY2tncm91bmQ6ICMwMDAwMDA7IG1hcmdpbi1yaWdodDogMTZweDsgYm9yZGVyLXJhZGl1czogNXB4Ij4mbmJzcDs8L3NwYW4+5ZCI5L2c5Zau5L2NPC9oMj4gPGgzPuS4ieWJteiCsuaIkOWfuumHkeacgzwvaDM+IDxwPiZuYnNwOzwvcD4gPGgyPjxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzogMXB4O3dpZHRoOiAxcHg7IGhlaWdodDogOHB4OyBiYWNrZ3JvdW5kOiAjMDAwMDAwOyBtYXJnaW4tcmlnaHQ6IDE2cHg7IGJvcmRlci1yYWRpdXM6IDVweCI+Jm5ic3A7PC9zcGFuPuWFtuS7luazqOaEj+S6i+mghTwvaDI+IDx1bD4gPGxpPjxzcGFuIHN0eWxlPSJjb2xvcjojZTc0YzNjOyI+5oiR5YCR6YKE5Zyo5b616Kyb6ICF77yM5q2h6L+O6Lef5oiR5YCR6IGv57mrPC9zcGFuPjwvbGk+IDwvdWw+</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -711,10 +720,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Sasaya</text>
+        <text encoding="base64">PGgyPjxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzogMXB4O3dpZHRoOiAxcHg7IGhlaWdodDogOHB4OyBiYWNrZ3JvdW5kOiAjMDAwMDAwOyBtYXJnaW4tcmlnaHQ6IDE2cHg7IGJvcmRlci1yYWRpdXM6IDVweCI+Jm5ic3A7PC9zcGFuPuism+iAheS7i+e0uTwvaDI+IDxoMj5XaW5uZSBMaW48L2gyPiA8cD48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IC1hcHBsZS1zeXN0ZW0sIHN5c3RlbS11aSwgJnF1b3Q7U2Vnb2UgVUkmcXVvdDssIFJvYm90bywgJnF1b3Q7SGVsdmV0aWNhIE5ldWUmcXVvdDssIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYsICZxdW90O0FwcGxlIENvbG9yIEVtb2ppJnF1b3Q7LCAmcXVvdDtTZWdvZSBVSSBFbW9qaSZxdW90OywgJnF1b3Q7U2Vnb2UgVUkgU3ltYm9sJnF1b3Q7OyBmb250LXNpemU6IDE2cHg7IGxldHRlci1zcGFjaW5nOiAwLjM1cHg7Ij5NaWNyb3NvZnQgTVZQPGJyIC8+IFdlYiBEZXZlbG9wZXI8YnIgLz4gPGJyIC8+IC0g5oWj55So56iL5byP6Kqe6KiAIEMjIOWPiiBQSFDjgII8YnIgLz4gLSDlubPmmYLlt6XkvZzlpKflpJrku6UgQyMg6ZaL55m8IEFTUC5ORVQgTVZDIOWwiOahiOOAgjxiciAvPiAtIOapn+e3o+S4i+WboCBMYXJhdmVsIOWwiOahiOaOpeinuOekvue+pOmAsuiAjOaIkOeCuiBMYXJhdmVsIFRhaXdhbiDnj63lupXjgII8YnIgLz4gLSAyMDE4IOW5tOW6leWKoOWFpSBMYXJhR2lybHMg5pyf5pyb6IO95bi25YuV5pu05aSa5aWz5oCn6ZaL55m86ICF5YWx5ZCM5oiQ6ZW377yM5Lim6ZaL55m85aSa5qy+IFZpc3VhbCBTdHVkaW8gQ29kZSDlj4ogTGFyYXZlbCDlpZfku7bkvpvnpL7nvqTkvb/nlKjjgII8L3NwYW4+PC9wPiA8cD4mbmJzcDs8L3A+IDxoMj48c3BhbiBzdHlsZT0ibGV0dGVyLXNwYWNpbmc6IDFweDt3aWR0aDogMXB4OyBoZWlnaHQ6IDhweDsgYmFja2dyb3VuZDogIzAwMDAwMDsgbWFyZ2luLXJpZ2h0OiAxNnB4OyBib3JkZXItcmFkaXVzOiA1cHgiPiZuYnNwOzwvc3Bhbj7orbDpoYznsKHku4s8L2gyPiA8aDI+VlMgQ29kZSDlr6bmiLDmlpnnkIYgUEhQIOWll+S7tue2suermeS9kCBBenVyZSBQaXBlbGluZXM8L2gyPiA8cD5WaXN1YWwgU3R1ZGlvIENvZGUg6LyV6YeP57eo6Lyv5Zmo77yM6ZuW54S26LyV6YeP77yM5Y+q6KaB5Yqg5LiK6YGp55W25pO05YWF5aWX5Lu277yM5Lmf6IO95omT6YCg5rWB5pqi55qE6ZaL55m85rWB56iL77yB6Kyb5rGC6ZaL55m86KaB5pyJ5ris6Kmm55qE5LuK5aSp77yM5oiR5YCR6KaB5L6G5a+m5oiwIFRERCDplovnmbzplovmupDlpZfku7bvvIzkuKbpgYvnlKggQXp1cmUgUGlwZWxpbmVzIOS+humBlOWIsOiHquWLleWMluaMgee6jOaVtOWQiOOAgjwvcD4gPHA+5aaC5LuKIERldk9wcyDnlbbpgZPvvIzlsI3mlrzplovnmbzkurrlk6HkvoboqqrmnIDph43opoHnmoTlhbbkuK3kuIDnkrAgJm1kYXNoOyBDSe+8jOWNu+WboOeCuuioreWumue5geeRo+OAgeiAl+aZgu+8jOaIluWboOaVtOWQiOeahOacjeWLmeS4jeWkoOWFqOmdouWwseatpOaUvuajhOWXju+8nzwvcD4gPHA+6YKj6bq85bCx6LaV5b+r5L6G6auU6amX5ZKM5oSf5Y+X5LiA5LiL77yMIEF6dXJlIFBpcGVsaW5lcyDlpoLkvZXlgZrliLDmjIHnuozlu7rnva7jgIHmuKzoqablj4rpg6jnvbLliLDku7vkvZXlubPlj7DoiIfpm7Lnq6/vvIE8L3A+IDxwPuaYr+eahO+8jOS9oOaykueci+mMr++9nuS7u+S9leiqnuiogO+8jOS7u+S9leW5s+WPsO+8jOS7u+S9lembsuerr++8gTwvcD4gPHVsPiA8bGk+5L2/55SoIFZpc3VhbCBTdHVkaW8gQ29kZSDnt6jovK/lmajvvIzmkK3phY3mk7TlhYXlpZfku7bvvIzmiZPpgKDmtYHmmqLnmoTplovnmbzmtYHnqIvjgII8L2xpPiA8bGk+5a+m5oiwIFRERCDplovnmbzplovmupDlpZfku7bvvIzkuKbpgYvnlKggQXp1cmUgUGlwZWxpbmVzIOmBlOWIsOiHquWLleWMluaMgee6jOaVtOWQiOOAgjwvbGk+IDxsaT7kuobop6MgQXp1cmUgUGlwZWxpbmVzIOWmguS9leWBmuWIsOaMgee6jOW7uue9ruOAgea4rOippuWPiumDqOe9suWIsOS7u+S9leW5s+WPsOiIh+mbsuerr+OAgjwvbGk+IDwvdWw+IDxwPiZuYnNwOzwvcD4gPGgyPjxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzogMXB4O3dpZHRoOiAxcHg7IGhlaWdodDogOHB4OyBiYWNrZ3JvdW5kOiAjMDAwMDAwOyBtYXJnaW4tcmlnaHQ6IDE2cHg7IGJvcmRlci1yYWRpdXM6IDVweCI+Jm5ic3A7PC9zcGFuPua0u+WLleioiuaBrzwvaDI+IDxwPuaZgumWk++8mjxzcGFuIHN0eWxlPSJjb2xvcjojZTc0YzNjOyI+MjAxOS8wNS8yMSZuYnNwOzE5OjUwIH4gMjE6MzA8L3NwYW4+ICgxOTozMCDplovmlL7lhaXloLQpPC9wPiA8cD7lnLDlnYDvvJo8c3BhbiBzdHlsZT0iY29sb3I6I2U3NGMzYzsiPuWPsOWMl+W4guS4reato+WNgOW4guawkeWkp+mBk+S4ieautSAyIOiZnyAzJm5ic3A75qiTPC9zcGFuPiAoKOS4ieWJteeUn+a0u+WckuWNgCAzIOaokyAvIOW/oOWtneaWsOeUn+ermSAxIOiZn+WHuuWPo+atpeihjCA1IOWIhumQmCkpPC9wPiA8cD48c3BhbiBzdHlsZT0iY29sb3I6I2U3NGMzYzsiPuaPkOmGku+8muacrOasoea0u+WLleaZgumWk+OAgeaok+WxpOacieiuiuWLle+8jOWxhuaZguS4jeimgei3kemMr+WcsOaWuTwvc3Bhbj48L3A+IDxoMj4mbmJzcDs8L2gyPiA8aDI+PHNwYW4gc3R5bGU9ImxldHRlci1zcGFjaW5nOiAxcHg7d2lkdGg6IDFweDsgaGVpZ2h0OiA4cHg7IGJhY2tncm91bmQ6ICMwMDAwMDA7IG1hcmdpbi1yaWdodDogMTZweDsgYm9yZGVyLXJhZGl1czogNXB4Ij4mbmJzcDs8L3NwYW4+5Li76L6m5Zau5L2NPC9oMj4gPGgzPkxhcmF2ZWwg6YGT5aC0PC9oMz4gPGgzPlBIUCDkuZ/mnIkgRGF5PC9oMz4gPHA+Jm5ic3A7PC9wPiA8aDI+PHNwYW4gc3R5bGU9ImxldHRlci1zcGFjaW5nOiAxcHg7d2lkdGg6IDFweDsgaGVpZ2h0OiA4cHg7IGJhY2tncm91bmQ6ICMwMDAwMDA7IG1hcmdpbi1yaWdodDogMTZweDsgYm9yZGVyLXJhZGl1czogNXB4Ij4mbmJzcDs8L3NwYW4+5ZCI5L2c5Zau5L2NPC9oMj4gPGgzPuS4ieWJteiCsuaIkOWfuumHkeacgzwvaDM+IDxwPiZuYnNwOzwvcD4gPGgyPjxzcGFuIHN0eWxlPSJsZXR0ZXItc3BhY2luZzogMXB4O3dpZHRoOiAxcHg7IGhlaWdodDogOHB4OyBiYWNrZ3JvdW5kOiAjMDAwMDAwOyBtYXJnaW4tcmlnaHQ6IDE2cHg7IGJvcmRlci1yYWRpdXM6IDVweCI+Jm5ic3A7PC9zcGFuPuWFtuS7luazqOaEj+S6i+mghTwvaDI+IDx1bD4gPGxpPjxzcGFuIHN0eWxlPSJjb2xvcjojZTc0YzNjOyI+5oiR5YCR6YKE5Zyo5b616Kyb6ICF77yM5q2h6L+O6Lef5oiR5YCR6IGv57mrPC9zcGFuPjwvbGk+IDwvdWw+</text>
       </register>
       <register name="/" type="4">
-        <text>bu</text>
+        <text>crossday</text>
       </register>
       <register name="o" type="4">
         <text />
@@ -857,13 +866,13 @@
         <text encoding="base64">TWFpbDpkdW5jYW4uYmJzQGdtYWlsLmNvbSwgJFNOOmxhcmF4d0hRM05NYWlsOmR1bmNhbi5iYnNAZ21haWwuY29tLCBTTjpsYXJhaXN2SlBiLCBMb2dUaW1lOjIwMTktMDYtMDYgMTY6NDM6NTcsIENvbnRlbnQ6eyJmcm9tIjoiTGFyYXZlbENvbmYgVGFpd2FuIDIwMTkgPHBvc3RtYXN0ZXJAbWcubGFyYXZlbC1kb2pvLmNvbT4iLCJ0byI6ImR1bmNhbi5iYnNAZ21haWwuY29tIiwic3ViamVjdCI6IltMYXJhdmVsQ29uZiBUYWl3YW4gMjAxOV0gTW9kZXJuIFdlYiBcdTgwNmZcdTU0MDhcdTUyZjhcdTY1NTdcdTc5NjhcdTUxMmFcdTYwZTBcdTc4YmNcdTc2N2NcdTkwMDFcdTkwMWFcdTc3ZTUiLCJ0ZXh0IjoiXHU2MGE4XHU2NzAzXHU2NTM2XHU1MjMwXHU5MDE5XHU1YzAxXHU0ZmUxXHU0ZWY2XHU2NjJmXHU1NmUwXHU3MGJhXHU2MGE4XHU4Y2ZjXHU4Y2I3XHU0ZTg2IExhcmF2ZWxDb25mIFRhaXdhbiAyMDE5IFx1NzY4NFx1Nzk2OFx1NTIzOFx1MzAwMlxuXG5cdTU5MjdcdTY3MDNcdTU3MjhcdTkwMTlcdTkwOGFcdTVmODhcdTlhZDhcdTgyMDhcdTc2ODRcdTkwMWFcdTc3ZTVcdTYwYThcdWZmMGNcdTY3MmNcdTVjNDZcdTU5MjdcdTY3MDNcdTUxOGRcdTZiMjFcdTgyMDcgTW9kZXJuIFdlYiBcdTYzYThcdTUxZmFcdTc5NjhcdTUyMzhcdTU0MDhcdTRmNWNcdWZmMGNcdTUxZTFcdThjZmNcdThjYjcgTGFyYXZlbENvbmYgVGFpd2FuIDIwMTkgXHU3OTY4XHU1Mzc3XHU4MDA1XHVmZjBjXHU1MzczXHU1M2VmXHU1M2Q2XHU1Zjk3XHU0ZTAwXHU1ZjM1IE1vZGVybiBXZWIgMjAxOSBcdThjZmNcdTc5NjhcdTUxMmFcdTYwZTBcdTc4YmNcdWZmMGNcdTUzZWZcdTgxZjMgTW9kZXJuIFdlYiAyMDE5IFx1NWMwOFx1NWM2Y1x1OGNmY1x1Nzk2OFx1OTgwMSAoaHR0cHM6XC9cL2VjLml0aG9tZS5jb20udHdcL21vZGVybndlYjIwMTlcL2NvdXBvbikgXHU0ZWU1IDQwMDAgXHU1MTQzXHU4ZDg1XHU0ZjRlXHU1MGY5XHU4Y2I3XHU1MjMwIE1vZGVybldlYiBcdTc2ODRcdTc5NjhcdTUyMzhcdWZmMGNcdTZiZDRcdTY1ZTlcdTljZTVcdTkwODRcdTRmYmZcdTViOWM1MDBcdWZmMGNcdTY1NDhcdTY3MWZcdTUyMzAgNlwvMzAgXHU2MjJhXHU2YjYyXHVmZjBjXHU2YjMyXHU4Y2ZjXHU1ZjllXHU5MDFmXHVmZjAxXG5cblx1NjBhOFx1NzY4NFx1NWMwOFx1NWM2Y1x1NTEyYVx1NjBlMFx1NzhiY1x1NzBiYVx1MzAxMGxhcmFpc3ZKUGJcdTMwMTFcblxuTGFyYXZlbENvbmYgVGFpd2FuIDIwMTkgXHU3OTY4XHU1MmQ5XHU3ZDQ0XG4ifQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action VcsShowNextChangeMarker</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
-      <last-search>bu</last-search>
+      <last-search>crossday</last-search>
       <last-offset />
-      <last-pattern>bu</last-pattern>
+      <last-pattern>crossday</last-pattern>
       <last-replace>child</last-replace>
       <last-substitute>19</last-substitute>
       <last-dir>1</last-dir>
@@ -871,7 +880,6 @@
     </search>
     <history>
       <history-search>
-        <entry>end_t</entry>
         <entry>return</entry>
         <entry>char</entry>
         <entry>true</entry>
@@ -891,6 +899,7 @@
         <entry>directory</entry>
         <entry>wel</entry>
         <entry>bu</entry>
+        <entry>crossday</entry>
       </history-search>
       <history-cmd>
         <entry>action IntroduceParameter</entry>
@@ -904,15 +913,15 @@
         <entry>128</entry>
         <entry>action GotoNextError</entry>
         <entry>action RenameElement</entry>
-        <entry>action MethodDown</entry>
-        <entry>action Back</entry>
-        <entry>action MethodUp</entry>
         <entry>action GotoPreviousError</entry>
         <entry>w</entry>
         <entry>26</entry>
         <entry>13</entry>
         <entry>action VcsShowPrevChangeMarker</entry>
         <entry>action VcsShowNextChangeMarker</entry>
+        <entry>action MethodDown</entry>
+        <entry>action MethodUp</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
