@@ -78,11 +78,11 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1559706191553">
-        <mark key="[" line="117" column="21" />
-        <mark key="]" line="117" column="20" />
-        <mark key="^" line="117" column="20" />
-        <mark key="." line="117" column="20" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1560221516542">
+        <mark key="[" line="140" column="15" />
+        <mark key="]" line="140" column="36" />
+        <mark key="^" line="140" column="36" />
+        <mark key="." line="140" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/hr/hr_data_edit01.htm" timestamp="1559722108974">
         <mark key="'" line="969" column="57" />
@@ -423,11 +423,12 @@
         <mark key="^" line="282" column="14" />
         <mark key="." line="282" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" timestamp="1559706194063">
-        <mark key="[" line="86" column="16" />
-        <mark key="]" line="86" column="48" />
-        <mark key="^" line="86" column="48" />
-        <mark key="." line="86" column="48" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" timestamp="1560221644822">
+        <mark key="'" line="43" column="22" />
+        <mark key="[" line="100" column="17" />
+        <mark key="]" line="100" column="16" />
+        <mark key="^" line="100" column="16" />
+        <mark key="." line="100" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/test.php" timestamp="1558922686582">
         <mark key="[" line="4" column="30" />
@@ -482,7 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" />
       <jump line="328" column="18" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" />
@@ -582,6 +582,7 @@
       <jump line="16" column="1" filename="$USER_HOME$/Downloads/9173/storage/src/index.php" />
       <jump line="271" column="20" filename="$USER_HOME$/Downloads/9173/storage/vendor/google/cloud-storage/src/Bucket.php" />
       <jump line="93" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" />
+      <jump line="43" column="22" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -671,7 +672,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>二</text>
+        <text>Sasaya</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -710,7 +711,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>二</text>
+        <text>Sasaya</text>
       </register>
       <register name="/" type="4">
         <text>bu</text>
