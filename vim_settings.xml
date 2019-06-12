@@ -640,7 +640,7 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/remote/flowUpdate4di.php" timestamp="1548817414708">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/remote/flowUpdate4di.php" timestamp="1560321189064">
         <mark key="[" line="824" column="0" />
         <mark key="]" line="824" column="0" />
         <mark key="^" line="570" column="25" />
@@ -1351,7 +1351,7 @@
         <text encoding="base64">ampkZAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -1405,8 +1405,8 @@
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
