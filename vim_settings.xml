@@ -304,7 +304,7 @@
         <mark key="^" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/log.txt" timestamp="1560317642505">
+      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/log.txt" timestamp="1560317647993">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -893,6 +893,9 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" timestamp="1560317653825">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_User_Detail.inc" timestamp="1550643640713">
         <mark key="[" line="153" column="37" />
         <mark key="]" line="153" column="36" />
@@ -974,9 +977,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
-      <jump line="157" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Update_InsMsg.inc" />
-      <jump line="205" column="16" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.inc" />
       <jump line="115" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/utility.inc" />
       <jump line="114" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/utility.inc" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/utility.inc" />
@@ -1074,6 +1074,9 @@
       <jump line="284" column="27" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" />
       <jump line="1" column="15" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" />
       <jump line="449" column="0" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" />
+      <jump line="281" column="24" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/log.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
