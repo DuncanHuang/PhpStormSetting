@@ -345,11 +345,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" timestamp="1560393754159">
-        <mark key="'" line="210" column="4" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" timestamp="1560394640226">
+        <mark key="[" line="249" column="76" />
+        <mark key="]" line="250" column="3" />
+        <mark key="." line="250" column="3" />
+        <mark key="^" line="250" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1550741194219">
         <mark key="[" line="898" column="75" />
@@ -1238,7 +1238,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkc2lnbmF0dXJlKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7ZXhpdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1348,28 +1348,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICR3Zlsnbm90aWZ5U2lnbmF0dXJlSW5mbyddID0gYmFzZTY0X2VuY29kZShqc29uX2VuY29kZShnZXROb3RpZnlJbmZvKCR3Zlsnbm90aWZ5J10sICRzaWduYXR1cmVfcGF0aCkpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJhc2VfdXJsKCRzaWduYXR1cmVfcGF0aCAuICRzaWdubGlzdFska2V5XVsxM10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICR3Zlsnbm90aWZ5U2lnbmF0dXJlSW5mbyddID0gZ2V0Tm90aWZ5SW5mbygkd2ZbJ25vdGlmeSddKTsK</text>
+        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkc2lnbmF0dXJlKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7ZXhpdCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkd2ZbJ25vdGlmeUluZm8nXSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkd2ZbJ25vdGlmeUluZm8nXSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+        <text encoding="base64">ICAgIGJhc2VfdXJsKCRzaWduYXR1cmVfcGF0aCAuICRzaWdubGlzdFska2V5XVsxM10pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkc2lnbmF0dXJlKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICR3Zlsnbm90aWZ5U2lnbmF0dXJlSW5mbyddID0gZ2V0Tm90aWZ5SW5mbygkd2ZbJ25vdGlmeSddKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRLV0NSMlNpZ25hdHVyZURBTyA9IG5ldyBLV0NSMlNpZ25hdHVyZURBTygpOwo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkd2ZbJ25vdGlmeUluZm8nXSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action VcsShowNextChangeMarker</text>
       </register>
     </registers>
     <search>
@@ -1415,7 +1415,6 @@
         <entry>26</entry>
         <entry>13</entry>
         <entry>action VcsShowPrevChangeMarker</entry>
-        <entry>action VcsShowNextChangeMarker</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>463</entry>
         <entry>w</entry>
@@ -1425,6 +1424,7 @@
         <entry>action GotoPreviousError</entry>
         <entry>action MethodUp</entry>
         <entry>action Back</entry>
+        <entry>action VcsShowNextChangeMarker</entry>
       </history-cmd>
       <history-expr />
       <history-input />
