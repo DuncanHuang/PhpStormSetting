@@ -601,6 +601,7 @@
         <mark key="." line="21" column="34" />
         <mark key="^" line="21" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/cw/cw_doc_edit.htm" timestamp="1560415112992" />
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/.env" timestamp="1559752639763">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="21" />
@@ -633,6 +634,7 @@
         <mark key="^" line="680" column="25" />
         <mark key="." line="680" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/NetaskVersion.php" timestamp="1560414399451" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCorpInfo.php" timestamp="1550213557048">
         <mark key="[" line="69" column="26" />
         <mark key="]" line="69" column="10" />
@@ -669,9 +671,6 @@
         <mark key="]" line="21" column="4" />
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/remote/flowUpdate4di.php" timestamp="1560323758062">
-        <mark key="'" line="290" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/FlowStageCoderFactory.php" timestamp="1559185597068">
         <mark key="[" line="3" column="56" />
@@ -810,12 +809,12 @@
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1560412938504">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="65" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1560414431450">
+        <mark key="'" line="78" column="25" />
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" timestamp="1551149096069">
         <mark key="'" line="233" column="28" />
@@ -824,7 +823,7 @@
         <mark key="^" line="231" column="13" />
         <mark key="." line="231" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/bm/bm_send.htm" timestamp="1560409645793" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/bm/bm_send.htm" timestamp="1560415084667" />
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/application/source/mail.txt" timestamp="1559835073254">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="1" column="25" />
@@ -1003,8 +1002,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5148" column="53" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
-      <jump line="5620" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
       <jump line="5603" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
       <jump line="5598" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
       <jump line="5632" column="16" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
@@ -1100,9 +1097,11 @@
       <jump line="970" column="48" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/scripts/sign_stages_1.js" />
       <jump line="209" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/scripts/sign_stages_1.js" />
       <jump line="15" column="40" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="76" column="46" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="10" column="34" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
+      <jump line="76" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
+      <jump line="2733" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
+      <jump line="64" column="25" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1191,8 +1190,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA4OWUzODk3OWYuLi4gSXNzdWUgIzM3MTMgOC4zLjYgUmVsZWFzZSAtIOWinuWKoCBDSEFOR0VMT0cK</text>
+      <register name="&quot;" type="4">
+        <text>31</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1231,7 +1230,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$signlist[$key][13]</text>
+        <text>31</text>
       </register>
       <register name="/" type="4">
         <text>已經</text>
