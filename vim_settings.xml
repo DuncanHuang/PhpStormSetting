@@ -352,11 +352,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" timestamp="1560419364611">
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="0" />
-        <mark key="." line="252" column="0" />
-        <mark key="^" line="251" column="4" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" timestamp="1560491189750">
+        <mark key="[" line="248" column="33" />
+        <mark key="]" line="248" column="32" />
+        <mark key="." line="248" column="32" />
+        <mark key="^" line="248" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1550741194219">
         <mark key="[" line="898" column="75" />
@@ -636,7 +636,11 @@
         <mark key="^" line="680" column="25" />
         <mark key="." line="680" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/NetaskVersion.php" timestamp="1560414399451" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/NetaskVersion.php" timestamp="1560491113888">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCorpInfo.php" timestamp="1550213557048">
         <mark key="[" line="69" column="26" />
         <mark key="]" line="69" column="10" />
@@ -811,6 +815,13 @@
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1560491317462">
+        <mark key="'" line="15" column="21" />
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" timestamp="1551149096069">
         <mark key="'" line="233" column="28" />
         <mark key="[" line="231" column="14" />
@@ -818,7 +829,7 @@
         <mark key="^" line="231" column="13" />
         <mark key="." line="231" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/bm/bm_send.htm" timestamp="1560415084667" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/bm/bm_send.htm" timestamp="1560491292004" />
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/application/source/mail.txt" timestamp="1559835073254">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="1" column="25" />
@@ -997,7 +1008,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5603" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
       <jump line="5598" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
       <jump line="5632" column="16" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
       <jump line="5638" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
@@ -1097,6 +1107,7 @@
       <jump line="76" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="2733" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="64" column="25" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
+      <jump line="11" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1185,8 +1196,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICR3Zlsnbm90aWZ5U2lnbmF0dXJlSW5mbyddID0gYmFzZTY0X2VuY29kZShqc29uX2VuY29kZShnZXROb3RpZnlJbmZvKCR3Zlsnbm90aWZ5J10sICRzaWduYXR1cmVfcGF0aCkpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>v</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1225,7 +1236,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$wf['notify']</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>已經</text>
