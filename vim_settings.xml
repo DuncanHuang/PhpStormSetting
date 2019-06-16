@@ -200,6 +200,13 @@
         <mark key="^" line="36" column="112" />
         <mark key="." line="36" column="112" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" timestamp="1560705166241">
+        <mark key="'" line="144" column="2" />
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="48" />
+        <mark key="." line="8" column="48" />
+        <mark key="^" line="8" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1550203011158">
         <mark key="[" line="125" column="35" />
         <mark key="]" line="125" column="34" />
@@ -273,9 +280,6 @@
         <mark key="]" line="11" column="29" />
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" timestamp="1560325243061">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common.php" timestamp="1559297258192">
         <mark key="[" line="234" column="17" />
@@ -487,7 +491,12 @@
         <mark key="^" line="282" column="14" />
         <mark key="." line="282" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" timestamp="1560699988682" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" timestamp="1560705154649">
+        <mark key="[" line="77" column="16" />
+        <mark key="]" line="77" column="15" />
+        <mark key="." line="77" column="15" />
+        <mark key="^" line="77" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/test.php" timestamp="1558922686582">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="31" />
@@ -908,9 +917,6 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" timestamp="1560325262589">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_User_Detail.inc" timestamp="1550643640713">
         <mark key="[" line="153" column="37" />
         <mark key="]" line="153" column="36" />
@@ -992,7 +998,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="436" column="0" filename="$USER_HOME$/Downloads/XDocMakerByFlow.php" />
       <jump line="347" column="8" filename="$USER_HOME$/Downloads/XDocMakerByFlow.php" />
       <jump line="70" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" />
       <jump line="75" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" />
@@ -1092,6 +1097,7 @@
       <jump line="89" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
+      <jump line="145" column="2" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1180,8 +1186,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>static/images/speakers/ReccaTsai.jpg</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1220,7 +1226,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>static/images/speakers/ReccaTsai.jpg</text>
       </register>
       <register name="/" type="4">
         <text>已經</text>
@@ -1231,11 +1237,12 @@
       <register name="0" type="4">
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>\r\n' +
+          '</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlYjVlOTVmMWMuLi4gSXNzdWUgIzM3MjEgOC4zLjggUmVsZWFzZSAtIOWinuWKoCBDSEFOR0VMT0cK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1345,25 +1352,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlNGRmZDBiNDEuLi4gSXNzdWUgIzM3MjAgOC4zLjcgUmVsZWFzZSAtIOWinuWKoCBDSEFOR0VMT0cK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Pj4+Pj4+PiBlYjVlOTVmMWMuLi4gSXNzdWUgIzM3MjEgOC4zLjggUmVsZWFzZSAtIOWinuWKoCBDSEFOR0VMT0cK</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBlNGRmZDBiNDEuLi4gSXNzdWUgIzM3MjAgOC4zLjcgUmVsZWFzZSAtIOWinuWKoCBDSEFOR0VMT0cK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBlYjVlOTVmMWMuLi4gSXNzdWUgIzM3MjEgOC4zLjggUmVsZWFzZSAtIOWinuWKoCBDSEFOR0VMT0cK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1417,10 +1424,10 @@
         <entry>action Forward</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action MethodUp</entry>
-        <entry>action Back</entry>
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>75</entry>
         <entry>496</entry>
+        <entry>action Back</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
