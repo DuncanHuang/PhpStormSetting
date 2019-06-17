@@ -253,12 +253,12 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Service/CmcQuoteServiceTest.php" timestamp="1560794760258">
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Service/CmcQuoteServiceTest.php" timestamp="1560795147623">
         <mark key="'" line="36" column="47" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="9" />
+        <mark key="." line="32" column="9" />
+        <mark key="^" line="32" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/SYS/Concurrent.php" timestamp="1559617869511">
         <mark key="[" line="29" column="44" />
@@ -984,7 +984,7 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560794385976">
+      <file name="/Dummy.txt" timestamp="1560795053078">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -1231,8 +1231,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxDb25zb2xlXENvbW1hbmRzXENtY1F1b3RlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Tests\</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1271,7 +1271,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Tests\</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
