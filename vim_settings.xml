@@ -17,6 +17,9 @@
         <mark key="^" line="281" column="39" />
         <mark key="." line="281" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/dm/dm_search.htm" timestamp="1550483506173">
+        <mark key="'" line="5" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_receive.htm" timestamp="1550220119629">
         <mark key="[" line="407" column="59" />
         <mark key="]" line="407" column="79" />
@@ -140,6 +143,9 @@
         <mark key="." line="83" column="17" />
         <mark key="^" line="83" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_download.php" timestamp="1551060256391">
+        <mark key="'" line="97" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/FlowList2Users.inc" timestamp="1560324027121">
         <mark key="[" line="36" column="113" />
         <mark key="]" line="36" column="112" />
@@ -230,6 +236,9 @@
         <mark key="]" line="1159" column="33" />
         <mark key="^" line="1159" column="33" />
         <mark key="." line="1159" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt_Fin_Va.inc" timestamp="1560238117914">
+        <mark key="'" line="5" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Jobs/HisSync.php" timestamp="1548125676487">
         <mark key="[" line="256" column="15" />
@@ -356,6 +365,9 @@
         <mark key="]" line="28" column="33" />
         <mark key="^" line="28" column="33" />
         <mark key="." line="28" column="33" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/member/signin.php" timestamp="1550759866512">
+        <mark key="'" line="163" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/9173/storage/src/read.php" timestamp="1559760372968">
         <mark key="[" line="6" column="0" />
@@ -594,6 +606,9 @@
         <mark key="^" line="23" column="76" />
         <mark key="." line="23" column="76" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/mp/mp_main.htm" timestamp="1560393438310">
+        <mark key="'" line="876" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/lysCommon.php" timestamp="1549960500186">
         <mark key="[" line="205" column="0" />
         <mark key="]" line="205" column="0" />
@@ -702,6 +717,16 @@
         <mark key="^" line="109" column="30" />
         <mark key="." line="109" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" timestamp="1560773431750">
+        <mark key="'" line="22" column="67" />
+        <mark key="[" line="22" column="68" />
+        <mark key="]" line="22" column="67" />
+        <mark key="^" line="22" column="67" />
+        <mark key="." line="22" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" timestamp="1560772299560">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/FlowCoder.php" timestamp="1559719706857">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="36" />
@@ -720,7 +745,7 @@
         <mark key="^" line="90" column="15" />
         <mark key="." line="90" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560757146475">
+      <file name="/Dummy.txt" timestamp="1560773758280">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -731,6 +756,13 @@
         <mark key="]" line="1" column="9" />
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/CmcQuoteTest.php" timestamp="1560773725525">
+        <mark key="'" line="13" column="57" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/showMailAttach.php" timestamp="1548914711248">
         <mark key="[" line="12" column="0" />
@@ -743,6 +775,9 @@
         <mark key="]" line="219" column="44" />
         <mark key="^" line="219" column="44" />
         <mark key="." line="219" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DataModel/XDoc/XDocConfig.php" timestamp="1551158440164">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/VA/AbstractVacationCardDAO.php" timestamp="1560762045053">
         <mark key="[" line="30" column="25" />
@@ -758,14 +793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_view_fixed.htm" />
-      <jump line="126" column="12" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Detail.php" />
-      <jump line="170" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
-      <jump line="85" column="51" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
-      <jump line="60" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
-      <jump line="239" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
       <jump line="189" column="14" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
       <jump line="185" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
@@ -858,6 +885,14 @@
       <jump line="3848" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
       <jump line="3905" column="5" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
       <jump line="3900" column="41" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="5" column="14" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" />
+      <jump line="16" column="6" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
+      <jump line="22" column="67" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
+      <jump line="13" column="57" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/CmcQuoteTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -946,8 +981,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gdG9kbyDlr6vlhaUgVmFjYXRpb25fQ2FyZF9SZXZpc2Ug6KiY6YyECg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -986,10 +1021,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGluc2VydFZhY2F0aW9uQ2FyZCA9IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IGZ1bmN0aW9u</text>
+        <text>file</text>
       </register>
       <register name="o" type="4">
         <text />
@@ -998,10 +1033,10 @@
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gdG9kbyDlr6vlhaUgVmFjYXRpb25fQ2FyZF9SZXZpc2Ug6KiY6YyECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IHJlc3AK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEd1enpsZUh0dHBcSGFuZGxlclxNb2NrSGFuZGxlcjsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1111,34 +1146,34 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gdG9kbyDlr6vlhaUgVmFjYXRpb25fQ2FyZF9SZXZpc2Ug6KiY6YyECgovKioK</text>
+        <text encoding="base64">dXNlIGh0dHBcRW52XFJlc3BvbnNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gdG9kbyDliKTmlrfmmK/lkKbmnIkgVmFjYXRpb25DYXJkIOiomOmMhO+8jOacieWJh+Wwh+iomOmMhOiIh+W/mOWIt+WNoeWQiOS9teioiOeul+aZguaVuO+8jOaykuacieWJh+W/mOWIt+WNoeiHquW3seioiOeul+aZguaVuAovLyB0b2RvIOS+neaTmuaYr+WQpuaciSBWYWNhdGlvbkNhcmQg5L6GIEluc2VydCBvciBVcGRhdGUK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgTW9ja0hhbmRsZXIoCiAgICAgICAgICAgIG5ldyBSZXNwb25zZSgyMDAsIFtdLCBmaWxlX2dldF9jb250ZW50cyhiYXNlX3BhdGgoJ3Rlc3RzL2ZpeHR1cmVzL2NtYy9sYXRlc3QuanNvbicpKSkKICAgICAgICApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgTW9ja0hhbmRsZXIoCiAgICAgICAgICAgIG5ldyBSZXNwb25zZSgyMDAsIFtdLCBmaWxlX2dldF9jb250ZW50cygpKQogICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRpbml0VmFjYXRpb25DYXJkKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxDb25zb2xlXENvbW1hbmRzXENtY1F1b3RlVGVzdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRjYXJkRGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxDb25zb2xlXENvbW1hbmRzXENtY1F1b3RlVGVzdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDkuIvnj63ljaHmiZPot6jml6XmlbTpu54K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMg</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlIEFwcFxDb25zb2xlXENvbW1hbmRzXENtY1F1b3RlVGVzdDsK</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IGZ1bmN0aW9u</last-search>
+      <last-search>file</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IGZ1bmN0aW9u</last-pattern>
+      <last-pattern>file</last-pattern>
       <last-replace />
       <last-substitute>Vim</last-substitute>
       <last-dir>-1</last-dir>
@@ -1146,7 +1181,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addMsg</entry>
         <entry>Tennis</entry>
         <entry encoding="base64">XDxzY29yZVNob3VsZEJlXD4=</entry>
         <entry encoding="base64">XDxMb3ZlXD4=</entry>
@@ -1166,9 +1200,9 @@
         <entry>已經</entry>
         <entry>function test</entry>
         <entry encoding="base64">IGZ1bmN0aW9u</entry>
+        <entry>file</entry>
       </history-search>
       <history-cmd>
-        <entry>action Inline</entry>
         <entry>128</entry>
         <entry>action GotoNextError</entry>
         <entry>26</entry>
@@ -1187,6 +1221,7 @@
         <entry>action Back</entry>
         <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
+        <entry>action ReformatCode</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
