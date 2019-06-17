@@ -724,6 +724,12 @@
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" timestamp="1560753170965">
+        <mark key="[" line="70" column="29" />
+        <mark key="]" line="71" column="44" />
+        <mark key="." line="71" column="44" />
+        <mark key="^" line="71" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.inc" timestamp="1551157752015">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -1186,8 +1192,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>static/images/speakers/ReccaTsai.jpg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gdG9kbwo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1226,7 +1232,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>static/images/speakers/ReccaTsai.jpg</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>已經</text>
@@ -1237,12 +1243,11 @@
       <register name="0" type="4">
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
-      <register name="1" type="4">
-        <text>\r\n' +
-          '</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gdG9kbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gZGZpCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1352,25 +1357,26 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlYjVlOTVmMWMuLi4gSXNzdWUgIzM3MjEgOC4zLjggUmVsZWFzZSAtIOWinuWKoCBDSEFOR0VMT0cK</text>
+        <text encoding="base64">ZXhpdGRkamoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCR2YWNhdGlvbkNhcmQpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsKCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="5" type="4">
+        <text>\r\n' +
+          '</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlNGRmZDBiNDEuLi4gSXNzdWUgIzM3MjAgOC4zLjcgUmVsZWFzZSAtIOWinuWKoCBDSEFOR0VMT0cK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBlYjVlOTVmMWMuLi4gSXNzdWUgIzM3MjEgOC4zLjggUmVsZWFzZSAtIOWinuWKoCBDSEFOR0VMT0cK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlYjVlOTVmMWMuLi4gSXNzdWUgIzM3MjEgOC4zLjggUmVsZWFzZSAtIOWinuWKoCBDSEFOR0VMT0cK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
