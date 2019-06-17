@@ -48,6 +48,12 @@
         <mark key="." line="39" column="4" />
         <mark key="^" line="39" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Service.php" timestamp="1560796822860">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/91/speed/tests/Tennis2Test.php" timestamp="1549643507023">
         <mark key="[" line="16" column="30" />
         <mark key="]" line="16" column="29" />
@@ -253,12 +259,12 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Service/CmcQuoteServiceTest.php" timestamp="1560795147623">
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Service/CmcQuoteServiceTest.php" timestamp="1560797723883">
         <mark key="'" line="36" column="47" />
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="32" column="9" />
-        <mark key="." line="32" column="9" />
-        <mark key="^" line="32" column="9" />
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="22" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/SYS/Concurrent.php" timestamp="1559617869511">
         <mark key="[" line="29" column="44" />
@@ -308,12 +314,13 @@
         <mark key="^" line="1159" column="33" />
         <mark key="." line="1159" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Service/CmcQuoteService.php" timestamp="1560776742976">
-        <mark key="'" line="43" column="46" />
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="24" column="37" />
-        <mark key="." line="24" column="37" />
-        <mark key="^" line="24" column="37" />
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Service/CmcQuoteService.php" timestamp="1560797900402">
+        <mark key="f" line="77" column="8" />
+        <mark key="'" line="125" column="46" />
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="25" column="7" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="25" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Jobs/HisSync.php" timestamp="1548125676487">
         <mark key="[" line="256" column="15" />
@@ -412,8 +419,8 @@
         <mark key="." line="67" column="58" />
         <mark key="^" line="67" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" timestamp="1560776500618">
-        <mark key="[" line="23" column="34" />
+      <file name="$USER_HOME$/Documents/91/speed/tests/TennisTest.php" timestamp="1560796541094">
+        <mark key="[" line="8" column="0" />
         <mark key="]" line="23" column="34" />
         <mark key="." line="23" column="34" />
       </file>
@@ -838,7 +845,7 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/.env" timestamp="1560775922642">
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/.env" timestamp="1560797488795">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="47" />
         <mark key="^" line="6" column="47" />
@@ -924,12 +931,12 @@
         <mark key="^" line="109" column="30" />
         <mark key="." line="109" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" timestamp="1560794708578">
-        <mark key="'" line="16" column="5" />
-        <mark key="[" line="35" column="61" />
-        <mark key="]" line="35" column="60" />
-        <mark key="^" line="35" column="60" />
-        <mark key="." line="35" column="60" />
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" timestamp="1560797665112">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/FlowStage.php" timestamp="1559194657233">
         <mark key="'" line="39" column="20" />
@@ -938,12 +945,11 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" timestamp="1560794135302">
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" timestamp="1560797919761">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="39" column="21" />
-        <mark key="]" line="39" column="20" />
-        <mark key="." line="39" column="20" />
-        <mark key="^" line="39" column="20" />
+        <mark key="[" line="47" column="40" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/Test.php" timestamp="1560773893300">
         <mark key="'" line="11" column="4" />
@@ -984,7 +990,7 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560795053078">
+      <file name="/Dummy.txt" timestamp="1560797708891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -1043,12 +1049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
-      <jump line="137" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
-      <jump line="135" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
-      <jump line="128" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
-      <jump line="110" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
-      <jump line="95" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
       <jump line="80" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
       <jump line="69" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
       <jump line="65" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
@@ -1136,13 +1136,19 @@
       <jump line="11" column="4" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/Test.php" />
       <jump line="14" column="9" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/CmcQuoteTest.php" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/CmcQuoteTest.php" />
-      <jump line="22" column="99" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
       <jump line="17" column="46" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Service/CmcQuoteService.php" />
       <jump line="28" column="36" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/CmcQuoteTest.php" />
       <jump line="29" column="31" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/CmcQuoteTest.php" />
       <jump line="222" column="38" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
       <jump line="16" column="5" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
       <jump line="37" column="47" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Service/CmcQuoteServiceTest.php" />
+      <jump line="14" column="6" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
+      <jump line="15" column="28" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
+      <jump line="22" column="31" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Service/CmcQuoteServiceTest.php" />
+      <jump line="36" column="12" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
+      <jump line="22" column="99" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
+      <jump line="36" column="47" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Service/CmcQuoteServiceTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1231,8 +1237,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Tests\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzX251bGwoJGJvZHkpICYmIGFycmF5X2tleV9leGlzdHMoJ2RhdGEnLCAkYm9keSkpIHsKICAgICAgICAgICAgJHF1b3RlID0gY29sbGVjdCgkYm9keVsnZGF0YSddKS0+ZmlsdGVyKGZ1bmN0aW9uICgkaXRlbSwgJGtleSkgdXNlICgkY3J5cHRvKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJGl0ZW1bJ3N5bWJvbCddID09PSAkY3J5cHRvOwogICAgICAgICAgICB9KS0+Zmlyc3QoKVsncXVvdGUnXVsnVVNEJ107CiAgICAgICAgfQoK</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1271,7 +1277,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Tests\</text>
+        <text>Client $client</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -1283,10 +1289,10 @@
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxDb25zb2xlXENvbW1hbmRzXENtY1F1b3RlOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzX251bGwoJGJvZHkpICYmIGFycmF5X2tleV9leGlzdHMoJ2RhdGEnLCAkYm9keSkpIHsKICAgICAgICAgICAgJHF1b3RlID0gY29sbGVjdCgkYm9keVsnZGF0YSddKS0+ZmlsdGVyKGZ1bmN0aW9uICgkaXRlbSwgJGtleSkgdXNlICgkY3J5cHRvKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJGl0ZW1bJ3N5bWJvbCddID09PSAkY3J5cHRvOwogICAgICAgICAgICB9KS0+Zmlyc3QoKVsncXVvdGUnXVsnVVNEJ107CiAgICAgICAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFwaSA9ICdodHRwczovL3Byby1hcGkuY29pbm1hcmtldGNhcC5jb20vdjEvY3J5cHRvY3VycmVuY3kvbGlzdGluZ3MvbGF0ZXN0JzsKICAgICAgICAgICAgJHJlc3BvbnNlID0gJGNsaWVudC0+cmVxdWVzdCgnR0VUJywgJGFwaSwgWwogICAgICAgICAgICAgICAgJ2hlYWRlcnMnID0+IFsnWC1DTUNfUFJPX0FQSV9LRVknID0+ICRhcGlLZXldLAogICAgICAgICAgICBdKTsKICAgICAgICAgICAgJGJvZHkgPSBqc29uX2RlY29kZSgkcmVzcG9uc2UtPmdldEJvZHkoKS0+Z2V0Q29udGVudHMoKSwgdHJ1ZSk7CiAgICAgICAgICAgIGlmICgkYm9keVsnc3RhdHVzJ11bJ2Vycm9yX2NvZGUnXSAhPT0gMCkgewogICAgICAgICAgICAgICAgJHRoaXMtPmVycm9yKCdBUEkg6Yyv6KqkOiAnLiRib2R5WydzdGF0dXMnXVsnZXJyb3JfbWVzc2FnZSddKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1396,170 +1402,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRleHBlY3RlZCwgJGFjdHVhbCkK</text>
+        <text encoding="base64">ICAgICAgICAkYXBpS2V5ID0gZW52KCdDTUNfQVBJX0tFWScpOwoKICAgICAgICAkYm9keSA9IG51bGw7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>[
-  {
-    id: 0,
-    title: '天使贊助',
-    remark: '依中文公司名稱筆劃排序',
-    sponsor: [
-      {
-        id: 1,
-        imgUrl: 'https://picsum.photos/id/116/500/400',
-        title: '管地',
-        // eslint-disable-next-line max-len
-        content: 'GANDI.net 為 ICANN 最早認可的域名註冊商之一，在法國主要提供 .COM、.NET、.ORG、.BIZ、.INFO、.NAME、.BE、.FR、.EU 域名。我們目前提供超過 700 種頂級域名種類，我們亦固定持續增加新域名。在這具有『灰色』地帶的產業中，Gandi 自許為具有商業道德的域名註冊商，不但重視客戶的權益和隱私勝於一切，並盡己所能以捍衛這些價值。',
-        link: '/',
-      },
-      {
-        id: 2,
-        imgUrl: 'https://picsum.photos/id/116/500/400',
-        title: 'KKday',
-        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
-        link: '/',
-      },
-      {
-        id: 3,
-        imgUrl: 'https://picsum.photos/id/116/500/400',
-        title: '職吧',
-        content: '職吧是一個能讓所有工作者暢所欲言、像酒吧一樣的社群平台。所有人都可以在上面吐露工作的愉快與不快，或是一個聊聊八卦的場所。希望透過經驗的分享，能夠讓後進的工作者，有一個地方可以了解各種工作中不同的辛酸血淚史。',
-        link: '/',
-      },
-    ],
-  },
-  {
-    id: 1,
-    title: '鐵粉贊助',
-    remark: '依中文公司名稱筆劃排序',
-    sponsor: [
-      {
-        id: 1,
-        imgUrl: 'https://picsum.photos/id/116/500/400',
-        title: 'KKday',
-        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
-        link: '/',
-      },
-      {
-        id: 2,
-        imgUrl: 'https://picsum.photos/id/116/500/400',
-        title: 'KKday',
-        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
-        link: '/',
-      },
-      {
-        id: 3,
-        imgUrl: 'https://picsum.photos/id/116/500/400',
-        title: '職吧',
-        content: '職吧是一個能讓所有工作者暢所欲言、像酒吧一樣的社群平台。所有人都可以在上面吐露工作的愉快與不快，或是一個聊聊八卦的場所。希望透過經驗的分享，能夠讓後進的工作者，有一個地方可以了解各種工作中不同的辛酸血淚史。',
-        link: '/',
-      },
-    ],
-  },
-  {
-    id: 2,
-    title: '麻吉贊助',
-    remark: '依中文公司名稱筆劃排序',
-    sponsor: [
-      {
-        id: 1,
-        imgUrl: 'https://picsum.photos/id/116/500/400',
-        title: 'KKday',
-        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
-        link: '/',
-      },
-      {
-        id: 2,
-        imgUrl: 'https://picsum.photos/id/116/500/400',
-        title: 'KKday',
-        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
-        link: '/',
-      },
-      {
-        id: 3,
-        imgUrl: 'https://picsum.photos/id/116/500/400',
-        title: '職吧',
-        content: '職吧是一個能讓所有工作者暢所欲言、像酒吧一樣的社群平台。所有人都可以在上面吐露工作的愉快與不快，或是一個聊聊八卦的場所。希望透過經驗的分享，能夠讓後進的工作者，有一個地方可以了解各種工作中不同的辛酸血淚史。',
-        link: '/',
-      },
-    ],
-  },
-  {
-    id: 3,
-    title: '媒體合作',
-    remark: '依中文公司名稱筆劃排序',
-    sponsor: [
-      {
-        id: 1,
-        imgUrl: 'https://picsum.photos/id/116/500/400',
-        title: 'KKday',
-        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
-        link: '/',
-      },
-      {
-        id: 2,
-        imgUrl: 'https://picsum.photos/id/116/500/400',
-        title: 'KKday',
-        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
-        link: '/',
-      },
-      {
-        id: 3,
-        imgUrl: 'https://picsum.photos/id/116/500/400',
-        title: '職吧',
-        content: '職吧是一個能讓所有工作者暢所欲言、像酒吧一樣的社群平台。所有人都可以在上面吐露工作的愉快與不快，或是一個聊聊八卦的場所。希望透過經驗的分享，能夠讓後進的工作者，有一個地方可以了解各種工作中不同的辛酸血淚史。',
-        link: '/',
-      },
-    ],
-  },
-  {
-    id: 4,
-    title: '特別感謝',
-    remark: '依中文公司名稱筆劃排序',
-    sponsor: [
-      {
-        id: 1,
-        imgUrl: 'https://picsum.photos/id/116/500/400',
-        title: 'KKday',
-        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
-        link: '/',
-      },
-      {
-        id: 2,
-        imgUrl: 'https://picsum.photos/id/116/500/400',
-        title: 'KKday',
-        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
-        link: '/',
-      },
-      {
-        id: 3,
-        imgUrl: 'https://picsum.photos/id/116/500/400',
-        title: '職吧',
-        content: '職吧是一個能讓所有工作者暢所欲言、像酒吧一樣的社群平台。所有人都可以在上面吐露工作的愉快與不快，或是一個聊聊八卦的場所。希望透過經驗的分享，能夠讓後進的工作者，有一個地方可以了解各種工作中不同的辛酸血淚史。',
-        link: '/',
-      },
-    ],
-  },
-]</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGlkOiAzLAogICAgICAgIGltZ1VybDogJ2h0dHBzOi8vcGljc3VtLnBob3Rvcy9pZC8xMTYvNTAwLzQwMCcsCiAgICAgICAgdGl0bGU6ICfogbflkKcnLAogICAgICAgIGNvbnRlbnQ6ICfogbflkKfmmK/kuIDlgIvog73orpPmiYDmnInlt6XkvZzogIXmmqLmiYDmrLLoqIDjgIHlg4/phZLlkKfkuIDmqKPnmoTnpL7nvqTlubPlj7DjgILmiYDmnInkurrpg73lj6/ku6XlnKjkuIrpnaLlkJDpnLLlt6XkvZznmoTmhInlv6voiIfkuI3lv6vvvIzmiJbmmK/kuIDlgIvogYrogYrlhavljabnmoTloLTmiYDjgILluIzmnJvpgI/pgY7ntpPpqZfnmoTliIbkuqvvvIzog73lpKDorpPlvozpgLLnmoTlt6XkvZzogIXvvIzmnInkuIDlgIvlnLDmlrnlj6/ku6Xkuobop6PlkITnqK7lt6XkvZzkuK3kuI3lkIznmoTovpvphbjooYDmt5rlj7LjgIInLAogICAgICAgIGxpbms6ICcvJywKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzX251bGwoJGJvZHkpICYmIGFycmF5X2tleV9leGlzdHMoJ2RhdGEnLCAkYm9keSkpIHsKICAgICAgICAgICAgJHF1b3RlID0gY29sbGVjdCgkYm9keVsnZGF0YSddKS0+ZmlsdGVyKGZ1bmN0aW9uICgkaXRlbSwgJGtleSkgdXNlICgkY3J5cHRvKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJGl0ZW1bJ3N5bWJvbCddID09PSAkY3J5cHRvOwogICAgICAgICAgICB9KS0+Zmlyc3QoKVsncXVvdGUnXVsnVVNEJ107CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIGlkOiA3LAogICAgICAgIGltZ1VybDogJ3N0YXRpYy9pbWFnZXMvc3BvbnNvci9mYW5zLWFtYXppbmd0YWxrZXIuanBnJywKICAgICAgICB0aXRsZTogJ+mWg+mbu+S/oCBBbWF6aW5nVGFsa2VyJywKICAgICAgICBjb250ZW50OiAnQW1hemluZ1RhbGtlciDmmK/ngrrmg7Plrbjoqp7oqIDnmoTkurrmiYDmiZPpgKDnmoTnt5rkuIrlpJboqp7mlZnluKvlqpLlkIjlubPlj7DvvIzpgI/pgY7pgI/mmI7nmoTos4foqIroiIflpKfmlbjmk5rnmoTmjpLliJfoiIflqpLlkIjvvIzorpPmnIDpganlkIjlvbzmraTnmoTluKvnlJ/lj6/ku6XpgI/pgY7mnIDnn63nmoTmmYLplpPnm7jogZrlnKjkuIDotbfvvIzlrbjnv5LlpJboqp7kuKbkupLnm7jkuqTmtYHkuI3lkIznmoTmlofljJbjgILkuLLoga/kuJbnlYzlkITlgIvop5LokL3jgIInLAogICAgICAgIGxpbms6ICdodHRwczovL3R3LmFtYXppbmd0YWxrZXIuY29tLycsCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFwaSA9ICdodHRwczovL3Byby1hcGkuY29pbm1hcmtldGNhcC5jb20vdjEvY3J5cHRvY3VycmVuY3kvbGlzdGluZ3MvbGF0ZXN0JzsKICAgICAgICAgICAgJHJlc3BvbnNlID0gJGNsaWVudC0+cmVxdWVzdCgnR0VUJywgJGFwaSwgWwogICAgICAgICAgICAgICAgJ2hlYWRlcnMnID0+IFsnWC1DTUNfUFJPX0FQSV9LRVknID0+ICRhcGlLZXldLAogICAgICAgICAgICBdKTsKICAgICAgICAgICAgJGJvZHkgPSBqc29uX2RlY29kZSgkcmVzcG9uc2UtPmdldEJvZHkoKS0+Z2V0Q29udGVudHMoKSwgdHJ1ZSk7CiAgICAgICAgICAgIGlmICgkYm9keVsnc3RhdHVzJ11bJ2Vycm9yX2NvZGUnXSAhPT0gMCkgewogICAgICAgICAgICAgICAgJHRoaXMtPmVycm9yKCdBUEkg6Yyv6KqkOiAnLiRib2R5WydzdGF0dXMnXVsnZXJyb3JfbWVzc2FnZSddKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzXFVuaXRcU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAkYm9keSA9IG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXENtY1F1b3RlU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAkcXVvdGUgPSBbXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXENtY1F1b3RlU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAkYXBpS2V5ID0gZW52KCdDTUNfQVBJX0tFWScpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodDown</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1568,7 +1432,7 @@
       <last-pattern>file</last-pattern>
       <last-replace />
       <last-substitute>Vim</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1595,8 +1459,6 @@
         <entry>file</entry>
       </history-search>
       <history-cmd>
-        <entry>26</entry>
-        <entry>13</entry>
         <entry>action VcsShowPrevChangeMarker</entry>
         <entry>463</entry>
         <entry>action VcsShowNextChangeMarker</entry>
@@ -1606,15 +1468,17 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>w</entry>
         <entry>action RenameElement</entry>
-        <entry>action IntroduceField</entry>
-        <entry>action GotoPreviousError</entry>
-        <entry>action GotoNextError</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
+        <entry>action IntroduceField</entry>
+        <entry>action ChangeSignature</entry>
+        <entry>action IntroduceParameter</entry>
+        <entry>action MethodDown</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action GotoPreviousError</entry>
         <entry>action MethodUp</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action MethodDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
