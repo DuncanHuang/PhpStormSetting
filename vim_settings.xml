@@ -201,12 +201,12 @@
         <mark key="^" line="36" column="112" />
         <mark key="." line="36" column="112" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" timestamp="1560791272111">
-        <mark key="'" line="144" column="2" />
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="55" />
-        <mark key="." line="8" column="55" />
-        <mark key="^" line="8" column="55" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" timestamp="1560793437324">
+        <mark key="'" line="222" column="38" />
+        <mark key="[" line="228" column="22" />
+        <mark key="]" line="454" column="0" />
+        <mark key="." line="454" column="0" />
+        <mark key="^" line="454" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1550203011158">
         <mark key="[" line="125" column="35" />
@@ -1036,7 +1036,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
       <jump line="151" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
       <jump line="147" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
       <jump line="137" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
@@ -1136,6 +1135,7 @@
       <jump line="17" column="46" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Service/CmcQuoteService.php" />
       <jump line="28" column="36" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/CmcQuoteTest.php" />
       <jump line="29" column="31" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/CmcQuoteTest.php" />
+      <jump line="222" column="38" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1225,7 +1225,149 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>static/images/sponsor/angel-o.jpg</text>
+        <text>[
+  {
+    id: 0,
+    title: '天使贊助',
+    remark: '依中文公司名稱筆劃排序',
+    sponsor: [
+      {
+        id: 1,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: '管地',
+        // eslint-disable-next-line max-len
+        content: 'GANDI.net 為 ICANN 最早認可的域名註冊商之一，在法國主要提供 .COM、.NET、.ORG、.BIZ、.INFO、.NAME、.BE、.FR、.EU 域名。我們目前提供超過 700 種頂級域名種類，我們亦固定持續增加新域名。在這具有『灰色』地帶的產業中，Gandi 自許為具有商業道德的域名註冊商，不但重視客戶的權益和隱私勝於一切，並盡己所能以捍衛這些價值。',
+        link: '/',
+      },
+      {
+        id: 2,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 3,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: '職吧',
+        content: '職吧是一個能讓所有工作者暢所欲言、像酒吧一樣的社群平台。所有人都可以在上面吐露工作的愉快與不快，或是一個聊聊八卦的場所。希望透過經驗的分享，能夠讓後進的工作者，有一個地方可以了解各種工作中不同的辛酸血淚史。',
+        link: '/',
+      },
+    ],
+  },
+  {
+    id: 1,
+    title: '鐵粉贊助',
+    remark: '依中文公司名稱筆劃排序',
+    sponsor: [
+      {
+        id: 1,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 2,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 3,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: '職吧',
+        content: '職吧是一個能讓所有工作者暢所欲言、像酒吧一樣的社群平台。所有人都可以在上面吐露工作的愉快與不快，或是一個聊聊八卦的場所。希望透過經驗的分享，能夠讓後進的工作者，有一個地方可以了解各種工作中不同的辛酸血淚史。',
+        link: '/',
+      },
+    ],
+  },
+  {
+    id: 2,
+    title: '麻吉贊助',
+    remark: '依中文公司名稱筆劃排序',
+    sponsor: [
+      {
+        id: 1,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 2,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 3,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: '職吧',
+        content: '職吧是一個能讓所有工作者暢所欲言、像酒吧一樣的社群平台。所有人都可以在上面吐露工作的愉快與不快，或是一個聊聊八卦的場所。希望透過經驗的分享，能夠讓後進的工作者，有一個地方可以了解各種工作中不同的辛酸血淚史。',
+        link: '/',
+      },
+    ],
+  },
+  {
+    id: 3,
+    title: '媒體合作',
+    remark: '依中文公司名稱筆劃排序',
+    sponsor: [
+      {
+        id: 1,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 2,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 3,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: '職吧',
+        content: '職吧是一個能讓所有工作者暢所欲言、像酒吧一樣的社群平台。所有人都可以在上面吐露工作的愉快與不快，或是一個聊聊八卦的場所。希望透過經驗的分享，能夠讓後進的工作者，有一個地方可以了解各種工作中不同的辛酸血淚史。',
+        link: '/',
+      },
+    ],
+  },
+  {
+    id: 4,
+    title: '特別感謝',
+    remark: '依中文公司名稱筆劃排序',
+    sponsor: [
+      {
+        id: 1,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 2,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 3,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: '職吧',
+        content: '職吧是一個能讓所有工作者暢所欲言、像酒吧一樣的社群平台。所有人都可以在上面吐露工作的愉快與不快，或是一個聊聊八卦的場所。希望透過經驗的分享，能夠讓後進的工作者，有一個地方可以了解各種工作中不同的辛酸血淚史。',
+        link: '/',
+      },
+    ],
+  },
+]</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1264,7 +1406,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>static/images/sponsor/angel-o.jpg</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -1275,11 +1417,153 @@
       <register name="0" type="4">
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzXFVuaXRcU2VydmljZTsK</text>
+      <register name="1" type="4">
+        <text>[
+  {
+    id: 0,
+    title: '天使贊助',
+    remark: '依中文公司名稱筆劃排序',
+    sponsor: [
+      {
+        id: 1,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: '管地',
+        // eslint-disable-next-line max-len
+        content: 'GANDI.net 為 ICANN 最早認可的域名註冊商之一，在法國主要提供 .COM、.NET、.ORG、.BIZ、.INFO、.NAME、.BE、.FR、.EU 域名。我們目前提供超過 700 種頂級域名種類，我們亦固定持續增加新域名。在這具有『灰色』地帶的產業中，Gandi 自許為具有商業道德的域名註冊商，不但重視客戶的權益和隱私勝於一切，並盡己所能以捍衛這些價值。',
+        link: '/',
+      },
+      {
+        id: 2,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 3,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: '職吧',
+        content: '職吧是一個能讓所有工作者暢所欲言、像酒吧一樣的社群平台。所有人都可以在上面吐露工作的愉快與不快，或是一個聊聊八卦的場所。希望透過經驗的分享，能夠讓後進的工作者，有一個地方可以了解各種工作中不同的辛酸血淚史。',
+        link: '/',
+      },
+    ],
+  },
+  {
+    id: 1,
+    title: '鐵粉贊助',
+    remark: '依中文公司名稱筆劃排序',
+    sponsor: [
+      {
+        id: 1,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 2,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 3,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: '職吧',
+        content: '職吧是一個能讓所有工作者暢所欲言、像酒吧一樣的社群平台。所有人都可以在上面吐露工作的愉快與不快，或是一個聊聊八卦的場所。希望透過經驗的分享，能夠讓後進的工作者，有一個地方可以了解各種工作中不同的辛酸血淚史。',
+        link: '/',
+      },
+    ],
+  },
+  {
+    id: 2,
+    title: '麻吉贊助',
+    remark: '依中文公司名稱筆劃排序',
+    sponsor: [
+      {
+        id: 1,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 2,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 3,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: '職吧',
+        content: '職吧是一個能讓所有工作者暢所欲言、像酒吧一樣的社群平台。所有人都可以在上面吐露工作的愉快與不快，或是一個聊聊八卦的場所。希望透過經驗的分享，能夠讓後進的工作者，有一個地方可以了解各種工作中不同的辛酸血淚史。',
+        link: '/',
+      },
+    ],
+  },
+  {
+    id: 3,
+    title: '媒體合作',
+    remark: '依中文公司名稱筆劃排序',
+    sponsor: [
+      {
+        id: 1,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 2,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 3,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: '職吧',
+        content: '職吧是一個能讓所有工作者暢所欲言、像酒吧一樣的社群平台。所有人都可以在上面吐露工作的愉快與不快，或是一個聊聊八卦的場所。希望透過經驗的分享，能夠讓後進的工作者，有一個地方可以了解各種工作中不同的辛酸血淚史。',
+        link: '/',
+      },
+    ],
+  },
+  {
+    id: 4,
+    title: '特別感謝',
+    remark: '依中文公司名稱筆劃排序',
+    sponsor: [
+      {
+        id: 1,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 2,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: 'KKday',
+        content: 'KKday 為亞洲最大旅遊體驗平台，致力於讓旅行者能更簡單、安全地體驗當地行程。我們深信自由行是最能貼近在地的旅遊方式，並不斷尋找各地的特色體驗行程與活動。邀請和我們一樣熱愛旅行的您，一起在 KKday 上發掘行程、輕鬆預訂，創造您獨一無二的旅遊回憶',
+        link: '/',
+      },
+      {
+        id: 3,
+        imgUrl: 'https://picsum.photos/id/116/500/400',
+        title: '職吧',
+        content: '職吧是一個能讓所有工作者暢所欲言、像酒吧一樣的社群平台。所有人都可以在上面吐露工作的愉快與不快，或是一個聊聊八卦的場所。希望透過經驗的分享，能夠讓後進的工作者，有一個地方可以了解各種工作中不同的辛酸血淚史。',
+        link: '/',
+      },
+    ],
+  },
+]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXENtY1F1b3RlU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGlkOiAzLAogICAgICAgIGltZ1VybDogJ2h0dHBzOi8vcGljc3VtLnBob3Rvcy9pZC8xMTYvNTAwLzQwMCcsCiAgICAgICAgdGl0bGU6ICfogbflkKcnLAogICAgICAgIGNvbnRlbnQ6ICfogbflkKfmmK/kuIDlgIvog73orpPmiYDmnInlt6XkvZzogIXmmqLmiYDmrLLoqIDjgIHlg4/phZLlkKfkuIDmqKPnmoTnpL7nvqTlubPlj7DjgILmiYDmnInkurrpg73lj6/ku6XlnKjkuIrpnaLlkJDpnLLlt6XkvZznmoTmhInlv6voiIfkuI3lv6vvvIzmiJbmmK/kuIDlgIvogYrogYrlhavljabnmoTloLTmiYDjgILluIzmnJvpgI/pgY7ntpPpqZfnmoTliIbkuqvvvIzog73lpKDorpPlvozpgLLnmoTlt6XkvZzogIXvvIzmnInkuIDlgIvlnLDmlrnlj6/ku6Xkuobop6PlkITnqK7lt6XkvZzkuK3kuI3lkIznmoTovpvphbjooYDmt5rlj7LjgIInLAogICAgICAgIGxpbms6ICcvJywKICAgICAgfSwK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1389,25 +1673,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXENtY1F1b3RlU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGlkOiA3LAogICAgICAgIGltZ1VybDogJ3N0YXRpYy9pbWFnZXMvc3BvbnNvci9mYW5zLWFtYXppbmd0YWxrZXIuanBnJywKICAgICAgICB0aXRsZTogJ+mWg+mbu+S/oCBBbWF6aW5nVGFsa2VyJywKICAgICAgICBjb250ZW50OiAnQW1hemluZ1RhbGtlciDmmK/ngrrmg7Plrbjoqp7oqIDnmoTkurrmiYDmiZPpgKDnmoTnt5rkuIrlpJboqp7mlZnluKvlqpLlkIjlubPlj7DvvIzpgI/pgY7pgI/mmI7nmoTos4foqIroiIflpKfmlbjmk5rnmoTmjpLliJfoiIflqpLlkIjvvIzorpPmnIDpganlkIjlvbzmraTnmoTluKvnlJ/lj6/ku6XpgI/pgY7mnIDnn63nmoTmmYLplpPnm7jogZrlnKjkuIDotbfvvIzlrbjnv5LlpJboqp7kuKbkupLnm7jkuqTmtYHkuI3lkIznmoTmlofljJbjgILkuLLoga/kuJbnlYzlkITlgIvop5LokL3jgIInLAogICAgICAgIGxpbms6ICdodHRwczovL3R3LmFtYXppbmd0YWxrZXIuY29tLycsCiAgICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">bmFtZXNwYWNlIFRlc3RzXFVuaXRcU2VydmljZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXENtY1F1b3QK</text>
+        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXENtY1F1b3RlU2VydmljZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIFRlc3RzXFVuaXRcU2VydmljZVxDbWNRdW90ZVNlcnZpY2U7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXENtY1F1b3RlU2VydmljZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgJG1vY2tIYW5kbGVyID0gbmV3IE1vY2tIYW5kbGVyKFsKICAgICAgICAgICAgbmV3IFJlc3BvbnNlKDIwMCwgW10sIGZpbGVfZ2V0X2NvbnRlbnRzKGJhc2VfcGF0aCgndGVzdHMvZml4dHVyZXMvY21jL2xhdGVzdC5qc29uJykpKQogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzXFVuaXRcU2VydmljZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgbmV3IE1vY2tIYW5kbGVyKFsKICAgICAgICAgICAgbmV3IFJlc3BvbnNlKDIwMCwgW10sIGZpbGVfZ2V0X2NvbnRlbnRzKGJhc2VfcGF0aCgndGVzdHMvZml4dHVyZXMvY21jL2xhdGVzdC5qc29uJykpKQogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXENtY1F1b3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpS2V5ID0gZW52KCdDTUNfQVBJX0tFWScpOwogICAgICAgICRhcGkgICAgPSAnaHR0cHM6Ly9wcm8tYXBpLmNvaW5tYXJrZXRjYXAuY29tL3YxL2NyeXB0b2N1cnJlbmN5L2xpc3RpbmdzL2xhdGVzdCc7CgogICAgICAgICRyZXNwb25zZSA9ICR0aGlzLT5jbGllbnQtPnJlcXVlc3QoJ0dFVCcsICRhcGksIFsKICAgICAgICAgICAgJ2hlYWRlcnMnID0+IFsnWC1DTUNfUFJPX0FQSV9LRVknID0+ICRhcGlLZXldLAogICAgICAgIF0pOwogICAgICAgICRib2R5ICAgICA9IGpzb25fZGVjb2RlKCRyZXNwb25zZS0+Z2V0Qm9keSgpLT5nZXRDb250ZW50cygpLCB0cnVlKTsKCiAgICAgICAgJHF1b3RlID0gY29sbGVjdCgkYm9keVsnZGF0YSddKS0+ZmlsdGVyKGZ1bmN0aW9uICgkaXRlbSwgJGtleSkgdXNlICgkY3J5cHRvKSB7CiAgICAgICAgICAgIHJldHVybiAkaXRlbVsnc3ltYm9sJ10gPT09ICRjcnlwdG87CiAgICAgICAgfSktPmZpcnN0KClbJ3F1b3RlJ11bJ1VTRCddOwoKICAgICAgICByZXR1cm4gJHF1b3RlOwo=</text>
+        <text encoding="base64">dXNlIFRlc3RzXFVuaXRcU2VydmljZVxDbWNRdW90ZVNlcnZpY2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
