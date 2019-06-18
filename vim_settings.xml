@@ -945,11 +945,12 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" timestamp="1560797919761">
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" timestamp="1560797928457">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="47" column="40" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+        <mark key="]" line="47" column="17" />
+        <mark key="." line="47" column="17" />
+        <mark key="^" line="47" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/Test.php" timestamp="1560773893300">
         <mark key="'" line="11" column="4" />
