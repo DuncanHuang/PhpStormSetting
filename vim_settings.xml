@@ -260,12 +260,12 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Service/CmcQuoteServiceTest.php" timestamp="1560828581296">
-        <mark key="'" line="128" column="47" />
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="13" column="26" />
-        <mark key="^" line="13" column="26" />
-        <mark key="." line="13" column="26" />
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Service/CmcQuoteServiceTest.php" timestamp="1560829400322">
+        <mark key="'" line="37" column="47" />
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="31" />
+        <mark key="^" line="23" column="31" />
+        <mark key="." line="23" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/SYS/Concurrent.php" timestamp="1559617869511">
         <mark key="[" line="29" column="44" />
@@ -315,13 +315,13 @@
         <mark key="^" line="1159" column="33" />
         <mark key="." line="1159" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Service/CmcQuoteService.php" timestamp="1560828546890">
-        <mark key="f" line="29" column="8" />
-        <mark key="'" line="177" column="46" />
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="29" column="7" />
-        <mark key="^" line="29" column="7" />
-        <mark key="." line="29" column="7" />
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Service/CmcQuoteService.php" timestamp="1560829824268">
+        <mark key="f" line="32" column="9" />
+        <mark key="'" line="211" column="46" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Jobs/HisSync.php" timestamp="1548125676487">
         <mark key="[" line="256" column="15" />
@@ -938,7 +938,7 @@
         <mark key="^" line="109" column="30" />
         <mark key="." line="109" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" timestamp="1560828288510">
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" timestamp="1560829361357">
         <mark key="'" line="36" column="12" />
         <mark key="[" line="36" column="13" />
         <mark key="]" line="36" column="12" />
@@ -952,12 +952,11 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" timestamp="1560828731743">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" timestamp="1560829650837">
+        <mark key="'" line="43" column="17" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-        <mark key="^" line="45" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/Test.php" timestamp="1560773893300">
         <mark key="'" line="11" column="4" />
@@ -998,7 +997,7 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560828352632">
+      <file name="/Dummy.txt" timestamp="1560829383939">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -1057,8 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
       <jump line="65" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_Detail.inc" />
@@ -1154,9 +1151,11 @@
       <jump line="15" column="28" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
       <jump line="22" column="31" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Service/CmcQuoteServiceTest.php" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
-      <jump line="36" column="47" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Service/CmcQuoteServiceTest.php" />
       <jump line="22" column="99" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
       <jump line="36" column="12" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
+      <jump line="36" column="47" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Service/CmcQuoteServiceTest.php" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" />
+      <jump line="43" column="17" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1245,8 +1244,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEd1enpsZUh0dHBcQ2xpZW50Owo=</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1285,7 +1284,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Client $client</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -1297,10 +1296,10 @@
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEd1enpsZUh0dHBcQ2xpZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChHdXp6bGVFeGNlcHRpb24gJGUpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNsaWVudC0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1410,28 +1409,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1b3RlID0gbmV3IENtY1F1b3RlU2VydmljZSgkY3J5cHRvKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzX251bGwoJGJvZHkpICYmIGFycmF5X2tleV9leGlzdHMoJ2RhdGEnLCAkYm9keSkpIHsKICAgICAgICAgICAgJHF1b3RlID0gY29sbGVjdCgkYm9keVsnZGF0YSddKS0+ZmlsdGVyKGZ1bmN0aW9uICgkaXRlbSwgJGtleSkgdXNlICgkY3J5cHRvKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJGl0ZW1bJ3N5bWJvbCddID09PSAkY3J5cHRvOwogICAgICAgICAgICB9KS0+Zmlyc3QoKVsncXVvdGUnXVsnVVNEJ107CiAgICAgICAgfQo=</text>
+        <text encoding="base64">dXNlIEd1enpsZUh0dHBcQ2xpZW50Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYm9keSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzX251bGwoJGJvZHkpICYmIGFycmF5X2tleV9leGlzdHMoJ2RhdGEnLCAkYm9keSkpIHsKICAgICAgICAgICAgJHF1b3RlID0gY29sbGVjdCgkYm9keVsnZGF0YSddKS0+ZmlsdGVyKGZ1bmN0aW9uICgkaXRlbSwgJGtleSkgdXNlICgkY3J5cHRvKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJGl0ZW1bJ3N5bWJvbCddID09PSAkY3J5cHRvOwogICAgICAgICAgICB9KS0+Zmlyc3QoKVsncXVvdGUnXVsnVVNEJ107CiAgICAgICAgfQoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGFwaSAgICAgID0gJ2h0dHBzOi8vcHJvLWFwaS5jb2lubWFya2V0Y2FwLmNvbS92MS9jcnlwdG9jdXJyZW5jeS9saXN0aW5ncy9sYXRlc3QnOwogICAgICAgICAgICAkcmVzcG9uc2UgPSAkY2xpZW50LT5yZXF1ZXN0KCdHRVQnLCAkYXBpLCBbCiAgICAgICAgICAgICAgICAnaGVhZGVycycgPT4gWydYLUNNQ19QUk9fQVBJX0tFWScgPT4gJGFwaUtleV0sCiAgICAgICAgICAgIF0pOwogICAgICAgICAgICAkYm9keSAgICAgPSBqc29uX2RlY29kZSgkcmVzcG9uc2UtPmdldEJvZHkoKS0+Z2V0Q29udGVudHMoKSwgdHJ1ZSk7CiAgICAgICAgICAgIGlmICgkYm9keVsnc3RhdHVzJ11bJ2Vycm9yX2NvZGUnXSAhPT0gMCkgewogICAgICAgICAgICAgICAgJHRoaXMtPmVycm9yKCdBUEkg6Yyv6KqkOiAnIC4gJGJvZHlbJ3N0YXR1cyddWydlcnJvcl9tZXNzYWdlJ10pOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpS2V5ID0gZW52KCdDTUNfQVBJX0tFWScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkYm9keSA9IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYXBpS2V5ID0gZW52KCdDTUNfQVBJX0tFWScpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1479,14 +1478,14 @@
         <entry>action IntroduceParameter</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>action MethodDown</entry>
+        <entry>action RenameElement</entry>
         <entry>action GotoNextError</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action IntroduceField</entry>
-        <entry>action RenameElement</entry>
+        <entry>action MethodDown</entry>
+        <entry>action MethodUp</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action MethodUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
