@@ -689,13 +689,13 @@
         <mark key="^" line="7" column="87" />
         <mark key="." line="7" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" timestamp="1560851845993">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" timestamp="1560852209515">
         <mark key="b" line="25" column="3" />
         <mark key="'" line="25" column="2" />
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="12" />
-        <mark key="." line="14" column="12" />
-        <mark key="^" line="14" column="32" />
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Jobs/MailToFileParser.php" timestamp="1550656277869">
         <mark key="'" line="357" column="9" />
@@ -1034,11 +1034,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Service/VA/CalCardDateActual.php" timestamp="1560851210083">
-        <mark key="[" line="11" column="21" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Service/VA/CalCardDateActual.php" timestamp="1560852188389">
+        <mark key="[" line="11" column="25" />
         <mark key="]" line="11" column="24" />
-        <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
+        <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/FlowUpdate_return.inc" timestamp="1549874137631">
         <mark key="[" line="1" column="10" />
@@ -1286,8 +1286,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>var</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1326,7 +1326,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
@@ -1337,11 +1337,11 @@
       <register name="0" type="4">
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gc2V0VXAoKQogICAgewogICAgICAgICR0aGlzLT5jYWxDYXJkRGF0ZUFjdHVhbCA9IG5ldyBDYWxDYXJkRGF0ZUFjdHVhbCgpOwogICAgfQogICAKICAgIHB1YmxpYyA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gdGVzdF/lh7rli6QyMDE5MDYxOF/kuIrnj61f5omT5Y2hMDgwNV/mh4nkuIowOTAwX+aHieS4izE4MDBf5Y+W5b6X5pel5pyfMjAxOTA2MTgoKQogICAgewogICAgICAgICRleHBlY3RlZCA9ICcyMDE5LTA2LTE4JzsKICAgICAgICAkYWN0dWFsICAgPSAkdGhpcy0+Y2FsQ2FyZERhdGVBY3R1YWwtPmRvQ2FsKCcyMDE5LTA2LTE4JywgJ3N0YXJ0JywgNDg1LCA1NDAsIDEwODApOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRleHBlY3RlZCwgJGFjdHVhbCk7CiAgICB9CiAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkZHV0eURhdGUgPSA7Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1451,25 +1451,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0RGF0ZSA9IG5ldyA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJzIwMTktMDYtMTgnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJldXNsdERhdGUgPSAnYeKApic7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJldXNsdERhdGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzX251bGwoJGJvZHkpICYmIGFycmF5X2tleV9leGlzdHMoJ2RhdGEnLCAkYm9keSkpIHsKICAgICAgICAgICAgJHF1b3RlID0gY29sbGVjdCgkYm9keVsnZGF0YSddKS0+ZmlsdGVyKGZ1bmN0aW9uICgkaXRlbSwgJGtleSkgdXNlICgkY3J5cHRvKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJGl0ZW1bJ3N5bWJvbCddID09PSAkY3J5cHRvOwogICAgICAgICAgICB9KS0+Zmlyc3QoKVsncXVvdGUnXVsnVVNEJ107CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBAdmFyIENhbENhcmREYXRlQWN0dWFsCiAgICAgICAgICovCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFwaSA9ICdodHRwczovL3Byby1hcGkuY29pbm1hcmtldGNhcC5jb20vdjEvY3J5cHRvY3VycmVuY3kvbGlzdGluZ3MvbGF0ZXN0JzsKICAgICAgICAgICAgJHJlc3BvbnNlID0gJGNsaWVudC0+cmVxdWVzdCgnR0VUJywgJGFwaSwgWwogICAgICAgICAgICAgICAgJ2hlYWRlcnMnID0+IFsnWC1DTUNfUFJPX0FQSV9LRVknID0+ICRhcGlLZXldLAogICAgICAgICAgICBdKTsKICAgICAgICAgICAgJGJvZHkgPSBqc29uX2RlY29kZSgkcmVzcG9uc2UtPmdldEJvZHkoKS0+Z2V0Q29udGVudHMoKSwgdHJ1ZSk7CiAgICAgICAgICAgIGlmICgkYm9keVsnc3RhdHVzJ11bJ2Vycm9yX2NvZGUnXSAhPT0gMCkgewogICAgICAgICAgICAgICAgJHRoaXMtPmVycm9yKCdBUEkg6Yyv6KqkOiAnLiRib2R5WydzdGF0dXMnXVsnZXJyb3JfbWVzc2FnZSddKTsKICAgICAgICAgICAgfQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gc2V0VXAoKQogICAgewogICAgICAgICR0aGlzLT5jYWxDYXJkRGF0ZUFjdHVhbCA9IG5ldyBDYWxDYXJkRGF0ZUFjdHVhbCgpOwogICAgfQogICAKICAgIHB1YmxpYyA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpS2V5ID0gZW52KCdDTUNfQVBJX0tFWScpOwoKICAgICAgICAkYm9keSA9IG51bGw7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gdGVzdF/lh7rli6QyMDE5MDYxOF/kuIrnj61f5omT5Y2hMDgwNV/mh4nkuIowOTAwX+aHieS4izE4MDBf5Y+W5b6X5pel5pyfMjAxOTA2MTgoKQogICAgewogICAgICAgICRleHBlY3RlZCA9ICcyMDE5LTA2LTE4JzsKICAgICAgICAkYWN0dWFsICAgPSAkdGhpcy0+Y2FsQ2FyZERhdGVBY3R1YWwtPmRvQ2FsKCcyMDE5LTA2LTE4JywgJ3N0YXJ0JywgNDg1LCA1NDAsIDEwODApOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRleHBlY3RlZCwgJGFjdHVhbCk7CiAgICB9CiAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>action MethodUp</text>
@@ -1518,15 +1518,15 @@
         <entry>action ChangeSignature</entry>
         <entry>action IntroduceParameter</entry>
         <entry>action Forward</entry>
-        <entry>action RenameElement</entry>
         <entry>action Back</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action GotoNextError</entry>
         <entry>action IntroduceField</entry>
         <entry>action Debug</entry>
+        <entry>action MethodDown</entry>
+        <entry>action RenameElement</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
       </history-cmd>
       <history-expr />
