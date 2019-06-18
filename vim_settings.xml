@@ -660,6 +660,12 @@
         <mark key="]" line="16" column="45" />
         <mark key="." line="16" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1560834827233">
+        <mark key="[" line="383" column="30" />
+        <mark key="]" line="383" column="30" />
+        <mark key="^" line="383" column="40" />
+        <mark key="." line="383" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCorpInfo.php" timestamp="1550213557048">
         <mark key="[" line="69" column="26" />
         <mark key="]" line="69" column="10" />
@@ -952,11 +958,12 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" timestamp="1560829650837">
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" timestamp="1560829952573">
         <mark key="'" line="43" column="17" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="25" />
+        <mark key="." line="39" column="25" />
+        <mark key="^" line="39" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/Test.php" timestamp="1560773893300">
         <mark key="'" line="11" column="4" />
@@ -1245,7 +1252,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>、</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1284,7 +1291,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>、</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -1430,7 +1437,7 @@
         <text encoding="base64">ICAgICAgICAkYXBpS2V5ID0gZW52KCdDTUNfQVBJX0tFWScpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -1477,7 +1484,6 @@
         <entry>action ChangeSignature</entry>
         <entry>action IntroduceParameter</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoNextError</entry>
         <entry>action GotoPreviousError</entry>
@@ -1486,6 +1492,7 @@
         <entry>action MethodUp</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
