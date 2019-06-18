@@ -252,12 +252,12 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Service/CmcQuoteServiceTest.php" timestamp="1560838624867">
-        <mark key="'" line="67" column="47" />
-        <mark key="[" line="22" column="46" />
-        <mark key="]" line="22" column="45" />
-        <mark key="^" line="22" column="45" />
-        <mark key="." line="22" column="45" />
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Service/CmcQuoteServiceTest.php" timestamp="1560847000201">
+        <mark key="'" line="68" column="47" />
+        <mark key="[" line="23" column="46" />
+        <mark key="]" line="23" column="45" />
+        <mark key="^" line="23" column="45" />
+        <mark key="." line="23" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/SYS/Concurrent.php" timestamp="1559617869511">
         <mark key="[" line="29" column="44" />
@@ -1497,7 +1497,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -1538,7 +1538,6 @@
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>75</entry>
         <entry>496</entry>
-        <entry>action Debug</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>w</entry>
         <entry>action ChangeSignature</entry>
@@ -1553,6 +1552,7 @@
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>action MethodUp</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
