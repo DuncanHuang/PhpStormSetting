@@ -944,12 +944,12 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/CmcQuoteService.php" timestamp="1560912682115">
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/CmcQuoteService.php" timestamp="1560914618866">
         <mark key="'" line="12" column="4" />
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
-        <mark key="^" line="12" column="4" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/SYS/AbstractLogsDAO.php" timestamp="1547880310139">
         <mark key="[" line="26" column="0" />
@@ -988,12 +988,12 @@
         <mark key="^" line="109" column="30" />
         <mark key="." line="109" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" timestamp="1560914252111">
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" timestamp="1560921893661">
         <mark key="'" line="10" column="19" />
-        <mark key="[" line="18" column="73" />
-        <mark key="]" line="18" column="72" />
-        <mark key="^" line="18" column="72" />
-        <mark key="." line="18" column="72" />
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/FlowStage.php" timestamp="1559194657233">
         <mark key="'" line="39" column="20" />
@@ -1307,7 +1307,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pmdlbm5hbWUK</text>
+        <text encoding="base64">bmFtZXNwYWNlXEFwcFxTZXJ2aWNlczsK</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1358,7 +1358,7 @@
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pmdlbm5hbWUK</text>
+        <text encoding="base64">bmFtZXNwYWNlXEFwcFxTZXJ2aWNlczsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Pmdlbm5hbWUK</text>
@@ -1471,28 +1471,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIAo=</text>
+        <text encoding="base64">Pmdlbm5hbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzXFVuaXRcU2VydmljZTsK</text>
+        <text encoding="base64">bmFtZXNwYWNlIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzXFVuaXRcU2VydmljZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIEFwcDsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIEFwcDsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIEFwcFxTZXJ2aWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEd1enpsZUh0dHBcRXhjZXB0aW9uXENsaWVudEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">bmFtZXNwYWNlIEFwcFxTZXJ2aWNlOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodDown</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1545,9 +1545,9 @@
         <entry>action GotoNextError</entry>
         <entry>action MethodUp</entry>
         <entry>action RenameElement</entry>
+        <entry>action MethodDown</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action MethodDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
