@@ -207,12 +207,11 @@
         <mark key="^" line="125" column="34" />
         <mark key="." line="125" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Services/CmcQuoteServiceTest.php" timestamp="1560911473233">
-        <mark key="'" line="20" column="26" />
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="35" />
-        <mark key="^" line="10" column="55" />
-        <mark key="." line="20" column="35" />
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Services/CmcQuoteServiceTest.php" timestamp="1560912692528">
+        <mark key="'" line="20" column="34" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/hr/hr_setup_data.htm" timestamp="1559721969247">
         <mark key="[" line="70" column="34" />
@@ -300,6 +299,11 @@
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/CmcQuoteaService.php" timestamp="1560912346933">
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/vendor/phpunit/phpunit/src/Framework/TestCase.php" timestamp="1549729535784">
         <mark key="[" line="1159" column="34" />
@@ -943,12 +947,12 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/CmcQuoteService.php" timestamp="1560911747860">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/CmcQuoteService.php" timestamp="1560912682115">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="12" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/SYS/AbstractLogsDAO.php" timestamp="1547880310139">
         <mark key="[" line="26" column="0" />
@@ -1117,7 +1121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/em/em_read.htm" />
       <jump line="151" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/em/em_read.htm" />
       <jump line="158" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/em/em_read.htm" />
       <jump line="167" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/em/em_read.htm" />
@@ -1214,9 +1217,10 @@
       <jump line="22" column="39" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Services/CmcQuoteServiceTest.php" />
       <jump line="20" column="39" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/CmcQuoteService.php" />
       <jump line="23" column="31" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Services/CmcQuoteServiceTest.php" />
-      <jump line="20" column="29" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Services/CmcQuoteServiceTest.php" />
       <jump line="18" column="26" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Services/CmcQuoteServiceTest.php" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/app/CmcQuoteService.php" />
+      <jump line="12" column="4" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/app/CmcQuoteService.php" />
+      <jump line="20" column="34" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Services/CmcQuoteServiceTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1306,7 +1310,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIAo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1345,7 +1349,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -1357,10 +1361,10 @@
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIEFwcDsK</text>
+        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzXFVuaXRcU2VydmljZTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1473,22 +1477,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIEFwcFxTZXJ2aWNlOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIEd1enpsZUh0dHBcRXhjZXB0aW9uXENsaWVudEV4Y2VwdGlvbjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXENtY1F1b3RlOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">bmFtZXNwYWNlIEFwcDsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIEFwcFxTZXJ2aWNlOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIEd1enpsZUh0dHBcRXhjZXB0aW9uXENsaWVudEV4Y2VwdGlvbjsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlXENtY1F1b3RlOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIENtY1F1b3RlU2VydmljZVxDbWNRdW90ZVNlcnZpY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -1539,12 +1543,12 @@
         <entry>action IntroduceField</entry>
         <entry>action Debug</entry>
         <entry>action Back</entry>
-        <entry>action RenameElement</entry>
         <entry>action MethodDown</entry>
         <entry>23</entry>
         <entry>action Forward</entry>
         <entry>action GotoNextError</entry>
         <entry>action MethodUp</entry>
+        <entry>action RenameElement</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
       </history-cmd>
