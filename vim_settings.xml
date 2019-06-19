@@ -717,13 +717,13 @@
         <mark key="^" line="7" column="87" />
         <mark key="." line="7" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" timestamp="1560922551785">
-        <mark key="b" line="25" column="3" />
-        <mark key="'" line="25" column="2" />
-        <mark key="[" line="34" column="1" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" timestamp="1560926314188">
+        <mark key="b" line="74" column="3" />
+        <mark key="'" line="80" column="47" />
+        <mark key="[" line="81" column="1" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Jobs/MailToFileParser.php" timestamp="1550656277869">
         <mark key="'" line="357" column="9" />
@@ -1081,11 +1081,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Service/VA/CalCardDateActual.php" timestamp="1560852188389">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="24" />
-        <mark key="^" line="11" column="24" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Service/VA/CalCardDateActual.php" timestamp="1560925795982">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="11" />
+        <mark key="^" line="20" column="11" />
+        <mark key="." line="20" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/FlowUpdate_return.inc" timestamp="1549874137631">
         <mark key="[" line="1" column="10" />
@@ -1145,23 +1145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/scripts/sign_stages_1.js" />
-      <jump line="15" column="40" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="10" column="34" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="76" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="2733" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="64" column="25" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="11" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="98" column="44" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="80" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="159" column="40" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="85" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="79" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="89" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="145" column="2" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
       <jump line="18" column="18" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/ConvertMinuteTimeTest.php" />
       <jump line="21" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/ConvertMinuteTimeTest.php" />
       <jump line="114" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/ConvertMinuteTimeTest.php" />
@@ -1216,7 +1199,6 @@
       <jump line="13" column="36" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
       <jump line="35" column="5" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
-      <jump line="36" column="2" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
       <jump line="53" column="11" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" />
       <jump line="26" column="5" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" />
       <jump line="10" column="19" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
@@ -1245,6 +1227,24 @@
       <jump line="47" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/em/popups/about.html" />
       <jump line="51" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/em/popups/about.html" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/em/popups/about.html" />
+      <jump line="14" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="11" column="6" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="42" column="2" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="36" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="27" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="54" column="76" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="74" column="2" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="70" column="58" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="69" column="32" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="66" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="82" column="2" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="48" column="32" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="80" column="47" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1334,7 +1334,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgJGV4cGVjdGVkID0gJzIwMTktMDYtMTgnOwogICAgICAgICRhY3R1YWwgICA9ICR0aGlzLT5jYWxDYXJkRGF0ZUFjdHVhbC0+ZG9DYWwoJzIwMTktMDYtMTgnLCAnZW5kJywgNTQ1LCAwLCA1NDApOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRleHBlY3RlZCwgJGFjdHVhbCk7Cg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1373,10 +1373,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
-        <text>file</text>
+        <text encoding="base64">IGZ1bmN0aW9u</text>
       </register>
       <register name="o" type="4">
         <text />
@@ -1385,10 +1385,10 @@
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgJGV4cGVjdGVkID0gJzIwMTktMDYtMTgnOwogICAgICAgICRhY3R1YWwgICA9ICR0aGlzLT5jYWxDYXJkRGF0ZUFjdHVhbC0+ZG9DYWwoJzIwMTktMDYtMTgnLCAnZW5kJywgNTQ1LCAwLCA1NDApOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRleHBlY3RlZCwgJGFjdHVhbCk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMg</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1497,46 +1497,42 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bmFtZXNwYWNlXEFwcFxTZXJ2aWNlczsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gdGVzdF/lh7rli6QyMDE5MDYxOF/kuIrnj61f5omT5Y2hMDAwNV/mh4nkuIowMDAwX+aHieS4izA5MDBf5Y+W5b6X5pel5pyfMjAxOTA2MTgoKQogICAgewogICAgICAgICRleHBlY3RlZCA9ICcyMDE5LTA2LTE4JzsKICAgICAgICAkYWN0dWFsICAgPSAkdGhpcy0+Y2FsQ2FyZERhdGVBY3R1YWwtPmRvQ2FsKCcyMDE5LTA2LTE4JywgJ3N0YXJ0JywgNSwgMCwgNTQwKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRhY3R1YWwpOwogICAgfQogICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pmdlbm5hbWUK</text>
+        <text encoding="base64">bmFtZXNwYWNlXEFwcFxTZXJ2aWNlczsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Pmdlbm5hbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIAo=</text>
+        <text encoding="base64">Pmdlbm5hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzXFVuaXRcU2VydmljZTsK</text>
+        <text encoding="base64">bmFtZXNwYWNlIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzXFVuaXRcU2VydmljZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIEFwcDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action MethodDown</text>
       </register>
     </registers>
     <search>
-      <last-search>file</last-search>
+      <last-search encoding="base64">IGZ1bmN0aW9u</last-search>
       <last-offset />
-      <last-pattern>file</last-pattern>
+      <last-pattern encoding="base64">IGZ1bmN0aW9u</last-pattern>
       <last-replace />
       <last-substitute>Vim</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzY29yZVNob3VsZEJlXD4=</entry>
-        <entry encoding="base64">XDxMb3ZlXD4=</entry>
-        <entry>tmp</entry>
-        <entry>du</entry>
         <entry>@test</entry>
         <entry>/</entry>
         <entry>23</entry>
@@ -1550,9 +1546,13 @@
         <entry>get</entry>
         <entry>已經</entry>
         <entry>fi</entry>
+        <entry>file</entry>
+        <entry>st</entry>
+        <entry>上</entry>
+        <entry>end</entry>
+        <entry>en</entry>
         <entry>function test</entry>
         <entry encoding="base64">IGZ1bmN0aW9u</entry>
-        <entry>file</entry>
       </history-search>
       <history-cmd>
         <entry>463</entry>
@@ -1569,12 +1569,12 @@
         <entry>action Back</entry>
         <entry>23</entry>
         <entry>action Forward</entry>
+        <entry>action RenameElement</entry>
         <entry>action GotoNextError</entry>
         <entry>action MethodUp</entry>
-        <entry>action RenameElement</entry>
-        <entry>action MethodDown</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
+        <entry>action MethodDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
