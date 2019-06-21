@@ -271,6 +271,12 @@
         <mark key="^" line="23" column="45" />
         <mark key="." line="23" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/vendor/laravel/framework/src/Illuminate/Routing/Router.php" timestamp="1561101257316">
+        <mark key="[" line="555" column="21" />
+        <mark key="]" line="555" column="20" />
+        <mark key="^" line="555" column="20" />
+        <mark key="." line="555" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/SYS/Concurrent.php" timestamp="1559617869511">
         <mark key="[" line="29" column="44" />
         <mark key="]" line="29" column="43" />
@@ -657,7 +663,7 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/routes/web.php" timestamp="1561099934339">
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/routes/web.php" timestamp="1561100437374">
         <mark key="[" line="13" column="9" />
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
@@ -1502,7 +1508,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -1555,9 +1561,9 @@
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
-        <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
+        <entry>action MethodDown</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
