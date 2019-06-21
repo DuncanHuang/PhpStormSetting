@@ -278,12 +278,12 @@
         <mark key="." line="67" column="58" />
         <mark key="^" line="67" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/src/MailSend.php" timestamp="1560327012723">
+      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/src/MailSend.php" timestamp="1561131474212">
         <mark key="'" line="180" column="16" />
-        <mark key="[" line="18" column="73" />
-        <mark key="]" line="18" column="73" />
-        <mark key="." line="18" column="73" />
-        <mark key="^" line="18" column="78" />
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/login.php" timestamp="1550041415728">
         <mark key="[" line="18" column="38" />
@@ -1357,8 +1357,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>https://twitter.com/bendechrai</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1408,13 +1408,11 @@
       <register name="0" type="4">
         <text>$_POST[&quot;end_date&quot;]</text>
       </register>
-      <register name="1" type="4">
-        <text>''
-      + '現在他成為 Auth0 官方傳教士，負責教大家正確的實作網路應用程式內的認證與使用者授權功能，更樂意幫助攻城獅們找到開發的樂趣。'</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>''
-          + '從大型架構到小型專案、大型組織到小型服務，透過整合第三方身份管理來保障系統安全，您只需要專注眼前核心業務即可。</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkbmFtZS5zdwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1524,25 +1522,27 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKCkgewogICAgICAgICAgICBjYXNlICcnOgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAkbmFtZS5zdwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBJbGx1bWluYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkbmFtZSBhcyApIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCYXJyeXZkaFxMYXJhdmVsSWRlSGVscGVyXElkZUhlbHBlclNlcnZpY2VQcm92aWRlcjo6Y2xhc3MsCg==</text>
+        <text encoding="base64">ICAgICAgICAkbmFtZS5zdwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICggYXMgJGl0ZW0pIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYWdlbmRhTGlzdCA9IFsKICB7CiAgICBkYXRlVGltZTogJzA4OjAwJywKICAgIHRyYWNrTGlzdDogWwogICAgICB7CiAgICAgICAgaWQ6IDEsCiAgICAgICAgdGl0bGU6ICfplovloLQnLAogICAgICAgIHBsYWNlOiAnc3luYycsCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgZGF0ZVRpbWU6ICcwODoxNScsCiAgICBpc0JyZWFrVGltZTogdHJ1ZSwKICAgIHRyYWNrTGlzdDogWwogICAgICB7CiAgICAgICAgaWQ6IDEsCiAgICAgICAgdGl0bGU6ICfkvJHmga/mmYLplpMnLAogICAgICAgIHBsYWNlOiAnc3luYycsCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgZGF0ZVRpbWU6ICcwOTo0NScsCiAgICB0cmFja0xpc3Q6IFsKICAgICAgewogICAgICAgIGlkOiAxLAogICAgICAgIHRpdGxlOiAn5Zyo5Lit5ZyL5LiJ5bm077yM5b6eIDAg6ZaL5aeL6Ieq5bu65a6M5pW06Zu75ZWG6aSQ6aOy57O757WxJywKICAgICAgICBwbGFjZTogJ3N5bmMnLAogICAgICAgIGNvdmVySW1nU3JjOiAnc3RhdGljL2ltYWdlcy9zcGVha2Vycy9BbGV4Q2hhbmcuanBnJywKICAgICAgICBjb250ZW50OiAn5ZyoIExhcmF2ZWxDb25mIFRhaXdhbiAyMDE5IOeahOWkp+acg+ePvuWgtO+8jEFsZXgg5pyD54K65aSn5a625YiG5Lqr6YCZIDMg5bm05L6G57Su5a+m55qE6JC95Zyw57aT6amX44CC5b6e57O757Wx5bel56iL55qE6KeS5bqm77yM6Kqq5piO5aaC5L2V546H6aCYIDgwIOS6uueahOWcmOmaiu+8jOmAkOatpeW7uuani+WPr+S7peacjeWLmeS4reWci+W4guWgtOeahOezu+e1seaetuani++8m+W+nuS6uuWKm+W4guWgtOeahOinkuW6pu+8jCcKICAgICAgICAgICsgJ+WJluaekOS4reWci+eahOaLm+WLn+eSsOWig+OAgeiWquizh+WPiuWcqOS4reWci+W3peS9nOeahOWEque8uum7nu+8m+W+nuiBt+a2r+eahOinkuW6pu+8jOWIhuS6q+iHquW3sei6q+eCuiBDVE8g55qE5oiQ6ZW35q2356iL44CCJywKICAgICAgICBzcGVha2VyTGlzdDogWwogICAgICAgICAgewogICAgICAgICAgICBuYW1lOiAn5by15YGl5oiQJywKICAgICAgICAgICAgbmlja25hbWU6ICdBbGV4JywKICAgICAgICAgICAgY29tcGFueTogJ+S4gOexs+W4gumbhicsCiAgICAgICAgICAgIHBvc2l0aW9uOiAnQ1RPJywKICAgICAgICAgIH0sCiAgICAgICAgXSwKICAgICAgICBkaWZmaWN1bHR5OiAzLAogICAgICB9LAogICAgXSwKICB9LAogIHsKICAgIGRhdGVUaW1lOiAnMDg6MTUnLAogICAgaXNCcmVha1RpbWU6IHRydWUsCiAgICB0cmFja0xpc3Q6IFsKICAgICAgewogICAgICAgIGlkOiAxLAogICAgICAgIHRpdGxlOiAn5LyR5oGv5pmC6ZaTJywKICAgICAgICBwbGFjZTogJ3N5bmMnLAogICAgICB9LAogICAgXSwKICB9LAogIHsKICAgIGRhdGVUaW1lOiAnMDg6MzAnLAogICAgdHJhY2tMaXN0OiBbCiAgICAgIHsKICAgICAgICBpZDogMSwKICAgICAgICB0aXRsZTogJ+i3qOWig+mbu+WVhueahOecieecieinkuinkicsCiAgICAgICAgcGxhY2U6ICcxMUYnLAogICAgICAgIGNvdmVySW1nU3JjOiAnaHR0cHM6Ly9waWNzdW0ucGhvdG9zL2lkLzEwMS8xMjAwLzEyMDAnLAogICAgICAgIGNvbnRlbnQ6ICfpm7vllYbkurrkurrpg73lnKjlgZrvvIzkvYbnlbbmgqjpnaLlsI3nmoTluILloLTmmK/ot6jlnIvnlJroh7PmmK/lhajnkIPmmYLvvIzlpoLkvZXomZXnkIblkITlnIvkuI3lkIznmoTmmYLljYDjgIHoqp7ns7vjgIHluaPliKXlj4rph5HmtYHvvJ/lnKjku4rlubTnmoQgTGFyYXZlbENvbmYgVGFpd2Fu77yM6K2w56iL57WE6YKA6KuL5YiwIFJvbmFsZCDkvobngrrlpKflrrbliIbkuqvpgJnkupvmt7Hol4/lnKjntLDnr4Doo6HnmoTprZTprLzjgIInLAogICAgICAgIHNwZWFrZXJMaXN0OiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIG5hbWU6ICfojornp4nmhrInLAogICAgICAgICAgICBuaWNrbmFtZTogJ0xlbm55JywKICAgICAgICAgICAgY29tcGFueTogJ+iJvue1suizh+ioiuiCoeS7veaciemZkOWFrOWPuCcsCiAgICAgICAgICAgIHBvc2l0aW9uOiAn6LOH6KiK6ZW3JywKICAgICAgICAgIH0sCiAgICAgICAgXSwKICAgICAgICBkaWZmaWN1bHR5OiAxLAogICAgICAgIHNsaWRlczogewogICAgICAgICAgbGluazogJ2h0dHBzOi8vZ29vZ2xlLmNvbScsCiAgICAgICAgICBpc0RpcmVjdGx5RG93bmxvYWRhYmxlOiBmYWxzZSwKICAgICAgICB9LAogICAgICB9LAogICAgICB7CiAgICAgICAgaWQ6IDIsCiAgICAgICAgdGl0bGU6ICdMYXJhdmVsIFN0b3JhZ2UgWCBHQ1Mg6Leo5bmz5Y+w5oeJ55SoJywKICAgICAgICBwbGFjZTogJzEwRicsCiAgICAgICAgY292ZXJJbWdTcmM6ICdodHRwczovL3BpY3N1bS5waG90b3MvaWQvMTAxLzEyMDAvMTIwMCcsCiAgICAgICAgY29udGVudDogJ+mbu+WVhuS6uuS6uumDveWcqOWBmu+8jOS9hueVtuaCqOmdouWwjeeahOW4guWgtOaYr+i3qOWci+eUmuiHs+aYr+WFqOeQg+aZgu+8jOWmguS9leiZleeQhuWQhOWci+S4jeWQjOeahOaZguWNgOOAgeiqnuezu+OAgeW5o+WIpeWPiumHkea1ge+8n+WcqOS7iuW5tOeahCBMYXJhdmVsQ29uZiBUYWl3YW7vvIzorbDnqIvntYTpgoDoq4vliLAgUm9uYWxkIOS+hueCuuWkp+WutuWIhuS6q+mAmeS6m+a3seiXj+WcqOe0sOevgOijoeeahOmtlOmsvOOAgicsCiAgICAgICAgc3BlYWtlckxpc3Q6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgbmFtZTogJ+WKieWuh+eDnScsCiAgICAgICAgICAgIG5pY2tuYW1lOiAnSmFtZXMnLAogICAgICAgICAgICBjb21wYW55OiAn5LiK55mu56eR5oqAJywKICAgICAgICAgICAgcG9zaXRpb246ICfnuL3lt6XnqIvluKsnLAogICAgICAgICAgfSwKICAgICAgICBdLAogICAgICAgIGRpZmZpY3VsdHk6IDEsCiAgICAgICAgc2xpZGVzOiB7CiAgICAgICAgICBsaW5rOiAnaHR0cHM6Ly9nb29nbGUuY29tJywKICAgICAgICAgIGlzRGlyZWN0bHlEb3dubG9hZGFibGU6IGZhbHNlLAogICAgICAgIH0sCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgZGF0ZVRpbWU6ICcwOTozMCcsCiAgICBpc0JyZWFrVGltZTogdHJ1ZSwKICAgIHRyYWNrTGlzdDogWwogICAgICB7CiAgICAgICAgaWQ6IDEsCiAgICAgICAgdGl0bGU6ICfkvJHmga/mmYLplpMnLAogICAgICAgIHBsYWNlOiAnc3luYycsCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgZGF0ZVRpbWU6ICcwOTo0NScsCiAgICB0cmFja0xpc3Q6IFsKICAgICAgewogICAgICAgIGlkOiAxLAogICAgICAgIHRpdGxlOiAn5bel56iL5bir55qE5aSn6Iiq6YGT5LmL6LevJywKICAgICAgICBwbGFjZTogJ3N5bmMnLAogICAgICAgIGNvdmVySW1nU3JjOiAnaHR0cHM6Ly9waWNzdW0ucGhvdG9zL2lkLzEwMS8xMjAwLzEyMDAnLAogICAgICAgIGNvbnRlbnQ6ICfpm7vllYbkurrkurrpg73lnKjlgZrvvIzkvYbnlbbmgqjpnaLlsI3nmoTluILloLTmmK/ot6jlnIvnlJroh7PmmK/lhajnkIPmmYLvvIzlpoLkvZXomZXnkIblkITlnIvkuI3lkIznmoTmmYLljYDjgIHoqp7ns7vjgIHluaPliKXlj4rph5HmtYHvvJ/lnKjku4rlubTnmoQgTGFyYXZlbENvbmYgVGFpd2Fu77yM6K2w56iL57WE6YKA6KuL5YiwIFJvbmFsZCDkvobngrrlpKflrrbliIbkuqvpgJnkupvmt7Hol4/lnKjntLDnr4Doo6HnmoTprZTprLzjgIInLAogICAgICAgIHNwZWFrZXJMaXN0OiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIG5hbWU6ICfmlr3mlL/mupAnLAogICAgICAgICAgICBuaWNrbmFtZTogJ1BhdWwnLAogICAgICAgICAgICBjb21wYW55OiAn6IG35ZCnJywKICAgICAgICAgICAgcG9zaXRpb246ICfluZXliY3mjqjmiYsnLAogICAgICAgICAgfSwKICAgICAgICBdLAogICAgICAgIGRpZmZpY3VsdHk6IDEsCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgZGF0ZVRpbWU6ICcxMjowMCcsCiAgICBpc0JyZWFrVGltZTogdHJ1ZSwKICAgIHRyYWNrTGlzdDogWwogICAgICB7CiAgICAgICAgaWQ6IDEsCiAgICAgICAgdGl0bGU6ICfljYjppJAnLAogICAgICAgIHBsYWNlOiAnc3luYycsCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgZGF0ZVRpbWU6ICcxMzowMCcsCiAgICB0cmFja0xpc3Q6IFsKICAgICAgewogICAgICAgIGlkOiAxLAogICAgICAgIHRpdGxlOiAn5aWX5Lu255m86KGo5pyDJywKICAgICAgICBwbGFjZTogJ3N5bmMnLAogICAgICAgIHNwZWFrZXJMaXN0OiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIGlkOiAxLAogICAgICAgICAgICBuYW1lOiAn5pa95pS/5rqQJywKICAgICAgICAgICAgbmlja25hbWU6ICdQYXVsJywKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgIGlkOiAyLAogICAgICAgICAgICBuYW1lOiAn6I6K56eJ5oayJywKICAgICAgICAgICAgbmlja25hbWU6ICdMZW5ueScsCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICBpZDogMywKICAgICAgICAgICAgbmFtZTogJ+WKieWuh+eDnScsCiAgICAgICAgICAgIG5pY2tuYW1lOiAnSmFtZXMnLAogICAgICAgICAgfSwKICAgICAgICBdLAogICAgICB9LAogICAgXSwKICB9LAogIHsKICAgIGRhdGVUaW1lOiAnMTQ6MDAnLAogICAgaXNCcmVha1RpbWU6IHRydWUsCiAgICB0cmFja0xpc3Q6IFsKICAgICAgewogICAgICAgIGlkOiAxLAogICAgICAgIHRpdGxlOiAn5LyR5oGv5pmC6ZaTJywKICAgICAgICBwbGFjZTogJ3N5bmMnLAogICAgICB9LAogICAgXSwKICB9LAogIHsKICAgIGRhdGVUaW1lOiAnMTQ6MTUnLAogICAgdHJhY2tMaXN0OiBbCiAgICAgIHsKICAgICAgICBpZDogMSwKICAgICAgICB0aXRsZTogJ+Wll+S7tueZvOihqOacg+mgkueNjuWFuOemricsCiAgICAgICAgcGxhY2U6ICdzeW5jJywKICAgICAgfSwKICAgIF0sCiAgfSwKICB7CiAgICBkYXRlVGltZTogJzE0OjMwJywKICAgIHRyYWNrTGlzdDogWwogICAgICB7CiAgICAgICAgaWQ6IDEsCiAgICAgICAgdGl0bGU6ICfplonluZUnLAogICAgICAgIHBsYWNlOiAnc3luYycsCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgZGF0ZVRpbWU6ICcxNDo0NScsCiAgICBpc0JyZWFrVGltZTogdHJ1ZSwKICAgIHRyYWNrTGlzdDogWwogICAgICB7CiAgICAgICAgaWQ6IDEsCiAgICAgICAgdGl0bGU6ICfkvJHmga/mmYLplpMnLAogICAgICAgIHBsYWNlOiAnc3luYycsCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgZGF0ZVRpbWU6ICcxNTowMCcsCiAgICB0cmFja0xpc3Q6IFsKICAgICAgewogICAgICAgIGlkOiAxLAogICAgICAgIHRpdGxlOiAnOEYgQWZ0ZXIgUGFydHknLAogICAgICAgIHBsYWNlOiAnc3luYycsCiAgICAgIH0sCiAgICBdLAogIH0sCl07Cg==</text>
+      <register name="8" type="4">
+        <text>''
+      + '現在他成為 Auth0 官方傳教士，負責教大家正確的實作網路應用程式內的認證與使用者授權功能，更樂意幫助攻城獅們找到開發的樂趣。'</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IHsKICAgIGRhdGVUaW1lOiAnMTQ6MTUnLAogICAgdHJhY2tMaXN0OiBbCiAgICAgIHsKICAgICAgICBpZDogMSwKICAgICAgICB0aXRsZTogJ+Wll+S7tueZvOihqOacg+mgkueNjuWFuOemricsCiAgICAgICAgcGxhY2U6ICdzeW5jJywKICAgICAgfSwKICAgIF0sCiAgfSwKICB7CiAgICBkYXRlVGltZTogJzE1OjAwJywKICAgIHRyYWNrTGlzdDogWwogICAgICB7CiAgICAgICAgaWQ6IDEsCiAgICAgICAgdGl0bGU6ICc4RiBBZnRlciBQYXJ0eScsCiAgICAgICAgcGxhY2U6ICdzeW5jJywKICAgICAgfSwKICAgIF0sCiAgfSwK</text>
+      <register name="9" type="4">
+        <text>''
+          + '從大型架構到小型專案、大型組織到小型服務，透過整合第三方身份管理來保障系統安全，您只需要專注眼前核心業務即可。</text>
       </register>
       <register name=":" type="4">
         <text>action MethodUp</text>
