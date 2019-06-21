@@ -1085,7 +1085,7 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560911433158">
+      <file name="/Dummy.txt" timestamp="1561104765631">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -1536,7 +1536,7 @@
         <text encoding="base64">ICB7CiAgICBkYXRlVGltZTogJzE0OjMwJywKICAgIHRyYWNrTGlzdDogWwogICAgICB7CiAgICAgICAgaWQ6IDEsCiAgICAgICAgdGl0bGU6ICfplonluZUnLAogICAgICAgIHBsYWNlOiAnc3luYycsCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgZGF0ZVRpbWU6ICcxNDo0NScsCiAgICBpc0JyZWFrVGltZTogdHJ1ZSwKICAgIHRyYWNrTGlzdDogWwogICAgICB7CiAgICAgICAgaWQ6IDEsCiAgICAgICAgdGl0bGU6ICfkvJHmga/mmYLplpMnLAogICAgICAgIHBsYWNlOiAnc3luYycsCiAgICAgIH0sCiAgICBdLAogIH0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodDown</text>
+        <text>action MethodUp</text>
       </register>
     </registers>
     <search>
@@ -1589,9 +1589,9 @@
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>action Forward</entry>
-        <entry>action MethodUp</entry>
-        <entry>action Back</entry>
         <entry>action MethodDown</entry>
+        <entry>action Back</entry>
+        <entry>action MethodUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
