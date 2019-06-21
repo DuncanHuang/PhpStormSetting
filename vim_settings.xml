@@ -174,6 +174,12 @@
         <mark key="^" line="0" column="112" />
         <mark key="." line="0" column="112" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/database/seeds/DatabaseSeeder.php" timestamp="1561098131922">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_Update.inc" timestamp="1548917522489">
         <mark key="[" line="436" column="20" />
         <mark key="]" line="436" column="29" />
@@ -400,6 +406,12 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/routes/web.php" timestamp="1561099675742">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/hr/hr_data_edit01.htm" timestamp="1559722108974">
         <mark key="'" line="969" column="57" />
         <mark key="[" line="680" column="26" />
@@ -477,6 +489,12 @@
         <mark key="^" line="45" column="8" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Providers/RouteServiceProvider.php" timestamp="1561099354581">
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="20" />
+        <mark key="^" line="35" column="20" />
+        <mark key="." line="35" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/WF/AbstractAttachFileDAO.php" timestamp="1559101985123">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="36" />
@@ -489,7 +507,7 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/.env" timestamp="1560797488795">
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/.env" timestamp="1561098661751">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="47" />
         <mark key="^" line="6" column="47" />
@@ -1066,6 +1084,7 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/config/filesystems.php" timestamp="1561098536079" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/FlowCoder.php" timestamp="1559719706857">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="36" />
@@ -1083,6 +1102,12 @@
         <mark key="]" line="16" column="11" />
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/public/index.php" timestamp="1561098284274">
+        <mark key="[" line="59" column="10" />
+        <mark key="]" line="59" column="9" />
+        <mark key="^" line="59" column="9" />
+        <mark key="." line="59" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/showMailAttach.php" timestamp="1548914711248">
         <mark key="[" line="12" column="0" />
@@ -1473,7 +1498,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action MethodUp</text>
       </register>
     </registers>
     <search>
@@ -1525,10 +1550,10 @@
         <entry>400</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action MethodDown</entry>
         <entry>action Forward</entry>
-        <entry>action MethodUp</entry>
         <entry>action Back</entry>
+        <entry>action MethodDown</entry>
+        <entry>action MethodUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
