@@ -131,6 +131,13 @@
         <mark key="^" line="36" column="112" />
         <mark key="." line="36" column="112" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" timestamp="1561217200493">
+        <mark key="'" line="253" column="116" />
+        <mark key="[" line="25" column="117" />
+        <mark key="]" line="25" column="117" />
+        <mark key="^" line="25" column="125" />
+        <mark key="." line="25" column="117" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1560998378239">
         <mark key="[" line="125" column="35" />
         <mark key="]" line="125" column="34" />
@@ -803,7 +810,6 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.importlog-migration.php" timestamp="1561193071373" />
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/application/controllers/index.php" timestamp="1559833080548">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="16" />
@@ -1256,8 +1262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12374" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="11756" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="11468" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="10554" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="10287" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
@@ -1356,6 +1360,8 @@
       <jump line="324" column="22" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/vendor/google/cloud-storage/src/StorageClient.php" />
       <jump line="55" column="35" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="9" column="16" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/.env" />
+      <jump line="259" column="2" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
+      <jump line="253" column="116" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1444,8 +1450,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PIXgoods、</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1484,7 +1490,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>上傳完成！</text>
+        <text>PIXgoods、</text>
       </register>
       <register name="/" type="4">
         <text>toAr</text>
