@@ -657,12 +657,13 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="307" column="22" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" timestamp="1561200886780">
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" timestamp="1561202695440">
         <mark key="f" line="18" column="8" />
-        <mark key="[" line="58" column="1" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="0" />
+        <mark key="'" line="38" column="11" />
+        <mark key="[" line="27" column="59" />
+        <mark key="]" line="27" column="65" />
+        <mark key="." line="27" column="65" />
+        <mark key="^" line="27" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/application/config/routes.php" timestamp="1559833294440">
         <mark key="'" line="32" column="51" />
@@ -1184,10 +1185,10 @@
         <mark key="." line="45" column="360" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/composer.json" timestamp="1561198223355">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-        <mark key="." line="7" column="1" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/FlowStage.php" timestamp="1559194657233">
         <mark key="'" line="39" column="20" />
@@ -1241,8 +1242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14555" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="14553" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="14551" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="14549" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="14547" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
@@ -1312,7 +1311,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
-      <jump line="36" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="39" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="42" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="52" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
@@ -1341,6 +1339,9 @@
       <jump line="62" column="11" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="59" column="70" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="57" column="27" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
+      <jump line="66" column="29" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
+      <jump line="3" column="51" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
+      <jump line="36" column="11" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1429,8 +1430,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ0EgbmFtZSBpcyByZXF1aXJlZCB3aGVuIGRhdGEgaXMgb2YgdHlwZSBzdHJpbmcgb3IgbnVsbC4nKTsK</text>
+      <register name="&quot;" type="4">
+        <text>上傳完成！</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1469,10 +1470,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>上傳完成！</text>
       </register>
       <register name="/" type="4">
-        <text>up</text>
+        <text>md5</text>
       </register>
       <register name="o" type="4">
         <text />
@@ -1481,10 +1482,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ0EgbmFtZSBpcyByZXF1aXJlZCB3aGVuIGRhdGEgaXMgb2YgdHlwZSBzdHJpbmcgb3IgbnVsbC4nKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbl9hcnJheSgkbmVlZGxlLCAkaGF5c3RhY2spCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgoKLy8gICAgICAgICR0aGlzLT5sb2FkLT5saWJyYXJ5KCd1cGxvYWQnKTsKLy8gICAgICAgICR0aGlzLT51cGxvYWQtPmluaXRpYWxpemUoJGNvbmZpZyk7Ci8vCi8vICAgICAgICBpZiAoISR0aGlzLT51cGxvYWQtPmRvX3VwbG9hZCgndXBsb2FkJykpIHsKLy8gICAgICAgICAgICAkdGhpcy0+UmV0dXJuSlMoJF9HRVRbJ0NLRWRpdG9yRnVuY051bSddLCAnJywgc3RyaXBfdGFncygoJHRoaXMtPnVwbG9hZC0+ZGlzcGxheV9lcnJvcnMoKSkpKTsKLy8gICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgJGRhdGEgICAgICA9ICR0aGlzLT51cGxvYWQtPmRhdGEoKTsKCi8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1594,43 +1595,41 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgKCkgewogICAgICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkdXBsb2FkRmlsZVBhdGggPSBkYXRlKCdZL20vZC8nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdXBsb2FkRmlsZVBhdGggLj0gZGF0ZSgnWS9tL2QvJykgLiBtZDUoJF9GSUxFU1sndXBsb2FkJ11bJ3RtcF9uYW1lJ10pIC4gJy4nIC4gJGZpbGVFeHRlbnNpb247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyDliKTmlrfnm67pjITvvIzlu7rnq4vnm67pjIQKICAgICAgICAkdXBsb2FkRmlsZVBhdGggLj0gZGF0ZSgnWScpIC4gJy8nOwogICAgICAgIGlmIChpc19kaXIoJHVwbG9hZEZpbGVQYXRoKSA9PSB0cnVlKSB7CiAgICAgICAgICAgIG1rZGlyKCR1cGxvYWRGaWxlUGF0aCk7CiAgICAgICAgfQoKICAgICAgICAkdXBsb2FkRmlsZVBhdGggLj0gZGF0ZSgnbScpIC4gJy8nOwogICAgICAgIGlmIChpc19kaXIoJHVwbG9hZEZpbGVQYXRoKSA9PSB0cnVlKSB7CiAgICAgICAgICAgIG1rZGlyKCR1cGxvYWRGaWxlUGF0aCk7CiAgICAgICAgfQoKICAgICAgICAkdXBsb2FkRmlsZVBhdGggLj0gZGF0ZSgnZCcpIC4gJy8nOwogICAgICAgIGlmIChpc19kaXIoJHVwbG9hZEZpbGVQYXRoKSA9PSB0cnVlKSB7CiAgICAgICAgICAgIG1rZGlyKCR1cGxvYWRGaWxlUGF0aCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsKICAgICAgICAkYnVja2V0ID0gJHN0b3JhZ2UtPmJ1Y2tldCgkdGhpcy0+YnVja2V0TmFtZSk7CgogICAgICAgIAogICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJGNvbmZpZyk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwogICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkYSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJF9GSUxFUyk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwogICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcChwYXRoaW5mbygkX0ZJTEVTWyd1cGxvYWQnXVsnbmFtZSddKSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwoKICAgICAgICBleGl0KCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoNextError</text>
       </register>
     </registers>
     <search>
-      <last-search>up</last-search>
+      <last-search>md5</last-search>
       <last-offset />
-      <last-pattern>up</last-pattern>
+      <last-pattern>md5</last-pattern>
       <last-replace />
       <last-substitute>Vim</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fi</entry>
-        <entry>file</entry>
         <entry>上</entry>
         <entry>en</entry>
         <entry>end</entry>
@@ -1649,6 +1648,8 @@
         <entry>Dun</entry>
         <entry>info</entry>
         <entry>up</entry>
+        <entry>buck</entry>
+        <entry>md5</entry>
       </history-search>
       <history-cmd>
         <entry>action ChangeSignature</entry>
@@ -1664,12 +1665,12 @@
         <entry>74</entry>
         <entry>4</entry>
         <entry>action RenameElement</entry>
-        <entry>action MethodDown</entry>
         <entry>w</entry>
         <entry>action IntroduceField</entry>
         <entry>action MethodUp</entry>
         <entry>action Back</entry>
         <entry>action GotoPreviousError</entry>
+        <entry>action MethodDown</entry>
         <entry>action GotoNextError</entry>
       </history-cmd>
       <history-expr />
