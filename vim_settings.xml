@@ -80,12 +80,12 @@
         <mark key="^" line="101" column="27" />
         <mark key="." line="101" column="27" />
       </file>
-      <file name="$USER_HOME$/Downloads/9173/storage/src/index.php" timestamp="1561194392685">
+      <file name="$USER_HOME$/Downloads/9173/storage/src/index.php" timestamp="1561198585682">
         <mark key="'" line="16" column="1" />
-        <mark key="[" line="4" column="73" />
-        <mark key="]" line="4" column="72" />
-        <mark key="^" line="4" column="72" />
-        <mark key="." line="4" column="72" />
+        <mark key="[" line="6" column="75" />
+        <mark key="]" line="6" column="74" />
+        <mark key="^" line="6" column="74" />
+        <mark key="." line="6" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/KWCR2SubGroupMemberDAO.php" timestamp="1560392582302">
         <mark key="[" line="0" column="1" />
@@ -175,6 +175,13 @@
         <mark key="^" line="10579" column="62" />
         <mark key="." line="10579" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/containers/AgendaPage/index.js" timestamp="1561199222374">
+        <mark key="'" line="45" column="17" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/database/seeds/DatabaseSeeder.php" timestamp="1561098131922">
         <mark key="[" line="11" column="25" />
         <mark key="]" line="11" column="24" />
@@ -198,6 +205,13 @@
         <mark key="]" line="234" column="16" />
         <mark key="^" line="234" column="16" />
         <mark key="." line="234" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/containers/AgendaPage/TalkSection/index.js" timestamp="1561199252925">
+        <mark key="'" line="40" column="46" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="54" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Jobs/HisSync.php" timestamp="1548125676487">
         <mark key="[" line="256" column="15" />
@@ -344,6 +358,10 @@
         <mark key="^" line="540" column="4" />
         <mark key="." line="540" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/components/Card/TalkCard/index.js" timestamp="1561199271205">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="185" column="74" />
+      </file>
       <file name="$USER_HOME$/Downloads/9173/storage/vendor/google/cloud-storage/src/StorageObject.php" timestamp="1559755696286">
         <mark key="[" line="55" column="13" />
         <mark key="]" line="55" column="12" />
@@ -420,6 +438,12 @@
         <mark key="]" line="137" column="32" />
         <mark key="^" line="137" column="32" />
         <mark key="." line="137" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/pages/agenda/index.js" timestamp="1561199165257">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/.env" timestamp="1559752639763">
         <mark key="'" line="0" column="0" />
@@ -633,12 +657,12 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="307" column="22" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" timestamp="1561193514904">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="49" column="94" />
-        <mark key="]" line="51" column="75" />
-        <mark key="." line="51" column="75" />
-        <mark key="^" line="51" column="75" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" timestamp="1561200886780">
+        <mark key="f" line="18" column="8" />
+        <mark key="[" line="58" column="1" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/application/config/routes.php" timestamp="1559833294440">
         <mark key="'" line="32" column="51" />
@@ -679,7 +703,8 @@
         <mark key="." line="40" column="47" />
         <mark key="^" line="40" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/containers/AgendaPage/AgendaSection/index.js" timestamp="1561047726995">
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/containers/AgendaPage/AgendaSection/index.js" timestamp="1561199179329">
+        <mark key="'" line="13" column="0" />
         <mark key="[" line="23" column="15" />
         <mark key="]" line="23" column="14" />
         <mark key="^" line="23" column="14" />
@@ -736,6 +761,7 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/vendor/google/cloud-storage/src/Bucket.php" timestamp="1561200854688" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new.htm" timestamp="1550458222677">
         <mark key="'" line="923" column="59" />
         <mark key="[" line="831" column="0" />
@@ -787,6 +813,13 @@
         <mark key="]" line="19" column="8" />
         <mark key="^" line="19" column="8" />
         <mark key="." line="19" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/components/Agenda/Track.js" timestamp="1561199113006">
+        <mark key="'" line="225" column="49" />
+        <mark key="[" line="225" column="70" />
+        <mark key="]" line="225" column="69" />
+        <mark key="^" line="225" column="69" />
+        <mark key="." line="225" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_view_fixed.htm" timestamp="1560393538083">
         <mark key="'" line="14" column="0" />
@@ -851,7 +884,7 @@
         <mark key="^" line="1159" column="33" />
         <mark key="." line="1159" column="33" />
       </file>
-      <file name="$USER_HOME$/Downloads/9173/storage/composer.json" timestamp="1561197479867">
+      <file name="$USER_HOME$/Downloads/9173/storage/composer.json" timestamp="1561198626734">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="28" />
         <mark key="^" line="3" column="28" />
@@ -1081,6 +1114,12 @@
         <mark key="^" line="31" column="12" />
         <mark key="." line="31" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/components/Agenda/index.js" timestamp="1561199123811">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/91/poker/src/straightMatcher.php" timestamp="1548125622237">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="24" />
@@ -1144,11 +1183,11 @@
         <mark key="^" line="45" column="360" />
         <mark key="." line="45" column="360" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/composer.json" timestamp="1561197631568">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/composer.json" timestamp="1561198223355">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/FlowStage.php" timestamp="1559194657233">
         <mark key="'" line="39" column="20" />
@@ -1202,19 +1241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17163" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="17161" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="17159" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="17157" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="17155" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="17153" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="17151" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="17149" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="17147" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="17145" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="17143" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="14559" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="14557" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="14555" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="14553" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="14551" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
@@ -1285,7 +1311,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
-      <jump line="17" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="36" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="39" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
@@ -1293,15 +1318,29 @@
       <jump line="52" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="58" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="53" column="15" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
-      <jump line="48" column="15" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="10" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="12" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="18" column="47" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
       <jump line="432" column="35" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
       <jump line="401" column="50" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
       <jump line="637" column="24" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="17" column="58" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
+      <jump line="64" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
+      <jump line="34" column="17" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
+      <jump line="48" column="31" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
+      <jump line="50" column="10" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
+      <jump line="226" column="49" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/components/Agenda/Track.js" />
+      <jump line="50" column="8" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/containers/AgendaPage/index.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/containers/AgendaPage/AgendaSection/index.js" />
+      <jump line="45" column="17" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/containers/AgendaPage/index.js" />
+      <jump line="40" column="46" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/containers/AgendaPage/TalkSection/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/components/Card/TalkCard/index.js" />
+      <jump line="71" column="80" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
+      <jump line="62" column="11" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
+      <jump line="59" column="70" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
+      <jump line="57" column="27" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1391,7 +1430,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiZ3JlZ3dhci9jYXB0Y2hhIjogIl4xLjEiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ0EgbmFtZSBpcyByZXF1aXJlZCB3aGVuIGRhdGEgaXMgb2YgdHlwZSBzdHJpbmcgb3IgbnVsbC4nKTsK</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1430,10 +1469,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>https://image.dev.9173.com.tw/</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>HO</text>
+        <text>up</text>
       </register>
       <register name="o" type="4">
         <text />
@@ -1442,10 +1481,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiZ3JlZ3dhci9jYXB0Y2hhIjogIl4xLjEiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ0EgbmFtZSBpcyByZXF1aXJlZCB3aGVuIGRhdGEgaXMgb2YgdHlwZSBzdHJpbmcgb3IgbnVsbC4nKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UuZGV2LjkxNzMuY29tLnR3L21pc3Npb24vY3JlYXRlJywKICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vbG9jYWxob3N0L0Nhc2UvQW5zb24vOTE3My9pbWFnZS8nLAo=</text>
+        <text encoding="base64">CgoKLy8gICAgICAgICR0aGlzLT5sb2FkLT5saWJyYXJ5KCd1cGxvYWQnKTsKLy8gICAgICAgICR0aGlzLT51cGxvYWQtPmluaXRpYWxpemUoJGNvbmZpZyk7Ci8vCi8vICAgICAgICBpZiAoISR0aGlzLT51cGxvYWQtPmRvX3VwbG9hZCgndXBsb2FkJykpIHsKLy8gICAgICAgICAgICAkdGhpcy0+UmV0dXJuSlMoJF9HRVRbJ0NLRWRpdG9yRnVuY051bSddLCAnJywgc3RyaXBfdGFncygoJHRoaXMtPnVwbG9hZC0+ZGlzcGxheV9lcnJvcnMoKSkpKTsKLy8gICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgJGRhdGEgICAgICA9ICR0aGlzLT51cGxvYWQtPmRhdGEoKTsKCi8vICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1555,34 +1594,34 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRjb25maWcpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgago=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRJbWFnZXNVcmwpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgKCkgewogICAgICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXENvdWNoYmFzZVxkZWZhdWx0RGVjb2RlcigkLCAkZmxhZ3MsICRkYXRhdHlwZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gJEltYWdlc1VybCA9ICR0aGlzLT5jb25maWctPml0ZW0oICdJbWFnZScsICdIb3N0JyApIC4gc3Vic3RyKHN0cl9yZXBsYWNlKCcuJywgJycsICRjb25maWdbJ3VwbG9hZF9wYXRoJ10pLCAxKSAuICRkYXRhWydmaWxlX25hbWUnXTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVkaXJlY3QoICcvbG9naW4vJyApOwo=</text>
+        <text encoding="base64">ICAgICAgICBdKTsKICAgICAgICAkYnVja2V0ID0gJHN0b3JhZ2UtPmJ1Y2tldCgkdGhpcy0+YnVja2V0TmFtZSk7CgogICAgICAgIAogICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVkaXJlY3QoICcvbG9naW4vJyApOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJGNvbmZpZyk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwogICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkYSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVkaXJlY3QoICcvbG9naW4vJyApOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJF9GSUxFUyk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwogICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcChwYXRoaW5mbygkX0ZJTEVTWyd1cGxvYWQnXVsnbmFtZSddKSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwoKICAgICAgICBleGl0KCk7Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action GotoNextError</text>
       </register>
     </registers>
     <search>
-      <last-search>HO</last-search>
+      <last-search>up</last-search>
       <last-offset />
-      <last-pattern>HO</last-pattern>
+      <last-pattern>up</last-pattern>
       <last-replace />
       <last-substitute>Vim</last-substitute>
       <last-dir>-1</last-dir>
@@ -1590,9 +1629,6 @@
     </search>
     <history>
       <history-search>
-        <entry>too</entry>
-        <entry>get</entry>
-        <entry>已經</entry>
         <entry>fi</entry>
         <entry>file</entry>
         <entry>上</entry>
@@ -1610,20 +1646,19 @@
         <entry>/</entry>
         <entry>Ret</entry>
         <entry>HO</entry>
+        <entry>Dun</entry>
+        <entry>info</entry>
+        <entry>up</entry>
       </history-search>
       <history-cmd>
         <entry>action ChangeSignature</entry>
         <entry>action IntroduceParameter</entry>
-        <entry>action GotoPreviousError</entry>
-        <entry>action IntroduceField</entry>
         <entry>action Debug</entry>
         <entry>23</entry>
-        <entry>action GotoNextError</entry>
         <entry>400</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>77</entry>
         <entry>91</entry>
         <entry>74</entry>
@@ -1631,7 +1666,11 @@
         <entry>action RenameElement</entry>
         <entry>action MethodDown</entry>
         <entry>w</entry>
+        <entry>action IntroduceField</entry>
         <entry>action MethodUp</entry>
+        <entry>action Back</entry>
+        <entry>action GotoPreviousError</entry>
+        <entry>action GotoNextError</entry>
       </history-cmd>
       <history-expr />
       <history-input />
