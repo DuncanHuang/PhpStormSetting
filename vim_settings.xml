@@ -447,12 +447,12 @@
         <mark key="^" line="680" column="25" />
         <mark key="." line="680" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1561129133075">
-        <mark key="'" line="461" column="8" />
-        <mark key="[" line="194" column="15" />
-        <mark key="]" line="194" column="36" />
-        <mark key="." line="194" column="36" />
-        <mark key="^" line="194" column="36" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1561197857887">
+        <mark key="'" line="637" column="24" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCorpInfo.php" timestamp="1550213557048">
         <mark key="[" line="69" column="26" />
@@ -851,7 +851,12 @@
         <mark key="^" line="1159" column="33" />
         <mark key="." line="1159" column="33" />
       </file>
-      <file name="$USER_HOME$/Downloads/9173/storage/composer.json" timestamp="1561194405898" />
+      <file name="$USER_HOME$/Downloads/9173/storage/composer.json" timestamp="1561197479867">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/google_gcm.php" timestamp="1548178559133">
         <mark key="[" line="76" column="63" />
         <mark key="]" line="76" column="68" />
@@ -1139,7 +1144,7 @@
         <mark key="^" line="45" column="360" />
         <mark key="." line="45" column="360" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/composer.json" timestamp="1561194607311">
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/composer.json" timestamp="1561197631568">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1197,10 +1202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17171" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="17169" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="17167" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="17165" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="17163" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="17161" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="17159" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
@@ -1297,6 +1298,10 @@
       <jump line="12" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="16" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="18" column="47" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/custom_config.php" />
+      <jump line="432" column="35" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="401" column="50" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="637" column="24" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1571,7 +1576,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gcmVkaXJlY3QoICcvbG9naW4vJyApOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action MethodUp</text>
       </register>
     </registers>
     <search>
@@ -1624,9 +1629,9 @@
         <entry>74</entry>
         <entry>4</entry>
         <entry>action RenameElement</entry>
-        <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
         <entry>w</entry>
+        <entry>action MethodUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
