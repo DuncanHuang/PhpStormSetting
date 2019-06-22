@@ -278,6 +278,13 @@
         <mark key="." line="67" column="58" />
         <mark key="^" line="67" column="58" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/history.php" timestamp="1561191053745">
+        <mark key="'" line="329" column="21" />
+        <mark key="[" line="329" column="22" />
+        <mark key="]" line="329" column="21" />
+        <mark key="^" line="329" column="21" />
+        <mark key="." line="329" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/src/MailSend.php" timestamp="1561131503858">
         <mark key="'" line="180" column="16" />
         <mark key="[" line="27" column="1" />
@@ -405,6 +412,12 @@
         <mark key="]" line="21" column="34" />
         <mark key="." line="21" column="34" />
         <mark key="^" line="21" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/ayetstudios.php" timestamp="1561191014279">
+        <mark key="[" line="137" column="33" />
+        <mark key="]" line="137" column="32" />
+        <mark key="^" line="137" column="32" />
+        <mark key="." line="137" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/.env" timestamp="1559752639763">
         <mark key="'" line="0" column="0" />
@@ -638,7 +651,7 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561104765631">
+      <file name="/Dummy.txt" timestamp="1561191747984">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -841,12 +854,12 @@
         <mark key="^" line="76" column="68" />
         <mark key="." line="76" column="68" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" timestamp="1560158539686">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="93" column="1" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" timestamp="1561191750665">
+        <mark key="'" line="90" column="4" />
+        <mark key="[" line="132" column="32" />
+        <mark key="]" line="132" column="31" />
+        <mark key="^" line="132" column="31" />
+        <mark key="." line="132" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_buy.htm" timestamp="1559209257754">
         <mark key="[" line="123" column="29" />
@@ -1171,8 +1184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="461" column="0" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/meta/.phpstorm.meta.php" />
-      <jump line="466" column="0" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/meta/.phpstorm.meta.php" />
       <jump line="469" column="0" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/meta/.phpstorm.meta.php" />
       <jump line="475" column="0" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/meta/.phpstorm.meta.php" />
       <jump line="479" column="0" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/meta/.phpstorm.meta.php" />
@@ -1271,6 +1282,8 @@
       <jump line="298" column="14" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" />
       <jump line="11" column="35" filename="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-06-18.yaml" />
+      <jump line="329" column="21" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/history.php" />
+      <jump line="90" column="4" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1583,9 +1596,6 @@
         <entry>/</entry>
       </history-search>
       <history-cmd>
-        <entry>action VcsShowNextChangeMarker</entry>
-        <entry>75</entry>
-        <entry>496</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>w</entry>
         <entry>action ChangeSignature</entry>
@@ -1600,8 +1610,11 @@
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>action Forward</entry>
-        <entry>action MethodDown</entry>
         <entry>action Back</entry>
+        <entry>77</entry>
+        <entry>91</entry>
+        <entry>74</entry>
+        <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
       </history-cmd>
       <history-expr />
