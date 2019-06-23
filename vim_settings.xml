@@ -62,11 +62,12 @@
         <mark key="^" line="110" column="13" />
         <mark key="." line="110" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/91/2019-06-23_91dojo/composer.json" timestamp="1561255784907">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="31" column="1" />
-        <mark key="^" line="31" column="1" />
-        <mark key="." line="31" column="1" />
+      <file name="$USER_HOME$/Documents/91/2019-06-23_91dojo/composer.json" timestamp="1561265577352">
+        <mark key="'" line="5" column="13" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="24" column="2" />
+        <mark key="^" line="24" column="2" />
+        <mark key="." line="24" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/Polyfill/ArrayFunctionHelper.php" timestamp="1549959728146">
         <mark key="[" line="49" column="14" />
@@ -527,6 +528,12 @@
         <mark key="]" line="177" column="65" />
         <mark key="." line="177" column="65" />
         <mark key="^" line="177" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/91/poker/composer.json" timestamp="1561265587951">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CR/CR_NewGroup.inc" timestamp="1551071642855">
         <mark key="'" line="192" column="0" />
@@ -1268,7 +1275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11468" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="10554" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="10287" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="8184" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
@@ -1368,6 +1374,7 @@
       <jump line="9" column="16" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/.env" />
       <jump line="259" column="2" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
       <jump line="253" column="116" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
+      <jump line="5" column="13" filename="$USER_HOME$/Documents/91/2019-06-23_91dojo/composer.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1457,7 +1464,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>PIXgoods、</text>
+        <text>,</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1496,7 +1503,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PIXgoods、</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>toAr</text>
@@ -1508,10 +1515,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAicmVxdWlyZSI6IHsKICAgICJwaHB1bml0L3BocHVuaXQiOiAiXjcuNSIsCiAgICAibW9ja2VyeS9tb2NrZXJ5IjogIl4xLjIiCiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHV0ZW52KCdHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFM9R0NQS2V5Lmpzb24nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1621,25 +1628,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbl9hcnJheSgkbmVlZGxlLCAkaGF5c3RhY2spCg==</text>
+        <text encoding="base64">cHV0ZW52KCdHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFM9R0NQS2V5Lmpzb24nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbl9hcnJheSgkbmVlZGxlLCAkaGF5c3RhY2spCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdXBsb2FkRmlsZVBhdGggPSBkYXRlKCdZL20vZC8nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdXBsb2FkRmlsZVBhdGggLj0gZGF0ZSgnWS9tL2QvJykgLiBtZDUoJF9GSUxFU1sndXBsb2FkJ11bJ3RtcF9uYW1lJ10pIC4gJy4nIC4gJGZpbGVFeHRlbnNpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdXBsb2FkRmlsZVBhdGggPSBkYXRlKCdZL20vZC8nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDliKTmlrfnm67pjITvvIzlu7rnq4vnm67pjIQKICAgICAgICAkdXBsb2FkRmlsZVBhdGggLj0gZGF0ZSgnWScpIC4gJy8nOwogICAgICAgIGlmIChpc19kaXIoJHVwbG9hZEZpbGVQYXRoKSA9PSB0cnVlKSB7CiAgICAgICAgICAgIG1rZGlyKCR1cGxvYWRGaWxlUGF0aCk7CiAgICAgICAgfQoKICAgICAgICAkdXBsb2FkRmlsZVBhdGggLj0gZGF0ZSgnbScpIC4gJy8nOwogICAgICAgIGlmIChpc19kaXIoJHVwbG9hZEZpbGVQYXRoKSA9PSB0cnVlKSB7CiAgICAgICAgICAgIG1rZGlyKCR1cGxvYWRGaWxlUGF0aCk7CiAgICAgICAgfQoKICAgICAgICAkdXBsb2FkRmlsZVBhdGggLj0gZGF0ZSgnZCcpIC4gJy8nOwogICAgICAgIGlmIChpc19kaXIoJHVwbG9hZEZpbGVQYXRoKSA9PSB0cnVlKSB7CiAgICAgICAgICAgIG1rZGlyKCR1cGxvYWRGaWxlUGF0aCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkdXBsb2FkRmlsZVBhdGggLj0gZGF0ZSgnWS9tL2QvJykgLiBtZDUoJF9GSUxFU1sndXBsb2FkJ11bJ3RtcF9uYW1lJ10pIC4gJy4nIC4gJGZpbGVFeHRlbnNpb247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDliKTmlrfnm67pjITvvIzlu7rnq4vnm67pjIQKICAgICAgICAkdXBsb2FkRmlsZVBhdGggLj0gZGF0ZSgnWScpIC4gJy8nOwogICAgICAgIGlmIChpc19kaXIoJHVwbG9hZEZpbGVQYXRoKSA9PSB0cnVlKSB7CiAgICAgICAgICAgIG1rZGlyKCR1cGxvYWRGaWxlUGF0aCk7CiAgICAgICAgfQoKICAgICAgICAkdXBsb2FkRmlsZVBhdGggLj0gZGF0ZSgnbScpIC4gJy8nOwogICAgICAgIGlmIChpc19kaXIoJHVwbG9hZEZpbGVQYXRoKSA9PSB0cnVlKSB7CiAgICAgICAgICAgIG1rZGlyKCR1cGxvYWRGaWxlUGF0aCk7CiAgICAgICAgfQoKICAgICAgICAkdXBsb2FkRmlsZVBhdGggLj0gZGF0ZSgnZCcpIC4gJy8nOwogICAgICAgIGlmIChpc19kaXIoJHVwbG9hZEZpbGVQYXRoKSA9PSB0cnVlKSB7CiAgICAgICAgICAgIG1rZGlyKCR1cGxvYWRGaWxlUGF0aCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoNextError</text>
