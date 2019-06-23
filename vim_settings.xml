@@ -917,12 +917,12 @@
         <mark key="." line="173" column="4" />
         <mark key="^" line="173" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" timestamp="1561187541886">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="346" column="12" />
-        <mark key="]" line="346" column="11" />
-        <mark key="^" line="346" column="11" />
-        <mark key="." line="346" column="11" />
+      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" timestamp="1561300918478">
+        <mark key="'" line="345" column="14" />
+        <mark key="[" line="399" column="11" />
+        <mark key="]" line="399" column="14" />
+        <mark key="^" line="399" column="14" />
+        <mark key="." line="399" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/composer.json" timestamp="1550135886942">
         <mark key="[" line="2" column="20" />
@@ -1300,7 +1300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10287" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="8184" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="7946" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="7447" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
@@ -1400,6 +1399,7 @@
       <jump line="253" column="116" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
       <jump line="5" column="13" filename="$USER_HOME$/Documents/91/2019-06-23_91dojo/composer.json" />
       <jump line="8" column="4" filename="$USER_HOME$/Documents/91/2019-06-23_91dojo/tests/GameTest.php" />
+      <jump line="345" column="14" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1489,7 +1489,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>PHPUnit_Framework_TestCase</text>
+        <text>false</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1528,7 +1528,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PHPUnit_Framework_TestCase</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>toAr</text>
