@@ -712,7 +712,7 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561265909594">
+      <file name="/Dummy.txt" timestamp="1561268209552">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -855,11 +855,17 @@
         <mark key="^" line="225" column="69" />
         <mark key="." line="225" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/91/2019-06-23_91dojo/tests/Test.php" timestamp="1561265934244">
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/GameTest.php" timestamp="1561268203604">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/91/2019-06-23_91dojo/tests/Test.php" timestamp="1561265950426">
         <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="4" column="19" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/91/poker/tests/SuitTest.php" timestamp="1561265929066">
         <mark key="[" line="11" column="0" />
@@ -1191,6 +1197,13 @@
         <mark key="^" line="116" column="42" />
         <mark key="." line="116" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/91/2019-06-23_91dojo/tests/GameTest.php" timestamp="1561265974398">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="4" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/GCPKey.json" timestamp="1561194363515">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="1" />
@@ -1287,7 +1300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10554" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="10287" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="8184" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="7946" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
@@ -1387,6 +1399,7 @@
       <jump line="259" column="2" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
       <jump line="253" column="116" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
       <jump line="5" column="13" filename="$USER_HOME$/Documents/91/2019-06-23_91dojo/composer.json" />
+      <jump line="8" column="4" filename="$USER_HOME$/Documents/91/2019-06-23_91dojo/tests/GameTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1701,8 +1714,6 @@
         <entry>action Debug</entry>
         <entry>23</entry>
         <entry>400</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action Run</entry>
         <entry>action Forward</entry>
         <entry>77</entry>
         <entry>91</entry>
@@ -1713,9 +1724,11 @@
         <entry>action IntroduceField</entry>
         <entry>action MethodUp</entry>
         <entry>action GotoPreviousError</entry>
-        <entry>action MethodDown</entry>
         <entry>action Back</entry>
         <entry>action VcsShowNextChangeMarker</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Run</entry>
+        <entry>action MethodDown</entry>
         <entry>action GotoNextError</entry>
       </history-cmd>
       <history-expr />
