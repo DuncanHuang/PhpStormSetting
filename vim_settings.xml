@@ -35,12 +35,12 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/demo/config/database.php" timestamp="1561366058662">
+      <file name="$USER_HOME$/Documents/NovaxCode/demo/config/database.php" timestamp="1561367448019">
         <mark key="'" line="83" column="43" />
-        <mark key="[" line="53" column="47" />
-        <mark key="]" line="53" column="73" />
-        <mark key="^" line="53" column="73" />
-        <mark key="." line="53" column="73" />
+        <mark key="[" line="43" column="10" />
+        <mark key="]" line="43" column="9" />
+        <mark key="^" line="43" column="9" />
+        <mark key="." line="43" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Http/Controllers/Auth/ForgotPasswordController.php" timestamp="1561358575582">
         <mark key="[" line="29" column="28" />
@@ -473,6 +473,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/CreatesApplication.php" timestamp="1561367511833">
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="9" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/viidle.php" timestamp="1558887313035">
         <mark key="[" line="90" column="16" />
