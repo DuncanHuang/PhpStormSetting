@@ -35,12 +35,12 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/demo/config/database.php" timestamp="1561363893172">
+      <file name="$USER_HOME$/Documents/NovaxCode/demo/config/database.php" timestamp="1561366058662">
         <mark key="'" line="83" column="43" />
-        <mark key="[" line="83" column="44" />
-        <mark key="]" line="83" column="43" />
-        <mark key="^" line="83" column="43" />
-        <mark key="." line="83" column="43" />
+        <mark key="[" line="53" column="47" />
+        <mark key="]" line="53" column="73" />
+        <mark key="^" line="53" column="73" />
+        <mark key="." line="53" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Http/Controllers/Auth/ForgotPasswordController.php" timestamp="1561358575582">
         <mark key="[" line="29" column="28" />
@@ -528,11 +528,11 @@
         <mark key="^" line="322" column="0" />
         <mark key="." line="322" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/demo/vendor/laravel/framework/src/Illuminate/Database/QueryException.php" timestamp="1561365728399">
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="36" column="35" />
-        <mark key="." line="36" column="35" />
-        <mark key="^" line="36" column="35" />
+      <file name="$USER_HOME$/Documents/NovaxCode/demo/vendor/laravel/framework/src/Illuminate/Database/QueryException.php" timestamp="1561365787874">
+        <mark key="[" line="38" column="74" />
+        <mark key="]" line="38" column="67" />
+        <mark key="." line="38" column="67" />
+        <mark key="^" line="38" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/PM/PM_Delete_Cword.inc" timestamp="1550211610022">
         <mark key="[" line="13" column="11" />
@@ -546,7 +546,7 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/demo/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1561365006265">
+      <file name="$USER_HOME$/Documents/NovaxCode/demo/vendor/laravel/framework/src/Illuminate/Database/Connection.php" timestamp="1561365762257">
         <mark key="[" line="663" column="0" />
         <mark key="]" line="663" column="0" />
         <mark key="." line="663" column="0" />
