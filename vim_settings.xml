@@ -594,11 +594,11 @@
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Deprecated/utils.php" timestamp="1561369458803">
-        <mark key="[" line="33" column="1" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="42" column="60" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Deprecated/utils.php" timestamp="1561370388093">
+        <mark key="[" line="34" column="38" />
+        <mark key="]" line="34" column="38" />
+        <mark key="^" line="34" column="38" />
+        <mark key="." line="34" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Update_User_Group.inc" timestamp="1550715765599">
         <mark key="[" line="46" column="0" />
@@ -969,7 +969,6 @@
         <mark key="." line="173" column="4" />
         <mark key="^" line="173" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" timestamp="1561345829605" />
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" timestamp="1561300918478">
         <mark key="'" line="345" column="14" />
         <mark key="[" line="399" column="11" />
@@ -1230,11 +1229,11 @@
         <mark key="^" line="23" column="76" />
         <mark key="." line="23" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/lysCommon.php" timestamp="1549960500186">
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="^" line="205" column="4" />
-        <mark key="." line="205" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/lysCommon.php" timestamp="1561370228466">
+        <mark key="[" line="932" column="22" />
+        <mark key="]" line="932" column="21" />
+        <mark key="^" line="932" column="21" />
+        <mark key="." line="932" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/91/speed/composer.json" timestamp="1549643302272">
         <mark key="[" line="16" column="6" />
@@ -1260,7 +1259,12 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/class.mc.send.php" timestamp="1561368330841" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/class.mc.send.php" timestamp="1561370952237">
+        <mark key="[" line="456" column="0" />
+        <mark key="]" line="456" column="0" />
+        <mark key="^" line="457" column="60" />
+        <mark key="." line="456" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/91/poker/src/straightMatcher.php" timestamp="1548125622237">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="24" />
@@ -1585,7 +1589,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnX3ByaW50X2JhY2t0cmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBycGNfZGlzY29ubmVjdF9kYigkZGJoKTsKICAgICAgICAgICAgICAgICAgICAkX19kYiA9IHJwY19jb25uZWN0X2RiKCRfX1JQQywgInVjaXR5MSIpOwo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1624,7 +1628,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>127.0.0.1</text>
+        <text>$__RPC</text>
       </register>
       <register name="/" type="4">
         <text>toAr</text>
@@ -1636,10 +1640,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnX3ByaW50X2JhY2t0cmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBycGNfZGlzY29ubmVjdF9kYigkZGJoKTsKICAgICAgICAgICAgICAgICAgICAkX19kYiA9IHJwY19jb25uZWN0X2RiKCRfX1JQQywgInVjaXR5MSIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcChfX2NhbGwpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJFVTRVIgPT0gMTYwMCkgewogICAgICAgICAgICBkZWJ1Z19wcmludF9iYWNrdHJhY2UoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1749,28 +1753,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHByZXZpb3VzKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRVU0VSJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkVVNFUikgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbCAkZ2V0Q291bnQ7CiAgICBpZiAoaXNzZXQoJGdldENvdW50KSA9PSBmYWxzZSkgewogICAgICAgICRnZXRDb3VudCA9IDA7CiAgICB9CiAgICAkZ2V0Q291bnQrKzsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRxdWVyeSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwogICAgICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJGJpbmRpbmdzKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7CiAgICAgICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkY2FsbGJhY2spO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJGFiJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZShkZWJ1Z19wcmludF9iYWNrdHJhY2UoKSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">REJfSE9TVD0xMjcuMC4wLjEK</text>
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHRhYmxlLT5kZWNpbWFsKCdhbW91bnQnLCA1LCAyKTsnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">REJfSE9TVD0xMjcuMC4wLjEK</text>
+        <text encoding="base64">ICAgIGRlYnVnX3ByaW50X2JhY2t0cmFjZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REJfU09DS0VUPS90bXAvbXlzcWwuc29jawo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcChfX2NhbGwpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>126</text>
       </register>
     </registers>
     <search>
@@ -1806,9 +1810,6 @@
         <entry>toAr</entry>
       </history-search>
       <history-cmd>
-        <entry>23</entry>
-        <entry>400</entry>
-        <entry>action Forward</entry>
         <entry>77</entry>
         <entry>91</entry>
         <entry>74</entry>
@@ -1821,11 +1822,14 @@
         <entry>action Run</entry>
         <entry>action MethodDown</entry>
         <entry>action GotoNextError</entry>
-        <entry>w</entry>
         <entry>664</entry>
         <entry>37</entry>
-        <entry>action MethodUp</entry>
         <entry>action Back</entry>
+        <entry>w</entry>
+        <entry>933</entry>
+        <entry>action MethodUp</entry>
+        <entry>462</entry>
+        <entry>126</entry>
       </history-cmd>
       <history-expr />
       <history-input />
