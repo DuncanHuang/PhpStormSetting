@@ -42,6 +42,12 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="16" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Http/Controllers/Auth/ForgotPasswordController.php" timestamp="1561358575582">
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="29" column="28" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="29" column="28" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/database.php" timestamp="1561203197283">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="9" column="1" />
@@ -719,7 +725,7 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561311183946">
+      <file name="/Dummy.txt" timestamp="1561357898236">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -867,6 +873,13 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1561361561482">
+        <mark key="'" line="924" column="14" />
+        <mark key="[" line="939" column="5" />
+        <mark key="]" line="939" column="14" />
+        <mark key="." line="939" column="14" />
+        <mark key="^" line="939" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/91/2019-06-23_91dojo/tests/Test.php" timestamp="1561265950426">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="18" />
@@ -992,12 +1005,12 @@
         <mark key="^" line="190" column="6" />
         <mark key="." line="190" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/demo/.env" timestamp="1561355098706">
+      <file name="$USER_HOME$/Documents/NovaxCode/demo/.env" timestamp="1561355421735">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="19" />
-        <mark key="." line="13" column="19" />
-        <mark key="^" line="13" column="19" />
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/Downloads/9173/storage/vendor/google/cloud-storage/src/Bucket.php" timestamp="1560148291201">
         <mark key="'" line="271" column="20" />
@@ -1037,6 +1050,13 @@
         <mark key="]" line="345" column="14" />
         <mark key="^" line="345" column="14" />
         <mark key="." line="345" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/tapjoy.php" timestamp="1561357913190">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/FlowStageCoderV1.php" timestamp="1559185417467">
         <mark key="'" line="11" column="6" />
@@ -1337,8 +1357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" />
       <jump line="568" column="21" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
@@ -1437,6 +1455,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/.env" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/.env" />
       <jump line="70" column="41" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/.env" />
+      <jump line="113" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/tapjoy.php" />
+      <jump line="924" column="14" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1526,7 +1546,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>root</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1565,7 +1585,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
         <text>toAr</text>
@@ -1711,7 +1731,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1757,7 +1777,6 @@
         <entry>74</entry>
         <entry>4</entry>
         <entry>action RenameElement</entry>
-        <entry>w</entry>
         <entry>action IntroduceField</entry>
         <entry>action MethodUp</entry>
         <entry>action GotoPreviousError</entry>
@@ -1767,6 +1786,7 @@
         <entry>action MethodDown</entry>
         <entry>action GotoNextError</entry>
         <entry>action Back</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
