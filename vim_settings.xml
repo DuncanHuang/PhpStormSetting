@@ -976,12 +976,12 @@
         <mark key="." line="173" column="4" />
         <mark key="^" line="173" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" timestamp="1561300918478">
+      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" timestamp="1561439420432">
         <mark key="'" line="345" column="14" />
-        <mark key="[" line="399" column="11" />
-        <mark key="]" line="399" column="14" />
-        <mark key="^" line="399" column="14" />
-        <mark key="." line="399" column="14" />
+        <mark key="[" line="398" column="11" />
+        <mark key="]" line="398" column="14" />
+        <mark key="^" line="398" column="14" />
+        <mark key="." line="398" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/composer.json" timestamp="1550135886942">
         <mark key="[" line="2" column="20" />
@@ -1595,7 +1595,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1634,7 +1634,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>toAr</text>
@@ -1646,7 +1646,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmVfb25jZSAkQkFTRSAuICcvTmV0YXNrL0Jyb3dzZXJVSS9lZGkvaW5jL3ZhX25vY2FyZDJjc3YuaW5jJzsK</text>
+        <text encoding="base64">bGFyYTNBRjdsZyxmYWxzZQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHJlcXVpcmVfb25jZSAkQkFTRSAuICcvTmV0YXNrL0Jyb3dzZXJVSS9lZGkvaW5jL3ZhX25vY2FyZDJjc3YuaW5jJzsK</text>
@@ -1759,25 +1759,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgIHJlcXVpcmVfb25jZSAkQkFTRSAuICcvTmV0YXNrL0Jyb3dzZXJVSS9lZGkvaW5jL3ZhX25vY2FyZDJjc3YuaW5jJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdfcHJpbnRfYmFja3RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAnYWRmJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdfcHJpbnRfYmFja3RyYWNlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZWNobyAnYWRmJzsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBycGNfZGlzY29ubmVjdF9kYigkZGJoKTsKICAgICAgICAgICAgICAgICAgICAkX19kYiA9IHJwY19jb25uZWN0X2RiKCRfX1JQQywgInVjaXR5MSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJFVTRVIgPT0gMTYwMCkgewogICAgICAgICAgICBkZWJ1Z19wcmludF9iYWNrdHJhY2UoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBycGNfZGlzY29ubmVjdF9kYigkZGJoKTsKICAgICAgICAgICAgICAgICAgICAkX19kYiA9IHJwY19jb25uZWN0X2RiKCRfX1JQQywgInVjaXR5MSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action MethodDown</text>
