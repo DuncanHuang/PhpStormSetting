@@ -387,11 +387,11 @@
         <mark key="^" line="282" column="14" />
         <mark key="." line="282" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" timestamp="1561129257767">
-        <mark key="[" line="135" column="14" />
-        <mark key="]" line="135" column="13" />
-        <mark key="^" line="135" column="13" />
-        <mark key="." line="135" column="13" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" timestamp="1561440733480">
+        <mark key="[" line="148" column="16" />
+        <mark key="]" line="148" column="48" />
+        <mark key="^" line="148" column="48" />
+        <mark key="." line="148" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/test.php" timestamp="1558922686582">
         <mark key="[" line="4" column="30" />
@@ -520,12 +520,12 @@
         <mark key="^" line="680" column="25" />
         <mark key="." line="680" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1561197857887">
-        <mark key="'" line="637" column="24" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1561440730669">
+        <mark key="'" line="661" column="24" />
+        <mark key="[" line="206" column="1" />
+        <mark key="]" line="206" column="0" />
+        <mark key="." line="206" column="0" />
+        <mark key="^" line="206" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCorpInfo.php" timestamp="1550213557048">
         <mark key="[" line="69" column="26" />
@@ -1595,7 +1595,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>static/images/speakers/Albert.jpg</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1634,7 +1634,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>static/images/speakers/Albert.jpg</text>
       </register>
       <register name="/" type="4">
         <text>toAr</text>
@@ -1646,10 +1646,11 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGFyYTNBRjdsZyxmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50OiAn5Zyo6YCZ5aC06K2w56iL6KOh77yM6Yi05pyo5bCH5b6e5pel5pys5rKW57mp5bi25L6G5LuW5YCRIFJlOkJ1aWxkIOWcmOmaiueahOe2k+mpl++8jOi3n+Wkp+WutuWIhuS6q+S7luWAkeWcqOmWi+eZvOiHquWutueUouWTgSBUYWRvcnUg5pmC77yM5aaC5L2V5pW05ZCIIExhcmF2ZWwg5Y+KIE51eHQuanMg5YGa5Yiw5YmN5b6M56uv5YiG6Zui55qEIFNQQSDmnrbmp4vjgIInCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmVfb25jZSAkQkFTRSAuICcvTmV0YXNrL0Jyb3dzZXJVSS9lZGkvaW5jL3ZhX25vY2FyZDJjc3YuaW5jJzsK</text>
+      <register name="2" type="4">
+        <text>'
+      + '工作之餘也醉心於研究 Swoole 這套以 C extension 為底層的框架，並成立 Swoole 台灣臉書社團。目前任職於 M17 旗下的舉手直播購物，擔任軟體工程師。</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1758,29 +1759,30 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmVfb25jZSAkQkFTRSAuICcvTmV0YXNrL0Jyb3dzZXJVSS9lZGkvaW5jL3ZhX25vY2FyZDJjc3YuaW5jJzsK</text>
+      <register name="3" type="4">
+        <text>'
+          + '讓你遇到高併發，就算面臨捉摸不定的情境考驗，以及千百種的業務需求，也能活學活用、渾然天成。</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">bGFyYTNBRjdsZyxmYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdfcHJpbnRfYmFja3RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVpcmVfb25jZSAkQkFTRSAuICcvTmV0YXNrL0Jyb3dzZXJVSS9lZGkvaW5jL3ZhX25vY2FyZDJjc3YuaW5jJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAnYWRmJzsK</text>
+        <text encoding="base64">ICAgIHJlcXVpcmVfb25jZSAkQkFTRSAuICcvTmV0YXNrL0Jyb3dzZXJVSS9lZGkvaW5jL3ZhX25vY2FyZDJjc3YuaW5jJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdfcHJpbnRfYmFja3RyYWNlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBycGNfZGlzY29ubmVjdF9kYigkZGJoKTsKICAgICAgICAgICAgICAgICAgICAkX19kYiA9IHJwY19jb25uZWN0X2RiKCRfX1JQQywgInVjaXR5MSIpOwo=</text>
+        <text encoding="base64">ZWNobyAnYWRmJzsK</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodDown</text>
+        <text>action GotoNextError</text>
       </register>
     </registers>
     <search>
@@ -1826,16 +1828,16 @@
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
-        <entry>action GotoNextError</entry>
         <entry>664</entry>
         <entry>37</entry>
-        <entry>action Back</entry>
         <entry>933</entry>
         <entry>action MethodUp</entry>
         <entry>462</entry>
         <entry>126</entry>
         <entry>w</entry>
         <entry>action MethodDown</entry>
+        <entry>action Back</entry>
+        <entry>action GotoNextError</entry>
       </history-cmd>
       <history-expr />
       <history-input />
