@@ -735,9 +735,8 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" timestamp="1561187365165">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="307" column="22" />
+      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" timestamp="1561445697845">
+        <mark key="'" line="346" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/application/config/routes.php" timestamp="1559833294440">
         <mark key="'" line="32" column="51" />
@@ -981,12 +980,8 @@
         <mark key="." line="173" column="4" />
         <mark key="^" line="173" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" timestamp="1561444529442">
+      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" timestamp="1561445753498">
         <mark key="'" line="345" column="14" />
-        <mark key="[" line="396" column="16" />
-        <mark key="]" line="396" column="15" />
-        <mark key="^" line="396" column="15" />
-        <mark key="." line="396" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/composer.json" timestamp="1550135886942">
         <mark key="[" line="2" column="20" />
@@ -1417,8 +1412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
-      <jump line="22" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="39" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="42" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="52" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
@@ -1517,6 +1510,8 @@
       <jump line="43" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="221" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
+      <jump line="377" column="17" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" />
+      <jump line="346" column="19" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1648,7 +1643,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>toAr</text>
+        <text>true</text>
       </register>
       <register name="o" type="4">
         <text />
@@ -1795,17 +1790,16 @@
       </register>
     </registers>
     <search>
-      <last-search>toAr</last-search>
+      <last-search>true</last-search>
       <last-offset />
-      <last-pattern>toAr</last-pattern>
+      <last-pattern>true</last-pattern>
       <last-replace />
       <last-substitute>Vim</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>end</entry>
         <entry>18</entry>
         <entry>function test</entry>
         <entry encoding="base64">IGZ1bmN0aW9u</entry>
@@ -1825,6 +1819,7 @@
         <entry>md5</entry>
         <entry>ToA</entry>
         <entry>toAr</entry>
+        <entry>true</entry>
       </history-search>
       <history-cmd>
         <entry>77</entry>
