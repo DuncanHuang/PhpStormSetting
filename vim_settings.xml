@@ -171,12 +171,11 @@
         <mark key="^" line="25" column="125" />
         <mark key="." line="25" column="117" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1561539120692">
-        <mark key="'" line="231" column="0" />
-        <mark key="[" line="279" column="88" />
-        <mark key="]" line="279" column="87" />
-        <mark key="." line="279" column="87" />
-        <mark key="^" line="279" column="87" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1561541099541">
+        <mark key="[" line="269" column="14" />
+        <mark key="]" line="269" column="13" />
+        <mark key="^" line="269" column="13" />
+        <mark key="." line="269" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/test.php" timestamp="1560922772580">
         <mark key="[" line="1" column="0" />
@@ -633,6 +632,13 @@
         <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManAPRight.php" timestamp="1561451209782" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1561541485415">
+        <mark key="'" line="14" column="33" />
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/application/source/mail.txt" timestamp="1559835073254">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="1" column="25" />
@@ -699,12 +705,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" timestamp="1561539053033">
-        <mark key="'" line="17" column="56" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" timestamp="1561539053033" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/SYS/AbstractLogsDAO.php" timestamp="1547880310139">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -1310,6 +1311,7 @@
         <mark key="^" line="185" column="61" />
         <mark key="." line="185" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/bm/bm_send.htm" timestamp="1561541507917" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_edit.htm" timestamp="1560152305344">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -1439,8 +1441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" />
-      <jump line="155" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" />
       <jump line="220" column="58" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="377" column="17" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" />
       <jump line="346" column="19" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" />
@@ -1539,6 +1539,8 @@
       <jump line="141" column="32" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
       <jump line="194" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
       <jump line="209" column="5" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Service/VA/CalCardDateActualTest.php" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
+      <jump line="14" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1628,7 +1630,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>dutyStart</text>
+        <text>13</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1667,7 +1669,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dutyStart</text>
+        <text>13</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
@@ -1682,7 +1684,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYWN0TWludXRlID0gdHJpbSgkYWN0TWludXRlKTsKICAgICAgICBpZiAoaXNfbnVsbCgkYWN0TWludXRlKSA9PT0gdHJ1ZSB8fCAkYWN0TWludXRlID09PSAnJykgewogICAgICAgICAgICByZXR1cm4gJGR1dHlEYXRlOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1792,22 +1794,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYWN0TWludXRlID0gdHJpbSgkYWN0TWludXRlKTsKICAgICAgICBpZiAoaXNfbnVsbCgkYWN0TWludXRlKSA9PT0gdHJ1ZSB8fCAkYWN0TWludXRlID09PSAnJykgewogICAgICAgICAgICByZXR1cm4gJGR1dHlEYXRlOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMg</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ZnVuY3Rpb24gdGVzdF/nlbbmiZPljaHmmYLplpPngrrnqbrlgLzliYflm57lgrPlh7rli6Tml6UoKQogICAgewogICAgICAgICRleHBlY3RlZCA9ICcyMDE5LTA2LTE4JzsKICAgICAgICAkYWN0dWFsICAgPSAkdGhpcy0+Y2FsQ2FyZERhdGVBY3R1YWwtPmRvQ2FsKCcyMDE5LTA2LTE4JywgJ3N0YXJ0JywgJycsIDEwODAsIDE4MCk7CgogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJGV4cGVjdGVkLCAkYWN0dWFsKTsKICAgIH0K</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ZnVuY3Rpb24gdGVzdF/nlbbmiZPljaHmmYLplpPngrpudWxs5YmH5Zue5YKz5Ye65Yuk5pelKCkKICAgIHsKICAgICAgICAkZXhwZWN0ZWQgPSAnMjAxOS0wNi0xOCc7CiAgICAgICAgJGFjdHVhbCAgID0gJHRoaXMtPmNhbENhcmREYXRlQWN0dWFsLT5kb0NhbCgnMjAxOS0wNi0xOCcsICdzdGFydCcsIG51bGwsIDEwODAsIDE4MCk7CgogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJGV4cGVjdGVkLCAkYWN0dWFsKTsKICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
