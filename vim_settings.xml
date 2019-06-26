@@ -164,12 +164,12 @@
         <mark key="^" line="36" column="112" />
         <mark key="." line="36" column="112" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" timestamp="1561566336545">
-        <mark key="'" line="73" column="22" />
-        <mark key="[" line="303" column="1" />
-        <mark key="]" line="303" column="0" />
-        <mark key="^" line="303" column="0" />
-        <mark key="." line="303" column="0" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" timestamp="1561567351296">
+        <mark key="'" line="300" column="53" />
+        <mark key="[" line="302" column="18" />
+        <mark key="]" line="302" column="18" />
+        <mark key="^" line="302" column="18" />
+        <mark key="." line="302" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1561541099541">
         <mark key="[" line="269" column="14" />
@@ -636,9 +636,9 @@
         <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManAPRight.php" timestamp="1561451209782" />
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" timestamp="1561566369694">
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" timestamp="1561567338756">
         <mark key="'" line="83" column="0" />
-        <mark key="[" line="72" column="4" />
+        <mark key="[" line="81" column="4" />
         <mark key="]" line="81" column="3" />
         <mark key="^" line="81" column="3" />
         <mark key="." line="81" column="3" />
@@ -1443,7 +1443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" />
       <jump line="271" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="110" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="114" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
@@ -1543,6 +1542,7 @@
       <jump line="156" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" />
       <jump line="149" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" />
       <jump line="74" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" />
+      <jump line="300" column="53" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
