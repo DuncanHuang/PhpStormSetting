@@ -164,8 +164,8 @@
         <mark key="^" line="36" column="112" />
         <mark key="." line="36" column="112" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" timestamp="1561567351296">
-        <mark key="'" line="300" column="53" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" timestamp="1561627517237">
+        <mark key="'" line="8" column="55" />
         <mark key="[" line="302" column="18" />
         <mark key="]" line="302" column="18" />
         <mark key="^" line="302" column="18" />
@@ -386,11 +386,9 @@
         <mark key="^" line="282" column="14" />
         <mark key="." line="282" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" timestamp="1561565055281">
-        <mark key="[" line="144" column="21" />
-        <mark key="]" line="144" column="20" />
-        <mark key="^" line="144" column="20" />
-        <mark key="." line="144" column="20" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" timestamp="1561627410299">
+        <mark key="'" line="139" column="0" />
+        <mark key="^" line="153" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/test.php" timestamp="1558922686582">
         <mark key="[" line="4" column="30" />
@@ -635,12 +633,12 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" timestamp="1561567338756">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="81" column="4" />
-        <mark key="]" line="81" column="3" />
-        <mark key="^" line="81" column="3" />
-        <mark key="." line="81" column="3" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" timestamp="1561627496636">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="174" column="4" />
+        <mark key="]" line="183" column="3" />
+        <mark key="^" line="183" column="3" />
+        <mark key="." line="183" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1561541485415">
         <mark key="'" line="12" column="33" />
@@ -1438,17 +1436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="110" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="114" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="117" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="120" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="130" column="26" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.inc" />
-      <jump line="16" column="39" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va_o2csv.inc" />
-      <jump line="141" column="43" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="197" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" />
-      <jump line="226" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="43" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="119" column="46" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
@@ -1538,6 +1525,17 @@
       <jump line="149" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" />
       <jump line="74" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" />
       <jump line="300" column="53" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
+      <jump line="302" column="18" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
+      <jump line="144" column="20" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
+      <jump line="278" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
+      <jump line="277" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
+      <jump line="139" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
+      <jump line="81" column="3" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" />
+      <jump line="90" column="2" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" />
+      <jump line="8" column="55" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1627,7 +1625,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>static/images/sponsor/.jpg</text>
+        <text>https://www.104.com.tw/job/6haax?jobsource=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1666,7 +1664,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>static/images/sponsor/.jpg</text>
+        <text>https://www.104.com.tw/job/6haax?jobsource=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
