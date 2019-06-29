@@ -278,12 +278,12 @@
         <mark key="." line="75" column="8" />
         <mark key="^" line="75" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/log.txt" timestamp="1561094568073">
-        <mark key="'" line="294" column="174" />
-        <mark key="[" line="294" column="42" />
-        <mark key="]" line="294" column="41" />
-        <mark key="^" line="294" column="41" />
-        <mark key="." line="294" column="41" />
+      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/log.txt" timestamp="1561826372607">
+        <mark key="'" line="286" column="53" />
+        <mark key="[" line="234" column="24" />
+        <mark key="]" line="234" column="23" />
+        <mark key="^" line="234" column="23" />
+        <mark key="." line="234" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" timestamp="1561099808517">
         <mark key="[" line="337" column="31" />
@@ -746,12 +746,12 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" timestamp="1561745157936">
-        <mark key="'" line="364" column="21" />
-        <mark key="[" line="391" column="26" />
-        <mark key="]" line="391" column="25" />
-        <mark key="^" line="391" column="25" />
-        <mark key="." line="391" column="25" />
+      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" timestamp="1561826365702">
+        <mark key="'" line="234" column="18" />
+        <mark key="[" line="236" column="24" />
+        <mark key="]" line="236" column="23" />
+        <mark key="^" line="236" column="23" />
+        <mark key="." line="236" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/application/config/routes.php" timestamp="1559833294440">
         <mark key="'" line="32" column="51" />
@@ -1003,6 +1003,13 @@
         <mark key="]" line="173" column="4" />
         <mark key="." line="173" column="4" />
         <mark key="^" line="173" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" timestamp="1561826383813">
+        <mark key="'" line="432" column="15" />
+        <mark key="[" line="236" column="16" />
+        <mark key="]" line="236" column="15" />
+        <mark key="^" line="236" column="15" />
+        <mark key="." line="236" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/composer.json" timestamp="1550135886942">
         <mark key="[" line="2" column="20" />
@@ -1444,10 +1451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="44" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="50" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="235" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
@@ -1544,6 +1547,10 @@
       <jump line="163" column="4" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
       <jump line="132" column="31" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" />
       <jump line="364" column="21" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" />
+      <jump line="393" column="22" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" />
+      <jump line="286" column="53" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/log.txt" />
+      <jump line="234" column="18" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" />
+      <jump line="432" column="15" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1633,7 +1640,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>https://www.104.com.tw/job/6haax?jobsource=</text>
+        <text>true</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1672,7 +1679,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>https://www.104.com.tw/job/6haax?jobsource=</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
