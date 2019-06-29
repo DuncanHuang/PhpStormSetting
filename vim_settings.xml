@@ -746,6 +746,13 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" timestamp="1561745157936">
+        <mark key="'" line="364" column="21" />
+        <mark key="[" line="391" column="26" />
+        <mark key="]" line="391" column="25" />
+        <mark key="^" line="391" column="25" />
+        <mark key="." line="391" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/application/config/routes.php" timestamp="1559833294440">
         <mark key="'" line="32" column="51" />
         <mark key="[" line="51" column="32" />
@@ -1021,8 +1028,8 @@
         <mark key="^" line="76" column="68" />
         <mark key="." line="76" column="68" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" timestamp="1561191750665">
-        <mark key="'" line="90" column="4" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" timestamp="1561744269819">
+        <mark key="'" line="132" column="31" />
         <mark key="[" line="132" column="32" />
         <mark key="]" line="132" column="31" />
         <mark key="^" line="132" column="31" />
@@ -1052,11 +1059,12 @@
         <mark key="^" line="175" column="100" />
         <mark key="." line="175" column="100" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" timestamp="1561604742387">
-        <mark key="[" line="60" column="59" />
-        <mark key="]" line="60" column="58" />
-        <mark key="^" line="60" column="58" />
-        <mark key="." line="60" column="58" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" timestamp="1561744264045">
+        <mark key="'" line="163" column="4" />
+        <mark key="[" line="72" column="53" />
+        <mark key="]" line="72" column="52" />
+        <mark key="^" line="72" column="52" />
+        <mark key="." line="72" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Detail.inc" timestamp="1550124129961">
         <mark key="[" line="190" column="7" />
@@ -1436,9 +1444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="119" column="46" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" />
@@ -1536,6 +1541,9 @@
       <jump line="90" column="2" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" />
       <jump line="92" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" />
       <jump line="8" column="55" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
+      <jump line="163" column="4" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="132" column="31" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" />
+      <jump line="364" column="21" filename="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
