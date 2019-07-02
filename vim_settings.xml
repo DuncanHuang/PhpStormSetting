@@ -164,12 +164,12 @@
         <mark key="^" line="36" column="112" />
         <mark key="." line="36" column="112" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" timestamp="1562082142375">
-        <mark key="'" line="23" column="54" />
-        <mark key="[" line="202" column="80" />
-        <mark key="]" line="202" column="79" />
-        <mark key="^" line="202" column="79" />
-        <mark key="." line="202" column="79" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" timestamp="1562084013615">
+        <mark key="'" line="196" column="6" />
+        <mark key="[" line="124" column="15" />
+        <mark key="]" line="124" column="39" />
+        <mark key="^" line="124" column="39" />
+        <mark key="." line="124" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1561541099541">
         <mark key="[" line="269" column="14" />
@@ -1443,7 +1443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
@@ -1543,6 +1542,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
       <jump line="368" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
       <jump line="23" column="54" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
+      <jump line="196" column="6" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1632,7 +1632,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>/</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1671,7 +1671,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
