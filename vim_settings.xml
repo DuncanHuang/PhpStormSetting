@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="M" line="42" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.importlog-migration.php" protocol="file" />
     </globalmarks>
@@ -164,12 +164,12 @@
         <mark key="^" line="36" column="112" />
         <mark key="." line="36" column="112" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" timestamp="1562065340946">
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" timestamp="1562081276593">
         <mark key="'" line="23" column="54" />
-        <mark key="[" line="197" column="12" />
-        <mark key="]" line="197" column="13" />
-        <mark key="^" line="202" column="7" />
-        <mark key="." line="197" column="13" />
+        <mark key="[" line="207" column="15" />
+        <mark key="]" line="207" column="31" />
+        <mark key="^" line="207" column="31" />
+        <mark key="." line="207" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1561541099541">
         <mark key="[" line="269" column="14" />
@@ -1003,7 +1003,6 @@
         <mark key="." line="173" column="4" />
         <mark key="^" line="173" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" timestamp="1561826383813" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/composer.json" timestamp="1550135886942">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="21" />
@@ -1632,8 +1631,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgZAo=</text>
+      <register name="&quot;" type="4">
+        <text>https://www.flydove.net/</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1672,7 +1671,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>https://www.flydove.net/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
@@ -2338,7 +2337,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodDown</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -2392,8 +2391,8 @@
         <entry>12</entry>
         <entry>121</entry>
         <entry>174</entry>
-        <entry>action Back</entry>
         <entry>action MethodDown</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
