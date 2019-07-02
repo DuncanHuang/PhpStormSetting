@@ -278,12 +278,12 @@
         <mark key="." line="75" column="8" />
         <mark key="^" line="75" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/log.txt" timestamp="1561826372607">
+      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/log.txt" timestamp="1561826457860">
         <mark key="'" line="286" column="53" />
-        <mark key="[" line="234" column="24" />
-        <mark key="]" line="234" column="23" />
-        <mark key="^" line="234" column="23" />
-        <mark key="." line="234" column="23" />
+        <mark key="[" line="397" column="39" />
+        <mark key="]" line="397" column="38" />
+        <mark key="^" line="397" column="38" />
+        <mark key="." line="397" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" timestamp="1561099808517">
         <mark key="[" line="337" column="31" />
@@ -748,10 +748,6 @@
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/mail.txt" timestamp="1561826365702">
         <mark key="'" line="234" column="18" />
-        <mark key="[" line="236" column="24" />
-        <mark key="]" line="236" column="23" />
-        <mark key="^" line="236" column="23" />
-        <mark key="." line="236" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/application/config/routes.php" timestamp="1559833294440">
         <mark key="'" line="32" column="51" />
@@ -1004,13 +1000,7 @@
         <mark key="." line="173" column="4" />
         <mark key="^" line="173" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" timestamp="1561826383813">
-        <mark key="'" line="432" column="15" />
-        <mark key="[" line="236" column="16" />
-        <mark key="]" line="236" column="15" />
-        <mark key="^" line="236" column="15" />
-        <mark key="." line="236" column="15" />
-      </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/source/sn.txt" timestamp="1561826383813" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/composer.json" timestamp="1550135886942">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="21" />
