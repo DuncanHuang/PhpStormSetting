@@ -164,12 +164,12 @@
         <mark key="^" line="36" column="112" />
         <mark key="." line="36" column="112" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" timestamp="1562033536397">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="228" column="22" />
-        <mark key="]" line="454" column="0" />
-        <mark key="^" line="454" column="0" />
-        <mark key="." line="454" column="0" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" timestamp="1562065340946">
+        <mark key="'" line="23" column="54" />
+        <mark key="[" line="197" column="12" />
+        <mark key="]" line="197" column="13" />
+        <mark key="^" line="202" column="7" />
+        <mark key="." line="197" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1561541099541">
         <mark key="[" line="269" column="14" />
@@ -636,12 +636,12 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" timestamp="1561627496636">
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/job.js" timestamp="1562065239966">
         <mark key="'" line="92" column="0" />
-        <mark key="[" line="174" column="4" />
-        <mark key="]" line="183" column="3" />
-        <mark key="^" line="183" column="3" />
-        <mark key="." line="183" column="3" />
+        <mark key="[" line="191" column="11" />
+        <mark key="]" line="191" column="31" />
+        <mark key="^" line="191" column="31" />
+        <mark key="." line="191" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1561541485415">
         <mark key="'" line="12" column="33" />
@@ -1444,7 +1444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
@@ -1544,6 +1543,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
       <jump line="368" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
+      <jump line="23" column="54" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1633,7 +1633,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>10F</text>
+        <text>https://www.104.com.tw/job/5fm2x?jobsource=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1672,7 +1672,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>10F</text>
+        <text>https://www.104.com.tw/job/5fm2x?jobsource=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
