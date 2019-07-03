@@ -499,12 +499,12 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/.env" timestamp="1561364353685">
-        <mark key="'" line="70" column="41" />
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="21" />
-        <mark key="^" line="12" column="21" />
-        <mark key="." line="12" column="21" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/.env" timestamp="1562119245797">
+        <mark key="'" line="11" column="18" />
+        <mark key="[" line="67" column="19" />
+        <mark key="]" line="67" column="18" />
+        <mark key="^" line="67" column="18" />
+        <mark key="." line="67" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/CmcQuoteServiceTest.php" timestamp="1560827126151">
         <mark key="[" line="8" column="4" />
@@ -1058,7 +1058,7 @@
         <mark key="^" line="175" column="100" />
         <mark key="." line="175" column="100" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" timestamp="1561744264045">
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" timestamp="1562119229052">
         <mark key="'" line="163" column="4" />
         <mark key="[" line="72" column="53" />
         <mark key="]" line="72" column="52" />
@@ -1443,7 +1443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
@@ -1543,6 +1542,7 @@
       <jump line="368" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
       <jump line="23" column="54" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
       <jump line="196" column="6" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
+      <jump line="11" column="18" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
