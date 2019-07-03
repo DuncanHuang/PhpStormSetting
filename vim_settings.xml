@@ -406,10 +406,6 @@
         <mark key="^" line="540" column="4" />
         <mark key="." line="540" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/components/Card/TalkCard/index.js" timestamp="1561199271205">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="185" column="74" />
-      </file>
       <file name="$USER_HOME$/Downloads/9173/storage/vendor/google/cloud-storage/src/StorageObject.php" timestamp="1559755696286">
         <mark key="[" line="55" column="13" />
         <mark key="]" line="55" column="12" />
@@ -635,10 +631,6 @@
         <mark key="]" line="191" column="31" />
         <mark key="^" line="191" column="31" />
         <mark key="." line="191" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1561541485415">
-        <mark key="'" line="12" column="33" />
-        <mark key="[" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/application/source/mail.txt" timestamp="1559835073254">
         <mark key="[" line="0" column="16" />
@@ -888,7 +880,6 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.importlog-migration.php" timestamp="1561598420471" />
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/application/controllers/index.php" timestamp="1559833080548">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="16" />
@@ -1301,14 +1292,13 @@
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" timestamp="1561368191009">
-        <mark key="'" line="233" column="28" />
-        <mark key="[" line="185" column="62" />
-        <mark key="]" line="185" column="61" />
-        <mark key="^" line="185" column="61" />
-        <mark key="." line="185" column="61" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1562139188666">
+        <mark key="'" line="40" column="6" />
+        <mark key="[" line="36" column="7" />
+        <mark key="]" line="36" column="6" />
+        <mark key="^" line="36" column="6" />
+        <mark key="." line="36" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1562120772170" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_edit.htm" timestamp="1560152305344">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -1437,8 +1427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" />
@@ -1537,6 +1525,8 @@
       <jump line="23" column="54" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
       <jump line="196" column="6" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
       <jump line="11" column="18" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/.env" />
+      <jump line="328" column="39" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
+      <jump line="40" column="6" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1625,8 +1615,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_todayLimit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRpcCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwpleGl0KCk7Cg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1677,10 +1667,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRpcCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwpleGl0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nVGltZXMoJ2JlZm9yZV8kdGhpcy0+c2RrX21vZGVsLT5sb2FkVG9kYXlDb21wbGV0ZUNvdW50Jyk7Cg==</text>
+        <text encoding="base64">Ly92YXJfZHVtcCgkaXApOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1789,16 +1779,22 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">JwogICAgICAgICAgKyAn6IO955So5pa857WE57mU5oKo55qE5oOz5rOV44CB6IiH5aSl5Ly06KiO6KuW5Lim5Y2z5pmC6aCQ6Ka957WQ5p6c77yMXG4nCiAgICAgICAgICArICfkuI3kvYblpoLmraTvvIzpgoTmlK/mj7TnsKHloLHjgIHlnJbooajjgIHmlbjlrbjooajpgZTlvI/nrYnlip/og73jgIJcbicKICAgICAgICAgICsgJ+W+nuS4iue3muS7peS+hu+8jOWFsei2hemBjiA5NCDokKzku73nrYboqJjooqvlr6vlnKggSGFja01EIOS4iu+8jFxuJwogICAgICAgICAgKyAn5oiR5YCR5bmr5Yqp5L2/55So6ICF6KO95L2c5paH5Lu244CB5L6/5qKd44CB5bel5L2c5LqL6aCF44CBd3JpdGUtdXBz44CB5L2c5qWt44CB5pWZ5a2455Sa6Iez5o+Q5L6b6ZaL5pS+6KiO6KuW55qE5bmz5Y+w44CCXG4nCiAgICAgICAgICArICfnj77lnKjlsLHliqDlhaXlkKfvvIHmgqjkuZ/og73nlKjogbDmmI7nmoTmlrnlvI/lr6vkvZzvvIFcbicKICAgICAgICAgICsgJ+S4gOeUqOWwseaEm+S4iiA8Mw==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgZAo=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nVGltZXMoJ2JlZm9yZV8kdGhpcy0+c2RrX21vZGVsLT5sb2FkVG9kYXlDb21wbGV0ZUNvdW50Jyk7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">JwogICAgICAgICAgKyAn6IO955So5pa857WE57mU5oKo55qE5oOz5rOV44CB6IiH5aSl5Ly06KiO6KuW5Lim5Y2z5pmC6aCQ6Ka957WQ5p6c77yMXG4nCiAgICAgICAgICArICfkuI3kvYblpoLmraTvvIzpgoTmlK/mj7TnsKHloLHjgIHlnJbooajjgIHmlbjlrbjooajpgZTlvI/nrYnlip/og73jgIJcbicKICAgICAgICAgICsgJ+W+nuS4iue3muS7peS+hu+8jOWFsei2hemBjiA5NCDokKzku73nrYboqJjooqvlr6vlnKggSGFja01EIOS4iu+8jFxuJwogICAgICAgICAgKyAn5oiR5YCR5bmr5Yqp5L2/55So6ICF6KO95L2c5paH5Lu244CB5L6/5qKd44CB5bel5L2c5LqL6aCF44CBd3JpdGUtdXBz44CB5L2c5qWt44CB5pWZ5a2455Sa6Iez5o+Q5L6b6ZaL5pS+6KiO6KuW55qE5bmz5Y+w44CCXG4nCiAgICAgICAgICArICfnj77lnKjlsLHliqDlhaXlkKfvvIHmgqjkuZ/og73nlKjogbDmmI7nmoTmlrnlvI/lr6vkvZzvvIFcbicKICAgICAgICAgICsgJ+S4gOeUqOWwseaEm+S4iiA8Mw==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>[
   {
     id: 0,
@@ -2027,7 +2023,7 @@
   },
 ]</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>[
   {
     id: 1,
@@ -2213,125 +2209,8 @@
   },
 ]</text>
       </register>
-      <register name="8" type="4">
-        <text>[
-  {
-    id: 1,
-    name: '張健成',
-    nickname: 'Alex',
-    company: '一米市集',
-    position: 'CTO',
-    content: '現任上海高端有機生鮮電商 一米市集 CTO。專注於技術多年，過去在台灣曾負責導入知名上市公司 CRM，'
-      + '創業經歷過 IoT、O2O、社群網站…等不同類型，熟悉許多不同的技術領域。',
-    avatarSrc: 'static/images/speakers/AlexChang.jpg',
-    facebook: '',
-    twitter: '',
-    github: '',
-    website: '',
-  },
-  {
-    id: 2,
-    name: '趙家笙',
-    nickname: 'Recca Chao',
-    company: '',
-    position: '',
-    content: 'PHP 開發者，喜歡使用 Laravel 開發網站。因為生性懶惰健忘，所以討厭撰寫多餘的程式碼。'
-      + '總覺得大神的程式碼寫法應該比自己想到的寫法要來得好，所以在工作之餘喜歡研究套件或框架的原始碼。'
-      + '寫程式之餘還喜歡打傳說對決。',
-    avatarSrc: 'static/images/speakers/ReccaChao.jpg',
-    facebook: '',
-    twitter: '',
-    github: '',
-    website: '',
-  },
-  {
-    id: 3,
-    name: '黃文德',
-    nickname: 'Duncan',
-    company: '世成科技',
-    position: '資深程式設計師',
-    content: '人稱地表最速男，是目前用 PhpStorm 完成 TennisGame TDD 練習的最佳紀錄保持人。'
-      + '只要 PhpStorm 在他手上，程式碼就會飛快的長出來。',
-    avatarSrc: 'static/images/speakers/Duncan.jpeg',
-    facebook: '',
-    twitter: '',
-    github: '',
-    website: '',
-  },
-  {
-    id: 4,
-    name: '林郁芬',
-    nickname: 'Winnie',
-    company: '',
-    position: 'Microsoft MVP',
-    content: 'PHP 及 C# 雙修的微軟 MVP，不僅擅用了 VS Code 的各種功能外，還開發了數個外掛，讓她開發 PHP 及 Laravel 時效率++！',
-    avatarSrc: 'static/images/speakers/Winnie.png',
-    facebook: '',
-    twitter: '',
-    github: '',
-    website: '',
-  },
-  {
-    id: 5,
-    name: '王思平',
-    nickname: 'Cara',
-    company: 'MaiCoin',
-    position: 'Software Engineer',
-    content: '固定班底裡少數使用 Vim 的傳奇人物，只看她手指在鍵盤上飛快地移動，Vim 就乖的跟狗一樣的完成任務。',
-    avatarSrc: 'static/images/speakers/Cara.jpeg',
-    facebook: '',
-    twitter: '',
-    github: '',
-    website: '',
-  },
-  {
-    id: 6,
-    name: '蔡佳良',
-    nickname: 'Recca Tsai',
-    company: '自由工作者',
-    position: '',
-    content: 'PHPUnit 台灣版主、也是少數有在把玩 Language Server Protocol 的人。聽說在這次的華山論劍裡，他會帶新作品亮相？',
-    avatarSrc: 'static/images/speakers/ReccaTsai.jpg',
-    facebook: '',
-    twitter: '',
-    github: '',
-    website: '',
-  },
-  {
-    id: 7,
-    name: '胡庭皓',
-    nickname: 'Sasaya',
-    company: 'AmazingTalker',
-    position: 'CTO',
-    content: '相信大家對 Sasaya 一定不陌生，因為他是所有人的 Seafood！現任 Amazing Talker CTO 的他，致力於推廣 Vim + Tmux 的黑畫面開發模式。'
-      + '對極速且高品質的開發相當有興趣。為了加速開發而做了許多小工具，如 Babel 插件或Vim 插件。業餘時間的興趣是玩打擊樂。',
-    avatarSrc: 'static/images/speakers/Sasaya.jpg',
-    facebook: '',
-    twitter: '',
-    github: '',
-    website: '',
-  },
-  {
-    id: 8,
-    name: '鄭宇翔',
-    nickname: '',
-    company: '跑跑腿科技',
-    position: '技術顧問',
-    content: '宇翔從 Laravel 4 時期就開始接觸並開始導入工作應用至今，深受 Laravel 精美的架構及優雅的寫法所吸引、折服。'
-      + '由於在工作上需要處理大量資料及複雜的資料結構，因此對於 Laravel 裡 Collection 的使用有獨門的心得。現任跑跑腿新創公司的技術顧問以及天瀚國際的後端 Leader。',
-    avatarSrc: 'static/images/speakers/Nobody.jpg',
-    facebook: '',
-    twitter: '',
-    github: '',
-    website: '',
-  },
-]</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB7CiAgICBkYXRlVGltZTogJzA4OjE1JywKICAgIGlzQnJlYWtUaW1lOiB0cnVlLAogICAgdHJhY2tMaXN0OiBbCiAgICAgIHsKICAgICAgICBpZDogMSwKICAgICAgICB0aXRsZTogJ+S8keaBr+aZgumWkycsCiAgICAgICAgcGxhY2U6ICdzeW5jJywKICAgICAgfSwKICAgIF0sCiAgfSwKICB7CiAgICBkYXRlVGltZTogJzA4OjMwJywKICAgIHRyYWNrTGlzdDogWwogICAgICB7CiAgICAgICAgaWQ6IDEsCiAgICAgICAgdGl0bGU6ICfot6jlooPpm7vllYbnmoTnnInnnInop5Lop5InLAogICAgICAgIHBsYWNlOiAnMTFGJywKICAgICAgfSwKICAgICAgewogICAgICAgIGlkOiAyLAogICAgICAgIHRpdGxlOiAnTGFyYXZlbCBTdG9yYWdlIFggR0NTIOi3qOW5s+WPsOaHieeUqCcsCiAgICAgICAgcGxhY2U6ICcxMEYnLAogICAgICB9LAogICAgXSwKICB9LAogIHsKICAgIGRhdGVUaW1lOiAnMDk6MzAnLAogICAgaXNCcmVha1RpbWU6IHRydWUsCiAgICB0cmFja0xpc3Q6IFsKICAgICAgewogICAgICAgIGlkOiAxLAogICAgICAgIHRpdGxlOiAn5LyR5oGv5pmC6ZaTJywKICAgICAgICBwbGFjZTogJ3N5bmMnLAogICAgICB9LAogICAgXSwKICB9LAogIHsKICAgIGRhdGVUaW1lOiAnMDk6NDUnLAogICAgdHJhY2tMaXN0OiBbCiAgICAgIHsKICAgICAgICBpZDogMSwKICAgICAgICB0aXRsZTogJ+W3peeoi+W4q+eahOWkp+iIqumBk+S5i+i3rycsCiAgICAgICAgcGxhY2U6ICdzeW5jJywKICAgICAgfSwKICAgIF0sCiAgfSwKICB7CiAgICBkYXRlVGltZTogJzEyOjAwJywKICAgIGlzQnJlYWtUaW1lOiB0cnVlLAogICAgdHJhY2tMaXN0OiBbCiAgICAgIHsKICAgICAgICBpZDogMSwKICAgICAgICB0aXRsZTogJ+WNiOmkkCcsCiAgICAgICAgcGxhY2U6ICdzeW5jJywKICAgICAgfSwKICAgIF0sCiAgfSwKICB7CiAgICBkYXRlVGltZTogJzEzOjAwJywKICAgIHRyYWNrTGlzdDogWwogICAgICB7CiAgICAgICAgaWQ6IDEsCiAgICAgICAgdGl0bGU6ICflpZfku7bnmbzooajmnIMnLAogICAgICAgIHBsYWNlOiAnc3luYycsCiAgICAgICAgc3BlYWtlckxpc3Q6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgaWQ6IDEsCiAgICAgICAgICAgIG5hbWU6ICfmlr3mlL/mupAnLAogICAgICAgICAgICBuaWNrbmFtZTogJ1BhdWwnLAogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgaWQ6IDIsCiAgICAgICAgICAgIG5hbWU6ICfojornp4nmhrInLAogICAgICAgICAgICBuaWNrbmFtZTogJ0xlbm55JywKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgIGlkOiAzLAogICAgICAgICAgICBuYW1lOiAn5YqJ5a6H54OdJywKICAgICAgICAgICAgbmlja25hbWU6ICdKYW1lcycsCiAgICAgICAgICB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgZGF0ZVRpbWU6ICcxNDowMCcsCiAgICBpc0JyZWFrVGltZTogdHJ1ZSwKICAgIHRyYWNrTGlzdDogWwogICAgICB7CiAgICAgICAgaWQ6IDEsCiAgICAgICAgdGl0bGU6ICfkvJHmga/mmYLplpMnLAogICAgICAgIHBsYWNlOiAnc3luYycsCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgZGF0ZVRpbWU6ICcxNDoxNScsCiAgICB0cmFja0xpc3Q6IFsKICAgICAgewogICAgICAgIGlkOiAxLAogICAgICAgIHRpdGxlOiAn5aWX5Lu255m86KGo5pyD6aCS542O5YW456auJywKICAgICAgICBwbGFjZTogJ3N5bmMnLAogICAgICB9LAogICAgXSwKICB9LAogIHsKICAgIGRhdGVUaW1lOiAnMTQ6MzAnLAogICAgdHJhY2tMaXN0OiBbCiAgICAgIHsKICAgICAgICBpZDogMSwKICAgICAgICB0aXRsZTogJ+mWieW5lScsCiAgICAgICAgcGxhY2U6ICdzeW5jJywKICAgICAgfSwKICAgIF0sCiAgfSwKICB7CiAgICBkYXRlVGltZTogJzE0OjQ1JywKICAgIGlzQnJlYWtUaW1lOiB0cnVlLAogICAgdHJhY2tMaXN0OiBbCiAgICAgIHsKICAgICAgICBpZDogMSwKICAgICAgICB0aXRsZTogJ+S8keaBr+aZgumWkycsCiAgICAgICAgcGxhY2U6ICdzeW5jJywKICAgICAgfSwKICAgIF0sCiAgfSwKICB7CiAgICBkYXRlVGltZTogJzE1OjAwJywKICAgIHRyYWNrTGlzdDogWwogICAgICB7CiAgICAgICAgaWQ6IDEsCiAgICAgICAgdGl0bGU6ICc4RiBBZnRlciBQYXJ0eScsCiAgICAgICAgcGxhY2U6ICdzeW5jJywKICAgICAgfSwKICAgIF0sCiAgfSwK</text>
-      </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action VcsShowNextChangeMarker</text>
       </register>
     </registers>
     <search>
@@ -2377,8 +2256,6 @@
         <entry>action ReformatCode</entry>
         <entry>action Debug</entry>
         <entry>action Run</entry>
-        <entry>action VcsShowPrevChangeMarker</entry>
-        <entry>action VcsShowNextChangeMarker</entry>
         <entry>98</entry>
         <entry encoding="base64">JzwsJz4xMjE=</entry>
         <entry>12</entry>
@@ -2387,6 +2264,8 @@
         <entry>action MethodDown</entry>
         <entry>99</entry>
         <entry>action Back</entry>
+        <entry>action VcsShowPrevChangeMarker</entry>
+        <entry>action VcsShowNextChangeMarker</entry>
       </history-cmd>
       <history-expr />
       <history-input />
