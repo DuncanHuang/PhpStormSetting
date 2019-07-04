@@ -471,12 +471,12 @@
         <mark key="." line="75" column="45" />
         <mark key="^" line="75" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1562223719656">
-        <mark key="'" line="1386" column="10" />
-        <mark key="[" line="352" column="37" />
-        <mark key="]" line="352" column="48" />
-        <mark key="^" line="352" column="48" />
-        <mark key="." line="352" column="48" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1562224827139">
+        <mark key="'" line="360" column="43" />
+        <mark key="[" line="1411" column="51" />
+        <mark key="]" line="1411" column="50" />
+        <mark key="." line="1411" column="50" />
+        <mark key="^" line="1411" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/.editorconfig" timestamp="1559102026298">
         <mark key="'" line="17" column="0" />
@@ -1310,11 +1310,11 @@
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1562221016250">
-        <mark key="[" line="40" column="79" />
-        <mark key="]" line="40" column="79" />
-        <mark key="^" line="29" column="49" />
-        <mark key="." line="40" column="79" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1562224919975">
+        <mark key="[" line="15" column="57" />
+        <mark key="]" line="15" column="59" />
+        <mark key="^" line="15" column="59" />
+        <mark key="." line="15" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_edit.htm" timestamp="1560152305344">
         <mark key="[" line="0" column="1" />
@@ -1445,7 +1445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
       <jump line="368" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
       <jump line="23" column="54" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
@@ -1545,6 +1544,7 @@
       <jump line="1137" column="42" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1385" column="10" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="360" column="43" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1633,8 +1633,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+      <register name="&quot;" type="4">
+        <text>卡</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1673,7 +1673,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>上</text>
+        <text>卡</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
@@ -1685,10 +1685,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHNxbHN0cik7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2V4aXQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g6K6A5Y+W5Y2h6ZCY5Yi35Y2h6LOH5paZCiAgICAgICAgICAgIGlmICgkY29udHJvbFJldmlzZSAmIDQpIHsKICAgICAgICAgICAgICAgICRhbGxfdmFjYXRpb25fY2FyZHB1bmNoICA9ICR0aGlzLT5sb2FkQWxsVmFjYXRpb25DYXJkcHVuY2goJGZpbGVfY2FyZF9kYXRlLCAkbmV0YXNrX2NhcmRfdXNlcik7CiAgICAgICAgICAgICAgICAkc3RhZmZfZmlsZV9kYXRhWydkYXRhJ10gPSAkdGhpcy0+bWVyZ2VDYXJkcHVuY2gyQ2FyZCgkc3RhZmZfZmlsZV9kYXRhWydkYXRhJ10sCiAgICAgICAgICAgICAgICAgICAgJGFsbF92YWNhdGlvbl9jYXJkcHVuY2gpOwogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1798,25 +1798,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRwdW5jaERhdGVUaW1lU3RyKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7CmVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkZW1wbG95ZWVOdW1iZXIpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQU5EIE1ldGhvZCAhPSAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT1JERVIgQlkgVVNFUklELCBDUkVBVEVUSU1FOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRwcm9jZXNzQWxsQ2FyZERhdGEpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDtleGl0KCk7Cgo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JENTVkltcG9ydEhlbHBlciA9IG5ldyBDU1ZJbXBvcnRIZWxwZXIoKTsKJENTVkltcG9ydEhlbHBlci0+cGFyc2VyKCRfRklMRVNbJ2ltcG9ydF9maWxlJ11bJ3RtcF9uYW1lJ10pOwokY2FyZEZpbGVTdHJlYW0gPSAkQ1NWSW1wb3J0SGVscGVyLT5nZXRGcCgpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g6K6A5Y+W5Y2h6ZCY5Yi35Y2h6LOH5paZCiAgICAgICAgICAgIGlmICgkY29udHJvbFJldmlzZSAmIDQpIHsKICAgICAgICAgICAgICAgICRhbGxfdmFjYXRpb25fY2FyZHB1bmNoICA9ICR0aGlzLT5sb2FkQWxsVmFjYXRpb25DYXJkcHVuY2goJGZpbGVfY2FyZF9kYXRlLCAkbmV0YXNrX2NhcmRfdXNlcik7CiAgICAgICAgICAgICAgICAkc3RhZmZfZmlsZV9kYXRhWydkYXRhJ10gPSAkdGhpcy0+bWVyZ2VDYXJkcHVuY2gyQ2FyZCgkc3RhZmZfZmlsZV9kYXRhWydkYXRhJ10sCiAgICAgICAgICAgICAgICAgICAgJGFsbF92YWNhdGlvbl9jYXJkcHVuY2gpOwogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRwdW5jaERhdGVUaW1lU3RyKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7CmVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkZW1wbG95ZWVOdW1iZXIpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlICRCQVNFIC4gJy9Gb3VuZGF0aW9uL0hlbHBlci9DU1ZJbXBvcnRIZWxwZXIucGhwJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRwcm9jZXNzQWxsQ2FyZERhdGEpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDtleGl0KCk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
@@ -1872,8 +1872,8 @@
         <entry>q</entry>
         <entry>action MethodDown</entry>
         <entry>363</entry>
-        <entry>action MethodUp</entry>
         <entry>action VcsShowNextChangeMarker</entry>
+        <entry>action MethodUp</entry>
         <entry>action Back</entry>
       </history-cmd>
       <history-expr />
