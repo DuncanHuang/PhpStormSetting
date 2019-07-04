@@ -660,6 +660,13 @@
         <mark key="^" line="191" column="31" />
         <mark key="." line="191" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1562231211800">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="12" column="49" />
+        <mark key="^" line="12" column="49" />
+        <mark key="." line="12" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/application/source/mail.txt" timestamp="1559835073254">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="1" column="25" />
@@ -1334,6 +1341,7 @@
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/bm/bm_send.htm" timestamp="1562231295115" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_edit.htm" timestamp="1560152305344">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -1463,7 +1471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="54" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
       <jump line="196" column="6" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
       <jump line="11" column="18" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/.env" />
       <jump line="328" column="39" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
@@ -1563,6 +1570,7 @@
       <jump line="360" column="43" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="23" column="38" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/overtime.js" />
       <jump line="826" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/overtime.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1651,8 +1659,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>14</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1691,7 +1699,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>卡</text>
+        <text>14</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
