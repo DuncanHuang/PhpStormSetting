@@ -471,12 +471,12 @@
         <mark key="." line="75" column="45" />
         <mark key="^" line="75" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1562219741016">
-        <mark key="'" line="157" column="34" />
-        <mark key="[" line="1277" column="59" />
-        <mark key="]" line="1277" column="69" />
-        <mark key="^" line="1277" column="69" />
-        <mark key="." line="1277" column="69" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1562220970692">
+        <mark key="'" line="1385" column="10" />
+        <mark key="[" line="1240" column="1" />
+        <mark key="]" line="1240" column="0" />
+        <mark key="^" line="1240" column="0" />
+        <mark key="." line="1240" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/.editorconfig" timestamp="1559102026298">
         <mark key="'" line="17" column="0" />
@@ -1310,8 +1310,11 @@
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1562219775745">
-        <mark key="[" line="40" column="79" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1562221004705">
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="29" column="49" />
+        <mark key="^" line="29" column="49" />
+        <mark key="." line="29" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_edit.htm" timestamp="1560152305344">
         <mark key="[" line="0" column="1" />
@@ -1442,9 +1445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
-      <jump line="322" column="6" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
-      <jump line="367" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/sponsor.js" />
       <jump line="368" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/speaker.js" />
@@ -1542,6 +1542,9 @@
       <jump line="33" column="76" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
       <jump line="157" column="34" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
+      <jump line="1137" column="42" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="1385" column="10" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1816,7 +1819,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action VcsShowNextChangeMarker</text>
       </register>
     </registers>
     <search>
@@ -1865,13 +1868,13 @@
         <entry>174</entry>
         <entry>99</entry>
         <entry>action VcsShowPrevChangeMarker</entry>
-        <entry>action VcsShowNextChangeMarker</entry>
         <entry>action RenameElement</entry>
         <entry>q</entry>
         <entry>action MethodDown</entry>
         <entry>363</entry>
         <entry>action MethodUp</entry>
         <entry>action Back</entry>
+        <entry>action VcsShowNextChangeMarker</entry>
       </history-cmd>
       <history-expr />
       <history-input />
