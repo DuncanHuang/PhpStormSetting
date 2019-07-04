@@ -458,12 +458,12 @@
         <mark key="." line="75" column="45" />
         <mark key="^" line="75" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1562209076443">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1562211488744">
         <mark key="'" line="1304" column="35" />
-        <mark key="[" line="93" column="19" />
-        <mark key="]" line="93" column="18" />
-        <mark key="^" line="93" column="18" />
-        <mark key="." line="93" column="18" />
+        <mark key="[" line="1387" column="98" />
+        <mark key="]" line="1387" column="97" />
+        <mark key="^" line="1387" column="97" />
+        <mark key="." line="1387" column="97" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/.editorconfig" timestamp="1559102026298">
         <mark key="'" line="17" column="0" />
@@ -943,7 +943,7 @@
         <mark key="^" line="345" column="73" />
         <mark key="." line="345" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/cardProcess.php" timestamp="1562143141950">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/cardProcess.php" timestamp="1562209901180">
         <mark key="[" line="38" column="48" />
         <mark key="]" line="38" column="47" />
         <mark key="^" line="38" column="47" />
@@ -1213,7 +1213,7 @@
         <mark key="^" line="84" column="45" />
         <mark key="." line="84" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" timestamp="1562209330273" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/NoClockProcess.php" timestamp="1562209784605" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.inc" timestamp="1551157752015">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -1292,12 +1292,12 @@
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1562209677637">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1562209758035">
         <mark key="'" line="40" column="6" />
-        <mark key="[" line="106" column="30" />
-        <mark key="]" line="106" column="28" />
-        <mark key="." line="106" column="28" />
-        <mark key="^" line="106" column="28" />
+        <mark key="[" line="103" column="5" />
+        <mark key="]" line="103" column="4" />
+        <mark key="." line="103" column="4" />
+        <mark key="^" line="103" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_edit.htm" timestamp="1560152305344">
         <mark key="[" line="0" column="1" />
@@ -1802,7 +1802,7 @@
         <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJ2FiJyk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action MethodDown</text>
       </register>
     </registers>
     <search>
@@ -1854,10 +1854,10 @@
         <entry>action VcsShowPrevChangeMarker</entry>
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>action RenameElement</entry>
-        <entry>action MethodDown</entry>
         <entry>q</entry>
-        <entry>action MethodUp</entry>
         <entry>action Back</entry>
+        <entry>action MethodUp</entry>
+        <entry>action MethodDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
