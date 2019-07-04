@@ -471,12 +471,12 @@
         <mark key="." line="75" column="45" />
         <mark key="^" line="75" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1562220970692">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1562221822829">
         <mark key="'" line="1385" column="10" />
-        <mark key="[" line="1240" column="1" />
-        <mark key="]" line="1240" column="0" />
-        <mark key="^" line="1240" column="0" />
-        <mark key="." line="1240" column="0" />
+        <mark key="[" line="1403" column="34" />
+        <mark key="]" line="1403" column="33" />
+        <mark key="^" line="1403" column="33" />
+        <mark key="." line="1403" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/.editorconfig" timestamp="1559102026298">
         <mark key="'" line="17" column="0" />
@@ -1310,11 +1310,11 @@
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1562221004705">
-        <mark key="[" line="29" column="38" />
-        <mark key="]" line="29" column="49" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1562221016250">
+        <mark key="[" line="40" column="79" />
+        <mark key="]" line="40" column="79" />
         <mark key="^" line="29" column="49" />
-        <mark key="." line="29" column="49" />
+        <mark key="." line="40" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_edit.htm" timestamp="1560152305344">
         <mark key="[" line="0" column="1" />
@@ -1634,7 +1634,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>上</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1673,7 +1673,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>上</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
@@ -1819,7 +1819,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action VcsShowNextChangeMarker</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -1873,8 +1873,8 @@
         <entry>action MethodDown</entry>
         <entry>363</entry>
         <entry>action MethodUp</entry>
-        <entry>action Back</entry>
         <entry>action VcsShowNextChangeMarker</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
