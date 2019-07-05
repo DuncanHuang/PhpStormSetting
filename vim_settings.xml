@@ -1073,12 +1073,12 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" timestamp="1562296726473">
-        <mark key="'" line="137" column="31" />
-        <mark key="[" line="49" column="57" />
-        <mark key="]" line="49" column="56" />
-        <mark key="." line="49" column="56" />
-        <mark key="^" line="49" column="56" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" timestamp="1562336578929">
+        <mark key="'" line="142" column="31" />
+        <mark key="[" line="100" column="61" />
+        <mark key="]" line="100" column="77" />
+        <mark key="." line="100" column="77" />
+        <mark key="^" line="100" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_buy.htm" timestamp="1559209257754">
         <mark key="[" line="123" column="29" />
@@ -1104,12 +1104,12 @@
         <mark key="^" line="175" column="100" />
         <mark key="." line="175" column="100" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" timestamp="1562119229052">
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" timestamp="1562333457569">
         <mark key="'" line="163" column="4" />
-        <mark key="[" line="72" column="53" />
-        <mark key="]" line="72" column="52" />
-        <mark key="^" line="72" column="52" />
-        <mark key="." line="72" column="52" />
+        <mark key="[" line="72" column="50" />
+        <mark key="]" line="72" column="49" />
+        <mark key="^" line="72" column="49" />
+        <mark key="." line="72" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/MC/MC_Detail.inc" timestamp="1562146510642">
         <mark key="[" line="57" column="71" />
@@ -1684,8 +1684,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGRkZAo=</text>
+      <register name="&quot;" type="4">
+        <text>checkBlock</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1724,7 +1724,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>checkBlock</text>
       </register>
       <register name="/" type="4">
         <text>V</text>
@@ -1870,7 +1870,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoNextError</text>
+        <text>action MethodDown</text>
       </register>
     </registers>
     <search>
@@ -1915,7 +1915,6 @@
         <entry>99</entry>
         <entry>action VcsShowPrevChangeMarker</entry>
         <entry>q</entry>
-        <entry>action MethodDown</entry>
         <entry>363</entry>
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>845</entry>
@@ -1926,6 +1925,7 @@
         <entry>action RenameElement</entry>
         <entry>action MethodUp</entry>
         <entry>action GotoNextError</entry>
+        <entry>action MethodDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
