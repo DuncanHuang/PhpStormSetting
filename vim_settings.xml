@@ -490,11 +490,12 @@
         <mark key="." line="75" column="45" />
         <mark key="^" line="75" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1562311073091">
-        <mark key="[" line="1276" column="24" />
-        <mark key="]" line="1276" column="30" />
-        <mark key="." line="1276" column="30" />
-        <mark key="^" line="1276" column="30" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1562314729666">
+        <mark key="'" line="1285" column="0" />
+        <mark key="[" line="1372" column="60" />
+        <mark key="]" line="1374" column="120" />
+        <mark key="." line="1374" column="120" />
+        <mark key="^" line="1374" column="120" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/.editorconfig" timestamp="1559102026298">
         <mark key="'" line="17" column="0" />
@@ -1489,16 +1490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.inc" />
-      <jump line="74" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.inc" />
-      <jump line="77" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.inc" />
-      <jump line="80" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.inc" />
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.inc" />
-      <jump line="86" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.inc" />
-      <jump line="89" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.inc" />
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.inc" />
-      <jump line="95" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.inc" />
-      <jump line="96" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.inc" />
       <jump line="33" column="76" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
       <jump line="157" column="34" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
@@ -1589,6 +1580,16 @@
       <jump line="51" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
       <jump line="50" column="25" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
       <jump line="47" column="37" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
+      <jump line="1253" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="1258" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="1260" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="1262" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="1268" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="1264" column="115" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="1270" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="1272" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="1300" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="1285" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1678,7 +1679,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGRkZAo=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1729,10 +1730,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGRkZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1842,10 +1843,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbG9hZFN0b3JhZ2VQYXRoKCkKewogICAgJHN5c0NvbmZpZ0RBTyA9IG5ldyBTeXNDb25maWdEQU8oZmFsc2UpOwogICAgJHN0b3JhZ2VQYXRoICA9ICRzeXNDb25maWdEQU8tPmxvYWQoJ1ZBJywgJ1ZBX0NBUkRfUFVOQ0hfUEhPVE9fUEFUSCcpOwogICAgaWYgKGVtcHR5KCRzdG9yYWdlUGF0aCkgPT0gdHJ1ZSkgewogICAgICAgICRzdG9yYWdlUGF0aCA9ICcvZGF0YS9zdG9yYWdlL0dQU3Bob3RvLyc7ICAgLy8g6aCQ6Kit5YC8CiAgICB9CgogICAgcmV0dXJuICRzdG9yYWdlUGF0aDsKfQoKZnVuY3Rpb24gZ2VtRGlyZWN0b3J5KCkKewogICAgJHN0b3JhZ2VQYXRoID0gc3ByaW50ZignJXMlcy8lcy8lcy8nLCBsb2FkU3RvcmFnZVBhdGgoKSwgZGF0ZSgiWSIpLCBkYXRlKCJtIiksIGRhdGUoImQiKSk7CiAgICAkZGF0YVBhdGggICAgPSBzdWJzdHIoJHN0b3JhZ2VQYXRoLCAxKTsKICAgICRkYXRhUGF0aCAgICA9IGV4cGxvZGUoJy8nLCAkZGF0YVBhdGgpOwogICAgJHBhdGggPSAnJzsKICAgIGZvcmVhY2ggKCRkYXRhUGF0aCBhcyAka2V5ID0+ICR2YWx1ZSkgewogICAgICAgICRwYXRoIC49ICcvJyAuICR2YWx1ZTsKICAgICAgICBpZiAoaXNfZGlyKCRwYXRoKSA9PSBmYWxzZSkgewogICAgICAgICAgICBta2RpcigkcGF0aCk7CiAgICAgICAgfQogICAgfQoKICAgIHJldHVybiAkcGF0aDsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1854,13 +1855,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRsYXN0Q2FyZFB1bmNoKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7ZXhpdCgpOwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gbG9hZFN0b3JhZ2VQYXRoKCkKewogICAgJHN5c0NvbmZpZ0RBTyA9IG5ldyBTeXNDb25maWdEQU8oZmFsc2UpOwogICAgJHN0b3JhZ2VQYXRoICA9ICRzeXNDb25maWdEQU8tPmxvYWQoJ1ZBJywgJ1ZBX0NBUkRfUFVOQ0hfUEhPVE9fUEFUSCcpOwogICAgaWYgKGVtcHR5KCRzdG9yYWdlUGF0aCkgPT0gdHJ1ZSkgewogICAgICAgICRzdG9yYWdlUGF0aCA9ICcvZGF0YS9zdG9yYWdlL0dQU3Bob3RvLyc7ICAgLy8g6aCQ6Kit5YC8CiAgICB9CgogICAgcmV0dXJuICRzdG9yYWdlUGF0aDsKfQoKZnVuY3Rpb24gZ2VtRGlyZWN0b3J5KCkKewogICAgJHN0b3JhZ2VQYXRoID0gc3ByaW50ZignJXMlcy8lcy8lcy8nLCBsb2FkU3RvcmFnZVBhdGgoKSwgZGF0ZSgiWSIpLCBkYXRlKCJtIiksIGRhdGUoImQiKSk7CiAgICAkZGF0YVBhdGggICAgPSBzdWJzdHIoJHN0b3JhZ2VQYXRoLCAxKTsKICAgICRkYXRhUGF0aCAgICA9IGV4cGxvZGUoJy8nLCAkZGF0YVBhdGgpOwogICAgJHBhdGggPSAnJzsKICAgIGZvcmVhY2ggKCRkYXRhUGF0aCBhcyAka2V5ID0+ICR2YWx1ZSkgewogICAgICAgICRwYXRoIC49ICcvJyAuICR2YWx1ZTsKICAgICAgICBpZiAoaXNfZGlyKCRwYXRoKSA9PSBmYWxzZSkgewogICAgICAgICAgICBta2RpcigkcGF0aCk7CiAgICAgICAgfQogICAgfQoKICAgIHJldHVybiAkcGF0aDsKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGdwczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoJHRtcCA9IGt3Y3IyX3Jhd3F1ZXJ5ZmV0Y2goJHF1ZXJ5X29wZW4pKSB7CiAgICAgICAgICAgICRncHNbJHRtcFswXV0gPSBhcnJheSgKICAgICAgICAgICAgICAgICdQdW5jaElEJyAgID0+ICR0bXBbMF0sCiAgICAgICAgICAgICAgICAnR1BTX1gnICAgPT4gJHRtcFsxXSwKICAgICAgICAgICAgICAgICdHUFNfWScgICA9PiAkdG1wWzJdLAogICAgICAgICAgICAgICAgJ2hhc1Bob3RvJyA9PiAkdG1wWzNdID09ICcxJyA/IHRydWUgOiBmYWxzZQogICAgICAgICAgICApOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoNextError</text>
