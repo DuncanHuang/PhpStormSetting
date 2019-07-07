@@ -5,6 +5,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 8" />
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
