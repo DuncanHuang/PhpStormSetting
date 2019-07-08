@@ -480,11 +480,11 @@
         <mark key="." line="75" column="45" />
         <mark key="^" line="75" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1562566705094">
-        <mark key="'" line="1364" column="43" />
-        <mark key="[" line="1335" column="48" />
-        <mark key="]" line="1330" column="48" />
-        <mark key="." line="1330" column="48" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1562573842448">
+        <mark key="'" line="1362" column="43" />
+        <mark key="[" line="1338" column="0" />
+        <mark key="]" line="1338" column="0" />
+        <mark key="." line="1338" column="0" />
         <mark key="^" line="1330" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/.editorconfig" timestamp="1559102026298">
@@ -1678,8 +1678,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1730,10 +1730,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJG1zZyA9IHVwZERCKCRzcWxzdHIsICR0aGlzLT5nZXREYigpLCAkcGFyYW1zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRjYXJkX3Jlc3VsdCcgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJGNhcmRfcmVzdWx0KSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1843,25 +1843,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRpdGVtJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkaXRlbSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJG1zZyA9IHVwZERCKCRzcWxzdHIsICR0aGlzLT5nZXREYigpLCAkcGFyYW1zKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHNxbHN0cicgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHNxbHN0cikgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRjYXJkX3Jlc3VsdCcgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJGNhcmRfcmVzdWx0KSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHBhcmFtcycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHBhcmFtcykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRpdGVtJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkaXRlbSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRzcWxzdHIyJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkc3Fsc3RyKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHNxbHN0cicgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHNxbHN0cikgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRwYXJhbXMyJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkcGFyYW1zKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHBhcmFtcycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHBhcmFtcykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJGl0ZW0nIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRpdGVtKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRzcWxzdHIyJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkc3Fsc3RyKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmbG9nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRwYXJhbXMyJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkcGFyYW1zKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
