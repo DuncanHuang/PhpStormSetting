@@ -538,14 +538,14 @@
         <mark key="." line="334" column="32" />
         <mark key="^" line="334" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCorpInfo.php" timestamp="1562637229203">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="180" column="13" />
-        <mark key="]" line="180" column="12" />
-        <mark key="." line="180" column="12" />
-        <mark key="^" line="180" column="12" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCorpInfo.php" timestamp="1562637385426">
+        <mark key="'" line="181" column="12" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="157" column="8" />
+        <mark key="." line="157" column="8" />
+        <mark key="^" line="157" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/SYS/SysConfigDAO.php" timestamp="1547794837236">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/SYS/SysConfigDAO.php" timestamp="1562637425159">
         <mark key="[" line="55" column="12" />
         <mark key="]" line="55" column="12" />
         <mark key="." line="55" column="12" />
@@ -642,12 +642,6 @@
         <mark key="]" line="191" column="31" />
         <mark key="^" line="191" column="31" />
         <mark key="." line="191" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1562306550248">
-        <mark key="'" line="12" column="40" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/application/source/mail.txt" timestamp="1559835073254">
         <mark key="[" line="0" column="16" />
@@ -1470,7 +1464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="826" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/overtime.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="102" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="87" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
@@ -1570,6 +1563,7 @@
       <jump line="21" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/VA/KWCR2VacationCardPunchDAO.php" />
       <jump line="101" column="67" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/List.php" />
       <jump line="31" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCorpInfo.php" />
+      <jump line="180" column="12" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCorpInfo.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1844,7 +1838,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRpdGVtJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkaXRlbSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action Forward</text>
       </register>
     </registers>
     <search>
@@ -1896,10 +1890,10 @@
         <entry>action MethodUp</entry>
         <entry>1265</entry>
         <entry>1372</entry>
-        <entry>action Forward</entry>
         <entry>1264</entry>
         <entry>1374</entry>
         <entry>action Back</entry>
+        <entry>action Forward</entry>
       </history-cmd>
       <history-expr />
       <history-input />
