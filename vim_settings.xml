@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="M" line="42" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.importlog-migration.php" protocol="file" />
     </globalmarks>
@@ -73,11 +73,6 @@
         <mark key="]" line="25" column="67" />
         <mark key="^" line="25" column="67" />
         <mark key="." line="25" column="67" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/models/api/sdk_model.php" timestamp="1562337668430">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Detail.php" timestamp="1560328961995">
         <mark key="'" line="126" column="12" />
@@ -731,19 +726,12 @@
         <mark key="^" line="9" column="30" />
         <mark key="." line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" timestamp="1562070864774">
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" timestamp="1562653934582">
         <mark key="'" line="10" column="19" />
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="20" column="4" />
-        <mark key="^" line="20" column="4" />
-        <mark key="." line="20" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" timestamp="1562070774645">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="36" column="6" />
-        <mark key="]" line="36" column="5" />
-        <mark key="^" line="36" column="5" />
-        <mark key="." line="36" column="5" />
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="21" column="47" />
+        <mark key="^" line="21" column="47" />
+        <mark key="." line="21" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/common.Utility.php" timestamp="1562320040267">
         <mark key="[" line="355" column="20" />
@@ -771,7 +759,7 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562070646773">
+      <file name="/Dummy.txt" timestamp="1562653999353">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -938,6 +926,9 @@
         <mark key="]" line="225" column="69" />
         <mark key="^" line="225" column="69" />
         <mark key="." line="225" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/CmcQuoteServiceTest.php" timestamp="1562654004376">
+        <mark key="[" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/GameTest.php" timestamp="1561268203604">
         <mark key="[" line="10" column="13" />
@@ -1117,6 +1108,9 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="40" column="14" />
       </file>
+      <file name="/fragment.php" timestamp="1562336607319">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordReport.php" timestamp="1560245087247">
         <mark key="[" line="64" column="49" />
         <mark key="]" line="64" column="48" />
@@ -1198,11 +1192,6 @@
         <mark key="]" line="4" column="5" />
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/NetaskVersion.php" timestamp="1562306595739">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/2019-01-13-dojo/src/highCardMatcher.php" timestamp="1561341108094">
         <mark key="[" line="13" column="5" />
