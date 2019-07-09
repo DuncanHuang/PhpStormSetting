@@ -308,11 +308,11 @@
         <mark key="." line="248" column="32" />
         <mark key="^" line="248" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1550741194219">
-        <mark key="[" line="898" column="75" />
-        <mark key="]" line="898" column="74" />
-        <mark key="^" line="898" column="74" />
-        <mark key="." line="898" column="74" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1562639700976">
+        <mark key="[" line="98" column="2" />
+        <mark key="]" line="98" column="2" />
+        <mark key="^" line="98" column="2" />
+        <mark key="." line="98" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/new_wf_step3.htm" timestamp="1548928832831">
         <mark key="[" line="385" column="24" />
@@ -537,13 +537,6 @@
         <mark key="]" line="334" column="32" />
         <mark key="." line="334" column="32" />
         <mark key="^" line="334" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCorpInfo.php" timestamp="1562637385426">
-        <mark key="'" line="181" column="12" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="157" column="8" />
-        <mark key="." line="157" column="8" />
-        <mark key="^" line="157" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/SYS/SysConfigDAO.php" timestamp="1562637425159">
         <mark key="[" line="55" column="12" />
@@ -1464,12 +1457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="102" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="87" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="108" column="32" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="362" column="65" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/models/api/api_model.php" />
@@ -1564,6 +1551,12 @@
       <jump line="101" column="67" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/List.php" />
       <jump line="31" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCorpInfo.php" />
       <jump line="180" column="12" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCorpInfo.php" />
+      <jump line="99" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
+      <jump line="1175" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
+      <jump line="100" column="6" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
+      <jump line="1176" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
+      <jump line="93" column="45" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1652,8 +1645,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>7015</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1692,7 +1685,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ASC</text>
+        <text>7015</text>
       </register>
       <register name="/" type="4">
         <text>V</text>
