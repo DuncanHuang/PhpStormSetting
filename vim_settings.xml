@@ -303,12 +303,12 @@
         <mark key="." line="248" column="32" />
         <mark key="^" line="248" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1562651148734">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1562661597099">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="855" column="0" />
-        <mark key="]" line="966" column="0" />
-        <mark key="^" line="966" column="0" />
-        <mark key="." line="966" column="0" />
+        <mark key="[" line="952" column="42" />
+        <mark key="]" line="952" column="41" />
+        <mark key="^" line="952" column="41" />
+        <mark key="." line="952" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/new_wf_step3.htm" timestamp="1548928832831">
         <mark key="[" line="385" column="24" />
@@ -1661,8 +1661,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEd1enpsZUh0dHBcQ2xpZW50Owo=</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1701,7 +1701,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Client $client</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>logT</text>
