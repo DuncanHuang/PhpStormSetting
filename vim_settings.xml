@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="M" line="42" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.importlog-migration.php" protocol="file" />
     </globalmarks>
@@ -308,7 +308,6 @@
         <mark key="." line="248" column="32" />
         <mark key="^" line="248" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1562664937746" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/new_wf_step3.htm" timestamp="1548928832831">
         <mark key="[" line="385" column="24" />
         <mark key="]" line="385" column="23" />
@@ -1032,7 +1031,6 @@
         <mark key="^" line="1159" column="33" />
         <mark key="." line="1159" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/resources/views/cmcquote/show.blade.php" timestamp="1562655531661" />
       <file name="$USER_HOME$/Downloads/9173/storage/composer.json" timestamp="1561198626734">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="28" />
@@ -1057,12 +1055,12 @@
         <mark key="." line="29" column="12" />
         <mark key="^" line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" timestamp="1562337657201">
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" timestamp="1562722542028">
         <mark key="'" line="142" column="31" />
-        <mark key="[" line="100" column="31" />
-        <mark key="]" line="100" column="30" />
-        <mark key="." line="100" column="30" />
-        <mark key="^" line="100" column="30" />
+        <mark key="[" line="172" column="47" />
+        <mark key="]" line="172" column="46" />
+        <mark key="." line="172" column="46" />
+        <mark key="^" line="172" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_buy.htm" timestamp="1559209257754">
         <mark key="[" line="123" column="29" />
