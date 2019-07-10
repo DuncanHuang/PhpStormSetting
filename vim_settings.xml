@@ -93,6 +93,12 @@
         <mark key="^" line="28" column="2" />
         <mark key="." line="28" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/util/XdocReceiverSelector/XdocReceiverSelector.js" timestamp="1562746983195">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/Polyfill/ArrayFunctionHelper.php" timestamp="1549959728146">
         <mark key="[" line="49" column="14" />
         <mark key="]" line="49" column="13" />
@@ -624,12 +630,12 @@
         <mark key="^" line="191" column="31" />
         <mark key="." line="191" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1562745271223">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="89" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1562748219852">
+        <mark key="'" line="34" column="55" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+        <mark key="^" line="8" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/application/source/mail.txt" timestamp="1559835073254">
         <mark key="[" line="0" column="16" />
@@ -815,6 +821,9 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
         <mark key="^" line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/util/cwHistory.js" timestamp="1562747643583">
+        <mark key="'" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/List.php" timestamp="1562729818733">
         <mark key="'" line="101" column="67" />
@@ -1343,8 +1352,7 @@
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/bm/bm_send.htm" timestamp="1562744231618" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1562743868371" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/bm/bm_send.htm" timestamp="1562748720344" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/pm/pm_edit.htm" timestamp="1560152305344">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -1482,10 +1490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
-      <jump line="74" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
-      <jump line="79" column="23" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
-      <jump line="85" column="56" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
       <jump line="66" column="39" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
       <jump line="52" column="65" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
@@ -1582,6 +1586,10 @@
       <jump line="108" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="94" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
+      <jump line="28" column="37" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
+      <jump line="37" column="45" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/util/XdocReceiverSelector/XdocReceiverSelector.js" />
+      <jump line="29" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/util/cwHistory.js" />
+      <jump line="26" column="55" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1670,8 +1678,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyYzJlOWVkNTEuLi4gSXNzdWUgIzM3ODkgOC4zLjEwIFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
+      <register name="&quot;" type="4">
+        <text>05</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1710,7 +1718,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>04</text>
+        <text>05</text>
       </register>
       <register name="/" type="4">
         <text>logT</text>
@@ -1838,25 +1846,25 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzNTljNDBkNTkuLi4gSXNzdWUgIzM3ODYg5b6eIHdmX3ZpZXdfZml4ZWQuaHRtIOWwh+ewveaguOmXnOWNoeewvei+puaEj+imi+eoi+W8j+eivOaQrOenu+WIsOmBremAgOS7tuewveaguAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAyYzJlOWVkNTEuLi4gSXNzdWUgIzM3ODkgOC4zLjEwIFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgICAgdmFyIGF0dEZNRmlsZXMgPSBbXTsvL+mZhOWKoOaqlOahiAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRkZXRhaWxMaXN0KTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7ZXhpdCgpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAzNTljNDBkNTkuLi4gSXNzdWUgIzM3ODYg5b6eIHdmX3ZpZXdfZml4ZWQuaHRtIOWwh+ewveaguOmXnOWNoeewvei+puaEj+imi+eoi+W8j+eivOaQrOenu+WIsOmBremAgOS7tuewveaguAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly/ljbPmmYLpgJroqIogOiA/IOWJh+ioiuaBr+acquiugCggPyDmlrApCnJwY19vdXQoJF9fUlBDLCAkY291bnRNZXNzYWdlKTsKCi8v5pW06auU6KGM5LqL5puGLCDnrYbmlbgsIOWIl+ihqApycGNfb3V0KCRfX1JQQywgIiIgLiAkY291bnRDQTMgLiAiIik7Cgpmb3IgKCRpID0gMDsgJGkgPCAkY291bnRDQTM7ICRpKyspIHsKICAgIHJwY19vdXQoJF9fUlBDLCAiXCIiIC4gJHRvQ2FsWyRpXVswXSAuICJcIiwgXCIiIC4gJHRvQ2FsWyRpXVsxXSAuICJcIiIpOwp9CgppZiAoJF9QT1NUWydjciddID09IDEpIHsKICAgICRzdGFydF9kYXRlID0gZGF0ZSgiWS1tLWQiLAogICAgICAgIG1rdGltZShkYXRlKCJIIiksIGRhdGUoImkiKSwgZGF0ZSgicyIpLCBkYXRlKCJtIiksIGRhdGUoImQiKSAtIDE0LAogICAgICAgICAgICBkYXRlKCJZIikpKTsKICAgICRlbmRfZGF0ZSAgID0gZGF0ZSgiWS1tLWQiLAogICAgICAgIG1rdGltZShkYXRlKCJIIiksIGRhdGUoImkiKSwgZGF0ZSgicyIpLCBkYXRlKCJtIiksIGRhdGUoImQiKSArIDEsCiAgICAgICAgICAgIGRhdGUoIlkiKSkpOwoKICAgICRzcWxzdHIgPSAiCiAgICBTRUxFQ1QgQ09VTlQoMSkKICAgIEZST00gKAogICAgICAgIFNFTEVDVCAxCiAgICAgICAgRlJPTSBjcl9jdXN0b21lciBjICAsICAoCiAgICAgICAgICAgIFNFTEVDVCB0dGFibGUuKiwgYy5yYW5kbnVtLCBjLmNvbW1fZGF0ZSwgYy5DcmVhdGVUaW1lIEFTIHRleHR0aW1lLCBjLmNvbW1faWQKICAgICAgICAgICAgRlJPTSAoCiAgICAgICAgICAgICAgICBTRUxFQ1QgbWF4KE1vZGlmeV9UaW1lKSBBUyBtb2RpZnlfdGltZSwgRkNyZWF0ZVRpbWUsIEZSYW5kTnVtLCBtYXgoQ3JlYXRlVGltZSkgQVMgQ3JlYXRlVGltZQogICAgICAgICAgICAgICAgRlJPTSAoCiAgICAgICAgICAgICAgICAgICAgU0VMRUNUIE1vZGlmeV9UaW1lLCBGQ3JlYXRlVGltZSwgRlJhbmROdW0sIENyZWF0ZVRpbWUKICAgICAgICAgICAgICAgICAgICBGUk9NIENSX1JlcG9ydAogICAgICAgICAgICAgICAgICAgIFdIRVJFICgoQ3JlYXRlVGltZSBCRVRXRUVOID8gQU5EID8pIE9SIChNb2RpZnlfVGltZSBCRVRXRUVOID8gQU5EID8pKQoKICAgICAgICAgICAgICAgICAgICBVTklPTgoKICAgICAgICAgICAgICAgICAgICBTRUxFQ1QgZC5Nb2RpZnlfVGltZSwgbS5GQ3JlYXRlVGltZSwgbS5GUmFuZE51bSwgZC5DcmVhdGVUaW1lCiAgICAgICAgICAgICAgICAgICAgRlJPTSBjcl9yZXBvcnQgbSwgY3JfcmVwb3J0IGQKICAgICAgICAgICAgICAgICAgICBXSEVSRSBtLkNyZWF0ZVRpbWUgPSBkLmZDcmVhdGVUaW1lCiAgICAgICAgICAgICAgICAgICAgQU5EIG0ucmFuZG51bSA9IGQuZnJhbmRudW0KICAgICAgICAgICAgICAgICAgICBBTkQgKChkLkNyZWF0ZVRpbWUgQkVUV0VFTiA/IEFORCA/KSBPUiAoZC5Nb2RpZnlfVGltZSBCRVRXRUVOID8gQU5EID8pKQogICAgICAgICAgICAgICAgKSB4CiAgICAgICAgICAgICAgICBHUk9VUCBCWSBGQ3JlYXRlVGltZSwgRlJhbmROdW0KICAgICAgICAgICAgKSB0dGFibGUsIGNyX3JlcG9ydCBjCiAgICAgICAgICAgIFdIRVJFIHR0YWJsZS5DcmVhdGVUaW1lID0gYy5DcmVhdGVUaW1lCiAgICAgICAgKSByICAsIENSX0NhdGVnb3J5IHQKICAgICAgICBXSEVSRSBjLnJhbmRudW0gPSByLmZyYW5kbnVtCiAgICAgICAgQU5EIGMuQ3JlYXRlVGltZSA9IHIuZmNyZWF0ZXRpbWUgICAgICAgICAgICBBTkQgdC5TZXJpYWwgPSBjLkNhdF9OdW0KICAgICAgICBBTkQgKAogICAgICAgICAgICAoU0VDWENIRUNLIChSRVBMQUNFIChULkpvaW5NZW1iZXIsICdSRycsICdSZycpICw/LCAnUicpID0gMSApCiAgICAgICAgICAgIE9SIChTRUNYQ0hFQ0sgKFJFUExBQ0UgKFQuUE1JRCwgJ1JHJywgJ1JnJykgLD8sICdSJykgPSAxICkKICAgICAgICAgICAgT1IgKFNFQ1hDSEVDSyAoUkVQTEFDRSAoVC5FZGl0TWVtYmVyLCAnUkcnLCAnUmcnKSAsPywgJ1InKSA9IDEgKQogICAgICAgICkKICAgICAgICBBTkQgKGMuQ29tbV9OYW1lIElTIE5PVCBOVUxMIE9SIGxlbmd0aChjLmNvbW1fbmFtZSkgPD4gMCApCiAgICApIGNudCI7CiAgICAkY250ICAgID0gZ2V0cmVzdWx0KAogICAgICAgICRzcWxzdHIsCiAgICAgICAgYXJyYXkoCiAgICAgICAgICAgICRzdGFydF9kYXRlLAogICAgICAgICAgICAkZW5kX2RhdGUsCiAgICAgICAgICAgICRzdGFydF9kYXRlLAogICAgICAgICAgICAkZW5kX2RhdGUsCiAgICAgICAgICAgICRzdGFydF9kYXRlLAogICAgICAgICAgICAkZW5kX2RhdGUsCiAgICAgICAgICAgICRzdGFydF9kYXRlLAogICAgICAgICAgICAkZW5kX2RhdGUsCiAgICAgICAgICAgICR1X3N0ciwKICAgICAgICAgICAgJHVfc3RyLAogICAgICAgICAgICAkdV9zdHIKICAgICAgICApLAogICAgICAgICJnZXQgbG9naW4gbG9nIGZhaWwhKCRjb3JwX2lkKSIsIDEKICAgICk7CiAgICBycGNfb3V0KCRfX1JQQywgIiIgLiAkY250WzBdWzBdIC4gIiIpOwp9Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JGRvbWFpbiAgPSAibG9jYWxob3N0OjUwMDAiOwoK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgICAgdmFyIGF0dEZNRmlsZXMgPSBbXTsvL+mZhOWKoOaqlOahiAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1892,8 +1900,6 @@
         <entry>logT</entry>
       </history-search>
       <history-cmd>
-        <entry>845</entry>
-        <entry>115</entry>
         <entry>action MethodDown</entry>
         <entry>action ChangeSignature</entry>
         <entry>1265</entry>
@@ -1912,6 +1918,8 @@
         <entry>action IntroduceVariable</entry>
         <entry>action Inline</entry>
         <entry>action RenameElement</entry>
+        <entry>40</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
