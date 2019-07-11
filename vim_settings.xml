@@ -97,6 +97,12 @@
         <mark key="^" line="0" column="112" />
         <mark key="." line="0" column="112" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/accede_new.htm" timestamp="1562833201003">
+        <mark key="[" line="7" column="57" />
+        <mark key="]" line="7" column="56" />
+        <mark key="^" line="7" column="56" />
+        <mark key="." line="7" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" timestamp="1561101470385">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10579" column="63" />
@@ -261,12 +267,8 @@
         <mark key="^" line="191" column="31" />
         <mark key="." line="191" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1562827168213">
-        <mark key="'" line="41" column="35" />
-        <mark key="[" line="1" column="47" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="3" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" timestamp="1562833161637">
+        <mark key="'" line="38" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/VacationRecordRepoTest.php" timestamp="1562811837794">
         <mark key="'" line="1419" column="21" />
@@ -776,8 +778,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -816,7 +818,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$splitone</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>logT</text>
