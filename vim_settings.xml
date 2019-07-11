@@ -463,11 +463,11 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" timestamp="1562813660142">
-        <mark key="[" line="163" column="49" />
-        <mark key="]" line="163" column="48" />
-        <mark key="." line="163" column="48" />
-        <mark key="^" line="163" column="48" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" timestamp="1562816124196">
+        <mark key="[" line="148" column="82" />
+        <mark key="]" line="148" column="82" />
+        <mark key="." line="148" column="82" />
+        <mark key="^" line="148" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/SYS/AbstractLogsDAO.php" timestamp="1547880310139">
         <mark key="[" line="26" column="0" />
@@ -1170,8 +1170,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkbXlfcmVzdWx0WyRpXSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+      <register name="&quot;" type="4">
+        <text>$splitone</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -1210,7 +1210,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>$splitone</text>
       </register>
       <register name="/" type="4">
         <text>logT</text>
