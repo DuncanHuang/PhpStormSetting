@@ -433,11 +433,7 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/VacationRecordRepoTest.php" timestamp="1562811837794">
-        <mark key="'" line="1428" column="21" />
-        <mark key="[" line="23" column="76" />
-        <mark key="]" line="23" column="76" />
-        <mark key="." line="23" column="76" />
-        <mark key="^" line="23" column="30" />
+        <mark key="'" line="1419" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Http/Controllers/AdminController.php" timestamp="1561104493960">
         <mark key="[" line="14" column="5" />
@@ -463,7 +459,7 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" timestamp="1562816124196">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" timestamp="1562817208540">
         <mark key="[" line="148" column="82" />
         <mark key="]" line="148" column="82" />
         <mark key="." line="148" column="82" />
@@ -1356,7 +1352,7 @@
         <text encoding="base64">Pj4+Pj4+PiAyYzJlOWVkNTEuLi4gSXNzdWUgIzM3ODkgOC4zLjEwIFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1408,10 +1404,10 @@
         <entry>action Forward</entry>
         <entry>action MethodUp</entry>
         <entry>action Debug</entry>
-        <entry>action Run</entry>
         <entry>action Inline</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action Back</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
