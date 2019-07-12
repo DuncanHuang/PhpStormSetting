@@ -46,6 +46,11 @@
         <mark key="." line="21" column="1" />
         <mark key="^" line="21" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1562903826318">
+        <mark key="[" line="760" column="0" />
+        <mark key="]" line="760" column="0" />
+        <mark key="." line="760" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/.editorconfig" timestamp="1559102026298">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="12" column="16" />
@@ -85,6 +90,12 @@
         <mark key="]" line="43" column="9" />
         <mark key="^" line="43" column="9" />
         <mark key="." line="43" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1562903858947">
+        <mark key="[" line="337" column="77" />
+        <mark key="]" line="337" column="78" />
+        <mark key="." line="337" column="78" />
+        <mark key="^" line="340" column="365" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/database.php" timestamp="1561203197283">
         <mark key="'" line="52" column="0" />
@@ -139,6 +150,12 @@
         <mark key="]" line="227" column="36" />
         <mark key="." line="224" column="42" />
         <mark key="^" line="227" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" timestamp="1562903131722">
+        <mark key="[" line="69" column="49" />
+        <mark key="]" line="69" column="48" />
+        <mark key="^" line="69" column="48" />
+        <mark key="." line="69" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.importlog-migration.php" timestamp="1562845512346" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/wf-sp_forms_lang.tw" timestamp="1562825248286">
@@ -206,12 +223,6 @@
         <mark key="]" line="124" column="39" />
         <mark key="^" line="124" column="39" />
         <mark key="." line="124" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1562895871150">
-        <mark key="[" line="197" column="20" />
-        <mark key="]" line="197" column="24" />
-        <mark key="^" line="197" column="24" />
-        <mark key="." line="197" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/CmcQuoteServiceTest.php" timestamp="1562863192242">
         <mark key="[" line="23" column="32" />
@@ -335,13 +346,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" timestamp="1562895822670">
-        <mark key="'" line="150" column="0" />
-        <mark key="[" line="155" column="79" />
-        <mark key="]" line="155" column="78" />
-        <mark key="^" line="155" column="78" />
-        <mark key="." line="155" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/demo/app/Providers/AppServiceProvider.php" timestamp="1561388799317">
         <mark key="'" line="19" column="6" />
@@ -811,8 +815,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>D</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -851,7 +855,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>{&quot;1667&quot;:{&quot;2019-07-11&quot;:[&quot;1867&quot;,&quot;1667&quot;,&quot;2019-07-11&quot;,&quot;597&quot;,&quot;88&quot;,&quot;600&quot;,&quot;1140&quot;,&quot;&quot;,&quot;780&quot;,&quot;-8.48&quot;,&quot;%u6709%u5FC3%u9580%u5E02%u73ED&quot;,&quot;62345&quot;,&quot;&quot;,&quot;63592&quot;],&quot;2019-07-12&quot;:[&quot;1903&quot;,&quot;1667&quot;,&quot;2019-07-12&quot;,&quot;596&quot;,&quot;&quot;,&quot;600&quot;,&quot;1140&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u9580%u5E02%u73ED&quot;,&quot;63664&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1603&quot;:{&quot;2019-07-11&quot;:[&quot;1842&quot;,&quot;1603&quot;,&quot;2019-07-11&quot;,&quot;457&quot;,&quot;1042&quot;,&quot;480&quot;,&quot;1020&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.75&quot;,&quot;%u6709%u5FC3%u4E00%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1877&quot;,&quot;1603&quot;,&quot;2019-07-12&quot;,&quot;458&quot;,&quot;&quot;,&quot;480&quot;,&quot;1020&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u4E00%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1664&quot;:{&quot;2019-07-11&quot;:[&quot;1843&quot;,&quot;1664&quot;,&quot;2019-07-11&quot;,&quot;473&quot;,&quot;1031&quot;,&quot;480&quot;,&quot;1020&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.30&quot;,&quot;%u6709%u5FC3%u4E00%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1878&quot;,&quot;1664&quot;,&quot;2019-07-12&quot;,&quot;474&quot;,&quot;&quot;,&quot;480&quot;,&quot;1020&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u4E00%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1676&quot;:{&quot;2019-07-11&quot;:[&quot;1851&quot;,&quot;1676&quot;,&quot;2019-07-11&quot;,&quot;504&quot;,&quot;1082&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.63&quot;,&quot;%u6709%u5FC3%u5009%u7BA1%u4E00%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1883&quot;,&quot;1676&quot;,&quot;2019-07-12&quot;,&quot;501&quot;,&quot;&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u5009%u7BA1%u4E00%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1626&quot;:{&quot;2019-07-11&quot;:[&quot;1852&quot;,&quot;1626&quot;,&quot;2019-07-11&quot;,&quot;506&quot;,&quot;1082&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.60&quot;,&quot;%u6709%u5FC3%u5009%u7BA1%u4E00%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1884&quot;,&quot;1626&quot;,&quot;2019-07-12&quot;,&quot;502&quot;,&quot;&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u5009%u7BA1%u4E00%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1657&quot;:{&quot;2019-07-11&quot;:[&quot;1847&quot;,&quot;1657&quot;,&quot;2019-07-11&quot;,&quot;481&quot;,&quot;&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u98DF%u5802B%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1885&quot;,&quot;1657&quot;,&quot;2019-07-12&quot;,&quot;503&quot;,&quot;&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u98DF%u5802B%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1616&quot;:{&quot;2019-07-11&quot;:[&quot;1849&quot;,&quot;1616&quot;,&quot;2019-07-11&quot;,&quot;503&quot;,&quot;1055&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.20&quot;,&quot;%u6709%u5FC3%u4E8C%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1886&quot;,&quot;1616&quot;,&quot;2019-07-12&quot;,&quot;505&quot;,&quot;&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u4E8C%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1625&quot;:{&quot;2019-07-11&quot;:[&quot;1853&quot;,&quot;1625&quot;,&quot;2019-07-11&quot;,&quot;507&quot;,&quot;1055&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.13&quot;,&quot;%u6709%u5FC3%u5009%u7BA1%u4E00%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1887&quot;,&quot;1625&quot;,&quot;2019-07-12&quot;,&quot;505&quot;,&quot;&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u5009%u7BA1%u4E00%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1651&quot;:{&quot;2019-07-11&quot;:[&quot;1850&quot;,&quot;1651&quot;,&quot;2019-07-11&quot;,&quot;504&quot;,&quot;1058&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.23&quot;,&quot;%u98DF%u5802B%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1888&quot;,&quot;1651&quot;,&quot;2019-07-12&quot;,&quot;506&quot;,&quot;&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u98DF%u5802B%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1643&quot;:{&quot;2019-07-11&quot;:[&quot;1854&quot;,&quot;1643&quot;,&quot;2019-07-11&quot;,&quot;510&quot;,&quot;1082&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.53&quot;,&quot;%u6709%u5FC3%u5009%u7BA1%u4E00%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1889&quot;,&quot;1643&quot;,&quot;2019-07-12&quot;,&quot;507&quot;,&quot;&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u5009%u7BA1%u4E00%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1677&quot;:{&quot;2019-07-11&quot;:null,&quot;2019-07-12&quot;:[&quot;1890&quot;,&quot;1677&quot;,&quot;2019-07-12&quot;,&quot;509&quot;,&quot;&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u98DF%u5802B%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1609&quot;:{&quot;2019-07-11&quot;:[&quot;1855&quot;,&quot;1609&quot;,&quot;2019-07-11&quot;,&quot;510&quot;,&quot;1094&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.73&quot;,&quot;%u6709%u5FC3%u4E8C%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1891&quot;,&quot;1609&quot;,&quot;2019-07-12&quot;,&quot;513&quot;,&quot;&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u4E8C%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1612&quot;:{&quot;2019-07-11&quot;:[&quot;1856&quot;,&quot;1612&quot;,&quot;2019-07-11&quot;,&quot;510&quot;,&quot;1057&quot;,&quot;525&quot;,&quot;1065&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.12&quot;,&quot;%u6709%u5FC3%u8ABF%u73ED%u7528&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1892&quot;,&quot;1612&quot;,&quot;2019-07-12&quot;,&quot;515&quot;,&quot;&quot;,&quot;525&quot;,&quot;1065&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u8ABF%u73ED%u7528&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1608&quot;:{&quot;2019-07-11&quot;:[&quot;1848&quot;,&quot;1608&quot;,&quot;2019-07-11&quot;,&quot;503&quot;,&quot;1057&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.23&quot;,&quot;%u6709%u5FC3%u4E8C%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1893&quot;,&quot;1608&quot;,&quot;2019-07-12&quot;,&quot;517&quot;,&quot;&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u4E8C%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1611&quot;:{&quot;2019-07-11&quot;:[&quot;1857&quot;,&quot;1611&quot;,&quot;2019-07-11&quot;,&quot;516&quot;,&quot;1095&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.65&quot;,&quot;%u6709%u5FC3%u4E8C%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1894&quot;,&quot;1611&quot;,&quot;2019-07-12&quot;,&quot;518&quot;,&quot;&quot;,&quot;510&quot;,&quot;1050&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u4E8C%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1619&quot;:{&quot;2019-07-11&quot;:[&quot;1859&quot;,&quot;1619&quot;,&quot;2019-07-11&quot;,&quot;520&quot;,&quot;1081&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.35&quot;,&quot;%u6709%u5FC3%u4E09%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;62988&quot;],&quot;2019-07-12&quot;:[&quot;1895&quot;,&quot;1619&quot;,&quot;2019-07-12&quot;,&quot;524&quot;,&quot;&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u4E09%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1663&quot;:{&quot;2019-07-11&quot;:[&quot;1858&quot;,&quot;1663&quot;,&quot;2019-07-11&quot;,&quot;519&quot;,&quot;1085&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.43&quot;,&quot;%u6709%u5FC3%u4E09%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1896&quot;,&quot;1663&quot;,&quot;2019-07-12&quot;,&quot;528&quot;,&quot;&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u4E09%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1660&quot;:{&quot;2019-07-11&quot;:[&quot;1863&quot;,&quot;1660&quot;,&quot;2019-07-11&quot;,&quot;532&quot;,&quot;1092&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.33&quot;,&quot;%u6709%u5FC3%u4E09%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1897&quot;,&quot;1660&quot;,&quot;2019-07-12&quot;,&quot;535&quot;,&quot;&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u4E09%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1661&quot;:{&quot;2019-07-11&quot;:[&quot;1866&quot;,&quot;1661&quot;,&quot;2019-07-11&quot;,&quot;536&quot;,&quot;1094&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.30&quot;,&quot;%u6709%u5FC3%u4E09%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1898&quot;,&quot;1661&quot;,&quot;2019-07-12&quot;,&quot;537&quot;,&quot;&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u4E09%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1669&quot;:{&quot;2019-07-11&quot;:[&quot;1865&quot;,&quot;1669&quot;,&quot;2019-07-11&quot;,&quot;535&quot;,&quot;1092&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.28&quot;,&quot;%u6709%u5FC3%u4E09%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1899&quot;,&quot;1669&quot;,&quot;2019-07-12&quot;,&quot;537&quot;,&quot;&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u4E09%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1632&quot;:{&quot;2019-07-11&quot;:[&quot;1860&quot;,&quot;1632&quot;,&quot;2019-07-11&quot;,&quot;528&quot;,&quot;1086&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.30&quot;,&quot;%u98DF%u5802C%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1900&quot;,&quot;1632&quot;,&quot;2019-07-12&quot;,&quot;538&quot;,&quot;&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u98DF%u5802C%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1671&quot;:{&quot;2019-07-11&quot;:[&quot;1864&quot;,&quot;1671&quot;,&quot;2019-07-11&quot;,&quot;534&quot;,&quot;1082&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.13&quot;,&quot;%u6709%u5FC3%u5009%u7BA1%u4E8C%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1901&quot;,&quot;1671&quot;,&quot;2019-07-12&quot;,&quot;540&quot;,&quot;&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u5009%u7BA1%u4E8C%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1670&quot;:{&quot;2019-07-11&quot;:null,&quot;2019-07-12&quot;:[&quot;1902&quot;,&quot;1670&quot;,&quot;2019-07-12&quot;,&quot;540&quot;,&quot;&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u4E09%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1604&quot;:{&quot;2019-07-11&quot;:[&quot;1869&quot;,&quot;1604&quot;,&quot;2019-07-11&quot;,&quot;546&quot;,&quot;1093&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.12&quot;,&quot;%u6709%u5FC3%u4E09%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1904&quot;,&quot;1604&quot;,&quot;2019-07-12&quot;,&quot;543&quot;,&quot;&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u4E09%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1646&quot;:{&quot;2019-07-11&quot;:[&quot;1870&quot;,&quot;1646&quot;,&quot;2019-07-11&quot;,&quot;577&quot;,&quot;&quot;,&quot;600&quot;,&quot;1140&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u98DF%u5802E%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1905&quot;,&quot;1646&quot;,&quot;2019-07-12&quot;,&quot;559&quot;,&quot;&quot;,&quot;600&quot;,&quot;1140&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u98DF%u5802E%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1605&quot;:{&quot;2019-07-11&quot;:[&quot;1868&quot;,&quot;1605&quot;,&quot;2019-07-11&quot;,&quot;540&quot;,&quot;1087&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.12&quot;,&quot;%u6709%u5FC3%u4E09%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1906&quot;,&quot;1605&quot;,&quot;2019-07-12&quot;,&quot;595&quot;,&quot;&quot;,&quot;540&quot;,&quot;1080&quot;,&quot;&quot;,&quot;780&quot;,&quot;0.00&quot;,&quot;%u6709%u5FC3%u4E09%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null},&quot;1630&quot;:{&quot;2019-07-11&quot;:[&quot;1872&quot;,&quot;1630&quot;,&quot;2019-07-11&quot;,&quot;596&quot;,&quot;1152&quot;,&quot;600&quot;,&quot;1140&quot;,&quot;&quot;,&quot;780&quot;,&quot;8.27&quot;,&quot;%u98DF%u5802E%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-12&quot;:[&quot;1907&quot;,&quot;1630&quot;,&quot;2019-07-12&quot;,&quot;598&quot;,&quot;&quot;,&quot;720&quot;,&quot;1260&quot;,&quot;&quot;,&quot;840&quot;,&quot;0.00&quot;,&quot;%u98DF%u5802I%u73ED&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],&quot;2019-07-13&quot;:null}}</text>
       </register>
       <register name="/" type="4">
         <text>fil</text>
@@ -863,10 +867,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHJlcXVlc3TigJM+aGFzKCdjcnlwdG8nKSkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkY3J5cHRvID0gJyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdmFjYXRpb25fY2FyZF9yZXZpc2UgPSA3Owo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -976,28 +980,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRwdW5jaF9pbicgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHB1bmNoX2luKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsKICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRuZXRhc2tfY2FyZF91c2VyJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkbmV0YXNrX2NhcmRfdXNlcikgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckYWxsX2R1dHknIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRhbGxfZHV0eSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckYWxsX3ZhY2F0aW9uX2NhcmQnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRhbGxfdmFjYXRpb25fY2FyZCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckdmFjYXRpb25fY2FyZF9yZXZpc2UnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCR2YWNhdGlvbl9jYXJkX3JldmlzZSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+aGFzKCdjcnlwdG8nKS4K</text>
+        <text encoding="base64">ICAgICAgICAvKiogQXNzZXJ0ICovCiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkc3VjY2VzcywgJGFjdHVhbFsnc3VjY2VzcyddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRleHBlY3RlZCwgJGFjdHVhbFsnZGF0YSddKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzX251bGwoJGJvZHkpICYmIGFycmF5X2tleV9leGlzdHMoJ2RhdGEnLCAkYm9keSkpIHsKICAgICAgICAgICAgJHF1b3RlID0gY29sbGVjdCgkYm9keVsnZGF0YSddKS0+ZmlsdGVyKGZ1bmN0aW9uICgkaXRlbSwgJGtleSkgdXNlICgkY3J5cHRvKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJGl0ZW1bJ3N5bWJvbCddID09PSAkY3J5cHRvOwogICAgICAgICAgICB9KS0+Zmlyc3QoKVsncXVvdGUnXVsnVVNEJ107CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cHVuY2hJbigkY2FyZG5vLCAkZGF0ZXRpbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVvdGUgPSBbXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgICRhcGkgPSAnaHR0cHM6Ly9wcm8tYXBpLmNvaW5tYXJrZXRjYXAuY29tL3YxL2NyeXB0b2N1cnJlbmN5L2xpc3RpbmdzL2xhdGVzdCc7CiAgICAgICAgICAgICRyZXNwb25zZSA9ICRjbGllbnQtPnJlcXVlc3QoJ0dFVCcsICRhcGksIFsKICAgICAgICAgICAgICAgICdoZWFkZXJzJyA9PiBbJ1gtQ01DX1BST19BUElfS0VZJyA9PiAkYXBpS2V5XSwKICAgICAgICAgICAgXSk7CiAgICAgICAgICAgICRib2R5ID0ganNvbl9kZWNvZGUoJHJlc3BvbnNlLT5nZXRCb2R5KCktPmdldENvbnRlbnRzKCksIHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpS2V5ID0gZW52KCdDTUNfQVBJX0tFWScpOwoKICAgICAgICAkYm9keSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpICAgICAgPSAnaHR0cHM6Ly9wcm8tYXBpLmNvaW5tYXJrZXRjYXAuY29tL3YxL2NyeXB0b2N1cnJlbmN5L2xpc3RpbmdzL2xhdGVzdCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICcnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action Debug</text>
       </register>
     </registers>
     <search>
@@ -1040,19 +1044,19 @@
         <entry>action IntroduceVariable</entry>
         <entry>40</entry>
         <entry>w</entry>
-        <entry>action Debug</entry>
         <entry>action Inline</entry>
         <entry>92</entry>
-        <entry>action Forward</entry>
         <entry>action MethodDown</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action GotoNextError</entry>
         <entry>action ReformatCode</entry>
+        <entry>action ChangeSignature</entry>
+        <entry>action RenameElement</entry>
         <entry>action Run</entry>
         <entry>action MethodUp</entry>
-        <entry>action ChangeSignature</entry>
+        <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>action RenameElement</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
