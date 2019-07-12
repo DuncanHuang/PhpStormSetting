@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="M" line="42" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.importlog-migration.php" protocol="file" />
     </globalmarks>
@@ -207,6 +207,12 @@
         <mark key="^" line="124" column="39" />
         <mark key="." line="124" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1562895871150">
+        <mark key="[" line="197" column="20" />
+        <mark key="]" line="197" column="24" />
+        <mark key="^" line="197" column="24" />
+        <mark key="." line="197" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/CmcQuoteServiceTest.php" timestamp="1562863192242">
         <mark key="[" line="23" column="32" />
         <mark key="]" line="23" column="31" />
@@ -329,6 +335,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" timestamp="1562895822670">
+        <mark key="'" line="150" column="0" />
+        <mark key="[" line="155" column="79" />
+        <mark key="]" line="155" column="78" />
+        <mark key="^" line="155" column="78" />
+        <mark key="." line="155" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/demo/app/Providers/AppServiceProvider.php" timestamp="1561388799317">
         <mark key="'" line="19" column="6" />
@@ -457,7 +470,7 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562863169978">
+      <file name="/Dummy.txt" timestamp="1562895863851">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/wf-sp_forms_lang.en" timestamp="1562825211334">
@@ -499,6 +512,9 @@
         <mark key="]" line="40" column="47" />
         <mark key="." line="40" column="47" />
         <mark key="^" line="40" column="47" />
+      </file>
+      <file name="/fragment.php" timestamp="1562895813935">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/demo/config/app.php" timestamp="1561527887310">
         <mark key="'" line="137" column="0" />
@@ -607,11 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1268" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
-      <jump line="1264" column="115" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
-      <jump line="1270" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
-      <jump line="1272" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
-      <jump line="1300" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1285" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="14" column="6" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
       <jump line="671" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
@@ -707,6 +718,11 @@
       <jump line="51" column="17" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" />
       <jump line="22" column="18" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Feature/Feature/Console/CmcQuoteTest.php" />
       <jump line="52" column="8" filename="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Console/Commands/CmcQuote.php" />
+      <jump line="172" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" />
+      <jump line="171" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" />
+      <jump line="167" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" />
+      <jump line="159" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" />
+      <jump line="150" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -795,8 +811,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHJlcXVlc3TigJM+aGFzKCdjcnlwdG8nKSkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>D</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -835,7 +851,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cryptocur</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text>fil</text>
@@ -981,7 +997,7 @@
         <text encoding="base64">ICAgICAgICAkYXBpICAgICAgPSAnaHR0cHM6Ly9wcm8tYXBpLmNvaW5tYXJrZXRjYXAuY29tL3YxL2NyeXB0b2N1cnJlbmN5L2xpc3RpbmdzL2xhdGVzdCc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -1017,18 +1033,15 @@
         <entry>fil</entry>
       </history-search>
       <history-cmd>
-        <entry>1372</entry>
         <entry>1264</entry>
         <entry>1374</entry>
         <entry>855</entry>
         <entry>actionlist</entry>
         <entry>action IntroduceVariable</entry>
-        <entry>action RenameElement</entry>
         <entry>40</entry>
         <entry>w</entry>
         <entry>action Debug</entry>
         <entry>action Inline</entry>
-        <entry>action Back</entry>
         <entry>92</entry>
         <entry>action Forward</entry>
         <entry>action MethodDown</entry>
@@ -1037,6 +1050,9 @@
         <entry>action ReformatCode</entry>
         <entry>action Run</entry>
         <entry>action MethodUp</entry>
+        <entry>action ChangeSignature</entry>
+        <entry>action Back</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
