@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="M" line="42" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.importlog-migration.php" protocol="file" />
     </globalmarks>
@@ -40,11 +40,11 @@
         <mark key="." line="75" column="45" />
         <mark key="^" line="75" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Http/Controllers/CmcQuoteController.php" timestamp="1562863467721">
-        <mark key="[" line="19" column="35" />
-        <mark key="]" line="19" column="60" />
-        <mark key="." line="19" column="60" />
-        <mark key="^" line="19" column="60" />
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Http/Controllers/CmcQuoteController.php" timestamp="1562863550442">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="21" column="1" />
+        <mark key="." line="21" column="1" />
+        <mark key="^" line="21" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/.editorconfig" timestamp="1559102026298">
         <mark key="'" line="17" column="0" />
