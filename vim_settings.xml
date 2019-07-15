@@ -151,11 +151,11 @@
         <mark key="." line="224" column="42" />
         <mark key="^" line="227" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" timestamp="1562903131722">
-        <mark key="[" line="69" column="49" />
-        <mark key="]" line="69" column="48" />
-        <mark key="^" line="69" column="48" />
-        <mark key="." line="69" column="48" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/card2netask.php" timestamp="1563158340532">
+        <mark key="[" line="143" column="39" />
+        <mark key="]" line="143" column="38" />
+        <mark key="^" line="143" column="38" />
+        <mark key="." line="143" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.importlog-migration.php" timestamp="1562845512346" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/wf-sp_forms_lang.tw" timestamp="1562825248286">
@@ -224,6 +224,7 @@
         <mark key="^" line="124" column="39" />
         <mark key="." line="124" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1563158391866" />
       <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/tests/Unit/Service/CmcQuoteServiceTest.php" timestamp="1562863192242">
         <mark key="[" line="23" column="32" />
         <mark key="]" line="23" column="31" />
@@ -327,11 +328,11 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" timestamp="1562812042374">
-        <mark key="[" line="137" column="67" />
-        <mark key="]" line="137" column="66" />
-        <mark key="." line="137" column="66" />
-        <mark key="^" line="137" column="66" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" timestamp="1563158409261">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="1" />
+        <mark key="." line="170" column="1" />
+        <mark key="^" line="170" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/community/storage/yaml/phptheday/phptheday-2019-06-18.yaml" timestamp="1561190748970">
         <mark key="'" line="11" column="35" />
@@ -347,6 +348,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" timestamp="1563158379803" />
       <file name="$USER_HOME$/Documents/NovaxCode/demo/app/Providers/AppServiceProvider.php" timestamp="1561388799317">
         <mark key="'" line="19" column="6" />
         <mark key="[" line="26" column="9" />
@@ -816,7 +818,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>編輯器有強弱之分嗎？LaravelConf Taiwan 2019 將來場華山論劍，看看能不能分出誰是天下第一！</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -855,7 +857,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>編輯器有強弱之分嗎？LaravelConf Taiwan 2019 將來場華山論劍，看看能不能分出誰是天下第一！</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>fil</text>
