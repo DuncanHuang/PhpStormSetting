@@ -92,11 +92,11 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1563418145122">
-        <mark key="[" line="394" column="22" />
-        <mark key="]" line="394" column="21" />
-        <mark key="^" line="394" column="21" />
-        <mark key="." line="394" column="21" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1563419580378">
+        <mark key="[" line="130" column="14" />
+        <mark key="]" line="130" column="18" />
+        <mark key="^" line="130" column="18" />
+        <mark key="." line="130" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1559834384343">
         <mark key="'" line="148" column="0" />
@@ -252,11 +252,12 @@
         <mark key="." line="338" column="8" />
         <mark key="^" line="338" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" timestamp="1563418397291">
-        <mark key="'" line="519" column="29" />
-        <mark key="[" line="534" column="58" />
-        <mark key="]" line="534" column="59" />
-        <mark key="." line="534" column="59" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" timestamp="1563419609850">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2042" column="21" />
+        <mark key="]" line="2042" column="20" />
+        <mark key="." line="2042" column="20" />
+        <mark key="^" line="2042" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" timestamp="1562651889929">
         <mark key="'" line="163" column="4" />
@@ -656,10 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="3" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
-      <jump line="1175" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
-      <jump line="100" column="6" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
       <jump line="1176" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
       <jump line="1179" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
@@ -756,6 +753,10 @@
       <jump line="12" column="19" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="1981" column="43" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
       <jump line="519" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
+      <jump line="643" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
+      <jump line="735" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
+      <jump line="2047" column="27" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -844,8 +845,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRyZXBvcnQnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCR0aGlzLT5yZXBvcnQpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>'遲到'</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -884,7 +885,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'遲到'</text>
       </register>
       <register name="/" type="4">
         <text>fil</text>
@@ -896,10 +897,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRyZXBvcnQnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCR0aGlzLT5yZXBvcnQpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ZhX2NhcmRfd29ya2luZ19sYXRlX2FuZF9mb3JtJyAgICAgICAgID0+ICfpgbLliLAo6Z2e5YGH5pel5LiU54Sh5beu5YGH5ZauKScsCiAgICAgICAgICAgICd2YV9jYXJkX25vX2Nsb2NraW5nX29mZl93b3JrJyAgICAgICAgICA9PiAn5LiL54+t5pyq5Yi35Y2hJywKICAgICAgICAgICAgJ3ZhX2NhcmRfbm9fY2xvY2tpbmdfb2ZmX3dvcmtfYW5kX2Zvcm0nID0+ICfkuIvnj63mnKrliLfljaEo6Z2e5YGH5pel5LiU54Sh5beu5YGH5ZauKScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCQpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRyZXBvcnQnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCR0aGlzLT5yZXBvcnQpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1009,28 +1010,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCQpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFjYXRpb25fY2FyZF9yZXZpc2UgPSA3Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRwdW5jaF9pbicgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHB1bmNoX2luKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsKICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRuZXRhc2tfY2FyZF91c2VyJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkbmV0YXNrX2NhcmRfdXNlcikgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckYWxsX2R1dHknIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRhbGxfZHV0eSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckYWxsX3ZhY2F0aW9uX2NhcmQnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRhbGxfdmFjYXRpb25fY2FyZCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckdmFjYXRpb25fY2FyZF9yZXZpc2UnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCR2YWNhdGlvbl9jYXJkX3JldmlzZSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdmFjYXRpb25fY2FyZF9yZXZpc2UgPSA3Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQXNzZXJ0ICovCiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkc3VjY2VzcywgJGFjdHVhbFsnc3VjY2VzcyddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRleHBlY3RlZCwgJGFjdHVhbFsnZGF0YSddKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRwdW5jaF9pbicgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHB1bmNoX2luKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsKICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRuZXRhc2tfY2FyZF91c2VyJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkbmV0YXNrX2NhcmRfdXNlcikgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckYWxsX2R1dHknIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRhbGxfZHV0eSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckYWxsX3ZhY2F0aW9uX2NhcmQnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRhbGxfdmFjYXRpb25fY2FyZCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckdmFjYXRpb25fY2FyZF9yZXZpc2UnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCR2YWNhdGlvbl9jYXJkX3JldmlzZSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cHVuY2hJbigkY2FyZG5vLCAkZGF0ZXRpbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQXNzZXJ0ICovCiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkc3VjY2VzcywgJGFjdHVhbFsnc3VjY2VzcyddKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRleHBlY3RlZCwgJGFjdHVhbFsnZGF0YSddKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cHVuY2hJbigkY2FyZG5vLCAkZGF0ZXRpbWUpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1080,12 +1081,12 @@
         <entry>action ReformatCode</entry>
         <entry>action ChangeSignature</entry>
         <entry>action RenameElement</entry>
-        <entry>action Run</entry>
-        <entry>action MethodDown</entry>
-        <entry>action MethodUp</entry>
-        <entry>action Back</entry>
         <entry>action Forward</entry>
         <entry>action Debug</entry>
+        <entry>action MethodUp</entry>
+        <entry>action MethodDown</entry>
+        <entry>action Back</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
