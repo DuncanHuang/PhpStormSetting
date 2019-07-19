@@ -676,13 +676,13 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/MathUnion.php" timestamp="1563505065775">
-        <mark key="f" line="41" column="9" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/MathUnion.php" timestamp="1563507134374">
+        <mark key="f" line="36" column="9" />
         <mark key="'" line="14" column="4" />
-        <mark key="[" line="36" column="79" />
-        <mark key="]" line="36" column="78" />
-        <mark key="." line="36" column="78" />
-        <mark key="^" line="36" column="78" />
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="31" column="84" />
+        <mark key="." line="31" column="84" />
+        <mark key="^" line="31" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.5.0.migration.sql" timestamp="1563248852874">
         <mark key="'" line="15" column="0" />
@@ -888,8 +888,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -940,10 +940,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1053,28 +1053,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWydtaW4nID0+IDYzMCwgJ21heCcgPT4gNjQwXSwKICAgICAgICAgICAgWydtaW4nID0+IDY2MCwgJ21heCcgPT4gNjcwXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRtcCA9ICRpdGVtOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbWF0aFVuaW9uLT5hZGRSYW5nZShbJ21pbicgPT4gNjYwLCAnbWF4JyA9PiA2NzBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRrZXkgPT09IDApIHsKICAgICAgICAgICAgICAgICR0aGlzLT5yZXN1bHRbXSA9ICRpdGVtOwogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0XzYwMF82MjBfdW5pb25fNjMwXzY0MF91bmlvbl82NjBfNjcwX3Jlc3VsdF82MDBfNjIwX2FuZF82MzBfNjQwX2FuZF82NjBfNjcwKCkK</text>
+        <text encoding="base64">ICAgICAgICAkdG1wID0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkbmRSYW5nZSA9IFsnbWluJyA9PiA2MzAsICdtYXgnID0+IDY0MF07Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWydtaW4nID0+IDYzMCwgJ21heCcgPT4gNjQwXSwKICAgICAgICAgICAgWydtaW4nID0+IDY2MCwgJ21heCcgPT4gNjcwXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1hdGhJbnRlcnNlY3Rpb24tPmdldEludGVyc2VjdCgkdGhpcy0+Ym94LCAkc2Vjb25kUmFuZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAkbWF0aFVuaW9uLT5hZGRSYW5nZShbJ21pbicgPT4gNjYwLCAnbWF4JyA9PiA2NzBdKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1128,8 +1128,8 @@
         <entry>action Inline</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
-        <entry>action Run</entry>
         <entry>action Debug</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
