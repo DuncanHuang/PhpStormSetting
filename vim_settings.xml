@@ -375,6 +375,7 @@
         <mark key="." line="75" column="45" />
         <mark key="^" line="75" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Http/Controllers/CmcQuoteController.php" timestamp="1563591056046" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/.editorconfig" timestamp="1559102026298">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="12" column="16" />
@@ -821,8 +822,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmlucHV0LT5nZXQoJ3NoYTFfYW5kcm9pZF9pZCcsIHRydWUpID09IGZhbHNlKSB7CiAgICAgICAgICAgICR0aGlzLT5yZXNwb25zZShbJ3N0YXR1cycgPT4gZmFsc2UsICdjb2RlJyA9PiAxMF0sIDQwNik7CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PT0gdHJ1ZSA=</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -861,7 +862,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text encoding="base64">PT0gdHJ1ZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
