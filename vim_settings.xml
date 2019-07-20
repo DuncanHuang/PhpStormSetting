@@ -211,12 +211,12 @@
         <mark key="^" line="397" column="38" />
         <mark key="." line="397" column="38" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" timestamp="1563536160146">
-        <mark key="'" line="142" column="31" />
-        <mark key="[" line="99" column="31" />
-        <mark key="]" line="99" column="30" />
-        <mark key="." line="99" column="30" />
-        <mark key="^" line="99" column="30" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" timestamp="1563547550361">
+        <mark key="'" line="146" column="31" />
+        <mark key="[" line="41" column="69" />
+        <mark key="]" line="103" column="30" />
+        <mark key="." line="103" column="30" />
+        <mark key="^" line="103" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/MathIntersect.php" timestamp="1563500519096">
         <mark key="'" line="14" column="24" />
@@ -1007,7 +1007,7 @@
         <text encoding="base64">ICAgICAgICAkbWF0aFVuaW9uLT5hZGRSYW5nZShbJ21pbicgPT4gNTUwLCAnbWF4JyA9PiA2MDBdLCk7CiAgICAgICAgJG1hdGhVbmlvbi0+YWRkUmFuZ2UoWydtaW4nID0+IDYxMCwgJ21heCcgPT4gNjMwXSwpOwogICAgICAgICRtYXRoVW5pb24tPmFkZFJhbmdlKFsnbWluJyA9PiA2MjIsICdtYXgnID0+IDY0MF0sKTsKICAgICAgICAkbWF0aFVuaW9uLT5hZGRSYW5nZShbJ21pbicgPT4gNTMwLCAnbWF4JyA9PiA1NzBdLCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>99</text>
+        <text>action MethodUp</text>
       </register>
     </registers>
     <search>
@@ -1058,11 +1058,11 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action GotoNextError</entry>
-        <entry>action MethodUp</entry>
         <entry>action Run</entry>
         <entry>action Back</entry>
         <entry>action MethodDown</entry>
         <entry>99</entry>
+        <entry>action MethodUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
