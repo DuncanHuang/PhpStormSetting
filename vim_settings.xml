@@ -83,11 +83,11 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1563530172900">
-        <mark key="[" line="241" column="25" />
-        <mark key="]" line="243" column="39" />
-        <mark key="^" line="243" column="39" />
-        <mark key="." line="243" column="39" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1563773736956">
+        <mark key="[" line="244" column="32" />
+        <mark key="]" line="244" column="31" />
+        <mark key="^" line="244" column="31" />
+        <mark key="." line="244" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1559834384343">
         <mark key="'" line="148" column="0" />
@@ -212,11 +212,10 @@
         <mark key="." line="397" column="38" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/adgem.php" timestamp="1563547550361">
-        <mark key="'" line="146" column="31" />
-        <mark key="[" line="41" column="69" />
-        <mark key="]" line="103" column="30" />
-        <mark key="." line="103" column="30" />
-        <mark key="^" line="103" column="30" />
+        <mark key="'" line="142" column="31" />
+        <mark key="]" line="99" column="30" />
+        <mark key="." line="99" column="30" />
+        <mark key="^" line="99" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/MathIntersect.php" timestamp="1563500519096">
         <mark key="'" line="14" column="24" />
@@ -231,8 +230,12 @@
         <mark key="." line="331" column="60" />
         <mark key="^" line="331" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" timestamp="1563439091415">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" timestamp="1563774050138">
+        <mark key="'" line="1891" column="4" />
+        <mark key="[" line="2022" column="36" />
+        <mark key="]" line="2022" column="45" />
+        <mark key="^" line="2022" column="45" />
+        <mark key="." line="2022" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" timestamp="1563502233654">
         <mark key="'" line="176" column="12" />
@@ -375,7 +378,6 @@
         <mark key="." line="75" column="45" />
         <mark key="^" line="75" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/app/Http/Controllers/CmcQuoteController.php" timestamp="1563591056046" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/.editorconfig" timestamp="1559102026298">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="12" column="16" />
@@ -634,8 +636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="857" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
-      <jump line="863" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
       <jump line="881" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
       <jump line="887" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
       <jump line="893" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
@@ -734,6 +734,8 @@
       <jump line="53" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/MathUnionTest.php" />
       <jump line="42" column="42" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/MathUnionTest.php" />
       <jump line="93" column="44" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/MathUnionTest.php" />
+      <jump line="1893" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
+      <jump line="1891" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -823,7 +825,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PT0gdHJ1ZSA=</text>
+        <text>2018-06-20</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -862,7 +864,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT0gdHJ1ZSA=</text>
+        <text>2018-06-20</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
@@ -874,10 +876,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmlucHV0LT5nZXQoJ3NoYTFfYW5kcm9pZF9pZCcsIHRydWUpID09IGZhbHNlKSB7CiAgICAgICAgICAgICR0aGlzLT5yZXNwb25zZShbJ3N0YXR1cycgPT4gZmFsc2UsICdjb2RlJyA9PiAxMF0sIDQwNik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ZhX2NhcmRfd29ya2luZ19sYXRlJyA9PiAn6YGy5YiwJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ZhX2NhcmRfd29ya2luZ19sYXRlX2FuZF9mb3JtJyA9PiAn6YGy5YiwKOmdnuWBh+aXpeS4lOeEoeW3ruWBh+WWriknLAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -987,28 +989,28 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmlucHV0LT5nZXQoJ3NoYTFfYW5kcm9pZF9pZCcsIHRydWUpID09IGZhbHNlKSB7CiAgICAgICAgICAgICR0aGlzLT5yZXNwb25zZShbJ3N0YXR1cycgPT4gZmFsc2UsICdjb2RlJyA9PiAxMF0sIDQwNik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJHVuaW9uUmFuZ2UgPSBhcnJheSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkbWF0aFVuaW9uLT5hZGRSYW5nZShbJ21pbicgPT4gNjEwLCAnbWF4JyA9PiA2MzBdLCk7CiAgICAgICAgJG1hdGhVbmlvbi0+YWRkUmFuZ2UoWydtaW4nID0+IDYyMiwgJ21heCcgPT4gNjQwXSwpOwogICAgICAgICRtYXRoVW5pb24tPmFkZFJhbmdlKFsnbWluJyA9PiA1MzAsICdtYXgnID0+IDU3MF0sKTsKICAgICAgICAkbWF0aFVuaW9uLT5hZGRSYW5nZShbJ21pbicgPT4gNTYwLCAnbWF4JyA9PiA2MjBdLCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkbWlvbi0+YWRkUmFuZ2UoWydtaW4nID0+IDU1MCwgJ21heCcgPT4gNjAwXSwpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHVuaW9uUmFuZ2UgPSBhcnJheSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbWF0aFVuaW9uID0gbmV3IE1hdGhVbmlvbigpOwoK</text>
+        <text encoding="base64">ICAgICAgICAkbWF0aFVuaW9uLT5hZGRSYW5nZShbJ21pbicgPT4gNjEwLCAnbWF4JyA9PiA2MzBdLCk7CiAgICAgICAgJG1hdGhVbmlvbi0+YWRkUmFuZ2UoWydtaW4nID0+IDYyMiwgJ21heCcgPT4gNjQwXSwpOwogICAgICAgICRtYXRoVW5pb24tPmFkZFJhbmdlKFsnbWluJyA9PiA1MzAsICdtYXgnID0+IDU3MF0sKTsKICAgICAgICAkbWF0aFVuaW9uLT5hZGRSYW5nZShbJ21pbicgPT4gNTYwLCAnbWF4JyA9PiA2MjBdLCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbWF0aFVuaW9uLT5hZGRSYW5nZShbJ21pbicgPT4gNTUwLCAnbWF4JyA9PiA2MDBdLCk7CiAgICAgICAgJG1hdGhVbmlvbi0+YWRkUmFuZ2UoWydtaW4nID0+IDYxMCwgJ21heCcgPT4gNjMwXSwpOwogICAgICAgICRtYXRoVW5pb24tPmFkZFJhbmdlKFsnbWluJyA9PiA2MjIsICdtYXgnID0+IDY0MF0sKTsKICAgICAgICAkbWF0aFVuaW9uLT5hZGRSYW5nZShbJ21pbicgPT4gNTMwLCAnbWF4JyA9PiA1NzBdLCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbWlvbi0+YWRkUmFuZ2UoWydtaW4nID0+IDU1MCwgJ21heCcgPT4gNjAwXSwpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -1044,26 +1046,26 @@
         <entry encoding="base64">IGZ1bmN0aW9u</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>92</entry>
         <entry>action ChangeSignature</entry>
-        <entry>action Forward</entry>
         <entry>365</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action Debug</entry>
         <entry>action ReformatCode</entry>
         <entry>action IntroduceField</entry>
         <entry>action Inline</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action GotoNextError</entry>
-        <entry>action Run</entry>
-        <entry>action Back</entry>
         <entry>action MethodDown</entry>
         <entry>99</entry>
+        <entry>243</entry>
+        <entry>action Back</entry>
+        <entry>action Forward</entry>
         <entry>action MethodUp</entry>
+        <entry>action Debug</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
