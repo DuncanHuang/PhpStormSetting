@@ -78,12 +78,12 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1563784537659">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1563787389222">
         <mark key="'" line="260" column="0" />
-        <mark key="[" line="245" column="32" />
-        <mark key="]" line="245" column="31" />
-        <mark key="^" line="245" column="31" />
-        <mark key="." line="245" column="31" />
+        <mark key="[" line="458" column="5" />
+        <mark key="]" line="459" column="20" />
+        <mark key="." line="459" column="20" />
+        <mark key="^" line="459" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1559834384343">
         <mark key="'" line="148" column="0" />
@@ -229,13 +229,13 @@
         <mark key="." line="331" column="60" />
         <mark key="^" line="331" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" timestamp="1563784626205">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" timestamp="1563787368515">
         <mark key="f" line="15" column="8" />
-        <mark key="'" line="1827" column="61" />
-        <mark key="[" line="1816" column="0" />
-        <mark key="]" line="1816" column="0" />
-        <mark key="." line="1816" column="0" />
-        <mark key="^" line="1816" column="0" />
+        <mark key="'" line="1852" column="20" />
+        <mark key="[" line="1853" column="22" />
+        <mark key="]" line="1853" column="21" />
+        <mark key="." line="1853" column="21" />
+        <mark key="^" line="1853" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" timestamp="1563502233654">
         <mark key="'" line="176" column="12" />
@@ -635,7 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="41" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" />
       <jump line="15" column="36" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="102" column="46" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG" />
@@ -735,6 +734,7 @@
       <jump line="106" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
       <jump line="1827" column="61" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
+      <jump line="1852" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -824,7 +824,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -863,7 +863,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$va_lang</text>
+        <text>'遲到','遲到(非假日且無差假單)'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
@@ -875,10 +875,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFfbGFuZyA9IFsKICAgICAgICAgICAgJ3ZhX2NhcmRfd29ya2luZ19sYXRlJyA9PiAn6YGy5YiwJywKICAgICAgICAgICAgJ3ZhX2NhcmRfd29ya2luZ19sYXRlX2FuZF9mb3JtJyA9PiAn6YGy5YiwKOmdnuWBh+aXpeS4lOeEoeW3ruWBh+WWriknLAogICAgICAgICAgICAndmFfY2FyZF9jcm9zc2RheV9jbG9ja2luZycgPT4gJ+i3qOaXpeWIt+WNoScKICAgICAgICBdOwoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -988,13 +988,13 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ZhX2NhcmRfd29ya2luZ19sYXRlJyA9PiAn6YGy5YiwJywKICAgICAgICAgICAgJ3ZhX2NhcmRfd29ya2luZ19sYXRlX2FuZF9mb3JtJyA9PiAn6YGy5YiwKOmdnuWBh+aXpeS4lOeEoeW3ruWBh+WWriknLAogICAgICAgICAgICAndmFfY2FyZF9jcm9zc2RheV9jbG9ja2luZycgPT4gJ+i3qOaXpeWIt+WNoScK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdmFfbGFuZyA9IFsKICAgICAgICAgICAgJ3ZhX2NhcmRfd29ya2luZ19sYXRlJyA9PiAn6YGy5YiwJywKICAgICAgICAgICAgJ3ZhX2NhcmRfd29ya2luZ19sYXRlX2FuZF9mb3JtJyA9PiAn6YGy5YiwKOmdnuWBh+aXpeS4lOeEoeW3ruWBh+WWriknLAogICAgICAgICAgICAndmFfY2FyZF9jcm9zc2RheV9jbG9ja2luZycgPT4gJ+i3qOaXpeWIt+WNoScKICAgICAgICBdOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ZhX2NhcmRfd29ya2luZ19sYXRlJyA9PiAn6YGy5YiwJywKICAgICAgICAgICAgJ3ZhX2NhcmRfd29ya2luZ19sYXRlX2FuZF9mb3JtJyA9PiAn6YGy5YiwKOmdnuWBh+aXpeS4lOeEoeW3ruWBh+WWriknLAogICAgICAgICAgICAndmFfY2FyZF9jcm9zc2RheV9jbG9ja2luZycgPT4gJ+i3qOaXpeWIt+WNoScK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
