@@ -35,6 +35,12 @@
         <mark key="^" line="43" column="9" />
         <mark key="." line="43" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1563790270046">
+        <mark key="[" line="5759" column="34" />
+        <mark key="]" line="5759" column="34" />
+        <mark key="^" line="5759" column="34" />
+        <mark key="." line="5759" column="34" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/config/database.php" timestamp="1561203197283">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="9" column="1" />
@@ -70,7 +76,6 @@
         <mark key="^" line="28" column="2" />
         <mark key="." line="28" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.1.0.importlog-migration.php" timestamp="1563500283726" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_edit.htm" timestamp="1550483518293">
         <mark key="'" line="8" column="57" />
         <mark key="[" line="8" column="58" />
@@ -78,12 +83,10 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1563787389222">
-        <mark key="'" line="260" column="0" />
-        <mark key="[" line="458" column="5" />
-        <mark key="]" line="459" column="20" />
-        <mark key="." line="459" column="20" />
-        <mark key="^" line="459" column="20" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1563787391325">
+        <mark key="]" line="242" column="20" />
+        <mark key="." line="242" column="20" />
+        <mark key="^" line="242" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/conf_send_mail/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1559834384343">
         <mark key="'" line="148" column="0" />
@@ -158,12 +161,12 @@
         <mark key="^" line="0" column="112" />
         <mark key="." line="0" column="112" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/cardProcess.php" timestamp="1562298732374">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/cardProcess.php" timestamp="1563789552580">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="38" column="79" />
-        <mark key="]" line="38" column="81" />
-        <mark key="^" line="38" column="81" />
-        <mark key="." line="38" column="81" />
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/fight-editor/_ide_helper.php" timestamp="1561101470385">
         <mark key="'" line="0" column="0" />
@@ -374,6 +377,12 @@
         <mark key="." line="75" column="45" />
         <mark key="^" line="75" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1563789872981">
+        <mark key="[" line="761" column="129" />
+        <mark key="]" line="764" column="136" />
+        <mark key="." line="764" column="136" />
+        <mark key="^" line="764" column="136" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/.editorconfig" timestamp="1559102026298">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="12" column="16" />
@@ -460,6 +469,7 @@
         <mark key="." line="327" column="44" />
         <mark key="^" line="327" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.inc" timestamp="1563789430922" />
       <file name="$USER_HOME$/Documents/91/2019-06-23_91dojo/tests/GameTest.php" timestamp="1561265974398">
         <mark key="'" line="8" column="4" />
         <mark key="[" line="8" column="5" />
@@ -823,8 +833,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -863,7 +873,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'遲到','遲到(非假日且無差假單)'</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGZ1bmN0aW9u</text>
@@ -875,10 +885,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJGFjdHVhbCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+      <register name="2" type="4">
+        <text>[
+                    &quot;1636683&quot;,
+                    &quot;2323&quot;,
+                    &quot;2019-07-11&quot;,
+                    &quot;461&quot;,
+                    &quot;1052&quot;,
+                    &quot;480&quot;,
+                    &quot;1050&quot;,
+                    &quot;&quot;,
+                    &quot;810&quot;,
+                    &quot;8.35&quot;,
+                    &quot;%u6B63%u5E38%u73ED&quot;,
+                    &quot;&quot;,
+                    &quot;&quot;,
+                    &quot;&quot;
+                ]</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -988,25 +1013,25 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDE5LTAxLTE0JyA9PiBudWxsLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFfbGFuZyA9IFsKICAgICAgICAgICAgJ3ZhX2NhcmRfd29ya2luZ19sYXRlJyA9PiAn6YGy5YiwJywKICAgICAgICAgICAgJ3ZhX2NhcmRfd29ya2luZ19sYXRlX2FuZF9mb3JtJyA9PiAn6YGy5YiwKOmdnuWBh+aXpeS4lOeEoeW3ruWBh+WWriknLAogICAgICAgICAgICAndmFfY2FyZF9jcm9zc2RheV9jbG9ja2luZycgPT4gJ+i3qOaXpeWIt+WNoScKICAgICAgICBdOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDE5LTAxLTEzJyA9PiBudWxsLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ZhX2NhcmRfd29ya2luZ19sYXRlJyA9PiAn6YGy5YiwJywKICAgICAgICAgICAgJ3ZhX2NhcmRfd29ya2luZ19sYXRlX2FuZF9mb3JtJyA9PiAn6YGy5YiwKOmdnuWBh+aXpeS4lOeEoeW3ruWBh+WWriknLAogICAgICAgICAgICAndmFfY2FyZF9jcm9zc2RheV9jbG9ja2luZycgPT4gJ+i3qOaXpeWIt+WNoScK</text>
+      <register name="5" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAxNjAwID0+IFsKICAgICAgICAgICAgICAgICcyMDE5LTAxLTEzJyA9PiBudWxsLAogICAgICAgICAgICAgICAgJzIwMTktMDEtMTQnID0+IG51bGwsCiAgICAgICAgICAgICAgICAnMjAxOS0wMS0xNScgPT4gWwogICAgICAgICAgICAgICAgICAgIDAgID0+ICcnLCAxID0+ICcxNjAwJywgMiA9PiAnMjAxOS0wMS0xNScsCiAgICAgICAgICAgICAgICAgICAgMyAgPT4gLTM0LCA0ID0+IG51bGwsIDUgPT4gMCwgNiA9PiA0ODAsCiAgICAgICAgICAgICAgICAgICAgNyAgPT4gbnVsbCwgOCA9PiAyNDAsIDkgPT4gOC40OCwKICAgICAgICAgICAgICAgICAgICAxMCA9PiAn5aSc54+tJywKICAgICAgICAgICAgICAgICAgICAxMSA9PiBudWxsLCAxMiA9PiBudWxsLCAxMyA9PiBudWxsLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgXQogICAgICAgIF0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAxNjAwID0+IFsKICAgICAgICAgICAgICAgICcyMDE5LTAxLTEzJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgMCA9PiAn5aSc54+tJywgMSA9PiAnMicsIDIgPT4gJzMnLAogICAgICAgICAgICAgICAgICAgIDMgPT4gJycsIDQgPT4gJycsIDUgPT4gJycsIDYgPT4gJycsCiAgICAgICAgICAgICAgICAgICAgNyA9PiAnMDA6MDAnLCA4ID0+ICcwNDowMCcsIDkgPT4gJzA0OjAwJywgMTAgPT4gJzA4OjAwJywKICAgICAgICAgICAgICAgICAgICAxMSA9PiAnMDA6MDAnLCAxMiA9PiAnMDQ6MDAnLCAxMyA9PiAnMDQ6MDAnLCAxNCA9PiAnMDg6MDAnLAogICAgICAgICAgICAgICAgICAgIDE1ID0+ICcwMDowMCcsIDE2ID0+ICcwNDowMCcsIDE3ID0+ICcwNDowMCcsIDE4ID0+ICcwODowMCcsCiAgICAgICAgICAgICAgICAgICAgMTkgPT4gJzAwOjAwJywgMjAgPT4gJzA0OjAwJywgMjEgPT4gJzA0OjAwJywgMjIgPT4gJzA4OjAwJywKICAgICAgICAgICAgICAgICAgICAyMyA9PiAnMDA6MDAnLCAyNCA9PiAnMDQ6MDAnLCAyNSA9PiAnMDQ6MDAnLCAyNiA9PiAnMDg6MDAnLAogICAgICAgICAgICAgICAgICAgIDI3ID0+ICcwMDowMCcsIDI4ID0+ICcwNDowMCcsIDI5ID0+ICcwNDowMCcsIDMwID0+ICcwODowMCcsCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgJzIwMTktMDEtMTQnID0+IFsKICAgICAgICAgICAgICAgICAgICAwID0+ICflpJznj60nLCAxID0+ICcyJywgMiA9PiAnMycsCiAgICAgICAgICAgICAgICAgICAgMyA9PiAnJywgNCA9PiAnJywgNSA9PiAnJywgNiA9PiAnJywKICAgICAgICAgICAgICAgICAgICA3ID0+ICcwMDowMCcsIDggPT4gJzA0OjAwJywgOSA9PiAnMDQ6MDAnLCAxMCA9PiAnMDg6MDAnLAogICAgICAgICAgICAgICAgICAgIDExID0+ICcwMDowMCcsIDEyID0+ICcwNDowMCcsIDEzID0+ICcwNDowMCcsIDE0ID0+ICcwODowMCcsCiAgICAgICAgICAgICAgICAgICAgMTUgPT4gJzAwOjAwJywgMTYgPT4gJzA0OjAwJywgMTcgPT4gJzA0OjAwJywgMTggPT4gJzA4OjAwJywKICAgICAgICAgICAgICAgICAgICAxOSA9PiAnMDA6MDAnLCAyMCA9PiAnMDQ6MDAnLCAyMSA9PiAnMDQ6MDAnLCAyMiA9PiAnMDg6MDAnLAogICAgICAgICAgICAgICAgICAgIDIzID0+ICcwMDowMCcsIDI0ID0+ICcwNDowMCcsIDI1ID0+ICcwNDowMCcsIDI2ID0+ICcwODowMCcsCiAgICAgICAgICAgICAgICAgICAgMjcgPT4gJzAwOjAwJywgMjggPT4gJzA0OjAwJywgMjkgPT4gJzA0OjAwJywgMzAgPT4gJzA4OjAwJywKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAnMjAxOS0wMS0xNScgPT4gWwogICAgICAgICAgICAgICAgICAgIDAgPT4gJ+WknOePrScsIDEgPT4gJzInLCAyID0+ICczJywKICAgICAgICAgICAgICAgICAgICAzID0+ICcnLCA0ID0+ICcnLCA1ID0+ICcnLCA2ID0+ICcnLAogICAgICAgICAgICAgICAgICAgIDcgPT4gJzAwOjAwJywgOCA9PiAnMDQ6MDAnLCA5ID0+ICcwNDowMCcsIDEwID0+ICcwODowMCcsCiAgICAgICAgICAgICAgICAgICAgMTEgPT4gJzAwOjAwJywgMTIgPT4gJzA0OjAwJywgMTMgPT4gJzA0OjAwJywgMTQgPT4gJzA4OjAwJywKICAgICAgICAgICAgICAgICAgICAxNSA9PiAnMDA6MDAnLCAxNiA9PiAnMDQ6MDAnLCAxNyA9PiAnMDQ6MDAnLCAxOCA9PiAnMDg6MDAnLAogICAgICAgICAgICAgICAgICAgIDE5ID0+ICcwMDowMCcsIDIwID0+ICcwNDowMCcsIDIxID0+ICcwNDowMCcsIDIyID0+ICcwODowMCcsCiAgICAgICAgICAgICAgICAgICAgMjMgPT4gJzAwOjAwJywgMjQgPT4gJzA0OjAwJywgMjUgPT4gJzA0OjAwJywgMjYgPT4gJzA4OjAwJywKICAgICAgICAgICAgICAgICAgICAyNyA9PiAnMDA6MDAnLCAyOCA9PiAnMDQ6MDAnLCAyOSA9PiAnMDQ6MDAnLCAzMCA9PiAnMDg6MDAnLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgXSwKICAgICAgICBd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cHVuY2hJbigkY2FyZG5vLCAnMjAxOS0wMS0xNSAwNzo1NScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGFyZ2V0LT5zZXRDcm9zc2RheVdvcmtBZHZhbmNlTWludXRlcygzMDApOyAgLy8g6Leo5pel5LiK54+t5o+Q5YmN5YiG6ZCY5pW4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
@@ -1058,12 +1083,12 @@
         <entry>99</entry>
         <entry>243</entry>
         <entry>action Forward</entry>
-        <entry>action MethodUp</entry>
-        <entry>action Debug</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action MethodDown</entry>
         <entry>action IntroduceField</entry>
         <entry>action Back</entry>
+        <entry>action Debug</entry>
+        <entry>action MethodUp</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
