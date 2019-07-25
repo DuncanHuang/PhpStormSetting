@@ -415,12 +415,12 @@
         <mark key="^" line="680" column="25" />
         <mark key="." line="680" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1562940841422">
-        <mark key="'" line="327" column="5" />
-        <mark key="[" line="497" column="48" />
-        <mark key="]" line="497" column="47" />
-        <mark key="." line="497" column="47" />
-        <mark key="^" line="497" column="47" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1564068526740">
+        <mark key="'" line="122" column="75" />
+        <mark key="[" line="213" column="17" />
+        <mark key="]" line="213" column="113" />
+        <mark key="." line="213" column="113" />
+        <mark key="^" line="213" column="113" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Jobs/MailToFileParser.php" timestamp="1550656277869">
         <mark key="'" line="357" column="9" />
@@ -673,10 +673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="37" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/MathUnionTest.php" />
-      <jump line="25" column="35" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/MathUnionTest.php" />
-      <jump line="54" column="38" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/MathUnionTest.php" />
-      <jump line="53" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/MathUnionTest.php" />
       <jump line="42" column="42" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/MathUnionTest.php" />
       <jump line="93" column="44" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/MathUnionTest.php" />
       <jump line="1893" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
@@ -773,6 +769,10 @@
       <jump line="2056" column="56" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
       <jump line="2082" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
       <jump line="61" column="35" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/config/custom_config.php" />
+      <jump line="494" column="73" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="41" column="22" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="110" column="49" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="122" column="75" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -861,8 +861,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJGRheW9mZikgPD0gMCAmJiBjb3VudCgkdHJhdmVsKSA8PSAwKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>https://bendechrai.github.io/talk-migration-magic/</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -901,7 +901,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dayoff, $travel</text>
+        <text>https://bendechrai.github.io/talk-migration-magic/</text>
       </register>
       <register name="/" type="4">
         <text>09</text>
