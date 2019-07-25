@@ -415,12 +415,12 @@
         <mark key="^" line="680" column="25" />
         <mark key="." line="680" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1564070160592">
-        <mark key="'" line="714" column="0" />
-        <mark key="[" line="688" column="17" />
-        <mark key="]" line="688" column="102" />
-        <mark key="." line="688" column="102" />
-        <mark key="^" line="688" column="102" />
+      <file name="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" timestamp="1564071395432">
+        <mark key="'" line="375" column="0" />
+        <mark key="[" line="377" column="21" />
+        <mark key="]" line="752" column="0" />
+        <mark key="." line="752" column="0" />
+        <mark key="^" line="752" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Jobs/MailToFileParser.php" timestamp="1550656277869">
         <mark key="'" line="357" column="9" />
@@ -673,16 +673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="537" column="17" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
-      <jump line="238" column="42" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
-      <jump line="247" column="44" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
-      <jump line="216" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
-      <jump line="223" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
-      <jump line="228" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
-      <jump line="230" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
-      <jump line="242" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
-      <jump line="259" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
-      <jump line="2019" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
       <jump line="2069" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
       <jump line="11" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
       <jump line="2070" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
@@ -773,6 +763,16 @@
       <jump line="713" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
       <jump line="712" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
       <jump line="710" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="688" column="102" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="642" column="25" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="687" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="35" column="6" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="451" column="16" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="354" column="34" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="377" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
+      <jump line="375" column="0" filename="$USER_HOME$/Documents/laravel-tw/2019-website/src/apis/agenda.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -862,7 +862,344 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>https://bendechrai.github.io/talk-migration-magic/</text>
+        <text>[
+  {
+    dateTime: '09:00',
+    trackList: [
+      {
+        id: 1,
+        title: '開場',
+        place: 'sync',
+      },
+    ],
+  },
+  {
+    dateTime: '09:10',
+    trackList: [
+      {
+        id: 1,
+        title: '✨ Abracadabra, Let Me In ✨ Sprinkle some magic to avoid authentication and authorization headaches',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/BenDechrai.jpg',
+        content: '這場議程裡，Ben 會施點小魔法，教大家如何正確且輕鬆地處理身份驗證與授權的相關功能，讓您從此不再迷失在茫茫網海裡。'
+          + '從大型架構到小型專案、大型組織到小型服務，透過整合第三方身份管理來保障系統安全，您只需要專注眼前核心業務即可。',
+        speakerList: [
+          {
+            name: 'Ben Dechrai',
+            nickname: '',
+            company: '',
+            position: 'Auth0 技術傳教士',
+          },
+        ],
+        difficulty: 3,
+        link: 'https://ubin.io/zVTACK',
+      },
+    ],
+  },
+  {
+    dateTime: '10:00',
+    isBreakTime: true,
+    trackList: [
+      {
+        id: 1,
+        title: '休息時間',
+        place: 'sync',
+      },
+    ],
+  },
+  {
+    dateTime: '10:10',
+    trackList: [
+      {
+        id: 1,
+        title: '內部微服務，隊友開發更快速',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/Eric.jpg',
+        content: '在這場議程裡，Eric 會跟大家分享他在奧丁丁工程團隊裡，為了降低重工而將平台功能微服務化的經驗。'
+          + '除了討論怎麼做微服務、過程中踩過的坑外，也會分享他在公司內部推廣微服務的心酸血淚史，以及改採套件化後，'
+          + '對團隊協作的其他影響。聽說內容有笑有淚，敬請期待！',
+        speakerList: [
+          {
+            name: '廖峻德',
+            nickname: 'Eric',
+            company: '奧丁丁',
+            position: '後端工程師',
+          },
+        ],
+        difficulty: 3,
+        link: 'https://ubin.io/KZxQkC',
+      },
+      {
+        id: 2,
+        title: '忘掉 foreach，從此學會 Collection！',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/Nobody.jpg',
+        content: '寫程式的時候，總免不了需要使用 for、foreach、while 等遞迴技巧來整理資料、調整陣列結構。'
+          + '但每次寫一層又一層的 foreach 時，總覺得可讀性太差，寫到最後連它媽都不認識它？',
+        speakerList: [
+          {
+            name: '鄭宇翔',
+            nickname: '',
+            company: '跑跑腿科技',
+            position: '技術顧問',
+          },
+        ],
+        slides: {
+          link: 'https://www.slideshare.net/LaravelConfTaiwan/forgot-foreach-and-learn-to-use-collection/',
+          isDirectlyDownloadable: false,
+        },
+        difficulty: 3,
+        link: 'https://ubin.io/FUvAGN',
+      },
+    ],
+  },
+  {
+    dateTime: '10:55',
+    isBreakTime: true,
+    trackList: [
+      {
+        id: 1,
+        title: '休息時間',
+        place: 'sync',
+      },
+    ],
+  },
+  {
+    dateTime: '11:05',
+    trackList: [
+      {
+        id: 1,
+        title: 'PHP/Laravel 機智問答',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/Sasaya.jpg',
+        content: 'PHP 是世界上最好的語言，對吧？而 Laravel 則是根基於這個語言之上，一套富有表達性且具有簡潔語法的框架，'
+          + '同時也充滿了許許多多的黑魔法。但大家有沒有想過，在最好的語言及充滿黑魔法的框架的背後，藏有多少不為人知的秘密在裡面？',
+        speakerList: [
+          {
+            name: '胡庭皓',
+            nickname: 'Sasaya',
+            company: 'AmazingTalker',
+            position: 'CTO',
+          },
+        ],
+        difficulty: 4,
+        link: 'https://ubin.io/KNSg8A',
+      },
+    ],
+  },
+  {
+    dateTime: '12:05',
+    isBreakTime: true,
+    trackList: [
+      {
+        id: 1,
+        title: '午餐',
+        place: 'sync',
+      },
+    ],
+  },
+  {
+    dateTime: '13:05',
+    trackList: [
+      {
+        id: 1,
+        title: '編輯器有強弱之分嗎？LaravelConf Taiwan 2019 將來場華山論劍，看看能不能分出誰是天下第一！',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/fightEditor.jpg',
+        content: '正所謂情人眼裡出西施。每個工程師裡都有自己的審美觀，選定編輯器時也不免有自己的偏好。'
+          + '因此，在 LaravelConf Taiwan 2019 議程組廣發英雄帖之下，邀請四位講者分別代表編輯器界的四大天王：'
+          + 'PhpStorm、VS Code、Vim 及 Sublime Text，在大會當天來場華山論劍。',
+        speakerList: [
+          {
+            name: '黃文德',
+            nickname: 'Duncan',
+            company: '世成科技',
+            position: '資深程式設計師',
+          },
+          {
+            name: '林郁芬',
+            nickname: 'Winnie',
+            company: '',
+            position: 'Microsoft MVP',
+          },
+          {
+            name: '王思平',
+            nickname: 'Cara',
+            company: 'MaiCoin',
+            position: 'Software Engineer',
+          },
+          {
+            name: '蔡佳良',
+            nickname: 'Recca',
+            company: '自由工作者',
+            position: '',
+          },
+        ],
+        difficulty: 3,
+        link: 'https://ubin.io/tvPNHF',
+      },
+    ],
+  },
+  {
+    dateTime: '14:05',
+    isBreakTime: true,
+    trackList: [
+      {
+        id: 1,
+        title: '休息時間',
+        place: 'sync',
+      },
+    ],
+  },
+  {
+    dateTime: '14:15',
+    trackList: [
+      {
+        id: 1,
+        title: 'Laravel 在高併發下的系統架構與效能優化',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/Albert.jpg',
+        content: '在這場議程裡，Albert 就是要帶著我們跳離這樣的兩難窘境，重新從Laravel 本身的性能優化及在不同場景下能採取的高併發系統架構策略兩條思路下手，'
+          + '讓你遇到高併發，就算面臨捉摸不定的情境考驗，以及千百種的業務需求，也能活學活用、渾然天成。',
+        speakerList: [
+          {
+            name: '陳光賢',
+            nickname: 'Albert',
+            company: 'M17',
+            position: '軟體工程師',
+          },
+        ],
+        difficulty: 4,
+        link: 'https://ubin.io/5gkvqQ',
+      },
+      {
+        id: 2,
+        title: '沒有經驗也可以挑戰！用 Laravel 開發產品',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/Kobukata.jpg',
+        content: '今年大會很榮幸能從日本沖繩邀請到小深田 あゆみ，原本沒有寫過 Laravel 的她，在 CYDAS 任職後，'
+          + '就投入自家 OKR 目標管理系統「banto」的開發工作，成為一位全職的 Laravel 開發者。在這場議程，'
+          + '小深田將分享這個產品內使用了哪些 Laravel 的功能，以及完全沒有程式經驗的她如何一步一腳印的走上開發之路，'
+          + '過程中如何與開發團隊成員彼此合作。讓第一次接觸 Laravel 的朋友們也能從她的學習經驗裡，學到學習 Laravel 的技巧。',
+        speakerList: [
+          {
+            name: '小深田 あゆみ',
+            nickname: '',
+            company: '株式會社 CYDAS',
+            position: '應用程式工程師',
+          },
+        ],
+        difficulty: 2,
+        link: 'https://ubin.io/JmaqAz',
+      },
+    ],
+  },
+  {
+    dateTime: '15:00',
+    isBreakTime: true,
+    trackList: [
+      {
+        id: 1,
+        title: '下午茶',
+        place: 'sync',
+      },
+    ],
+  },
+  {
+    dateTime: '15:30',
+    trackList: [
+      {
+        id: 1,
+        title: '星移電掣般的 Trace Code！讓你如光速一般的追蹤程式碼',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/ReccaChao.jpg',
+        content: '在軟體開發時，除了撰寫各種新功能之外，追蹤前人寫的程式碼、查出其中的錯誤或者回溯使用方式，'
+          + '也是一項非常重要但相當耗時的工作。在這場議程裡，Recca Chao 將帶著大家使用 PhpStorm 這個在 PHP 業界饒富盛名的開發工具，'
+          + '實際追蹤 Laravel 程式碼。教大家善用手邊的工具，加快 Trace Code 的速度，進而提高自己工作的效率，'
+          + '事半功倍的解決工作上的問題，甚至還能提早下班呢！',
+        speakerList: [
+          {
+            name: '趙家笙',
+            nickname: 'Recca Chao',
+            company: '',
+            position: '',
+          },
+        ],
+        difficulty: 5,
+        link: 'https://ubin.io/PfSJ3K',
+      },
+      {
+        id: 2,
+        title: '從 Development Experience 及開發成本探討使用 Laravel + Nuxt.js + Firebase 框架開發 SPA 系統',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/Suzuki.jpg',
+        content: '在這場議程裡，鈴木將從日本沖繩帶來他們 Re:Build 團隊的經驗，跟大家分享他們在開發自家產品 Tadoru 時，如何整合 Laravel 及 Nuxt.js 做到前後端分離的 SPA 架構。'
+          + '除了討論技術層面的 API 設計、認證系統 (JWT、SNS)、e2e 測試 (Cypress)、持續整合 (Gitlab CI) 外，也會跟大家聊聊他們如何跑敏捷、如何透過可視化顯示團隊開發進度、'
+          + '中間遇到哪些障礙以及做了哪些努力來克服。這些經驗分享相信能讓許多團隊在導入新技術時，能適切地在成本、效率、團隊合作及開發體驗上找到解答與平衡。',
+        speakerList: [
+          {
+            name: '鈴木孝之',
+            nickname: '',
+            company: 'Re:Build Inc.',
+            position: '執行董事',
+          },
+        ],
+        difficulty: 4,
+        link: 'https://ubin.io/zHvNkB',
+      },
+    ],
+  },
+  {
+    dateTime: '16:15',
+    isBreakTime: true,
+    trackList: [
+      {
+        id: 1,
+        title: '休息時間',
+        place: 'sync',
+      },
+    ],
+  },
+  {
+    dateTime: '16:25',
+    trackList: [
+      {
+        id: 1,
+        title: '在中國三年，從 0 開始自建完整電商餐飲系統',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/AlexChang.jpg',
+        content: '在 LaravelConf Taiwan 2019 的大會現場，Alex 會為大家分享這 3 年來紮實的落地經驗。'
+          + '從系統工程的角度，說明如何率領 80 人的團隊，逐步建構可以服務中國市場的系統架構；從人力市場的角度，'
+          + '剖析中國的招募環境、薪資及在中國工作的優缺點；從職涯的角度，分享自己身為 CTO 的成長歷程。',
+        speakerList: [
+          {
+            name: '張健成',
+            nickname: 'Alex',
+            company: '一米市集',
+            position: 'CTO',
+          },
+        ],
+        difficulty: 3,
+        slides: {
+          link: 'https://www.slideshare.net/LaravelConfTaiwan/build-a-ec-system-using-php-from-scratch/',
+          isDirectlyDownloadable: false,
+        },
+        link: 'https://ubin.io/PaW2jm',
+      },
+    ],
+  },
+  {
+    dateTime: '17:15',
+    isBreakTime: true,
+    trackList: [
+      {
+        id: 1,
+        title: '閉幕',
+        place: 'sync',
+      },
+    ],
+  },
+]</text>
       </register>
       <register name="h" type="4">
         <keys>
@@ -912,11 +1249,348 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdJbWFnZScgPT4gJ2h0dHBzOi8vaW1hZ2UudGVzdC45MTczLmNvbS50dy8nLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJGRheW9mZikgPD0gMCAmJiBjb3VudCgkdHJhdmVsKSA8PSAwKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>[
+  {
+    dateTime: '09:00',
+    trackList: [
+      {
+        id: 1,
+        title: '開場',
+        place: 'sync',
+      },
+    ],
+  },
+  {
+    dateTime: '09:10',
+    trackList: [
+      {
+        id: 1,
+        title: '✨ Abracadabra, Let Me In ✨ Sprinkle some magic to avoid authentication and authorization headaches',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/BenDechrai.jpg',
+        content: '這場議程裡，Ben 會施點小魔法，教大家如何正確且輕鬆地處理身份驗證與授權的相關功能，讓您從此不再迷失在茫茫網海裡。'
+          + '從大型架構到小型專案、大型組織到小型服務，透過整合第三方身份管理來保障系統安全，您只需要專注眼前核心業務即可。',
+        speakerList: [
+          {
+            name: 'Ben Dechrai',
+            nickname: '',
+            company: '',
+            position: 'Auth0 技術傳教士',
+          },
+        ],
+        difficulty: 3,
+        link: 'https://ubin.io/zVTACK',
+      },
+    ],
+  },
+  {
+    dateTime: '10:00',
+    isBreakTime: true,
+    trackList: [
+      {
+        id: 1,
+        title: '休息時間',
+        place: 'sync',
+      },
+    ],
+  },
+  {
+    dateTime: '10:10',
+    trackList: [
+      {
+        id: 1,
+        title: '內部微服務，隊友開發更快速',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/Eric.jpg',
+        content: '在這場議程裡，Eric 會跟大家分享他在奧丁丁工程團隊裡，為了降低重工而將平台功能微服務化的經驗。'
+          + '除了討論怎麼做微服務、過程中踩過的坑外，也會分享他在公司內部推廣微服務的心酸血淚史，以及改採套件化後，'
+          + '對團隊協作的其他影響。聽說內容有笑有淚，敬請期待！',
+        speakerList: [
+          {
+            name: '廖峻德',
+            nickname: 'Eric',
+            company: '奧丁丁',
+            position: '後端工程師',
+          },
+        ],
+        difficulty: 3,
+        link: 'https://ubin.io/KZxQkC',
+      },
+      {
+        id: 2,
+        title: '忘掉 foreach，從此學會 Collection！',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/Nobody.jpg',
+        content: '寫程式的時候，總免不了需要使用 for、foreach、while 等遞迴技巧來整理資料、調整陣列結構。'
+          + '但每次寫一層又一層的 foreach 時，總覺得可讀性太差，寫到最後連它媽都不認識它？',
+        speakerList: [
+          {
+            name: '鄭宇翔',
+            nickname: '',
+            company: '跑跑腿科技',
+            position: '技術顧問',
+          },
+        ],
+        slides: {
+          link: 'https://www.slideshare.net/LaravelConfTaiwan/forgot-foreach-and-learn-to-use-collection/',
+          isDirectlyDownloadable: false,
+        },
+        difficulty: 3,
+        link: 'https://ubin.io/FUvAGN',
+      },
+    ],
+  },
+  {
+    dateTime: '10:55',
+    isBreakTime: true,
+    trackList: [
+      {
+        id: 1,
+        title: '休息時間',
+        place: 'sync',
+      },
+    ],
+  },
+  {
+    dateTime: '11:05',
+    trackList: [
+      {
+        id: 1,
+        title: 'PHP/Laravel 機智問答',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/Sasaya.jpg',
+        content: 'PHP 是世界上最好的語言，對吧？而 Laravel 則是根基於這個語言之上，一套富有表達性且具有簡潔語法的框架，'
+          + '同時也充滿了許許多多的黑魔法。但大家有沒有想過，在最好的語言及充滿黑魔法的框架的背後，藏有多少不為人知的秘密在裡面？',
+        speakerList: [
+          {
+            name: '胡庭皓',
+            nickname: 'Sasaya',
+            company: 'AmazingTalker',
+            position: 'CTO',
+          },
+        ],
+        difficulty: 4,
+        link: 'https://ubin.io/KNSg8A',
+      },
+    ],
+  },
+  {
+    dateTime: '12:05',
+    isBreakTime: true,
+    trackList: [
+      {
+        id: 1,
+        title: '午餐',
+        place: 'sync',
+      },
+    ],
+  },
+  {
+    dateTime: '13:05',
+    trackList: [
+      {
+        id: 1,
+        title: '編輯器有強弱之分嗎？LaravelConf Taiwan 2019 將來場華山論劍，看看能不能分出誰是天下第一！',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/fightEditor.jpg',
+        content: '正所謂情人眼裡出西施。每個工程師裡都有自己的審美觀，選定編輯器時也不免有自己的偏好。'
+          + '因此，在 LaravelConf Taiwan 2019 議程組廣發英雄帖之下，邀請四位講者分別代表編輯器界的四大天王：'
+          + 'PhpStorm、VS Code、Vim 及 Sublime Text，在大會當天來場華山論劍。',
+        speakerList: [
+          {
+            name: '黃文德',
+            nickname: 'Duncan',
+            company: '世成科技',
+            position: '資深程式設計師',
+          },
+          {
+            name: '林郁芬',
+            nickname: 'Winnie',
+            company: '',
+            position: 'Microsoft MVP',
+          },
+          {
+            name: '王思平',
+            nickname: 'Cara',
+            company: 'MaiCoin',
+            position: 'Software Engineer',
+          },
+          {
+            name: '蔡佳良',
+            nickname: 'Recca',
+            company: '自由工作者',
+            position: '',
+          },
+        ],
+        difficulty: 3,
+        link: 'https://ubin.io/tvPNHF',
+      },
+    ],
+  },
+  {
+    dateTime: '14:05',
+    isBreakTime: true,
+    trackList: [
+      {
+        id: 1,
+        title: '休息時間',
+        place: 'sync',
+      },
+    ],
+  },
+  {
+    dateTime: '14:15',
+    trackList: [
+      {
+        id: 1,
+        title: 'Laravel 在高併發下的系統架構與效能優化',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/Albert.jpg',
+        content: '在這場議程裡，Albert 就是要帶著我們跳離這樣的兩難窘境，重新從Laravel 本身的性能優化及在不同場景下能採取的高併發系統架構策略兩條思路下手，'
+          + '讓你遇到高併發，就算面臨捉摸不定的情境考驗，以及千百種的業務需求，也能活學活用、渾然天成。',
+        speakerList: [
+          {
+            name: '陳光賢',
+            nickname: 'Albert',
+            company: 'M17',
+            position: '軟體工程師',
+          },
+        ],
+        difficulty: 4,
+        link: 'https://ubin.io/5gkvqQ',
+      },
+      {
+        id: 2,
+        title: '沒有經驗也可以挑戰！用 Laravel 開發產品',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/Kobukata.jpg',
+        content: '今年大會很榮幸能從日本沖繩邀請到小深田 あゆみ，原本沒有寫過 Laravel 的她，在 CYDAS 任職後，'
+          + '就投入自家 OKR 目標管理系統「banto」的開發工作，成為一位全職的 Laravel 開發者。在這場議程，'
+          + '小深田將分享這個產品內使用了哪些 Laravel 的功能，以及完全沒有程式經驗的她如何一步一腳印的走上開發之路，'
+          + '過程中如何與開發團隊成員彼此合作。讓第一次接觸 Laravel 的朋友們也能從她的學習經驗裡，學到學習 Laravel 的技巧。',
+        speakerList: [
+          {
+            name: '小深田 あゆみ',
+            nickname: '',
+            company: '株式會社 CYDAS',
+            position: '應用程式工程師',
+          },
+        ],
+        difficulty: 2,
+        link: 'https://ubin.io/JmaqAz',
+      },
+    ],
+  },
+  {
+    dateTime: '15:00',
+    isBreakTime: true,
+    trackList: [
+      {
+        id: 1,
+        title: '下午茶',
+        place: 'sync',
+      },
+    ],
+  },
+  {
+    dateTime: '15:30',
+    trackList: [
+      {
+        id: 1,
+        title: '星移電掣般的 Trace Code！讓你如光速一般的追蹤程式碼',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/ReccaChao.jpg',
+        content: '在軟體開發時，除了撰寫各種新功能之外，追蹤前人寫的程式碼、查出其中的錯誤或者回溯使用方式，'
+          + '也是一項非常重要但相當耗時的工作。在這場議程裡，Recca Chao 將帶著大家使用 PhpStorm 這個在 PHP 業界饒富盛名的開發工具，'
+          + '實際追蹤 Laravel 程式碼。教大家善用手邊的工具，加快 Trace Code 的速度，進而提高自己工作的效率，'
+          + '事半功倍的解決工作上的問題，甚至還能提早下班呢！',
+        speakerList: [
+          {
+            name: '趙家笙',
+            nickname: 'Recca Chao',
+            company: '',
+            position: '',
+          },
+        ],
+        difficulty: 5,
+        link: 'https://ubin.io/PfSJ3K',
+      },
+      {
+        id: 2,
+        title: '從 Development Experience 及開發成本探討使用 Laravel + Nuxt.js + Firebase 框架開發 SPA 系統',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/Suzuki.jpg',
+        content: '在這場議程裡，鈴木將從日本沖繩帶來他們 Re:Build 團隊的經驗，跟大家分享他們在開發自家產品 Tadoru 時，如何整合 Laravel 及 Nuxt.js 做到前後端分離的 SPA 架構。'
+          + '除了討論技術層面的 API 設計、認證系統 (JWT、SNS)、e2e 測試 (Cypress)、持續整合 (Gitlab CI) 外，也會跟大家聊聊他們如何跑敏捷、如何透過可視化顯示團隊開發進度、'
+          + '中間遇到哪些障礙以及做了哪些努力來克服。這些經驗分享相信能讓許多團隊在導入新技術時，能適切地在成本、效率、團隊合作及開發體驗上找到解答與平衡。',
+        speakerList: [
+          {
+            name: '鈴木孝之',
+            nickname: '',
+            company: 'Re:Build Inc.',
+            position: '執行董事',
+          },
+        ],
+        difficulty: 4,
+        link: 'https://ubin.io/zHvNkB',
+      },
+    ],
+  },
+  {
+    dateTime: '16:15',
+    isBreakTime: true,
+    trackList: [
+      {
+        id: 1,
+        title: '休息時間',
+        place: 'sync',
+      },
+    ],
+  },
+  {
+    dateTime: '16:25',
+    trackList: [
+      {
+        id: 1,
+        title: '在中國三年，從 0 開始自建完整電商餐飲系統',
+        place: 'sync',
+        coverImgSrc: 'static/images/speakers/AlexChang.jpg',
+        content: '在 LaravelConf Taiwan 2019 的大會現場，Alex 會為大家分享這 3 年來紮實的落地經驗。'
+          + '從系統工程的角度，說明如何率領 80 人的團隊，逐步建構可以服務中國市場的系統架構；從人力市場的角度，'
+          + '剖析中國的招募環境、薪資及在中國工作的優缺點；從職涯的角度，分享自己身為 CTO 的成長歷程。',
+        speakerList: [
+          {
+            name: '張健成',
+            nickname: 'Alex',
+            company: '一米市集',
+            position: 'CTO',
+          },
+        ],
+        difficulty: 3,
+        slides: {
+          link: 'https://www.slideshare.net/LaravelConfTaiwan/build-a-ec-system-using-php-from-scratch/',
+          isDirectlyDownloadable: false,
+        },
+        link: 'https://ubin.io/PaW2jm',
+      },
+    ],
+  },
+  {
+    dateTime: '17:15',
+    isBreakTime: true,
+    trackList: [
+      {
+        id: 1,
+        title: '閉幕',
+        place: 'sync',
+      },
+    ],
+  },
+]</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICJzdGF0dXMiICA9PiAiUyIsCiAgICAgICAgICAgICAgICAgICAgInNlY3Rpb24iID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgInN0YXJ0IiA9PiAiMjAxOS0wNy0xNyAxNjo0NTowMCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJlbmQiICAgPT4gIjIwMTktMDctMTcgMTg6MDM6MDAiLAogICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAgICAgIm5hbWUiICAgID0+ICLlh7rlt64iLAogICAgICAgICAgICAgICAgICAgICJmbG93aWQiICA9PiA5NzM4OCwKICAgICAgICAgICAgICAgIF0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJGRheW9mZikgPD0gMCAmJiBjb3VudCgkdHJhdmVsKSA8PSAwKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -1025,29 +1699,29 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">JGxhc3RDYXJkUHVuY2ggICAgICAgID0gJHZhY2F0aW9uQ2FyZFB1bmNoREFPLT5nZXRMYXN0Q2FyZFB1bmNoKDE2MDAsIDEpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICJzdGF0dXMiICA9PiAiUyIsCiAgICAgICAgICAgICAgICAgICAgInNlY3Rpb24iID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgInN0YXJ0IiA9PiAiMjAxOS0wNy0xNyAxNjo0NTowMCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJlbmQiICAgPT4gIjIwMTktMDctMTcgMTg6MDM6MDAiLAogICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAgICAgIm5hbWUiICAgID0+ICLlh7rlt64iLAogICAgICAgICAgICAgICAgICAgICJmbG93aWQiICA9PiA5NzM4OCwKICAgICAgICAgICAgICAgIF0=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">JGxhc3RDYXJkUHVuY2ggICAgICAgID0gJHZhY2F0aW9uQ2FyZFB1bmNoREFPLT5nZXRMYXN0Q2FyZFB1bmNoKDE2MDAsIDEpOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">c2VsZWN0IEFzRW5hYmxlT25saW5lQ2xvY2sgZnJvbSBIUl9FbXBsb3llZVJpZ2h0IHdoZXJlIEFzRW5hYmxlT25saW5lQ2xvY2s9MTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgICJzdGF0dXMiICA9PiAiUyIsCiAgICAgICAgICAgICAgICAgICAgInNlY3Rpb24iID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgInN0YXJ0IiA9PiAiMjAxOS0wNy0xNyAxNjo0NTowMCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJlbmQiICAgPT4gIjIwMTktMDctMTcgMTc6MzA6MDAiLAogICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAgICAgIm5hbWUiICAgID0+ICLlh7rlt64iLAogICAgICAgICAgICAgICAgICAgICJmbG93aWQiICA9PiA5NzM4OCwKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgXQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgJGxhY2sgPSBhcnJheSgKICAgICAgICAgICAgICAgICAgICAgICAgJ21pbicgPT4gc3RydG90aW1lKHNwcmludGYoJyVzICVzOjAwJywgJHJlY29yZFsnZGF0ZSddWyd0ZXh0J10sICRyZWNvcmRbJ3NoaWZ0J11bJ2VuZCddWydkdXR5J10pKSwKICAgICAgICAgICAgICAgICAgICAgICAgJ21heCcgPT4gc3RydG90aW1lKHNwcmludGYoJyVzICVzOjAwJywgJHJlY29yZFsnZGF0ZSddWyd0ZXh0J10sICRyZWNvcmRbJ3NoaWZ0J11bJ2VuZCddWydhY3QnXSkpLAogICAgICAgICAgICAgICAgICAgICk7CgogICAgICAgICAgICAgICAgICAgIC8vIOWIpOaWt+iri+WBh+OAgeWHuuW3ruWWruaYr+WQpuijnOm9iue8uuWwkeeahOaZgumWkwogICAgICAgICAgICAgICAgICAgIGlmICgkdGhpcy0+Y292ZXJIb3VycygkbGFjaywgJHJlY29yZFsnZGF5b2ZmJ10sICRyZWNvcmRbJ3RyYXZlbCddKSA9PSB0cnVlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgICAgICB9Cgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDliKTmlrfoq4vlgYfjgIHlh7rlt67llq7mmK/lkKboo5zpvYrnvLrlsJHnmoTmmYLplpMKICAgICAgICAgICAgICAgICAgICBpZiAoJHRoaXMtPmNvdmVySG91cnMoJHJlY29yZCkgPT0gdHJ1ZSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
-      </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action VcsShowNextChangeMarker</text>
       </register>
     </registers>
     <search>
@@ -1093,7 +1767,6 @@
         <entry>469</entry>
         <entry>479</entry>
         <entry>action VcsShowPrevChangeMarker</entry>
-        <entry>action VcsShowNextChangeMarker</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUnVu</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
@@ -1103,6 +1776,7 @@
         <entry>action Debug</entry>
         <entry>action Run</entry>
         <entry>action MethodUp</entry>
+        <entry>action VcsShowNextChangeMarker</entry>
       </history-cmd>
       <history-expr />
       <history-input />
