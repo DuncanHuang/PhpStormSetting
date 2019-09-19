@@ -59,4 +59,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="de" value="echo '&lt;pre&gt;';var_export($Params$);echo '&lt;/pre&gt;'.PHP_EOL;" description="pre var_export" toReformat="false" toShortenFQNames="true">
+    <variable name="Params" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
