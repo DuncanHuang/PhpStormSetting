@@ -1,4 +1,7 @@
 <application>
+  <component name="RelativeLineNumbersSettings">
+    <option name="showingCurrentLine" value="false" />
+  </component>
   <component name="VimSettings">
     <state version="5" enabled="true" />
     <shortcut-conflicts>
