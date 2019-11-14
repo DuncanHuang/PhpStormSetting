@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="php" type="PHP" />
+      <mapping pattern="HelloWord.php" type="PHP" />
       <mapping pattern="asdfasf" type="PLAIN_TEXT" />
       <mapping pattern="ixambash" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
