@@ -9,4 +9,11 @@
   <colors>
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffbc21" />
   </colors>
+  <attributes>
+    <option name="PHP_THIS_VAR">
+      <value>
+        <option name="FOREGROUND" value="aaa03e" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
