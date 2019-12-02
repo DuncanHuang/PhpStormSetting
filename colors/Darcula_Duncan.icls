@@ -10,6 +10,13 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffbc21" />
   </colors>
   <attributes>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="1adb00" />
+        <option name="ERROR_STRIPE_COLOR" value="dbdbdb" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PHP_THIS_VAR">
       <value>
         <option name="FOREGROUND" value="aaa03e" />
