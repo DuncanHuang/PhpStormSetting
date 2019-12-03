@@ -1,7 +1,7 @@
 <scheme name="Darcula_Duncan" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2019-12-03T13:54:07</property>
+    <property name="modified">2019-12-03T15:45:55</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="20" />
@@ -12,6 +12,7 @@
   <colors>
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffbc21" />
+    <option name="SELECTED_TEARLINE_COLOR" value="9f0023" />
   </colors>
   <attributes>
     <option name="BREADCRUMBS_CURRENT">
