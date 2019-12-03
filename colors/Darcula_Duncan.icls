@@ -7,6 +7,7 @@
   <option name="CONSOLE_FONT_NAME" value="Menlo for Powerline" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
+    <option name="BORDER_LINES_COLOR" value="" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffbc21" />
   </colors>
   <attributes>
