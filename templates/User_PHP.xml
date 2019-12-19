@@ -47,8 +47,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="flog" value="file_put_contents('/tmp/log.txt', '$LOG_NAME$' . PHP_EOL . json_encode($LOG_NAME$) . PHP_EOL, FILE_APPEND);" description="" toReformat="false" toShortenFQNames="true">
+  <template name="flog" value="file_put_contents('/tmp/log.txt', '$LOG_NAME$' . PHP_EOL . json_encode($Params$) . PHP_EOL, FILE_APPEND);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="LOG_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Params" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
