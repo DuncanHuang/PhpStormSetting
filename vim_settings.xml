@@ -142,6 +142,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" timestamp="1584005629545">
+        <mark key="'" line="52" column="37" />
+        <mark key="[" line="47" column="46" />
+        <mark key="]" line="47" column="54" />
+        <mark key="." line="47" column="53" />
+        <mark key="^" line="47" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" timestamp="1584000533742">
         <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="0" />
@@ -205,13 +212,6 @@
         <mark key="^" line="29" column="63" />
         <mark key="." line="29" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/new_wf_step3.htm" timestamp="1583992244486">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="163" column="39" />
-        <mark key="]" line="163" column="52" />
-        <mark key="." line="163" column="51" />
-        <mark key="^" line="163" column="52" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_edit.htm" timestamp="1583993238841">
         <mark key="'" line="76" column="40" />
         <mark key="[" line="0" column="1" />
@@ -272,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1587" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="1037" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
       <jump line="2342" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
       <jump line="2257" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
@@ -372,15 +371,16 @@
       <jump line="1262" column="7" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
       <jump line="238" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
       <jump line="96" column="27" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new_sel.htm" />
+      <jump line="52" column="37" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aWYgKGNoZWNrVGVtcGxhdGVSaWdodCgtMykgIT0gbnVsbCkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>v.Name</text>
       </register>
       <register name="-" type="4">
-        <text>請</text>
+        <text>v.Name</text>
       </register>
       <register name="/" type="4">
         <text>-2</text>
