@@ -2,8 +2,62 @@
   <component name="RelativeLineNumbersSettings">
     <option name="showingCurrentLine" value="false" />
   </component>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>19</entry>
+        <entry>12</entry>
+        <entry>13</entry>
+        <entry>31</entry>
+        <entry>pa</entry>
+        <entry>Over</entry>
+        <entry>18</entry>
+        <entry>24</entry>
+        <entry>st</entry>
+        <entry>ID</entry>
+        <entry>pun</entry>
+        <entry>mid</entry>
+        <entry>mi</entry>
+        <entry>mission</entry>
+        <entry>Av</entry>
+        <entry>Add</entry>
+        <entry>del</entry>
+        <entry>10</entry>
+        <entry>-12</entry>
+        <entry>-2</entry>
+      </history-search>
+      <history-cmd>
+        <entry>202</entry>
+        <entry>59</entry>
+        <entry>42</entry>
+        <entry>41</entry>
+        <entry>149</entry>
+        <entry>67</entry>
+        <entry>164</entry>
+        <entry>45</entry>
+        <entry>action MethodUp</entry>
+        <entry>action VcsShowPrevChangeMarker</entry>
+        <entry>action Run</entry>
+        <entry>946</entry>
+        <entry>9</entry>
+        <entry>92</entry>
+        <entry>action MethodDown</entry>
+        <entry>action VcsShowNextChangeMarker</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action RenameElement</entry>
+        <entry>action Back</entry>
+        <entry>718</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
@@ -84,9 +138,301 @@
         <text>shift ctrl pressed SEMICOLON</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new_sel.htm" timestamp="1583992483350">
+        <mark key="'" line="73" column="26" />
+        <mark key="[" line="155" column="98" />
+        <mark key="]" line="155" column="99" />
+        <mark key="^" line="155" column="99" />
+        <mark key="." line="155" column="98" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/insert_IFrameInclude.js" timestamp="1583992343396">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_sysstore_trip.php" timestamp="1583993660113">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/im/m/wf/new_wf_step3.htm" timestamp="1583992179363">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="376" column="10" />
+        <mark key="]" line="376" column="13" />
+        <mark key="." line="376" column="13" />
+        <mark key="^" line="157" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new.htm" timestamp="1583992425674">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="967" column="66" />
+        <mark key="]" line="967" column="68" />
+        <mark key="." line="967" column="67" />
+        <mark key="^" line="967" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/insert_IFrameInclude.js" timestamp="1583992216520">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="54" column="43" />
+        <mark key="]" line="54" column="52" />
+        <mark key="^" line="54" column="52" />
+        <mark key="." line="54" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_TemplateList.php" timestamp="1583992079960">
+        <mark key="[" line="30" column="51" />
+        <mark key="." line="30" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_new_sel.htm" timestamp="1583992305389">
+        <mark key="[" line="99" column="67" />
+        <mark key="]" line="99" column="76" />
+        <mark key="." line="99" column="75" />
+        <mark key="^" line="99" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/overtime.js" timestamp="1583993004644">
+        <mark key="'" line="941" column="33" />
+        <mark key="[" line="869" column="23" />
+        <mark key="]" line="869" column="26" />
+        <mark key="^" line="869" column="26" />
+        <mark key="." line="869" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip_fixed.htm" timestamp="1583992727088">
+        <mark key="[" line="29" column="63" />
+        <mark key="]" line="29" column="63" />
+        <mark key="^" line="29" column="63" />
+        <mark key="." line="29" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/new_wf_step3.htm" timestamp="1583992244486">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="163" column="39" />
+        <mark key="]" line="163" column="52" />
+        <mark key="." line="163" column="51" />
+        <mark key="^" line="163" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_edit.htm" timestamp="1583993238841">
+        <mark key="'" line="76" column="40" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/im/m/wf/new_wf_step1.htm" timestamp="1583992847099">
+        <mark key="[" line="147" column="14" />
+        <mark key="]" line="147" column="14" />
+        <mark key="^" line="147" column="14" />
+        <mark key="." line="147" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/VA/KWCR2VacationRecordDAO.php" timestamp="1583992621782">
+        <mark key="'" line="112" column="8" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordReport.php" timestamp="1583993139173">
+        <mark key="'" line="87" column="63" />
+        <mark key="[" line="87" column="64" />
+        <mark key="]" line="87" column="64" />
+        <mark key="^" line="87" column="64" />
+        <mark key="." line="87" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/im/m/wf/insert_IFrameInclude.js" timestamp="1583992123731">
+        <mark key="'" line="54" column="59" />
+        <mark key="[" line="54" column="43" />
+        <mark key="]" line="54" column="52" />
+        <mark key="." line="54" column="51" />
+        <mark key="^" line="54" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_left.htm" timestamp="1583992389975">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="50" column="57" />
+        <mark key="]" line="50" column="60" />
+        <mark key="^" line="49" column="69" />
+        <mark key="." line="50" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" timestamp="1583993847596">
+        <mark key="'" line="239" column="29" />
+        <mark key="[" line="953" column="0" />
+        <mark key="]" line="953" column="0" />
+        <mark key="." line="953" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/dayoff.js" timestamp="1583993838734">
+        <mark key="'" line="736" column="24" />
+        <mark key="[" line="717" column="3" />
+        <mark key="]" line="717" column="3" />
+        <mark key="." line="717" column="2" />
+        <mark key="^" line="717" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/new_wf_step1.htm" timestamp="1583992923027">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="1732" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
+      <jump line="1587" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
+      <jump line="1037" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
+      <jump line="2342" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
+      <jump line="2257" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
+      <jump line="2259" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
+      <jump line="2273" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
+      <jump line="405" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
+      <jump line="2237" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
+      <jump line="1138" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
+      <jump line="2267" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
+      <jump line="17" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
+      <jump line="1585" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
+      <jump line="1730" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
+      <jump line="1584" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
+      <jump line="17" column="42" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_chgman.htm" />
+      <jump line="9" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="85" column="6" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="86" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="99" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="123" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="130" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="148" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="164" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="181" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="3" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/DefaultShiftMaker.php" />
+      <jump line="14" column="36" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="98" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/sp_forms/dayoff/dayoff.js" />
+      <jump line="43" column="22" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/dayoff_sysstore.php" />
+      <jump line="939" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/overtime.js" />
+      <jump line="245" column="1" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/sp_forms/dayoff/dayoff.js" />
+      <jump line="146" column="19" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/sp_forms/dayoff/dayoff.js" />
+      <jump line="237" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/sp_forms/dayoff/dayoff.js" />
+      <jump line="153" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/sp_forms/dayoff/dayoff.js" />
+      <jump line="123" column="30" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/sp_forms/dayoff/dayoff.js" />
+      <jump line="731" column="24" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/dayoff.js" />
+      <jump line="153" column="37" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" />
+      <jump line="76" column="27" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" />
+      <jump line="125" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
+      <jump line="98" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
+      <jump line="75" column="35" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
+      <jump line="126" column="46" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" />
+      <jump line="99" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
+      <jump line="109" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
+      <jump line="93" column="34" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new_sel.htm" />
+      <jump line="72" column="10" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new_sel.htm" />
+      <jump line="21" column="47" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_user_detail_tabs.js" />
+      <jump line="61" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
+      <jump line="72" column="46" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
+      <jump line="62" column="14" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" />
+      <jump line="4" column="16" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/dayoff_sysstore.php" />
+      <jump line="63" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/overtime_sysstore.htm" />
+      <jump line="30" column="38" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/VA/KWCR2VacationRecordDAO.php" />
+      <jump line="94" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordReport.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Vacation_List.php" />
+      <jump line="51" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_ChangeStatus.php" />
+      <jump line="164" column="16" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_FlowUpdate.php" />
+      <jump line="45" column="28" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_FlowUpdate.php" />
+      <jump line="326" column="44" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_FlowUpdate.php" />
+      <jump line="378" column="44" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_FlowUpdate.php" />
+      <jump line="439" column="54" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_FlowUpdate.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_FormList.php" />
+      <jump line="240" column="36" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_FormList.php" />
+      <jump line="771" column="12" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_List.php" />
+      <jump line="249" column="46" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_List.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" />
+      <jump line="101" column="37" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" />
+      <jump line="337" column="41" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" />
+      <jump line="479" column="41" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" />
+      <jump line="603" column="49" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" />
+      <jump line="761" column="45" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" />
+      <jump line="914" column="41" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/im/m/wf/insert_IFrameInclude.js" />
+      <jump line="54" column="59" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/im/m/wf/insert_IFrameInclude.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/im/m/wf/new_wf_step3.htm" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/insert_IFrameInclude.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/new_wf_step3.htm" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/insert_IFrameInclude.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_left.htm" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new.htm" />
+      <jump line="14" column="22" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new_sel.htm" />
+      <jump line="73" column="26" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new_sel.htm" />
+      <jump line="2" column="5" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_sysstore_trip.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
+      <jump line="1067" column="38" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
+      <jump line="771" column="69" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
+      <jump line="1252" column="44" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
+      <jump line="1254" column="14" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
+      <jump line="1256" column="23" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
+      <jump line="112" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/VA/KWCR2VacationRecordDAO.php" />
+      <jump line="1253" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
+      <jump line="87" column="63" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordReport.php" />
+      <jump line="76" column="40" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/paper_mgr_edit.htm" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_sysstore_trip.php" />
+      <jump line="1262" column="7" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
+      <jump line="238" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>-2</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCWNhc2UgIi0xNSI6Ly/lh7rlt64KCQkJCQl0ZW1wbGF0ZXNbal1bMF0gPSAiLTIsVkEiOyBicmVhazsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBkYzRlY2Q2ODAuLi4gSXNzdWUgIzQxODAsICM0MDM4IOiqv+aVtOeLgOaFi+mZo+WIl+iuiuaVuOWQjeeose+8jOmBv+WFjeiIhyBnbG9iYWwg5pmC55u45ZCM6K6K5pW4Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiRyZWNvcmQgPSAkdmFfcmVjb3JkX3JlcG8tPmdldE92ZXJ0aW1lUmVjb3JkU3BsaXQoJHBhcmFtc1snYWN0X3N0YXJ0J10sICRwYXJhbXNbJ2FjdF9lbmQnXSwgJHN0YXR1cywgJHBhcmFtc1snc3BsaXRvbmUnXSk7Cj09PT09PT0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBkYzRlY2Q2ODAuLi4gSXNzdWUgIzQxODAsICM0MDM4IOiqv+aVtOeLgOaFi+mZo+WIl+iuiuaVuOWQjeeose+8jOmBv+WFjeiIhyBnbG9iYWwg5pmC55u45ZCM6K6K5pW4Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>718</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>-2</last-search>
+      <last-offset />
+      <last-pattern>-2</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
