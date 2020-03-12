@@ -147,12 +147,12 @@
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new_sel.htm" timestamp="1583992483350">
-        <mark key="'" line="73" column="26" />
-        <mark key="[" line="155" column="98" />
-        <mark key="]" line="155" column="99" />
-        <mark key="^" line="155" column="99" />
-        <mark key="." line="155" column="98" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new_sel.htm" timestamp="1584003624299">
+        <mark key="'" line="92" column="27" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="151" column="99" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/insert_IFrameInclude.js" timestamp="1583992343396">
         <mark key="'" line="0" column="0" />
@@ -274,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1732" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="1587" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="1037" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
       <jump line="2342" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/DefaultShiftMakerTest.php" />
@@ -374,12 +373,13 @@
       <jump line="53" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_sysstore_trip.php" />
       <jump line="1262" column="7" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
       <jump line="238" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
+      <jump line="96" column="27" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new_sel.htm" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkc3RhZmZfZGJfZGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2RkCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgICAgdmFyIGFwX3JpZ2h0X2xpc3QgPSBbIjAiLCAiLTMiLCAiLTEwIiwgIi0xMSIsICItMiIsICItMTIiLCAiLTciLCAiLTkiLCAiLTEzIiwgIi0xNCIsICItMTUiXTsKPj4+Pj4+PiBhYzIwOTEwMmIuLi4gSXNzdWUgIzQxODMg5paw5aKeIOWWnOWjq+WkmuWHuuW3rueUs+iri+WWrihJRDogLTE1KSDlsI3mh4nnmoQgSUQg5Yik5pa3Cg==</text>
       </register>
       <register name="-" type="4">
         <text>請</text>
@@ -391,13 +391,13 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkc3RhZmZfZGJfZGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2RkCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgICAgdmFyIGFwX3JpZ2h0X2xpc3QgPSBbIjAiLCAiLTMiLCAiLTEwIiwgIi0xMSIsICItMiIsICItMTIiLCAiLTciLCAiLTkiLCAiLTEzIiwgIi0xNCIsICItMTUiXTsKPj4+Pj4+PiBhYzIwOTEwMmIuLi4gSXNzdWUgIzQxODMg5paw5aKeIOWWnOWjq+WkmuWHuuW3rueUs+iri+WWrihJRDogLTE1KSDlsI3mh4nnmoQgSUQg5Yik5pa3Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkc3RhZmZfZGJfZGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkc3RhZmZfZGJfZGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2RkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkc3RhZmZfZGJfZGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -412,10 +412,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWNhc2UgIi0xNSI6Ly/lh7rlt64KCQkJCQl0ZW1wbGF0ZXNbal1bMF0gPSAiLTIsVkEiOyBicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkYzRlY2Q2ODAuLi4gSXNzdWUgIzQxODAsICM0MDM4IOiqv+aVtOeLgOaFi+mZo+WIl+iuiuaVuOWQjeeose+8jOmBv+WFjeiIhyBnbG9iYWwg5pmC55u45ZCM6K6K5pW4Cg==</text>
+        <text encoding="base64">CQkJCWNhc2UgIi0xNSI6Ly/lh7rlt64KCQkJCQl0ZW1wbGF0ZXNbal1bMF0gPSAiLTIsVkEiOyBicmVhazsK</text>
       </register>
       <register name=":" type="4">
         <text>718</text>
