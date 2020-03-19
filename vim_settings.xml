@@ -46,12 +46,12 @@
         <entry>action Debug</entry>
         <entry>378</entry>
         <entry>action AceAction</entry>
-        <entry>action Back</entry>
         <entry>action Inline</entry>
-        <entry>action MethodUp</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoNextError</entry>
         <entry>action VcsShowNextChangeMarker</entry>
+        <entry>action MethodUp</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -154,12 +154,12 @@
         <mark key="." line="51" column="39" />
         <mark key="^" line="51" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1584610430410">
-        <mark key="'" line="218" column="26" />
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
-        <mark key="^" line="243" column="31" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1584611639968">
+        <mark key="'" line="230" column="39" />
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
+        <mark key="^" line="242" column="117" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/bookmark.Utility3.php" timestamp="1584602940323">
         <mark key="[" line="232" column="0" />
@@ -221,10 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
-      <jump line="181" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
-      <jump line="3" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/DefaultShiftMaker.php" />
-      <jump line="14" column="36" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="98" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/sp_forms/dayoff/dayoff.js" />
       <jump line="43" column="22" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/dayoff_sysstore.php" />
@@ -321,15 +317,19 @@
       <jump line="227" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
       <jump line="762" column="25" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
       <jump line="218" column="26" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
+      <jump line="1056" column="15" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
+      <jump line="217" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
+      <jump line="687" column="82" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
+      <jump line="230" column="39" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyR1c2VybmFtZScgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHVzZXJuYW1lKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHJldHVyblN0cmluZycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHJldHVyblN0cmluZykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>!isset($_POST['withoutMailInfo'])</text>
+        <text>tokenKey</text>
       </register>
       <register name="/" type="4">
         <text>and</text>
@@ -338,36 +338,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyR1c2VybmFtZScgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHVzZXJuYW1lKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHJldHVyblN0cmluZycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHJldHVyblN0cmluZykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRyJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkcikgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckX1BPU1QnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRfUE9TVCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>= array(
-        
-    );</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHRva2VuU2V0dGluZycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHNldHRpbmcpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHRva2VuU2V0dGluZycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHRva2VuU2V0dGluZykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAkdG9rZW5LZXkgPSAnbmV0YXNrJzsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHJldHVyblN0cmluZycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHJldHVyblN0cmluZykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiXCIsIFwiIiAuIGh0bWxzcGVjaWFsY2hhcnMoU3RyaXBTbGFzaGVzKCRyc19tYXJrWzhdKSkgLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiXCIsIFwiIiAuIGh0bWxzcGVjaWFsY2hhcnMoU3RyaXBTbGFzaGVzKCRyc19tYXJrWzhdKSkgLgo=</text>
+        <text encoding="base64">ICAgIGhhc2goKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGJtX3BhcmFtX2Fycls5XSA9ICIiOyAgLy8gVG9rZW4gVmFsdWUKICAgICAgICAgICAgICAgICAgICAgICAgJGJtX3BhcmFtX2FyclsxMF0gPSAiIjsgIC8vIGNoZWNrU3VtIE5hbWUKICAgICAgICAgICAgICAgICAgICAgICAgJGJtX3BhcmFtX2FyclsxMV0gPSAiIjsgIC8vIGNoZWNrU3VtIFZhbHVlCg==</text>
+        <text encoding="base64">ICAgICRjaGVja1N1bSA9IGhhc2goJyRhbGdvLCAkZGF0YSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action VcsShowNextChangeMarker</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
