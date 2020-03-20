@@ -32,9 +32,6 @@
         <entry>and</entry>
       </history-search>
       <history-cmd>
-        <entry>action VcsShowPrevChangeMarker</entry>
-        <entry>946</entry>
-        <entry>92</entry>
         <entry>action MethodDown</entry>
         <entry>718</entry>
         <entry>9</entry>
@@ -52,6 +49,9 @@
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>action MethodUp</entry>
         <entry>action Back</entry>
+        <entry>action ToggleBookmark</entry>
+        <entry>action ToggleBookmarkWithMnemonic</entry>
+        <entry>action ShowBookmarks</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -162,13 +162,13 @@
         <mark key="^" line="36" column="27" />
         <mark key="." line="36" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/mp/mp_main.htm" timestamp="1584611895137">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/mp/mp_main.htm" timestamp="1584676397800">
         <mark key="a" line="268" column="29" />
         <mark key="'" line="268" column="41" />
-        <mark key="[" line="268" column="31" />
-        <mark key="]" line="268" column="31" />
-        <mark key="." line="268" column="30" />
-        <mark key="^" line="268" column="31" />
+        <mark key="[" line="841" column="70" />
+        <mark key="]" line="841" column="70" />
+        <mark key="." line="841" column="69" />
+        <mark key="^" line="841" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/BM/BMarkInsertUpdate2.php" timestamp="1584602891386">
         <mark key="'" line="7" column="20" />
@@ -177,6 +177,7 @@
         <mark key="^" line="58" column="50" />
         <mark key="." line="58" column="49" />
       </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1584675512592" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" timestamp="1584602975173">
         <mark key="[" line="294" column="54" />
         <mark key="]" line="294" column="54" />
@@ -324,8 +325,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>M(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>M(</text>
@@ -337,7 +338,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHJldHVyblN0cmluZycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHJldHVyblN0cmluZykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -346,25 +347,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHJldHVyblN0cmluZycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHJldHVyblN0cmluZykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHRva2VuU2V0dGluZycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHRva2VuU2V0dGluZykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAkdG9rZW5LZXkgPSAnbmV0YXNrJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHJldHVyblN0cmluZycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHJldHVyblN0cmluZykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhhc2goKQo=</text>
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHRva2VuU2V0dGluZycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHRva2VuU2V0dGluZykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAkdG9rZW5LZXkgPSAnbmV0YXNrJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRjaGVja1N1bSA9IGhhc2goJyRhbGdvLCAkZGF0YSkK</text>
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHJldHVyblN0cmluZycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHJldHVyblN0cmluZykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action ShowBookmarks</text>
       </register>
     </registers>
   </component>
