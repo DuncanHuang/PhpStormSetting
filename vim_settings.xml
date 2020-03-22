@@ -43,15 +43,15 @@
         <entry>action Debug</entry>
         <entry>378</entry>
         <entry>action AceAction</entry>
-        <entry>action Inline</entry>
-        <entry>action RenameElement</entry>
-        <entry>action GotoNextError</entry>
         <entry>action VcsShowNextChangeMarker</entry>
-        <entry>action MethodUp</entry>
-        <entry>action Back</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action ToggleBookmarkWithMnemonic</entry>
         <entry>action ShowBookmarks</entry>
+        <entry>action RenameElement</entry>
+        <entry>action MethodUp</entry>
+        <entry>action Back</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action Inline</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -168,13 +168,13 @@
         <mark key="^" line="36" column="27" />
         <mark key="." line="36" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/mp/mp_main.htm" timestamp="1584676397800">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/mp/mp_main.htm" timestamp="1584892017888">
         <mark key="a" line="268" column="29" />
         <mark key="'" line="268" column="41" />
-        <mark key="[" line="841" column="70" />
-        <mark key="]" line="841" column="70" />
-        <mark key="." line="841" column="69" />
-        <mark key="^" line="841" column="70" />
+        <mark key="[" line="841" column="0" />
+        <mark key="]" line="841" column="0" />
+        <mark key="." line="841" column="0" />
+        <mark key="^" line="838" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/BM/BMarkInsertUpdate2.php" timestamp="1584602891386">
         <mark key="'" line="7" column="20" />
@@ -184,6 +184,8 @@
         <mark key="." line="58" column="49" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1584675512592" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/JWT.php" timestamp="1584892431942" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/BM/BMarkDelete2.php" timestamp="1584891686957" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" timestamp="1584602975173">
         <mark key="[" line="294" column="54" />
         <mark key="]" line="294" column="54" />
@@ -205,18 +207,24 @@
         <mark key="." line="51" column="39" />
         <mark key="^" line="51" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1584683991423">
-        <mark key="'" line="231" column="39" />
-        <mark key="[" line="238" column="8" />
-        <mark key="]" line="238" column="14" />
-        <mark key="^" line="238" column="14" />
-        <mark key="." line="238" column="13" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1584892645017">
+        <mark key="'" line="235" column="9" />
+        <mark key="[" line="235" column="11" />
+        <mark key="]" line="235" column="11" />
+        <mark key="^" line="235" column="11" />
+        <mark key="." line="235" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/bookmark.Utility3.php" timestamp="1584602940323">
         <mark key="[" line="232" column="0" />
         <mark key="]" line="232" column="0" />
         <mark key="^" line="233" column="26" />
         <mark key="." line="232" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/未命名檔案夾/php-jwt-2.2.0/tests/JWTTest.php" timestamp="1584892329932">
+        <mark key="[" line="97" column="28" />
+        <mark key="]" line="97" column="28" />
+        <mark key="^" line="97" column="28" />
+        <mark key="." line="97" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_BMarkInsertUpdate2.php" timestamp="1584603090370">
         <mark key="'" line="0" column="0" />
@@ -227,8 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/sp_forms/dayoff/dayoff.js" />
-      <jump line="43" column="22" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/dayoff_sysstore.php" />
       <jump line="939" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/overtime.js" />
       <jump line="245" column="1" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/sp_forms/dayoff/dayoff.js" />
       <jump line="146" column="19" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/sp_forms/dayoff/dayoff.js" />
@@ -327,15 +333,17 @@
       <jump line="687" column="82" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
       <jump line="230" column="39" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
       <jump line="268" column="41" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/mp/mp_main.htm" />
+      <jump line="228" column="30" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
+      <jump line="237" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>base64_encode(json_encode($token))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICRkZWNvZGUgPSBKV1Q6OmRlY29kZSgkdG9rZW4sICRzZXR0aW5nWzJdKTsKICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkZGVjb2RlKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>base64_encode(json_encode($token))</text>
+        <text>$key</text>
       </register>
       <register name="/" type="4">
         <text>and</text>
@@ -344,34 +352,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRkZWNvZGUgPSBKV1Q6OmRlY29kZSgkdG9rZW4sICRzZXR0aW5nWzJdKTsKICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkZGVjb2RlKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHRva2VuU2V0dGluZycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHNldHRpbmcpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXRQYXJhbXNbcmV0UGFyYW1zLmxlbmd0aF0gPSB0b2tlbkRhdGFbMl0gKyAnPScgKyB0b2tlbkRhdGFbM107Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJ2EnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKHMpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkc2V0dGluZ1sxXSwKICAgICAgICAkY2hlY2tTdW0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHRva2VuU2V0dGluZycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHRva2VuU2V0dGluZykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAkdG9rZW47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBpbXBsb2RlKCc7JywgJHJldHVyblN0cmluZyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAkY2hlY2tTdW0gPSBoYXNoKCdzaGEyNTYnLCAkcGF5bG9hZCAuICRzZXR0aW5nWzNdKTsKCiAgICAkcmV0dXJuU3RyaW5nID0gYXJyYXkoCiAgICAgICAgJHNldHRpbmdbMF0sCiAgICAgICAgJHBheWxvYWQsCiAgICAgICAgJHNldHRpbmdbMV0sCiAgICAgICAgJGNoZWNrU3VtLAogICAgKTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJHJldHVyblN0cmluZycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHJldHVyblN0cmluZykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgIEpXVDo6ZW5jb2RlKCRwYXlsb2FkLCAka2V5KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRwYXlsb2FkID0gYmFzZTY0X2VuY29kZShqc29uX2VuY29kZSgkcGF5bG9hZCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowBookmarks</text>
+        <text>action Inline</text>
       </register>
     </registers>
   </component>
