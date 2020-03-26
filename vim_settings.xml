@@ -32,7 +32,6 @@
         <entry>and</entry>
       </history-search>
       <history-cmd>
-        <entry>146</entry>
         <entry>48</entry>
         <entry>117</entry>
         <entry>action GotoDeclaration</entry>
@@ -50,8 +49,9 @@
         <entry>9</entry>
         <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
-        <entry>action Back</entry>
         <entry>action Run</entry>
+        <entry>action Back</entry>
+        <entry>action Forward</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -148,6 +148,12 @@
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/util/sysstoreProjectSelector.js" timestamp="1585215865352">
+        <mark key="[" line="11" column="88" />
+        <mark key="]" line="11" column="89" />
+        <mark key="^" line="110" column="13" />
+        <mark key="." line="11" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/SYS/ServerHelperTest.php" timestamp="1585127909510">
         <mark key="[" line="19" column="21" />
@@ -350,11 +356,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckcGFyYW1zJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkcGFyYW1zKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+      <register name="&quot;" type="4">
+        <text>t_task_name</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>t_task_name</text>
       </register>
       <register name="/" type="4">
         <text>and</text>
@@ -390,7 +396,7 @@
         <text encoding="base64">ICAgICAgICAvKiogQXJyYW5nZSAqLwogICAgICAgICR0aGlzLT5zdHViLT5fX2NvbnN0cnVjdCgpOwoKICAgICAgICAvKiogQXNzdW1lICovCiAgICAgICAgJGV4cGVjdGVkID0gdHJ1ZTsKCiAgICAgICAgLyoqIEFjdCAqLwogICAgICAgICRhY3R1YWwgPSAkdGhpcy0+c3R1Yi0+Y2hlY2soJ2VtJyk7CgogICAgICAgIC8qKiBBc3NlcnQgKi8KICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRleHBlY3RlZCwgJGFjdHVhbCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Forward</text>
       </register>
     </registers>
   </component>
