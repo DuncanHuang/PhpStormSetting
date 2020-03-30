@@ -32,7 +32,6 @@
         <entry>17</entry>
       </history-search>
       <history-cmd>
-        <entry>action Debug</entry>
         <entry>378</entry>
         <entry>action AceAction</entry>
         <entry>action VcsShowNextChangeMarker</entry>
@@ -51,6 +50,7 @@
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
         <entry>action Back</entry>
+        <entry>action Debug</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
@@ -149,6 +149,7 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="71" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/VA/CardStatusHelperTest.php" timestamp="1585552101249" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/util/sysstoreProjectSelector.js" timestamp="1585274782029">
         <mark key="[" line="11" column="89" />
         <mark key="]" line="11" column="89" />
@@ -164,11 +165,18 @@
         <mark key="^" line="950" column="20" />
         <mark key="." line="950" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" timestamp="1585552019694">
-        <mark key="[" line="1847" column="49" />
-        <mark key="]" line="1847" column="49" />
-        <mark key="." line="1847" column="48" />
-        <mark key="^" line="1847" column="49" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" timestamp="1585553073616">
+        <mark key="[" line="1856" column="24" />
+        <mark key="]" line="1856" column="26" />
+        <mark key="." line="1856" column="25" />
+        <mark key="^" line="1856" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1585553059869">
+        <mark key="'" line="357" column="50" />
+        <mark key="[" line="349" column="57" />
+        <mark key="]" line="349" column="57" />
+        <mark key="^" line="349" column="57" />
+        <mark key="." line="349" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/SYS/ServerHelperTest.php" timestamp="1585127909510">
         <mark key="[" line="19" column="21" />
@@ -210,12 +218,6 @@
         <mark key="^" line="948" column="13" />
         <mark key="." line="948" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" timestamp="1585036648655">
-        <mark key="[" line="349" column="14" />
-        <mark key="]" line="349" column="14" />
-        <mark key="^" line="349" column="14" />
-        <mark key="." line="349" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/HR/APRightHelperTest.php" timestamp="1585125218026">
         <mark key="[" line="27" column="5" />
         <mark key="]" line="28" column="0" />
@@ -233,18 +235,8 @@
         <mark key="^" line="713" column="13" />
         <mark key="." line="713" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/TreeView_2009.js" timestamp="1585034145229">
-        <mark key="[" line="155" column="16" />
-        <mark key="]" line="155" column="16" />
-        <mark key="^" line="155" column="16" />
-        <mark key="." line="155" column="15" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="36" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_FormList.php" />
-      <jump line="771" column="12" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_List.php" />
-      <jump line="249" column="46" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_List.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" />
       <jump line="101" column="37" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" />
       <jump line="337" column="41" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" />
       <jump line="479" column="41" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" />
@@ -341,15 +333,19 @@
       <jump line="804" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
       <jump line="1820" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
       <jump line="1832" column="37" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
+      <jump line="379" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
+      <jump line="384" column="12" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
+      <jump line="344" column="46" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
+      <jump line="357" column="50" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>2017-05-14 01:00:00</text>
+        <text>退</text>
       </register>
       <register name="-" type="4">
-        <text>2017-05-14 01:00:00</text>
+        <text>退</text>
       </register>
       <register name="/" type="4">
         <text>17</text>
