@@ -10,7 +10,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>12</entry>
         <entry>13</entry>
         <entry>31</entry>
         <entry>pa</entry>
@@ -30,10 +29,9 @@
         <entry>-12</entry>
         <entry>-2</entry>
         <entry>and</entry>
+        <entry>17</entry>
       </history-search>
       <history-cmd>
-        <entry>117</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Debug</entry>
         <entry>378</entry>
         <entry>action AceAction</entry>
@@ -52,6 +50,8 @@
         <entry>action Back</entry>
         <entry>action Forward</entry>
         <entry>106</entry>
+        <entry>464</entry>
+        <entry>104</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -142,14 +142,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/em/em_tree.htm" timestamp="1585031293741">
-        <mark key="'" line="116" column="101" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.php" timestamp="1585538922986">
+        <mark key="'" line="148" column="38" />
+        <mark key="[" line="463" column="50" />
+        <mark key="]" line="463" column="50" />
+        <mark key="^" line="463" column="50" />
+        <mark key="." line="463" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" timestamp="1585287548316" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/util/sysstoreProjectSelector.js" timestamp="1585274782029">
         <mark key="[" line="11" column="89" />
         <mark key="]" line="11" column="89" />
@@ -162,7 +161,6 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" timestamp="1585287298805" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/SYS/ServerHelper.php" timestamp="1585125252266">
         <mark key="[" line="9" column="5" />
       </file>
@@ -172,24 +170,19 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/em/index_em.htm" timestamp="1585031473381">
-        <mark key="[" line="380" column="27" />
-        <mark key="]" line="380" column="27" />
-        <mark key="^" line="380" column="27" />
-        <mark key="." line="380" column="26" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.inc" timestamp="1585539348031">
+        <mark key="'" line="127" column="8" />
+        <mark key="[" line="397" column="0" />
+        <mark key="]" line="397" column="0" />
+        <mark key="." line="397" column="0" />
+        <mark key="^" line="397" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" timestamp="1584943054617">
-        <mark key="'" line="1784" column="193" />
-        <mark key="[" line="1784" column="184" />
-        <mark key="]" line="1784" column="184" />
-        <mark key="^" line="1784" column="185" />
-        <mark key="." line="1784" column="184" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordList.php" timestamp="1584942952389">
-        <mark key="[" line="113" column="65" />
-        <mark key="]" line="113" column="65" />
-        <mark key="." line="113" column="64" />
-        <mark key="^" line="113" column="65" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" timestamp="1585539583168">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CR/CR_Update_ExtCol.php" timestamp="1585116025611">
         <mark key="[" line="65" column="0" />
@@ -198,6 +191,11 @@
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/im/message/send.php" timestamp="1585033314282">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_file_list.php" timestamp="1585538808767">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/authmessage.php" timestamp="1585033369918">
         <mark key="'" line="35" column="0" />
@@ -249,13 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="10" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new_sel.htm" />
-      <jump line="21" column="47" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_user_detail_tabs.js" />
-      <jump line="61" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
-      <jump line="72" column="46" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
-      <jump line="62" column="14" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" />
-      <jump line="4" column="16" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/dayoff_sysstore.php" />
-      <jump line="63" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/overtime_sysstore.htm" />
       <jump line="30" column="38" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/VA/KWCR2VacationRecordDAO.php" />
       <jump line="94" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordReport.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_Vacation_List.php" />
@@ -310,7 +301,6 @@
       <jump line="16" column="32" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="109" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="87" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="633" column="26" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
       <jump line="634" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
@@ -349,59 +339,67 @@
       <jump line="24" column="13" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/authmessage.php" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/authmessage.php" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/authmessage.php" />
+      <jump line="148" column="38" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.php" />
+      <jump line="399" column="24" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.inc" />
+      <jump line="81" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.inc" />
+      <jump line="77" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.inc" />
+      <jump line="78" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.inc" />
+      <jump line="88" column="26" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.inc" />
+      <jump line="127" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.inc" />
+      <jump line="0" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>t_task_name</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>t_task_name</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>and</text>
+        <text>17</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckcGFyYW1zJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkcGFyYW1zKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5leHBlY3RFeGNlcHRpb24oJ0ZhaWxlZCBhc3NlcnRpbmcgdGhhdCBleGNlcHRpb24nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0ZW1wWyRpZHhdW10gPSB0cmltKCRyb3dEYXRhWyRpXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBleHBlY3RlZEV4Y2VwdGlvbiBFeGNlcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0ZXgK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGZwID09IHRydWUpIHsKICAgICAgICAgICAgd2hpbGUgKCRsbmRhdGEgPSBmZ2V0Y3N2KCRmcCwgMjA0OCwgJywgJykpIHsKICAgICAgICAgICAgICAgIGlmICgkcm93ID09IDApIHsKICAgICAgICAgICAgICAgICAgICB3aGlsZSAobGlzdCgka2V5LCAkdmFsdWUpID0gZWFjaCgkbG5kYXRhKSkgewogICAgICAgICAgICAgICAgICAgICAgICAkcyA9ICRJbXBvcnRBcnJbJHZhbHVlXTsKICAgICAgICAgICAgICAgICAgICAgICAgYXJyYXlfcHVzaCgkcHV0SW5kZXgsICRzKTsKICAgICAgICAgICAgICAgICAgICAgICAgJEF0dHJOdW0rKzsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGlmICgkQXR0ck51bSAhPSAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICR0ZW1wID0gYXJyYXkoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnJywgJycsICcnLCAnJywgJycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnJywgJycsICcnLCAnJywgJycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnJywgJycsICcnLCAnJywgJycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnJywgJycsICcnLCAnJywgJycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnJywgJycsICcnLCAnJywgJycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnJywgJycsICcnCiAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgICAgIGZvciAoJGkgPSAwOyAkaSA8ICRBdHRyTnVtOyAkaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkaWR4ID0gJHB1dEluZGV4WyRpXTsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoJGlkeCA9PSA3OSB8fCAkaWR4ID09IDgyIHx8ICRpZHggPT0gODUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkdGVtcFskaWR4XVtdID0gdHJpbSgkbG5kYXRhWyRpXSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0ZW1wWyRpZHhdID0gdHJpbSgkbG5kYXRhWyRpXSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g5qqi5p+l5biz6Jmf57i95pW45bCI55SoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAkcm93PTHmmK/kuK3mlofmrITkvY3lkI0sIGlkeCA9IDAg5piv5biz6Jmf55qEIGluZGV4LCDliY3pnaLliqDllq7lvJXomZ/lm6Dngrrlj6rnlKjlnKjos4fmlpnluqvkuK0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICgkaWR4ID09IDAgJiYgJHJvdyA+IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkYWNjTGlzdFtdID0gIiciLiRsbmRhdGFbJGldLiInIjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFlbXB0eSgkdGVtcFswXSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRwdXREYXRhWyRyb3ctMV0gPSAkdGVtcDsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICRyb3crKzsKICAgICAgICAgICAgfQogICAgICAgICAgICBmY2xvc2UoJGZwKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBleHBlY3RlZEV4Y2VwdGlvbiBJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICAvLyDlhYjlsIfmqpTmoYjlhaflrrnovYnnorwKICAgICAgICAkY29udGVudHMgPSBmaWxlX2dldF9jb250ZW50cygkaW1wb3J0ZmlsZSk7CiAgICAgICAgaWYgKHN1YnN0cigkY29udGVudHMsIDAsMykgPT0gcGFjaygiQ0NDIiwgMHhlZiwgMHhiYiwgMHhiZikpIHsKICAgICAgICAgICAgJGNvbnRlbnRzID0gc3Vic3RyKCRjb250ZW50cywgMyk7CiAgICAgICAgfQoKICAgICAgICAkaGFuZGxlID0gaWNvbnYoJGVuY29kaW5nLCAnVVRGLTgnLCB0cmltKCRjb250ZW50cykpOwogICAgICAgICRmcCA9IGZvcGVuKCRpbXBvcnRmaWxlLCAncisnKTsKICAgICAgICBmd3JpdGUoJGZwLCAkaGFuZGxlKTsKICAgICAgICBmc2VlaygkZnAsIDApOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHRlc3QKICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkYWN0dWFsID0gJHRhcmdldC0+Z2V0Q2xpZW50SVAoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNfbnVsbCgkcFsnc2dycCddWzFdWzBdKSA9PSB0cnVlICYmICRwdXREYXRhWyRpXVs3XSAhPSAnJykgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQXJyYW5nZSAqLwogICAgICAgICR0aGlzLT5zdHViLT5fX2NvbnN0cnVjdCgpOwoKICAgICAgICAvKiogQXNzdW1lICovCiAgICAgICAgJGV4cGVjdGVkID0gdHJ1ZTsKCiAgICAgICAgLyoqIEFjdCAqLwogICAgICAgICRhY3R1YWwgPSAkdGhpcy0+c3R1Yi0+Y2hlY2soJ2VtJyk7CgogICAgICAgIC8qKiBBc3NlcnQgKi8KICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKCRleHBlY3RlZCwgJGFjdHVhbCk7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>106</text>
+        <text>104</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>and</last-search>
+      <last-search>17</last-search>
       <last-offset />
-      <last-pattern>and</last-pattern>
+      <last-pattern>17</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
