@@ -165,19 +165,14 @@
         <mark key="^" line="950" column="20" />
         <mark key="." line="950" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" timestamp="1585553073616">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" timestamp="1585553074772">
+        <mark key="'" line="1856" column="25" />
         <mark key="[" line="1856" column="24" />
         <mark key="]" line="1856" column="26" />
         <mark key="." line="1856" column="25" />
         <mark key="^" line="1856" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1585553059869">
-        <mark key="'" line="357" column="50" />
-        <mark key="[" line="349" column="57" />
-        <mark key="]" line="349" column="57" />
-        <mark key="^" line="349" column="57" />
-        <mark key="." line="349" column="56" />
-      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1585554546603" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/SYS/ServerHelperTest.php" timestamp="1585127909510">
         <mark key="[" line="19" column="21" />
         <mark key="]" line="19" column="21" />
@@ -237,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="37" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" />
       <jump line="337" column="41" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" />
       <jump line="479" column="41" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" />
       <jump line="603" column="49" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" />
@@ -337,6 +331,7 @@
       <jump line="384" column="12" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
       <jump line="344" column="46" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
       <jump line="357" column="50" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
+      <jump line="1856" column="25" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
