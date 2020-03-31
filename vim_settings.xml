@@ -151,31 +151,29 @@
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/VA/CardStatusHelperTest.php" timestamp="1585552101249" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/CSVExportHelper.php" timestamp="1585621524111" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/common/util/sysstoreProjectSelector.js" timestamp="1585274782029">
-        <mark key="[" line="11" column="89" />
-        <mark key="]" line="11" column="89" />
-        <mark key="^" line="11" column="89" />
-        <mark key="." line="11" column="88" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/phpwkhtmltopdf/WkHtmlToPdf.php" timestamp="1585629716185">
         <mark key="[" line="277" column="24" />
         <mark key="]" line="277" column="24" />
         <mark key="^" line="277" column="24" />
         <mark key="." line="277" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/SYS/ServerHelper.php" timestamp="1585125252266">
-        <mark key="[" line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" timestamp="1585559411427">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" timestamp="1585647019976">
         <mark key="'" line="1076" column="62" />
         <mark key="[" line="1862" column="42" />
         <mark key="]" line="1862" column="41" />
         <mark key="." line="1862" column="40" />
         <mark key="^" line="1862" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1585557155827" />
-      <file name="/Dummy.txt" timestamp="1585640862404">
-        <mark key="[" line="0" column="24" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1585647047653">
+        <mark key="'" line="58" column="30" />
+        <mark key="[" line="49" column="16" />
+        <mark key="]" line="49" column="16" />
+        <mark key="^" line="49" column="16" />
+        <mark key="." line="49" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/MoYu_Wedding_BOT/.env" timestamp="1585673737381" />
+      <file name="/Dummy.txt" timestamp="1585674227276">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/laravel-tw/community/app/Http/Controllers/Api/ApiController.php" timestamp="1585640717185">
         <mark key="[" line="2" column="34" />
@@ -189,18 +187,14 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/SYS/ServerHelperTest.php" timestamp="1585127909510">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="21" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="19" column="21" />
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Config/Routes.php" timestamp="1585674228098">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="35" column="28" />
+        <mark key="]" line="35" column="28" />
+        <mark key="^" line="35" column="28" />
+        <mark key="." line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/sysstore/project_info.php" timestamp="1585211183227">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordReport.php" timestamp="1585647093181" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.inc" timestamp="1585539348031">
         <mark key="'" line="127" column="8" />
         <mark key="[" line="397" column="0" />
@@ -218,16 +212,10 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_file_list.php" timestamp="1585547643143">
         <mark key="'" line="74" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/HR/APRightHelperTest.php" timestamp="1585125218026">
-        <mark key="[" line="27" column="5" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardRecord_List.php" timestamp="1585647062018" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/List.php" timestamp="1585647050009" />
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/im/m/wf/insert_IFrameInclude.js" />
-      <jump line="54" column="59" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/im/m/wf/insert_IFrameInclude.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/im/m/wf/new_wf_step3.htm" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/insert_IFrameInclude.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/m/v3/wf/new_wf_step3.htm" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/insert_IFrameInclude.js" />
@@ -325,15 +313,18 @@
       <jump line="307" column="14" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
       <jump line="1800" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
       <jump line="1076" column="62" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" />
+      <jump line="100" column="39" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
+      <jump line="58" column="30" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Config/Routes.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IAo=</text>
+      <register name="&quot;" type="4">
+        <text>Home::index</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Home::index</text>
       </register>
       <register name="/" type="4">
         <text>17</text>
