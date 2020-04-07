@@ -10,7 +10,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>13</entry>
         <entry>31</entry>
         <entry>pa</entry>
         <entry>Over</entry>
@@ -30,9 +29,9 @@
         <entry>-2</entry>
         <entry>and</entry>
         <entry>17</entry>
+        <entry>str</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoNextError</entry>
         <entry>action Inline</entry>
         <entry>76</entry>
         <entry>9</entry>
@@ -52,6 +51,7 @@
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>action Back</entry>
         <entry>action AceAction</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -143,11 +143,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common.php" timestamp="1586152955121" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" timestamp="1586240005420">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" timestamp="1586241362847">
+        <mark key="'" line="39" column="49" />
+        <mark key="^" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/va2csv.php" timestamp="1586153119811" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/va2csv.php" timestamp="1586152913045">
@@ -218,8 +216,6 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/common_va.php" timestamp="1586227769679" />
     </filemarks>
     <jumps>
-      <jump line="14" column="22" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new_sel.htm" />
-      <jump line="73" column="26" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/wf_new_sel.htm" />
       <jump line="2" column="5" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_sysstore_trip.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
       <jump line="1067" column="38" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
@@ -318,59 +314,62 @@
       <jump line="32" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordReport.php" />
       <jump line="13" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/im/m/wf/insert_IFrameInclude.js" />
       <jump line="82" column="38" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
+      <jump line="41" column="28" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" />
+      <jump line="39" column="49" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>M</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>M</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>17</text>
+        <text>str</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJG15X3JlJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJG15X3Jlc3VsdCcgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJG15X3Jlc3VsdCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">JGZ1bGxuYW1lICAgICAgPSBpc3NldCgkX0ZJTEVTWydmaWxlJ11bJ25hbWUnXSkgPyAkX0ZJTEVTWydmaWxlJ11bJ25hbWUnXSA6IG51bGw7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCgkb3ZlcnRpbWVfZW5kIC8gNjApID4gMjQpIHsKICAgICAgICAgICAgICAgICRvdmVydGltZV9lbmQgPSAkb3ZlcnRpbWVfZW5kIC0gKDI0ICogNjApOwogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFyZ2V0LT5hZGRDYXJkUmVjb3JkKCRjYXJkX3JlY29yZFsnMjAyMC0wMy0yNCddKTsK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="8">
+        <text>StartDate
+StartDate</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJG15X3JlJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJG15X3Jlc3VsdCcgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJG15X3Jlc3VsdCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">JGZ1bGxuYW1lICAgICAgPSBpc3NldCgkX0ZJTEVTWydmaWxlJ11bJ25hbWUnXSkgPyAkX0ZJTEVTWydmaWxlJ11bJ25hbWUnXSA6IG51bGw7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>17</last-search>
+      <last-search>str</last-search>
       <last-offset />
-      <last-pattern>17</last-pattern>
+      <last-pattern>str</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
