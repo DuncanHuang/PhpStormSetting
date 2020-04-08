@@ -47,11 +47,11 @@
         <entry>action VcsShowPrevChangeMarker</entry>
         <entry>action ChangeSignature</entry>
         <entry>action RenameElement</entry>
-        <entry>action MethodDown</entry>
-        <entry>action Back</entry>
         <entry>action MethodUp</entry>
-        <entry>action Run</entry>
+        <entry>action MethodDown</entry>
         <entry>action Debug</entry>
+        <entry>action Back</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -156,8 +156,12 @@
         <mark key="^" line="1900" column="1" />
         <mark key="." line="1900" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1586332424894">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1586338317855">
         <mark key="'" line="1280" column="12" />
+        <mark key="[" line="987" column="77" />
+        <mark key="]" line="987" column="110" />
+        <mark key="." line="987" column="109" />
+        <mark key="^" line="987" column="110" />
       </file>
       <file name="/Applications/MAMP/bin/php/php7.4.2/conf/php.ini" timestamp="1586334234845">
         <mark key="'" line="0" column="0" />
@@ -191,12 +195,9 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_download.php" timestamp="1586254213161">
         <mark key="'" line="121" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1586333653671">
-        <mark key="'" line="1927" column="0" />
-        <mark key="[" line="1862" column="26" />
-        <mark key="]" line="1862" column="30" />
-        <mark key="." line="1862" column="29" />
-        <mark key="^" line="1862" column="30" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1586338241693">
+        <mark key="'" line="1952" column="0" />
+        <mark key="^" line="1804" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_convert.php" timestamp="1586253827343">
         <mark key="'" line="51" column="4" />
@@ -207,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="32" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="109" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="87" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
@@ -307,15 +307,16 @@
       <jump line="416" column="29" filename="/Applications/MAMP/bin/php/php7.3.9/conf/php.ini" />
       <jump line="13" column="42" filename="/Applications/MAMP/bin/php/php7.4.2/conf/php.ini" />
       <jump line="0" column="0" filename="/Applications/MAMP/bin/php/php7.4.2/conf/php.ini" />
+      <jump line="1952" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>( == 15 || $duty_mode == 31)</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>( == 15 || $duty_mode == 31)</text>
       </register>
       <register name="/" type="4">
         <text>04</text>
@@ -324,34 +325,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDIwLTAzLTA1JyA9PiBudWxsLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDIwLTAzLTAzJyA9PiBudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDIwLTAzLTA1JyA9PiBbCiAgICAgICAgICAgICAgICAgICAgMCA9PiAnJXU2NUU1JXU3M0VEJywgMSA9PiAnMicsIDIgPT4gJzMnLAogICAgICAgICAgICAgICAgICAgIDMgPT4gJzEyOjAwJywgNCA9PiAnMTY6MDAnLCA1ID0+ICcxNzowMCcsIDYgPT4gJzIxOjAwJywKICAgICAgICAgICAgICAgICAgICA3ID0+ICcxMjowMCcsIDggPT4gJzE2OjAwJywgOSA9PiAnMTc6MDAnLCAxMCA9PiAnMjE6MDAnLAogICAgICAgICAgICAgICAgICAgIDExID0+ICcxMjowMCcsIDEyID0+ICcxNjowMCcsIDEzID0+ICcxNzowMCcsIDE0ID0+ICcyMTowMCcsCiAgICAgICAgICAgICAgICAgICAgMTUgPT4gJzEyOjAwJywgMTYgPT4gJzE2OjAwJywgMTcgPT4gJzE3OjAwJywgMTggPT4gJzIxOjAwJywKICAgICAgICAgICAgICAgICAgICAxOSA9PiAnMTI6MDAnLCAyMCA9PiAnMTY6MDAnLCAyMSA9PiAnMTc6MDAnLCAyMiA9PiAnMjE6MDAnLAogICAgICAgICAgICAgICAgICAgIDIzID0+ICcxMjowMCcsIDI0ID0+ICcxNjowMCcsIDI1ID0+ICcxNzowMCcsIDI2ID0+ICcyMTowMCcsCiAgICAgICAgICAgICAgICAgICAgMjcgPT4gJzEyOjAwJywgMjggPT4gJzE2OjAwJywgMjkgPT4gJzE3OjAwJywgMzAgPT4gJzIxOjAwJywKICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFyZ2V0LT5zZXRPdmVydGltZU1heE1pbnV0ZSgzMDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDIwLTAzLTA1JyA9PiBudWxsLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRkdXR5KTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDIwLTAzLTAzJyA9PiBudWxsLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRoaXMtPmR1dHlfbGlzdCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwogICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkcmVjb3JkKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGFyZ2V0LT5zZXRPdmVydGltZU1heE1pbnV0ZSgzMDApOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRkdXR5KTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRoaXMtPmR1dHlfbGlzdCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwogICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkcmVjb3JkKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Debug</text>
+        <text>action Run</text>
       </register>
     </registers>
   </component>
