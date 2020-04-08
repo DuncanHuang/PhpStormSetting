@@ -6,7 +6,13 @@
       <interpreter id="1ce03534-87d6-474e-b9db-3b2bd38fc330" name="PHP 7.3.12(phpbrew)" home="$USER_HOME$/.phpbrew/php/php-7.3.12/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="$USER_HOME$/.phpbrew/php/php-7.3.12/bin/php" />
       <interpreter id="4fc0e5e9-433d-4f4c-a6e6-f6800d49a99b" name="PHP 7.3" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="242476cb-c4cf-431e-81f8-d15af9949fe3" name="PHP 5.6.40(MAMP)" home="/Applications/MAMP/bin/php/php5.6.40/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/MAMP/bin/php/php5.6.40/lib/php/extensions/no-debug-non-zts-20131226/xdebug.so" />
-      <interpreter id="ee7ff1b7-4833-41d5-a5f3-0843573739fc" name="PHP 7.4.2(MAMP)" home="/Applications/MAMP/bin/php/php7.4.2/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/MAMP/bin/php/php7.4.1/lib/php/extensions/no-debug-non-zts-20190902/xdebug.so" />
+      <interpreter id="ee7ff1b7-4833-41d5-a5f3-0843573739fc" name="PHP 7.4.2(MAMP)" home="/Applications/MAMP/bin/php/php7.4.2/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/MAMP/bin/php/php7.4.2/lib/php/extensions/no-debug-non-zts-20190902/xdebug.so">
+        <configuration_options>
+          <configuration_option name="xdebug.remote_enable" value="1" />
+          <configuration_option name="xdebug.remote_host" value="127.0.0.1" />
+          <configuration_option name="xdebug.remote_port" value="9000" />
+        </configuration_options>
+      </interpreter>
       <interpreter id="a5865b5f-bfbb-44a4-a3a3-2b95d0d51327" name="PHP 7.3.9(MAMP)" home="/Applications/MAMP/bin/php/php7.3.9/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/MAMP/bin/php/php7.3.9/lib/php/extensions/no-debug-non-zts-20180731/xdebug.so" />
     </interpreters>
   </component>
@@ -342,7 +348,11 @@
           <configuration_options>
             <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.4.2/lib/php" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.9.2">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -387,6 +397,7 @@
             <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="tokenizer" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
