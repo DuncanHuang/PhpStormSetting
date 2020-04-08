@@ -159,6 +159,13 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1586332424894">
         <mark key="'" line="1280" column="12" />
       </file>
+      <file name="/Applications/MAMP/bin/php/php7.4.2/conf/php.ini" timestamp="1586334234845">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1900" column="0" />
+        <mark key="]" line="1900" column="1" />
+        <mark key="^" line="1900" column="1" />
+        <mark key="." line="1900" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1586248661967">
         <mark key="[" line="0" column="0" />
       </file>
@@ -175,6 +182,12 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/im/m/wf/insert_IFrameInclude.js" timestamp="1586226694219">
         <mark key="'" line="13" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" timestamp="1586250748349">
+        <mark key="[" line="340" column="45" />
+        <mark key="]" line="340" column="45" />
+        <mark key="^" line="340" column="45" />
+        <mark key="." line="340" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_download.php" timestamp="1586254213161">
         <mark key="'" line="121" column="61" />
       </file>
@@ -185,12 +198,6 @@
         <mark key="." line="1862" column="29" />
         <mark key="^" line="1862" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepoSplit.php" timestamp="1586250748349">
-        <mark key="[" line="340" column="45" />
-        <mark key="]" line="340" column="45" />
-        <mark key="^" line="340" column="45" />
-        <mark key="." line="340" column="44" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_convert.php" timestamp="1586253827343">
         <mark key="'" line="51" column="4" />
         <mark key="[" line="45" column="18" />
@@ -200,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/dm_showJpg.php" />
-      <jump line="149" column="16" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_download.php" />
       <jump line="16" column="32" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="109" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="87" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
@@ -300,6 +305,8 @@
       <jump line="1280" column="12" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1900" column="0" filename="/Applications/MAMP/bin/php/php7.3.9/conf/php.ini" />
       <jump line="416" column="29" filename="/Applications/MAMP/bin/php/php7.3.9/conf/php.ini" />
+      <jump line="13" column="42" filename="/Applications/MAMP/bin/php/php7.4.2/conf/php.ini" />
+      <jump line="0" column="0" filename="/Applications/MAMP/bin/php/php7.4.2/conf/php.ini" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
