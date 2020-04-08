@@ -41,17 +41,17 @@
         <entry>169</entry>
         <entry>w</entry>
         <entry>108</entry>
-        <entry>action VcsShowNextChangeMarker</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action VcsShowPrevChangeMarker</entry>
         <entry>action ChangeSignature</entry>
         <entry>action RenameElement</entry>
-        <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
         <entry>action Debug</entry>
         <entry>action Back</entry>
         <entry>action Run</entry>
+        <entry>action VcsShowNextChangeMarker</entry>
+        <entry>action MethodUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -156,12 +156,12 @@
         <mark key="^" line="1900" column="1" />
         <mark key="." line="1900" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1586338317855">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1586339225666">
         <mark key="'" line="1280" column="12" />
-        <mark key="[" line="987" column="77" />
-        <mark key="]" line="987" column="110" />
-        <mark key="." line="987" column="109" />
-        <mark key="^" line="987" column="110" />
+        <mark key="[" line="987" column="50" />
+        <mark key="]" line="987" column="50" />
+        <mark key="." line="987" column="49" />
+        <mark key="^" line="987" column="50" />
       </file>
       <file name="/Applications/MAMP/bin/php/php7.4.2/conf/php.ini" timestamp="1586334234845">
         <mark key="'" line="0" column="0" />
@@ -195,9 +195,12 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_download.php" timestamp="1586254213161">
         <mark key="'" line="121" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1586338241693">
-        <mark key="'" line="1952" column="0" />
-        <mark key="^" line="1804" column="20" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1586339257473">
+        <mark key="'" line="1743" column="21" />
+        <mark key="[" line="1877" column="100" />
+        <mark key="]" line="1877" column="101" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="1877" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_convert.php" timestamp="1586253827343">
         <mark key="'" line="51" column="4" />
@@ -208,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="87" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="633" column="26" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
@@ -308,15 +310,16 @@
       <jump line="13" column="42" filename="/Applications/MAMP/bin/php/php7.4.2/conf/php.ini" />
       <jump line="0" column="0" filename="/Applications/MAMP/bin/php/php7.4.2/conf/php.ini" />
       <jump line="1952" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="1743" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>( == 15 || $duty_mode == 31)</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>( == 15 || $duty_mode == 31)</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>04</text>
@@ -352,7 +355,7 @@
         <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRoaXMtPmR1dHlfbGlzdCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwogICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkcmVjb3JkKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action MethodUp</text>
       </register>
     </registers>
   </component>
