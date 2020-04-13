@@ -45,13 +45,13 @@
         <entry>action VcsShowPrevChangeMarker</entry>
         <entry>action ChangeSignature</entry>
         <entry>action RenameElement</entry>
-        <entry>action MethodDown</entry>
         <entry>action Debug</entry>
         <entry>action Back</entry>
         <entry>action Run</entry>
         <entry>action VcsShowNextChangeMarker</entry>
-        <entry>action MethodUp</entry>
         <entry>741</entry>
+        <entry>action MethodDown</entry>
+        <entry>action MethodUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -156,7 +156,7 @@
         <mark key="^" line="1900" column="1" />
         <mark key="." line="1900" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" timestamp="1586399473543">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" timestamp="1586399924242">
         <mark key="[" line="42" column="44" />
         <mark key="]" line="43" column="27" />
         <mark key="." line="43" column="26" />
@@ -208,8 +208,12 @@
         <mark key="^" line="340" column="45" />
         <mark key="." line="340" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1586399452015">
-        <mark key="'" line="880" column="8" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" timestamp="1586400010857">
+        <mark key="'" line="879" column="26" />
+        <mark key="[" line="873" column="27" />
+        <mark key="]" line="873" column="27" />
+        <mark key="^" line="873" column="27" />
+        <mark key="." line="873" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_convert.php" timestamp="1586253827343">
         <mark key="'" line="51" column="4" />
@@ -220,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="633" column="26" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
       <jump line="634" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/hr/hr_updatebm.htm" />
@@ -320,6 +323,7 @@
       <jump line="1952" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
       <jump line="1743" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
       <jump line="880" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
+      <jump line="879" column="26" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManCustPageInfo.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -364,7 +368,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>741</text>
+        <text>action MethodUp</text>
       </register>
     </registers>
   </component>
