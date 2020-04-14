@@ -44,14 +44,14 @@
         <entry>action VcsShowPrevChangeMarker</entry>
         <entry>action ChangeSignature</entry>
         <entry>action RenameElement</entry>
-        <entry>action Debug</entry>
-        <entry>action Back</entry>
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>741</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
         <entry>1878</entry>
         <entry>action Run</entry>
+        <entry>action Debug</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -162,11 +162,10 @@
         <mark key="." line="43" column="26" />
         <mark key="^" line="43" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1586836547636">
-        <mark key="[" line="928" column="1" />
-        <mark key="]" line="928" column="1" />
-        <mark key="^" line="928" column="1" />
-        <mark key="." line="928" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1586842443241">
+        <mark key="[" line="894" column="0" />
+        <mark key="]" line="894" column="0" />
+        <mark key="." line="894" column="0" />
       </file>
       <file name="/Applications/MAMP/bin/php/php7.4.2/conf/php.ini" timestamp="1586334234845">
         <mark key="'" line="0" column="0" />
@@ -328,10 +327,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>$act_mid['time']</text>
       </register>
       <register name="/" type="4">
         <text>04</text>
@@ -340,34 +339,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE1IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDIwLTAzLTA1JyA9PiBudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZsb2F0dmFsKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDIwLTAzLTA1JyA9PiBbCiAgICAgICAgICAgICAgICAgICAgMCA9PiAnJXU2NUU1JXU3M0VEJywgMSA9PiAnMicsIDIgPT4gJzMnLAogICAgICAgICAgICAgICAgICAgIDMgPT4gJzEyOjAwJywgNCA9PiAnMTY6MDAnLCA1ID0+ICcxNzowMCcsIDYgPT4gJzIxOjAwJywKICAgICAgICAgICAgICAgICAgICA3ID0+ICcxMjowMCcsIDggPT4gJzE2OjAwJywgOSA9PiAnMTc6MDAnLCAxMCA9PiAnMjE6MDAnLAogICAgICAgICAgICAgICAgICAgIDExID0+ICcxMjowMCcsIDEyID0+ICcxNjowMCcsIDEzID0+ICcxNzowMCcsIDE0ID0+ICcyMTowMCcsCiAgICAgICAgICAgICAgICAgICAgMTUgPT4gJzEyOjAwJywgMTYgPT4gJzE2OjAwJywgMTcgPT4gJzE3OjAwJywgMTggPT4gJzIxOjAwJywKICAgICAgICAgICAgICAgICAgICAxOSA9PiAnMTI6MDAnLCAyMCA9PiAnMTY6MDAnLCAyMSA9PiAnMTc6MDAnLCAyMiA9PiAnMjE6MDAnLAogICAgICAgICAgICAgICAgICAgIDIzID0+ICcxMjowMCcsIDI0ID0+ICcxNjowMCcsIDI1ID0+ICcxNzowMCcsIDI2ID0+ICcyMTowMCcsCiAgICAgICAgICAgICAgICAgICAgMjcgPT4gJzEyOjAwJywgMjggPT4gJzE2OjAwJywgMjkgPT4gJzE3OjAwJywgMzAgPT4gJzIxOjAwJywKICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQU5EIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDIwLTAzLTA1JyA9PiBudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQU5EIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDIwLTAzLTA1JyA9PiBudWxsLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDIwLTAzLTAzJyA9PiBudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDIwLTAzLTA1JyA9PiBbCiAgICAgICAgICAgICAgICAgICAgMCA9PiAnJXU2NUU1JXU3M0VEJywgMSA9PiAnMicsIDIgPT4gJzMnLAogICAgICAgICAgICAgICAgICAgIDMgPT4gJzEyOjAwJywgNCA9PiAnMTY6MDAnLCA1ID0+ICcxNzowMCcsIDYgPT4gJzIxOjAwJywKICAgICAgICAgICAgICAgICAgICA3ID0+ICcxMjowMCcsIDggPT4gJzE2OjAwJywgOSA9PiAnMTc6MDAnLCAxMCA9PiAnMjE6MDAnLAogICAgICAgICAgICAgICAgICAgIDExID0+ICcxMjowMCcsIDEyID0+ICcxNjowMCcsIDEzID0+ICcxNzowMCcsIDE0ID0+ICcyMTowMCcsCiAgICAgICAgICAgICAgICAgICAgMTUgPT4gJzEyOjAwJywgMTYgPT4gJzE2OjAwJywgMTcgPT4gJzE3OjAwJywgMTggPT4gJzIxOjAwJywKICAgICAgICAgICAgICAgICAgICAxOSA9PiAnMTI6MDAnLCAyMCA9PiAnMTY6MDAnLCAyMSA9PiAnMTc6MDAnLCAyMiA9PiAnMjE6MDAnLAogICAgICAgICAgICAgICAgICAgIDIzID0+ICcxMjowMCcsIDI0ID0+ICcxNjowMCcsIDI1ID0+ICcxNzowMCcsIDI2ID0+ICcyMTowMCcsCiAgICAgICAgICAgICAgICAgICAgMjcgPT4gJzEyOjAwJywgMjggPT4gJzE2OjAwJywgMjkgPT4gJzE3OjAwJywgMzAgPT4gJzIxOjAwJywKICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFyZ2V0LT5zZXRPdmVydGltZU1heE1pbnV0ZSgzMDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcyMDIwLTAzLTA1JyA9PiBudWxsLAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
