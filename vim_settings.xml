@@ -185,6 +185,13 @@
         <mark key="^" line="50" column="13" />
         <mark key="." line="50" column="12" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/.allowip" timestamp="1587361104806">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/hr/account/checkDuplicate.php" timestamp="1587016791756">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="31" column="6" />
@@ -200,12 +207,6 @@
         <mark key="." line="29" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/system/language/english/db_lang.php" timestamp="1587313016540" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/IncludeFile/WF/FlowCoderTest.php" timestamp="1586879650234">
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="32" column="15" />
-        <mark key="^" line="32" column="15" />
-        <mark key="." line="32" column="14" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/system/database/DB_driver.php" timestamp="1587313302674">
         <mark key="[" line="115" column="71" />
         <mark key="]" line="115" column="71" />
@@ -226,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="13" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/authmessage.php" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/authmessage.php" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/authmessage.php" />
       <jump line="148" column="38" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.php" />
@@ -326,15 +326,16 @@
       <jump line="53" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="63" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
       <jump line="60" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/.allowip" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlj5blvpflia/mqpTlkI0KICAgICAgICAkZmlsZUV4dGVuc2lvbiA9IHBhdGhpbmZvKCRfRklMRVNbJ3VwbG9hZCddWyduYW1lJ10pWydleHRlbnNpb24nXTsKICAgICAgICAkYWxsb3dlZFR5cGVzID0gWydnaWYnLCAnanBnJywgJ3BuZyddOwoKICAgICAgICBpZiAoaW5fYXJyYXkoJGZpbGVFeHRlbnNpb24sICRhbGxvd2VkVHlwZXMpID09IGZhbHNlKSB7CiAgICAgICAgICAgICR0aGlzLT5SZXR1cm5KUygkX0dFVFsnQ0tFZGl0b3JGdW5jTnVtJ10sICcnLCAn5qqU5qGI5qC85byP5LiN56ym77yBJyk7CiAgICAgICAgfQoKICAgICAgICAvLyDlo5PnuK7lnJbniYcKICAgICAgICAkSW1hZ2VTZXR0aW5nID0gJHRoaXMtPmNvbmZpZy0+aXRlbSgnQ29udGVudCcsICdJbWFnZXNTaXplJyk7CiAgICAgICAgJF9GSUxFU1sndXBsb2FkJ11bJ3NpemUnXSA9ICR0aGlzLT5nbG9iYWxfbW9kZWwtPkNvbXBvc2VySW1hZ2UoJF9GSUxFU1sndXBsb2FkJ10sICRJbWFnZVNldHRpbmcpOwoKICAgICAgICAkdXBsb2FkRmlsZU5hbWUgPSBzcHJpbnRmKAogICAgICAgICAgICAnJXMlcy4lcycsCiAgICAgICAgICAgIGRhdGUoJ1kvbS9kLycpLAogICAgICAgICAgICBtZDUoJF9GSUxFU1sndXBsb2FkJ11bJ3RtcF9uYW1lJ10pLAogICAgICAgICAgICAkZmlsZUV4dGVuc2lvbgogICAgICAgICk7CgogICAgICAgICRzdG9yYWdlID0gbmV3IFN0b3JhZ2VDbGllbnQoKTsKICAgICAgICAkYnVja2V0TmFtZSA9IHBhcnNlX3VybCgkdGhpcy0+Y29uZmlnLT5pdGVtKCdJbWFnZScsICdIb3N0JykpWydob3N0J107CiAgICAgICAgJGJ1Y2tldCAgPSAkc3RvcmFnZS0+YnVja2V0KCRidWNrZXROYW1lKTsKCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgJGJ1Y2tldEluZm8gPSAkYnVja2V0LT51cGxvYWQoCiAgICAgICAgICAgICAgICBmb3BlbigkX0ZJTEVTWyd1cGxvYWQnXVsndG1wX25hbWUnXSwgJ3InKSwKICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAnbmFtZScgICAgICAgICAgPT4gICR1cGxvYWRGaWxlTmFtZSwKICAgICAgICAgICAgICAgICAgICAncHJlZGVmaW5lZEFjbCcgPT4gJ3B1YmxpY1JlYWQnLAogICAgICAgICAgICAgICAgXQogICAgICAgICAgICApLT5pbmZvKCk7CiAgICAgICAgICAgICRJbWFnZXNVcmwgID0gJHRoaXMtPmNvbmZpZy0+aXRlbSgnSW1hZ2UnLCAnSG9zdCcpIC4gJGJ1Y2tldEluZm9bJ25hbWUnXTsKICAgICAgICAgICAgJHRoaXMtPlJldHVybkpTKCRfR0VUWydDS0VkaXRvckZ1bmNOdW0nXSwgJEltYWdlc1VybCwgJ+S4iuWCs+WujOaIkO+8gScpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICAkdGhpcy0+UmV0dXJuSlMoJF9HRVRbJ0NLRWRpdG9yRnVuY051bSddLCAnJywgJ+S4iuWCs+WkseaVlycpOwogICAgICAgIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>家</text>
       </register>
       <register name="-" type="4">
-        <text>$params</text>
+        <text>家</text>
       </register>
       <register name="/" type="4">
         <text>ID</text>
