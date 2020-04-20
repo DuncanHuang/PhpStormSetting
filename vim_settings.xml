@@ -32,7 +32,6 @@
         <entry>ID</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>108</entry>
         <entry>action AceAction</entry>
         <entry>action VcsShowPrevChangeMarker</entry>
@@ -52,6 +51,7 @@
         <entry>action Inline</entry>
         <entry>action MethodUp</entry>
         <entry>action Back</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -185,12 +185,12 @@
         <mark key="^" line="50" column="13" />
         <mark key="." line="50" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/.allowip" timestamp="1587361104806">
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/.allowip" timestamp="1587372316503">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="26" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="6" column="25" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="6" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/hr/account/checkDuplicate.php" timestamp="1587016791756">
         <mark key="'" line="52" column="0" />
@@ -371,7 +371,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
