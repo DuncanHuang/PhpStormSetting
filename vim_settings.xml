@@ -155,10 +155,10 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/hr/hr_security.htm" timestamp="1587372884524">
         <mark key="'" line="380" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/NetaskVersion.php" timestamp="1587451528279">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="40" />
-        <mark key="." line="16" column="40" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/NetaskVersion.php" timestamp="1587452582995">
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="41" />
+        <mark key="." line="16" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/_main.js" timestamp="1587372941951">
         <mark key="'" line="292" column="32" />
@@ -218,18 +218,12 @@
         <mark key="]" line="268" column="0" />
         <mark key="." line="268" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" timestamp="1587451681047">
-        <mark key="'" line="82" column="72" />
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="19" />
-        <mark key="^" line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/system/database/DB_driver.php" timestamp="1587313302674">
-        <mark key="[" line="115" column="71" />
-        <mark key="]" line="115" column="71" />
-        <mark key="^" line="115" column="71" />
-        <mark key="." line="115" column="70" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" timestamp="1587452632741">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="82" column="73" />
+        <mark key="." line="82" column="72" />
+        <mark key="^" line="82" column="73" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/models/global_model.php" timestamp="1587349367253">
         <mark key="[" line="55" column="0" />
@@ -240,7 +234,6 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CR/CR_Import.php" timestamp="1587373054780" />
     </filemarks>
     <jumps>
-      <jump line="127" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.inc" />
       <jump line="460" column="45" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.php" />
       <jump line="135" column="24" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.php" />
       <jump line="73" column="23" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_file_list.php" />
@@ -339,7 +332,8 @@
       <jump line="86" column="6" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="84" column="6" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="3785" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
-      <jump line="82" column="72" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="6" column="38" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="82" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
