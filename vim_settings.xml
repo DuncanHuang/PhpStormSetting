@@ -213,7 +213,8 @@
         <mark key="]" line="268" column="0" />
         <mark key="." line="268" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" timestamp="1587440339382">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" timestamp="1587441278111">
+        <mark key="'" line="87" column="6" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
@@ -240,7 +241,6 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/CR/CR_Import.php" timestamp="1587373054780" />
     </filemarks>
     <jumps>
-      <jump line="77" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.inc" />
       <jump line="78" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.inc" />
       <jump line="88" column="26" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.inc" />
       <jump line="127" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_Import.inc" />
@@ -340,6 +340,7 @@
       <jump line="40" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/sp/hr/secure.php" />
       <jump line="380" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/hr/hr_security.htm" />
       <jump line="292" column="32" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/_main.js" />
+      <jump line="86" column="6" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -366,22 +367,22 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Pj4+Pj4+PiA4YmM3Yzg0YTcuLi4gSXNzdWUgIzQ3MjIgOC42LjE1IFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAwMDI5NmQyNWMuLi4gSXNzdWUgIzQ3NTMg5paH5Lu25aS+5YmN57a05Luj56K85Yqg5YWl6ZW35bqm6ZmQ5Yi2Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KdmFyICRkbV91cGxvYWQ0NyA9ICIoVHJvbmcgODUgY2jhu68pIjsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAwMDI5NmQyNWMuLi4gSXNzdWUgIzQ3NTMg5paH5Lu25aS+5YmN57a05Luj56K85Yqg5YWl6ZW35bqm6ZmQ5Yi2Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KdmFyICRkbV91cGxvYWQ0NyA9ICIoODXlrZfku6XlhacpIjsK</text>
+        <text encoding="base64">Pj4+Pj4+PiAwMDI5NmQyNWMuLi4gSXNzdWUgIzQ3NTMg5paH5Lu25aS+5YmN57a05Luj56K85Yqg5YWl6ZW35bqm6ZmQ5Yi2Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAwMDI5NmQyNWMuLi4gSXNzdWUgIzQ3NTMg5paH5Lu25aS+5YmN57a05Luj56K85Yqg5YWl6ZW35bqm6ZmQ5Yi2Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KdmFyICRkbV91cGxvYWQ0NyA9ICIoVHJvbmcgODUgY2jhu68pIjsK</text>
       </register>
       <register name=":" type="4">
         <text>action Forward</text>
