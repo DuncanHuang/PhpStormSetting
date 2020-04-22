@@ -199,13 +199,6 @@
         <mark key="^" line="55" column="41" />
         <mark key="." line="55" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/mission.php" timestamp="1587349330491">
-        <mark key="'" line="152" column="9" />
-        <mark key="[" line="14" column="44" />
-        <mark key="]" line="14" column="44" />
-        <mark key="^" line="14" column="44" />
-        <mark key="." line="14" column="43" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/.allowip" timestamp="1587372316503">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="6" column="19" />
@@ -231,6 +224,7 @@
         <mark key="." line="82" column="72" />
         <mark key="^" line="82" column="73" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Package/install.sh" timestamp="1587459883012" />
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/models/global_model.php" timestamp="1587349367253">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="56" column="8" />
@@ -344,8 +338,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>03</text>
+      <register name="&quot;" type="2">
+        <text>php -f /adsfasdf.miasdf.</text>
       </register>
       <register name="-" type="4">
         <text>03</text>
@@ -357,31 +351,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA4YmM3Yzg0YTcuLi4gSXNzdWUgIzQ3MjIgOC42LjE1IFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
+        <text>php -f /adsfasdf.miasdf.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Pj4+Pj4+PiA4YmM3Yzg0YTcuLi4gSXNzdWUgIzQ3MjIgOC42LjE1IFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA4YmM3Yzg0YTcuLi4gSXNzdWUgIzQ3MjIgOC42LjE1IFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAwMDI5NmQyNWMuLi4gSXNzdWUgIzQ3NTMg5paH5Lu25aS+5YmN57a05Luj56K85Yqg5YWl6ZW35bqm6ZmQ5Yi2Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KdmFyICRkbV91cGxvYWQ0NyA9ICIoVHJvbmcgODUgY2jhu68pIjsK</text>
+        <text encoding="base64">Pj4+Pj4+PiAwMDI5NmQyNWMuLi4gSXNzdWUgIzQ3NTMg5paH5Lu25aS+5YmN57a05Luj56K85Yqg5YWl6ZW35bqm6ZmQ5Yi2Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Forward</text>
