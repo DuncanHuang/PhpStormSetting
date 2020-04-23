@@ -164,6 +164,7 @@
       <file name="/a.dummy" timestamp="1587541725677">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.6.15.migration.sql" timestamp="1587609880980" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/update.sh" timestamp="1587459461077">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="9" />
@@ -202,12 +203,14 @@
         <mark key="." line="82" column="72" />
         <mark key="^" line="82" column="73" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.7.1.migration.sql" timestamp="1587609932875" />
       <file name="$USER_HOME$/.ideavimrc" timestamp="1587540544426">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="2" />
         <mark key="^" line="62" column="2" />
         <mark key="." line="62" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.6.3.migration.sql" timestamp="1587611173748" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/lang/dm_lang.vn" timestamp="1587373345669">
         <mark key="[" line="268" column="0" />
         <mark key="]" line="268" column="0" />
