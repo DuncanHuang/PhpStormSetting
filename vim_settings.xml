@@ -10,7 +10,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mid</entry>
         <entry>mi</entry>
         <entry>mission</entry>
         <entry>Av</entry>
@@ -30,6 +29,7 @@
         <entry>loadAllDuty</entry>
         <entry>ID</entry>
         <entry>Mes</entry>
+        <entry>Ho</entry>
       </history-search>
       <history-cmd>
         <entry>action Run</entry>
@@ -44,14 +44,14 @@
         <entry encoding="base64">c291cmNlIC9Vc2Vycy9kdW5jYW4vLmlkZWF2aW1yYyA=</entry>
         <entry>action Inline</entry>
         <entry>action MethodDown</entry>
-        <entry>action GotoPreviousError</entry>
-        <entry>action Forward</entry>
         <entry>action GotoNextError</entry>
         <entry>action RenameElement</entry>
         <entry>208</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
-        <entry>action Back</entry>
         <entry>action MethodUp</entry>
+        <entry>action Back</entry>
+        <entry>action Forward</entry>
+        <entry>action GotoPreviousError</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -184,20 +184,15 @@
         <mark key="." line="96" column="19" />
         <mark key="^" line="96" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/MoYu_Wedding_BOT/.env" timestamp="1587543042930">
-        <mark key="[" line="9" column="75" />
-        <mark key="]" line="9" column="75" />
-        <mark key="^" line="9" column="75" />
-        <mark key="." line="9" column="74" />
-      </file>
       <file name="/Dummy.txt" timestamp="1587706091967">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Config/Routes.php" timestamp="1587710907087">
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="12" />
-        <mark key="^" line="33" column="12" />
-        <mark key="." line="33" column="11" />
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Config/Routes.php" timestamp="1587781453960">
+        <mark key="'" line="33" column="7" />
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="33" column="24" />
+        <mark key="^" line="33" column="24" />
+        <mark key="." line="33" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/env" timestamp="1587710782728">
         <mark key="'" line="55" column="21" />
@@ -214,12 +209,7 @@
         <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Config/Events.php" timestamp="1587697723143" />
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1587540544426">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="2" />
-        <mark key="^" line="62" column="2" />
-        <mark key="." line="62" column="1" />
-      </file>
+      <file name="$USER_HOME$/Documents/EricWeddingBot/composer.json" timestamp="1587781308760" />
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Models/TextMessageLogModel.php" timestamp="1587716789469">
         <mark key="[" line="9" column="61" />
         <mark key="]" line="9" column="71" />
@@ -232,9 +222,14 @@
         <mark key="." line="260" column="31" />
         <mark key="^" line="260" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Image.php" timestamp="1587781577943">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="5" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="24" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
       <jump line="67" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
       <jump line="75" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
@@ -334,60 +329,61 @@
       <jump line="287" column="5" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
       <jump line="251" column="5" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
       <jump line="63" column="4" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
+      <jump line="33" column="7" filename="$USER_HOME$/Documents/EricWeddingBot/app/Config/Routes.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICdhZGYnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>'祝福語'</text>
+        <text>Home</text>
       </register>
       <register name="/" type="4">
-        <text>Mes</text>
+        <text>Ho</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICdhZGYnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JHJvdXRlcy0+cG9zdCgnL2FwaS93ZWJIb29rcycsICdhcGkvV2ViSG9va3M6OmluZGV4Jyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgkvLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gdmlldygnd2VsY29tZV9tZXNzYWdlJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIENhcm91c2VsIHRlbXBsYXRlCgogICAgICAgIG5ldyBMSU5FQm90XE1lc3NhZ2VCdWlsZGVyXFRlbXBsYXRlQnVpbGRlclxDYXJvdXNlbFRlbXBsYXRlQnVpbGRlcigkY29sdW1uVGVtcGxhdGVCdWlsZGVycykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgTElORUJvdFxNZXNzYWdlQnVpbGRlclxUZW1wbGF0ZUJ1aWxkZXJcQ2Fyb3VzZWxUZW1wbGF0ZUJ1aWxkZXIoJGNvbHVtblRlbXBsYXRlQnVpbGRlcnMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQ29uZmlybVRlbXBsYXRlQnVpbGRlcigkdGV4dCwgJGFjdGlvbkJ1aWxkZXJzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQ29uZmlybVRlbXBsYXRlQnVpbGRlcigkdGV4dCwgJGFjdGlvbkJ1aWxkZXJzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBpbnQKICAgICAqLwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIENhcm91c2VsIHRlbXBsYXRlCgogICAgICAgIG5ldyBMSU5FQm90XE1lc3NhZ2VCdWlsZGVyXFRlbXBsYXRlQnVpbGRlclxDYXJvdXNlbFRlbXBsYXRlQnVpbGRlcigkY29sdW1uVGVtcGxhdGVCdWlsZGVycykK</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action GotoPreviousError</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Mes</last-search>
+      <last-search>Ho</last-search>
       <last-offset />
-      <last-pattern>Mes</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Ho</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
