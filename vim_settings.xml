@@ -36,7 +36,6 @@
         <entry>112</entry>
         <entry>295</entry>
         <entry>208</entry>
-        <entry>action GotoPreviousError</entry>
         <entry>185</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
@@ -47,11 +46,12 @@
         <entry encoding="base64">c291cmNlIC9Vc2Vycy9kdW5jYW4vLmlkZWF2aW1yYyA=</entry>
         <entry>action MethodDown</entry>
         <entry>action IntroduceConstant</entry>
-        <entry>action GotoNextError</entry>
         <entry>action RenameElement</entry>
-        <entry>action Back</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action GotoPreviousError</entry>
         <entry>action Forward</entry>
         <entry>action MethodUp</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -142,57 +142,51 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Config/App.php" timestamp="1587981591566">
+        <mark key="'" line="23" column="30" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/utility.inc" timestamp="1587956963837" />
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/DbTest.php" timestamp="1587785079959">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/treinetic/imageartist/demo/basics.php" timestamp="1587787040284" />
-      <file name="$USER_HOME$/Documents/MoYu_Wedding_BOT/application/controllers/api/Webhooks.php" timestamp="1587785837212">
+      <file name="$USER_HOME$/Documents/MoYu_Wedding_BOT/application/controllers/api/Webhooks.php" timestamp="1587982821518">
         <mark key="'" line="302" column="18" />
-        <mark key="[" line="381" column="24" />
-        <mark key="]" line="381" column="24" />
-        <mark key="^" line="381" column="24" />
-        <mark key="." line="381" column="23" />
+        <mark key="[" line="383" column="26" />
+        <mark key="]" line="383" column="26" />
+        <mark key="^" line="383" column="26" />
+        <mark key="." line="383" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" timestamp="1587969983503">
-        <mark key="f" line="340" column="32" />
-        <mark key="z" line="329" column="0" />
-        <mark key="[" line="403" column="0" />
-        <mark key="]" line="403" column="0" />
-        <mark key="." line="403" column="0" />
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" timestamp="1587982894417">
+        <mark key="f" line="344" column="32" />
+        <mark key="'" line="21" column="28" />
+        <mark key="z" line="333" column="0" />
+        <mark key="[" line="329" column="22" />
+        <mark key="]" line="329" column="22" />
+        <mark key="." line="329" column="21" />
+        <mark key="^" line="329" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/treinetic/imageartist/src/lib/Shapes/Shape.php" timestamp="1587795513417">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/treinetic/imageartist/src/lib/Image.php" timestamp="1587787100055">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Config/Database.php" timestamp="1587785043486">
-        <mark key="[" line="96" column="20" />
-        <mark key="]" line="96" column="20" />
-        <mark key="." line="96" column="19" />
-        <mark key="^" line="96" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/writable/logs/log-2020-04-24.log" timestamp="1587785068543">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/treinetic/imageartist/src/lib/Image.php" timestamp="1587974520563">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="33" />
+        <mark key="^" line="25" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/linecorp/line-bot-sdk/src/LINEBot/MessageBuilder/TemplateBuilder/ImageCarouselTemplateBuilder.php" timestamp="1587798868237" />
       <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/treinetic/imageartist/src/lib/Shapes/CircularShape.php" timestamp="1587968788314" />
-      <file name="$USER_HOME$/Documents/EricWeddingBot/.env" timestamp="1587797570132">
-        <mark key="'" line="7" column="41" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="1" />
+      <file name="$USER_HOME$/Documents/EricWeddingBot/.env" timestamp="1587982698282">
+        <mark key="'" line="8" column="41" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/AuthHelper.php" timestamp="1587978617808" />
       <file name="$USER_HOME$/.ideavimrc" timestamp="1587795792066">
         <mark key="'" line="131" column="7" />
         <mark key="[" line="59" column="39" />
@@ -208,11 +202,11 @@
         <mark key="^" line="64" column="29" />
         <mark key="." line="64" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/ImageTest.php" timestamp="1587970113855">
-        <mark key="[" line="45" column="9" />
-        <mark key="]" line="45" column="9" />
-        <mark key="." line="45" column="9" />
-        <mark key="^" line="45" column="15" />
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/ImageTest.php" timestamp="1587980616274">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="26" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/linecorp/line-bot-sdk/src/LINEBot/MessageBuilder/TemplateBuilder/ImageCarouselColumnTemplateBuilder.php" timestamp="1587799019098" />
       <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/linecorp/line-bot-sdk/tests/LINEBot/SendTemplateTest.php" timestamp="1587798900113" />
@@ -223,15 +217,9 @@
         <mark key="." line="78" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/treinetic/imageartist/src/lib/Shapes/PolygonShape.php" timestamp="1587968474113" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/public_service/web_talk/authimage-inc/class.filefinder.php" timestamp="1587978716981" />
     </filemarks>
     <jumps>
-      <jump line="363" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/6.5.14.12.migration.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/Issue.4316.migration.sql" />
-      <jump line="25" column="69" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/Issue.4316.migration.sql" />
-      <jump line="30" column="19" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/hr/account/checkDuplicate.php" />
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/hr/account/checkDuplicate.php" />
-      <jump line="39" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/sysstore/project_info.php" />
       <jump line="25" column="19" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/sysstore/project_info.php" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/sysstore/project_info.php" />
       <jump line="71" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/sysstore/project_info.php" />
@@ -325,15 +313,22 @@
       <jump line="29" column="12" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/ImageTest.php" />
       <jump line="39" column="28" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/ImageTest.php" />
       <jump line="405" column="4" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
+      <jump line="395" column="15" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
+      <jump line="400" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
+      <jump line="397" column="8" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
+      <jump line="376" column="40" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
+      <jump line="20" column="28" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
+      <jump line="23" column="30" filename="$USER_HOME$/Documents/EricWeddingBot/app/Config/App.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>circle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRyZXNwb25zZSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2V4aXQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>circle</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>Ho</text>
@@ -342,34 +337,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRyZXNwb25zZSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2V4aXQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRldmVudCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2V4aXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRldmVudCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2V4aXQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgXEltYWdpY2soKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCdiYjsnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkY2lyY2xlLT5yb3UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRyZXNwb25zZSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwogICAgICAgICAgICBkaWUoJ3EnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkY2lyY2xlLT5zZXRBeGlzZXMoNTk3LCA1NDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkaWUoJ2EnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY2lyY2xlID0gbmV3IFBvbHlnb25TaGFwZSgkcGVyc29uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFjdGlvbnMgPSBbbmV3IENhbWVyYVRlbXBsYXRlQWN0aW9uQnVpbGRlcign6ZaL5ZWf55u45qmfJyldOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWydpbWcnICAgID0+ICcuL3NuYXAvc25hcF8zLnBuZycsIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdpbWcnICAgID0+ICcuL3NuYXAvc25hcF80LnBuZycsCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdpbWcnICAgID0+ICcuL3NuYXAvc25hcF81LnBuZycsCiAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IGFjbWVidQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwZXJzb24nID0+IFsnd2lkdGgnID0+IDk5NCwgJ2hlaWdodCcgPT4gMTA4MiwgJ3Bvc194JyA9PiA3NTUsICdwb3NfeScgPT4gNTldLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKGJhc2VfdXJsKGRkKSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
