@@ -161,16 +161,12 @@
       <file name="$USER_HOME$/Documents/91/speed/src/Tennis.php" timestamp="1588006170981">
         <mark key="'" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" timestamp="1588008006562">
-        <mark key="'" line="278" column="61" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/treinetic/imageartist/src/lib/Shapes/Shape.php" timestamp="1587795513417">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" timestamp="1588008949209">
+        <mark key="'" line="371" column="0" />
+        <mark key="[" line="270" column="28" />
+        <mark key="]" line="270" column="28" />
+        <mark key="." line="270" column="27" />
+        <mark key="^" line="270" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/treinetic/imageartist/src/lib/Image.php" timestamp="1587974520563">
         <mark key="[" line="25" column="34" />
@@ -179,7 +175,9 @@
         <mark key="^" line="25" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Home.php" timestamp="1588004978287" />
-      <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/linecorp/line-bot-sdk/src/LINEBot/MessageBuilder/TemplateBuilder/ImageCarouselTemplateBuilder.php" timestamp="1587798868237" />
+      <file name="/Dummy.txt" timestamp="1588008877110">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/treinetic/imageartist/src/lib/Shapes/CircularShape.php" timestamp="1587968788314" />
       <file name="$USER_HOME$/Documents/EricWeddingBot/.env" timestamp="1588003195345">
         <mark key="'" line="8" column="41" />
@@ -204,6 +202,12 @@
         <mark key="." line="17" column="19" />
         <mark key="^" line="17" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/PersonImage.php" timestamp="1588008945997">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/linecorp/line-bot-sdk/src/LINEBot/MessageBuilder/TemplateBuilder/ImageCarouselColumnTemplateBuilder.php" timestamp="1587799019098" />
       <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/linecorp/line-bot-sdk/tests/LINEBot/SendTemplateTest.php" timestamp="1587798900113" />
       <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/treinetic/imageartist/demo/awesome.php" timestamp="1587968605242">
@@ -216,9 +220,6 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/public_service/web_talk/authimage-inc/class.filefinder.php" timestamp="1587978716981" />
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/upload.php" />
-      <jump line="23" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/.allowip" />
-      <jump line="18" column="34" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_security.inc" />
       <jump line="38" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/sp/hr/secure.php" />
       <jump line="40" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/sp/hr/secure.php" />
       <jump line="380" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/hr/hr_security.htm" />
@@ -316,15 +317,18 @@
       <jump line="360" column="21" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
       <jump line="355" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
       <jump line="279" column="61" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
+      <jump line="39" column="6" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
+      <jump line="371" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFBFUlNPTl9TSVpFICA9IDQwMDsK</text>
+        <text encoding="base64">dXNlIENvbmZpZ1xBcHA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>asdf</text>
       </register>
       <register name="/" type="4">
         <text>Ho</text>
@@ -333,31 +337,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFBFUlNPTl9TSVpFICA9IDQwMDsK</text>
+        <text encoding="base64">dXNlIENvbmZpZ1xBcHA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFzZGYgPSBuZXcgXEFwcFxMaWJyYXJpZXNcUGVyc29uSW1hZ2UoKTsKICAgICAgICAgICAgJHBlcnNvbkltYWdlID0gbmV3IFBlcnNvbkltYWdlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRtYXRjaCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEltYWdlQ2Fyb3VzZWxUZW1wbGF0ZUJ1aWxkZXIoJGNvbHVtblRlbXBsYXRlQnVpbGRlcnMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IFBFUlNPTl9TSVpFICA9IDQwMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAoaXNzZXQoJGV2ZW50WydtZXNzYWdlJ11bJ3R5cGUnXSkgPT0gZmFsc2UgfHwgZW1wdHkoJGV2ZW50WydtZXNzYWdlJ11bJ3RleHQnXSkgPT0gdHJ1ZSkgewogICAgICAgICAgICBleGl0KCk7CiAgICAgICAgfQogICAgICAgIGlmICgkdGhpcy0+bm9NZXNzYWdlKCRldmVudCkpIHsKICAgICAgICAgICAgZXhpdCgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoJ2FzZGYnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRtYXRjaCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoJ2EnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoJ2FkZicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAoaXNzZXQoJGV2ZW50WydtZXNzYWdlJ11bJ3R5cGUnXSkgPT0gZmFsc2UgfHwgZW1wdHkoJGV2ZW50WydtZXNzYWdlJ11bJ3RleHQnXSkgPT0gdHJ1ZSkgewogICAgICAgICAgICBleGl0KCk7CiAgICAgICAgfQogICAgICAgIGlmICgkdGhpcy0+bm9NZXNzYWdlKCRldmVudCkpIHsKICAgICAgICAgICAgZXhpdCgpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1lc3NhZ2VCdWlsZGVyID0gbmV3IFRleHRNZXNzYWdlQnVpbGRlcign6KuL5LiK5YKz5oKo55qE6Ieq5ouN54WnJyk7CiAgICAgICAgICAgICR0aGlzLT5saW5lQm90LT5yZXBseU1lc3NhZ2UoJHRoaXMtPnJlcGx5VG9rZW4sICRtZXNzYWdlQnVpbGRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWUoJ2FzZGYnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action MethodUp</text>
