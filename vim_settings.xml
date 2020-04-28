@@ -50,8 +50,8 @@
         <entry>action MethodUp</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action MethodDown</entry>
-        <entry>action Back</entry>
         <entry>action IntroduceField</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -142,13 +142,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Config/App.php" timestamp="1587981591566">
-        <mark key="'" line="23" column="30" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1588038862460">
         <mark key="[" line="0" column="0" />
       </file>
@@ -211,6 +204,7 @@
       <file name="/Dummy.txt" timestamp="1588052524371">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/linecorp/line-bot-sdk/src/LINEBot/Constant/ActionType.php" timestamp="1588054313660" />
       <file name="/fragment.php" timestamp="1588040364856">
         <mark key="[" line="0" column="0" />
       </file>
@@ -221,13 +215,11 @@
         <mark key="." line="3" column="39" />
         <mark key="^" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/WebHooks.php" timestamp="1588053413347">
-        <mark key="f" line="331" column="8" />
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="41" column="23" />
-        <mark key="]" line="41" column="23" />
-        <mark key="^" line="41" column="23" />
-        <mark key="." line="41" column="22" />
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/WebHooks.php" timestamp="1588054979625">
+        <mark key="[" line="431" column="68" />
+        <mark key="]" line="431" column="45" />
+        <mark key="^" line="431" column="45" />
+        <mark key="." line="431" column="44" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1588003902554">
         <mark key="'" line="132" column="7" />
@@ -402,7 +394,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBNZXNzYWdlVGVtcGxhdGVBY3Rpb25CdWlsZGVyKCRsYWJlbCwgJHRleHQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action IntroduceField</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
