@@ -43,7 +43,6 @@
         <entry>action GotoDeclaration</entry>
         <entry>action ChangeSignature</entry>
         <entry>action Forward</entry>
-        <entry>action AceAction</entry>
         <entry>action IntroduceField</entry>
         <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
@@ -52,6 +51,7 @@
         <entry>action GotoPreviousError</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -178,12 +178,12 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="22" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/.env" timestamp="1588099319128">
+      <file name="$USER_HOME$/Documents/EricWeddingBot/.env" timestamp="1588124953063">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="7" column="55" />
-        <mark key="]" line="7" column="54" />
-        <mark key="." line="7" column="53" />
-        <mark key="^" line="7" column="54" />
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/WebHooks.php" timestamp="1588099476350">
         <mark key="'" line="166" column="58" />
@@ -331,11 +331,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZsb3dIYW5kbGVyLT5ydW4oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>17677b53</text>
       </register>
       <register name="-" type="4">
-        <text>congratulationsFlowHandler</text>
+        <text>17677b53</text>
       </register>
       <register name="/" type="4">
         <text>Ho</text>
@@ -371,7 +371,7 @@
         <text encoding="base64">ICAgICAgICAkcG9zdGJhY2tEYXRhID0gaW1wbG9kZSgnJicsICRwaWVjZXMpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action AceAction</text>
       </register>
     </registers>
   </component>
