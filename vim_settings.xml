@@ -41,8 +41,6 @@
         <entry>action Inline</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ChangeSignature</entry>
-        <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoNextError</entry>
@@ -52,6 +50,8 @@
         <entry>action IntroduceField</entry>
         <entry>w</entry>
         <entry>action AceAction</entry>
+        <entry>action Forward</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -213,12 +213,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/xdoc/xdoc_send_mgr_list.php" timestamp="1588140871874">
-        <mark key="'" line="291" column="50" />
-        <mark key="[" line="425" column="70" />
-        <mark key="]" line="425" column="70" />
-        <mark key="^" line="425" column="70" />
-        <mark key="." line="425" column="69" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/xdoc/xdoc_send_mgr_list.php" timestamp="1588143210417">
+        <mark key="'" line="424" column="26" />
+        <mark key="[" line="431" column="19" />
+        <mark key="]" line="431" column="19" />
+        <mark key="." line="431" column="18" />
+        <mark key="^" line="431" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/otherFlowHandler.php" timestamp="1588100963591">
         <mark key="[" line="13" column="5" />
@@ -235,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="4" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
       <jump line="33" column="7" filename="$USER_HOME$/Documents/EricWeddingBot/app/Config/Routes.php" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Image.php" />
       <jump line="19" column="37" filename="$USER_HOME$/Documents/EricWeddingBot/vendor/treinetic/imageartist/demo/idcard/index.php" />
@@ -335,15 +334,16 @@
       <jump line="166" column="58" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/WebHooks.php" />
       <jump line="13" column="41" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/WebHooks2.php" />
       <jump line="20" column="32" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/WebHooks2.php" />
+      <jump line="424" column="26" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/xdoc/xdoc_send_mgr_list.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>array_column(</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>array_column(</text>
       </register>
       <register name="/" type="4">
         <text>Ho</text>
@@ -351,35 +351,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgKSBBUyBmaWxlX3RlbXAsIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGlkTGlzdFN0ciA9ICcnOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgKSBBUyBmaWxlX3RlbXAsIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAoJGlkTGlzdCBhcyAkaXRlbSkgewogICAgICAgICAgICAgICAgJGlkCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckaWRMaXN0JyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkaWRMaXN0KSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyBtaWNyb3RpbWUodHJ1ZSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">KAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgKSBBUyBmaWxlX3RlbXAsIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZWNobyAkc3RhcnRfdGltZTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">KAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgKSBBUyBmaWxlX3RlbXAsIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZsb3dIYW5kbGVyLT5ydW4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyBtaWNyb3RpbWUodHJ1ZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZWNobyAkc3RhcnRfdGltZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZsb3dIYW5kbGVyLT5ydW4oKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
