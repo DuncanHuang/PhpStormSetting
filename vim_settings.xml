@@ -32,7 +32,6 @@
         <entry>Ho</entry>
       </history-search>
       <history-cmd>
-        <entry>208</entry>
         <entry>185</entry>
         <entry>action list</entry>
         <entry>actionlist</entry>
@@ -50,8 +49,9 @@
         <entry>action GotoPreviousError</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
-        <entry>action AceAction</entry>
         <entry>action IntroduceField</entry>
+        <entry>w</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -213,12 +213,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/xdoc/xdoc_send_mgr_list.php" timestamp="1588126493662">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/xdoc/xdoc_send_mgr_list.php" timestamp="1588140871874">
         <mark key="'" line="291" column="50" />
-        <mark key="[" line="468" column="45" />
-        <mark key="]" line="468" column="45" />
-        <mark key="." line="468" column="44" />
-        <mark key="^" line="468" column="45" />
+        <mark key="[" line="425" column="70" />
+        <mark key="]" line="425" column="70" />
+        <mark key="^" line="425" column="70" />
+        <mark key="." line="425" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/otherFlowHandler.php" timestamp="1588100963591">
         <mark key="[" line="13" column="5" />
@@ -339,11 +339,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>17677b53</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>Ho</text>
@@ -351,35 +351,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">KAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgKSBBUyBmaWxlX3RlbXAsIA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyBtaWNyb3RpbWUodHJ1ZSk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">KAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgKSBBUyBmaWxlX3RlbXAsIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZWNobyAkc3RhcnRfdGltZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZsb3dIYW5kbGVyLT5ydW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyBtaWNyb3RpbWUodHJ1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKCkK</text>
+        <text encoding="base64">ICAgICAgZWNobyAkc3RhcnRfdGltZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZsb3dIYW5kbGVyLT5ydW4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHBvc3RiYWNrRGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRoaXMtPmV2ZW50Wydwb3N0YmFjayddWydkYXRhJ10pO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action IntroduceField</text>
+        <text>action AceAction</text>
       </register>
     </registers>
   </component>
