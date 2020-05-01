@@ -47,11 +47,11 @@
         <entry>action IntroduceField</entry>
         <entry>action MethodDown</entry>
         <entry>action RenameElement</entry>
-        <entry>action Back</entry>
         <entry>action Forward</entry>
         <entry>action GotoNextError</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action MethodUp</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -186,12 +186,13 @@
         <mark key="^" line="3" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/vendor/linecorp/line-bot-sdk/src/LINEBot/TemplateActionBuilder/PostbackTemplateActionBuilder.php" timestamp="1588236245739" />
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" timestamp="1588308515505">
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" timestamp="1588310674534">
         <mark key="f" line="54" column="8" />
-        <mark key="[" line="63" column="20" />
-        <mark key="]" line="63" column="20" />
-        <mark key="." line="63" column="19" />
-        <mark key="^" line="63" column="20" />
+        <mark key="'" line="113" column="72" />
+        <mark key="[" line="180" column="1" />
+        <mark key="]" line="180" column="1" />
+        <mark key="." line="180" column="0" />
+        <mark key="^" line="180" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/congratulationsFlowHandler.php" timestamp="1588306860535">
         <mark key="f" line="32" column="8" />
@@ -201,7 +202,7 @@
         <mark key="." line="54" column="53" />
         <mark key="^" line="54" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/WebHooks.php" timestamp="1588307052874">
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/WebHooks.php" timestamp="1588308797302">
         <mark key="'" line="33" column="28" />
         <mark key="[" line="300" column="22" />
         <mark key="]" line="300" column="22" />
@@ -235,9 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="30" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/ImageTest.php" />
-      <jump line="25" column="12" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/ImageTest.php" />
-      <jump line="29" column="12" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/ImageTest.php" />
       <jump line="39" column="28" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/ImageTest.php" />
       <jump line="405" column="4" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
       <jump line="395" column="15" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/api/WebHooks.php" />
@@ -335,12 +333,15 @@
       <jump line="6" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" />
       <jump line="57" column="11" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" />
       <jump line="68" column="94" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" />
+      <jump line="95" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" />
+      <jump line="63" column="42" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" />
+      <jump line="113" column="72" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRoaXMtPmV2ZW50SGFuZGxlci0+Z2V0VHlwZSgpKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>image</text>
@@ -352,34 +353,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9tb2RpZnlBbGVydCgn6K6A5Y+W5Lu75YuZ6LOH6KiK6Yyv6KqkJywgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRoaXMtPmV2ZW50SGFuZGxlci0+Z2V0VHlwZSgpKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGllKCdhZHMnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKCdiJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRoaXMtPmV2ZW50SGFuZGxlci0+Z2V0VHlwZSgpKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKCdhJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCdhZHMnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKCdxJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCdiJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKCdjY2MnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCdhJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKCdlZWUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCdxJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKCdjY2MnKTsKICAgICAgICAgICAgJGZsb3dIYW5kbGVyID0gbmV3IGZpbG1pbmdGbG93SGFuZGxlcigkdGhpcy0+ZXZlbnRIYW5kbGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCdjY2MnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKCdiYmInKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCdlZWUnKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
