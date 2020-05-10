@@ -50,8 +50,8 @@
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>51</entry>
-        <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
+        <entry>action MethodUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -191,12 +191,12 @@
         <mark key="." line="33" column="44" />
         <mark key="^" line="33" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/WebHooks.php" timestamp="1588329983417">
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/WebHooks.php" timestamp="1588908229396">
         <mark key="'" line="397" column="4" />
-        <mark key="[" line="357" column="16" />
-        <mark key="]" line="357" column="16" />
-        <mark key="^" line="357" column="16" />
-        <mark key="." line="357" column="15" />
+        <mark key="[" line="142" column="16" />
+        <mark key="]" line="142" column="16" />
+        <mark key="^" line="142" column="16" />
+        <mark key="." line="142" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/composer.json" timestamp="1588906053747">
         <mark key="[" line="12" column="10" />
@@ -373,7 +373,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgJG90aGVyUGFyYW1zOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodDown</text>
+        <text>action MethodUp</text>
       </register>
     </registers>
   </component>
