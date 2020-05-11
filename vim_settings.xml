@@ -154,8 +154,12 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/EventHandler.php" timestamp="1589167719237">
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/EventHandler.php" timestamp="1589206578088">
         <mark key="'" line="21" column="20" />
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Models/UserListModel.php" timestamp="1589177169866">
         <mark key="'" line="50" column="4" />
@@ -254,13 +258,13 @@
         <mark key="." line="29" column="55" />
         <mark key="^" line="29" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/LineHandlers.php" timestamp="1589178164447">
-        <mark key="f" line="40" column="8" />
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="50" column="86" />
-        <mark key="]" line="50" column="87" />
-        <mark key="." line="50" column="86" />
-        <mark key="^" line="50" column="87" />
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/LineHandlers.php" timestamp="1589206652943">
+        <mark key="f" line="45" column="8" />
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="32" column="62" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="20" />
+        <mark key="^" line="31" column="21" />
       </file>
     </filemarks>
     <jumps>
