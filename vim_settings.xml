@@ -258,13 +258,9 @@
         <mark key="." line="29" column="55" />
         <mark key="^" line="29" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/LineHandlers.php" timestamp="1589206652943">
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/LineHandlers.php" timestamp="1589208693064">
         <mark key="f" line="45" column="8" />
         <mark key="'" line="109" column="0" />
-        <mark key="[" line="32" column="62" />
-        <mark key="]" line="31" column="21" />
-        <mark key="." line="31" column="20" />
-        <mark key="^" line="31" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -373,10 +369,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>default</text>
+        <text>utf8_encode</text>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>utf8_encode</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
