@@ -142,12 +142,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/MoYu_Wedding_BOT/application/controllers/api/Webhooks.php" timestamp="1589130920245">
-        <mark key="[" line="342" column="30" />
-        <mark key="]" line="342" column="30" />
-        <mark key="^" line="342" column="30" />
-        <mark key="." line="342" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/MoYu_Wedding_BOT/application/views/SlotMachines.php" timestamp="1589179572868">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="25" />
@@ -173,6 +167,12 @@
         <mark key="]" line="23" column="8" />
         <mark key="." line="23" column="7" />
         <mark key="^" line="23" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Config/Database.php" timestamp="1589207549053">
+        <mark key="[" line="44" column="17" />
+        <mark key="]" line="44" column="17" />
+        <mark key="^" line="44" column="17" />
+        <mark key="." line="44" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/WebHooksNew.php" timestamp="1589191161116">
         <mark key="'" line="35" column="0" />
@@ -207,12 +207,12 @@
       <file name="/fragment.php" timestamp="1589182175599">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/.env" timestamp="1589190856952">
+      <file name="$USER_HOME$/Documents/EricWeddingBot/.env" timestamp="1589207567945">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="200" />
-        <mark key="^" line="7" column="200" />
-        <mark key="." line="7" column="199" />
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="25" column="9" />
+        <mark key="^" line="24" column="14" />
+        <mark key="." line="25" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" timestamp="1589178134821">
         <mark key="f" line="65" column="8" />
@@ -372,11 +372,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRoaXMtPmV2ZW50SGFuZGxlcik7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwogICAgICAgIGV4aXQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>default</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -385,31 +385,31 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X+W5tOaciOaXpemDveaYr+aVuOWtlygpCiAgICB7CiAgICAgICAgJHRhcmdldCA9IG5ldyBEYXRlVGltZUNvbnZlcnRIZWxwZXIoKTsKCiAgICAgICAgJGFjdHVhbCA9ICR0YXJnZXQtPmNvbnZlcnQoJ0ZyaSwgMjYgMDQgMjAxOSAxMDowMjo0OCArMDgwMCAoQ1NUKScsICdBc2lhL1RhaXBlaScpOwoKICAgICAgICAkZXhwZWN0ZWQgPSAnRnJpLCAyNiBBcHIgMjAxOSAxMDowMjo0OCArMDgwMCc7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRhY3R1YWwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRoaXMtPmV2ZW50SGFuZGxlcik7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwogICAgICAgIGV4aXQoKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHBvc3RDb250ZW50cyk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2V4aXQoKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHBvc3QpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHRoaXMtPmV2ZW50SGFuZGxlcik7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwogICAgICAgIGV4aXQoKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHBvc3RDb250ZW50cyk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2V4aXQoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHBvc3QpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YVsnd2luJ10gPSBbCiAgICAgICAgICAgICdrZXknICAgICAgICA9PiAkd2luS2V5LAogICAgICAgICAgICAndXNlckxpc3RJZCcgPT4gJGRhdGFbJ2FsbCddWyR3aW5LZXldWyd1c2VyTGlzdElkJ10sCiAgICAgICAgICAgICdtZXNzYWdlSWQnICA9PiAkZGF0YVsnYWxsJ11bJHdpbktleV1bJ21lc3NhZ2VJZCddLAogICAgICAgIF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkZGF0YVsnd2luJ10gPSBbCiAgICAgICAgICAgICdrZXknICAgICAgICA9PiAkd2luS2V5LAogICAgICAgICAgICAndXNlckxpc3RJZCcgPT4gJGRhdGFbJ2FsbCddWyR3aW5LZXldWyd1c2VyTGlzdElkJ10sCiAgICAgICAgICAgICdtZXNzYWdlSWQnICA9PiAkZGF0YVsnYWxsJ11bJHdpbktleV1bJ21lc3NhZ2VJZCddLAogICAgICAgIF07Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgJHdpbktleSA9IHJhbmQoMCwgY291bnQoJGRhdGFbJ2FsbCddKSAtIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YVsnd2luJ10gPSBbCiAgICAgICAgICAgICdrZXknICAgICAgICA9PiAkd2luS2V5LAogICAgICAgICAgICAndXNlckxpc3RJZCcgPT4gJGRhdGFbJ2FsbCddWyR3aW5LZXldWyd1c2VyTGlzdElkJ10sCiAgICAgICAgICAgICdtZXNzYWdlSWQnICA9PiAkZGF0YVsnYWxsJ11bJHdpbktleV1bJ21lc3NhZ2VJZCddLAogICAgICAgIF07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHBvc3QpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgJHdpbktleSA9IHJhbmQoMCwgY291bnQoJGRhdGFbJ2FsbCddKSAtIDEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
