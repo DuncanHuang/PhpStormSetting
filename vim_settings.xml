@@ -43,7 +43,6 @@
         <entry>action RenameElement</entry>
         <entry>action Forward</entry>
         <entry>action AceAction</entry>
-        <entry>w</entry>
         <entry>action IntroduceField</entry>
         <entry>action ChangeSignature</entry>
         <entry>action Back</entry>
@@ -52,6 +51,7 @@
         <entry>action GotoPreviousError</entry>
         <entry>action GotoNextError</entry>
         <entry>action MethodUp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -200,9 +200,12 @@
       <file name="/fragment.php" timestamp="1589165992381">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/.env" timestamp="1589168040794">
+      <file name="$USER_HOME$/Documents/EricWeddingBot/.env" timestamp="1589174176867">
         <mark key="'" line="2" column="0" />
-        <mark key="^" line="3" column="1" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" timestamp="1589168046080">
         <mark key="f" line="60" column="8" />
@@ -211,12 +214,13 @@
         <mark key="]" line="259" column="0" />
         <mark key="." line="259" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/congratulationsFlowHandler.php" timestamp="1589167790443">
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/congratulationsFlowHandler.php" timestamp="1589173775276">
         <mark key="f" line="32" column="8" />
         <mark key="'" line="31" column="28" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+        <mark key="[" line="72" column="23" />
+        <mark key="]" line="72" column="23" />
+        <mark key="." line="72" column="22" />
+        <mark key="^" line="72" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/WebHooks.php" timestamp="1589165866272">
         <mark key="'" line="214" column="21" />
@@ -246,9 +250,9 @@
         <mark key="^" line="223" column="59" />
         <mark key="." line="223" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/LineHandlers.php" timestamp="1589167776525">
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/LineHandlers.php" timestamp="1589173701122">
         <mark key="f" line="40" column="8" />
-        <mark key="'" line="104" column="0" />
+        <mark key="'" line="103" column="0" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
@@ -360,7 +364,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJGltYWdlTWVzc2FnZUJ1aWxkZXIpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">I0xJTkVfQ0hBTk5FTF9BQ0NFU1NfVE9LRU4gPSBBMUN4Y2g4VTlQYXdtR2tOaGdzQm1ONjBpNFIyYWZnMVcwTWtiTWh1Rk54VmIzNUlZb2JFOUtmRWc3eDduWVRZaFVSTFN4Uldxblh4WThoN09xN1hjQnBNM3QyTVgySVIzZFhkbUFtQ3E1cnU3TjZYN2lDcThHSnYzeG5McW5FYUdwbHFwM3lHeFB4WDhyQ29zVUpYS2dkQjA0dDg5LzFPL3cxY0RueWlsRlU9CiNMSU5FX0NIQU5ORUxfU0VDUkVUID0gNjcwODM0YzQ5YzJjZDliYTE4MWYzYzA2ZGI4ZTMyMGEK</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -372,34 +376,34 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X+W5tOaciOaXpemDveaYr+aVuOWtlygpCiAgICB7CiAgICAgICAgJHRhcmdldCA9IG5ldyBEYXRlVGltZUNvbnZlcnRIZWxwZXIoKTsKCiAgICAgICAgJGFjdHVhbCA9ICR0YXJnZXQtPmNvbnZlcnQoJ0ZyaSwgMjYgMDQgMjAxOSAxMDowMjo0OCArMDgwMCAoQ1NUKScsICdBc2lhL1RhaXBlaScpOwoKICAgICAgICAkZXhwZWN0ZWQgPSAnRnJpLCAyNiBBcHIgMjAxOSAxMDowMjo0OCArMDgwMCc7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRhY3R1YWwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJGltYWdlTWVzc2FnZUJ1aWxkZXIpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">I0xJTkVfQ0hBTk5FTF9BQ0NFU1NfVE9LRU4gPSBBMUN4Y2g4VTlQYXdtR2tOaGdzQm1ONjBpNFIyYWZnMVcwTWtiTWh1Rk54VmIzNUlZb2JFOUtmRWc3eDduWVRZaFVSTFN4Uldxblh4WThoN09xN1hjQnBNM3QyTVgySVIzZFhkbUFtQ3E1cnU3TjZYN2lDcThHSnYzeG5McW5FYUdwbHFwM3lHeFB4WDhyQ29zVUpYS2dkQjA0dDg5LzFPL3cxY0RueWlsRlU9CiNMSU5FX0NIQU5ORUxfU0VDUkVUID0gNjcwODM0YzQ5YzJjZDliYTE4MWYzYzA2ZGI4ZTMyMGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKCdxJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWUoJ2InKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKCdhJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCdlJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBMSU5FQm90CiAgICAgKi8KICAgIHByaXZhdGUgJGxpbmVCb3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCdiJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bGluZUJvdCA9IG5ldyBMSU5FQm90KAogICAgICAgICAgICBuZXcgQ3VybEhUVFBDbGllbnQoZ2V0ZW52KCdMSU5FX0NIQU5ORUxfQUNDRVNTX1RPS0VOJykpLAogICAgICAgICAgICBbJ2NoYW5uZWxTZWNyZXQnID0+IGdldGVudignTElORV9DSEFOTkVMX1NFQ1JFVCcpXQogICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWUoJ2InKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGxpbmVIYW5kbGVyczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCdhJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHByb2ZpbGUpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDtleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICdhJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgnYScpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJGltYWdlTWVzc2FnZUJ1aWxkZXIpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
