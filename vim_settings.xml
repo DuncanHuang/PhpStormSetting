@@ -142,6 +142,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" timestamp="1589273308004">
+        <mark key="'" line="160" column="0" />
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/MoYu_Wedding_BOT/application/views/SlotMachines.php" timestamp="1589179572868">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="10" column="25" />
@@ -150,9 +157,9 @@
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/EventHandler.php" timestamp="1589214101783">
         <mark key="'" line="21" column="20" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Models/UserListModel.php" timestamp="1589210652462">
         <mark key="'" line="50" column="4" />
@@ -235,13 +242,6 @@
         <mark key="^" line="209" column="71" />
         <mark key="." line="209" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/.gitignore" timestamp="1589131600549">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="129" column="8" />
-        <mark key="]" line="129" column="18" />
-        <mark key="^" line="129" column="18" />
-        <mark key="." line="129" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/Slot.php" timestamp="1589183846599">
         <mark key="'" line="26" column="44" />
         <mark key="[" line="37" column="57" />
@@ -266,10 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" />
-      <jump line="130" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" />
-      <jump line="80" column="27" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" />
-      <jump line="81" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" />
       <jump line="92" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" />
       <jump line="129" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" />
       <jump line="102" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
@@ -366,15 +362,19 @@
       <jump line="21" column="20" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/EventHandler.php" />
       <jump line="23" column="44" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/Slot.php" />
       <jump line="7" column="48" filename="$USER_HOME$/Documents/EricWeddingBot/writable/logs/log-2020-05-11.log" />
+      <jump line="139" column="11" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" />
+      <jump line="147" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" />
+      <jump line="154" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" />
+      <jump line="160" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>urlencode</text>
+        <text>131</text>
       </register>
       <register name="-" type="4">
-        <text>urlencode</text>
+        <text>131</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
