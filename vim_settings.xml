@@ -50,8 +50,8 @@
         <entry>action Inline</entry>
         <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
-        <entry>action Back</entry>
         <entry>action RenameElement</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -142,12 +142,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" timestamp="1589273308004">
-        <mark key="'" line="160" column="0" />
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="29" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="9" column="28" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" timestamp="1589274144901">
+        <mark key="'" line="53" column="112" />
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/MoYu_Wedding_BOT/application/views/SlotMachines.php" timestamp="1589179572868">
         <mark key="[" line="10" column="25" />
@@ -161,6 +161,7 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/libraries/GoogleFCM.php" timestamp="1589274098920" />
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Models/UserListModel.php" timestamp="1589210652462">
         <mark key="'" line="50" column="4" />
         <mark key="[" line="18" column="84" />
@@ -200,9 +201,6 @@
         <mark key="]" line="27" column="67" />
         <mark key="." line="27" column="66" />
         <mark key="^" line="27" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" timestamp="1589163856024">
-        <mark key="'" line="108" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Config/Routes.php" timestamp="1589182990422">
         <mark key="[" line="36" column="45" />
@@ -266,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" />
       <jump line="129" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" />
       <jump line="102" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
       <jump line="75" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
@@ -366,15 +363,16 @@
       <jump line="147" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" />
       <jump line="154" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" />
       <jump line="160" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" />
+      <jump line="57" column="112" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>131</text>
+        <text>50</text>
       </register>
       <register name="-" type="4">
-        <text>131</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -383,34 +381,34 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X+W5tOaciOaXpemDveaYr+aVuOWtlygpCiAgICB7CiAgICAgICAgJHRhcmdldCA9IG5ldyBEYXRlVGltZUNvbnZlcnRIZWxwZXIoKTsKCiAgICAgICAgJGFjdHVhbCA9ICR0YXJnZXQtPmNvbnZlcnQoJ0ZyaSwgMjYgMDQgMjAxOSAxMDowMjo0OCArMDgwMCAoQ1NUKScsICdBc2lhL1RhaXBlaScpOwoKICAgICAgICAkZXhwZWN0ZWQgPSAnRnJpLCAyNiBBcHIgMjAxOSAxMDowMjo0OCArMDgwMCc7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRhY3R1YWwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+X3JlZ2lzdHJhdGlvbklEcyA9IFsnY1l1SU9oMDBYSW86QVBBOTFiRVBHVm14WGlLRW5oYmJDel9iVkFaZ0lGa1ZzVmRsaDdqOHRjZ3hKRWF2TjJ3aExSd0o3SmhWTkxpVmVGeUsxVG1pck1hTTBkWVFXMzZvZ1dkUF9VbUJBVWN1NUJEWmFlenFjdzhSdGpob2kxOU5LVHd3MXdFUDZpd0Z2NlZvX1pSUEpsOXMnXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHBvc3RCYWNrRGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2V4aXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRyZXNwb25zZScgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHJlc3BvbnNlKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRleHBsb2RlKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHBvc3RCYWNrRGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyc2Vfc3RyKCR0aGlzLT5ldmVudFsncG9zdGJhY2snXVsnZGF0YSddLCApOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgJHBvc3RDb250ZW50cyA9IGZpbGVfZ2V0X2NvbnRlbnRzKCdwaHA6Ly9pbnB1dCcpOwogICAgICAgICRtZXNzYWdlID0gJHRoaXMtPmV2ZW50SGFuZGxlci0+Z2V0UG9zdEJhY2tEYXRhKClbJ21lc3NhZ2UnXTsKCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnLi91c2VyVXBkYXRlL2xvZy50eHQnLCAnYWEnIC4gUEhQX0VPTCAuICRwb3N0Q29udGVudHMgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy4vdXNlclVwZGF0ZS9sb2cudHh0JywgJ2FhJyAuIFBIUF9FT0wgLiAkbWVzc2FnZSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYSA9IHVybGVuY29kZSgkKQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHBvc3RCYWNrRGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2V4aXQoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRleHBsb2RlKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHBvc3RCYWNrRGF0YSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFyc2Vfc3RyKCR0aGlzLT5ldmVudFsncG9zdGJhY2snXVsnZGF0YSddLCApOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgJHBvc3RDb250ZW50cyA9IGZpbGVfZ2V0X2NvbnRlbnRzKCdwaHA6Ly9pbnB1dCcpOwogICAgICAgICRtZXNzYWdlID0gJHRoaXMtPmV2ZW50SGFuZGxlci0+Z2V0UG9zdEJhY2tEYXRhKClbJ21lc3NhZ2UnXTsKCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnLi91c2VyVXBkYXRlL2xvZy50eHQnLCAnYWEnIC4gUEhQX0VPTCAuICRwb3N0Q29udGVudHMgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy4vdXNlclVwZGF0ZS9sb2cudHh0JywgJ2FhJyAuIFBIUF9FT0wgLiAkbWVzc2FnZSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+      </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
