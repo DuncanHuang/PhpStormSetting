@@ -48,10 +48,10 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action Forward</entry>
         <entry>action Inline</entry>
-        <entry>action MethodUp</entry>
-        <entry>action MethodDown</entry>
         <entry>action RenameElement</entry>
+        <entry>action MethodDown</entry>
         <entry>action Back</entry>
+        <entry>action MethodUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -149,12 +149,6 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/MoYu_Wedding_BOT/application/views/SlotMachines.php" timestamp="1589179572868">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="10" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/EventHandler.php" timestamp="1589214101783">
         <mark key="'" line="21" column="20" />
         <mark key="[" line="46" column="0" />
@@ -169,17 +163,17 @@
         <mark key="." line="18" column="83" />
         <mark key="^" line="18" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/followFlowHandler.php" timestamp="1589178128236">
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="23" column="8" />
-        <mark key="." line="23" column="7" />
-        <mark key="^" line="23" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Config/Database.php" timestamp="1589207549053">
         <mark key="[" line="44" column="17" />
         <mark key="]" line="44" column="17" />
         <mark key="^" line="44" column="17" />
         <mark key="." line="44" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Service/Log.php" timestamp="1589342052035">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="12" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/WebHooksNew.php" timestamp="1589213321149">
         <mark key="'" line="35" column="0" />
@@ -193,23 +187,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589176974334">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/infoFlowHandler.php" timestamp="1589178072949">
-        <mark key="[" line="27" column="67" />
-        <mark key="]" line="27" column="67" />
-        <mark key="." line="27" column="66" />
-        <mark key="^" line="27" column="67" />
-      </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Config/Routes.php" timestamp="1589182990422">
         <mark key="[" line="36" column="45" />
         <mark key="]" line="36" column="51" />
         <mark key="." line="36" column="50" />
         <mark key="^" line="36" column="51" />
-      </file>
-      <file name="/fragment.php" timestamp="1589182175599">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/.env" timestamp="1589210719285">
         <mark key="'" line="2" column="0" />
@@ -240,6 +222,7 @@
         <mark key="^" line="209" column="71" />
         <mark key="." line="209" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/remote/flowUpdate.php" timestamp="1589347742519" />
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/Slot.php" timestamp="1589183846599">
         <mark key="'" line="26" column="44" />
         <mark key="[" line="37" column="57" />
@@ -264,14 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" />
-      <jump line="102" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
-      <jump line="75" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
-      <jump line="77" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
-      <jump line="103" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" />
-      <jump line="422" column="44" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/xdoc/xdoc_send_mgr_list.php" />
-      <jump line="436" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/xdoc/xdoc_send_mgr_list.php" />
-      <jump line="193" column="17" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.php" />
       <jump line="420" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.php" />
       <jump line="84" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
       <jump line="77" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
@@ -364,6 +339,14 @@
       <jump line="154" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" />
       <jump line="160" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" />
       <jump line="57" column="112" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" />
+      <jump line="204" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_file_new.php" />
+      <jump line="206" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_file_new.php" />
+      <jump line="210" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_file_new.php" />
+      <jump line="213" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_file_new.php" />
+      <jump line="230" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_file_new.php" />
+      <jump line="237" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_file_new.php" />
+      <jump line="255" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_file_new.php" />
+      <jump line="258" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_file_new.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -408,7 +391,7 @@
         <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnLi91c2VyVXBkYXRlL2xvZy50eHQnLCAnYWEnIC4gUEhQX0VPTCAuICRwb3N0Q29udGVudHMgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy4vdXNlclVwZGF0ZS9sb2cudHh0JywgJ2FhJyAuIFBIUF9FT0wgLiAkbWVzc2FnZSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action MethodUp</text>
       </register>
     </registers>
   </component>
