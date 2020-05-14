@@ -50,8 +50,8 @@
         <entry>action RenameElement</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
-        <entry>action Back</entry>
         <entry>action Forward</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -170,15 +170,6 @@
         <mark key="^" line="209" column="71" />
         <mark key="." line="209" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/remote/flowUpdate.php" timestamp="1589347742519" />
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/Carousel.php" timestamp="1589190800711">
-        <mark key="f" line="17" column="8" />
-        <mark key="'" line="31" column="36" />
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="29" column="56" />
-        <mark key="." line="29" column="55" />
-        <mark key="^" line="29" column="56" />
-      </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/LineHandlers.php" timestamp="1589213346283">
         <mark key="f" line="40" column="8" />
         <mark key="'" line="104" column="0" />
@@ -193,6 +184,7 @@
         <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/libraries/GoogleFCM.php" timestamp="1589274098920" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/transPassword.php" timestamp="1589420922929" />
       <file name="$USER_HOME$/Documents/EricWeddingBot/app/Config/Database.php" timestamp="1589207549053">
         <mark key="[" line="44" column="17" />
         <mark key="]" line="44" column="17" />
@@ -212,12 +204,12 @@
         <mark key="." line="26" column="35" />
         <mark key="^" line="26" column="36" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/exchange.php" timestamp="1589388474007">
-        <mark key="'" line="220" column="0" />
-        <mark key="[" line="189" column="51" />
-        <mark key="]" line="189" column="61" />
-        <mark key="^" line="189" column="61" />
-        <mark key="." line="189" column="60" />
+      <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/exchange.php" timestamp="1589420774516">
+        <mark key="'" line="44" column="56" />
+        <mark key="[" line="189" column="23" />
+        <mark key="]" line="189" column="23" />
+        <mark key="^" line="189" column="23" />
+        <mark key="." line="189" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/EricWeddingBot/writable/logs/log-2020-05-11.log" timestamp="1589211003181">
         <mark key="[" line="0" column="0" />
@@ -248,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
-      <jump line="106" column="34" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DateTimeConvertHelperTest.php" />
       <jump line="194" column="48" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.php" />
       <jump line="200" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.php" />
       <jump line="197" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/EM/EM_List.php" />
@@ -348,6 +338,8 @@
       <jump line="209" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/exchange.php" />
       <jump line="218" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/exchange.php" />
       <jump line="75" column="8" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/exchange_log.php" />
+      <jump line="189" column="22" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/exchange.php" />
+      <jump line="44" column="56" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/exchange.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -392,7 +384,7 @@
         <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnLi91c2VyVXBkYXRlL2xvZy50eHQnLCAnYWEnIC4gUEhQX0VPTCAuICRwb3N0Q29udGVudHMgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy4vdXNlclVwZGF0ZS9sb2cudHh0JywgJ2FhJyAuIFBIUF9FT0wgLiAkbWVzc2FnZSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Forward</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
