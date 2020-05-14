@@ -32,18 +32,14 @@
         <entry>log</entry>
       </history-search>
       <history-cmd>
-        <entry>1325</entry>
-        <entry>51</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action IntroduceField</entry>
         <entry>action ChangeSignature</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action GotoNextError</entry>
-        <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry>action Inline</entry>
         <entry>action RenameElement</entry>
-        <entry>action MethodDown</entry>
         <entry>action Back</entry>
         <entry>117</entry>
         <entry>action Forward</entry>
@@ -51,7 +47,11 @@
         <entry>297</entry>
         <entry>w</entry>
         <entry>105</entry>
+        <entry>131</entry>
+        <entry>1265</entry>
         <entry>action MethodUp</entry>
+        <entry>action MethodDown</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -170,11 +170,12 @@
         <mark key="^" line="296" column="59" />
         <mark key="." line="296" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" timestamp="1589448677330">
-        <mark key="'" line="12" column="12" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" timestamp="1589448716396">
+        <mark key="'" line="220" column="10" />
+        <mark key="[" line="958" column="29" />
+        <mark key="]" line="958" column="29" />
+        <mark key="." line="958" column="28" />
+        <mark key="^" line="958" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/dayoff.js" timestamp="1589448665926">
         <mark key="'" line="106" column="4" />
@@ -189,7 +190,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/EventHandler.php" timestamp="1589214101783">
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/EventHandler.php" timestamp="1589473055512">
         <mark key="'" line="21" column="20" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -210,13 +211,12 @@
         <mark key="^" line="189" column="23" />
         <mark key="." line="189" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/congratulationsFlowHandler.php" timestamp="1589214105487">
+      <file name="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/congratulationsFlowHandler.php" timestamp="1589474186647">
         <mark key="f" line="34" column="8" />
         <mark key="'" line="33" column="28" />
-        <mark key="[" line="93" column="22" />
-        <mark key="]" line="93" column="22" />
-        <mark key="." line="93" column="22" />
-        <mark key="^" line="152" column="8" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/exchange_log.php" timestamp="1589384977824">
         <mark key="'" line="75" column="8" />
@@ -227,11 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" />
-      <jump line="97" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" />
-      <jump line="95" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" />
-      <jump line="85" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" />
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" />
       <jump line="81" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" />
       <jump line="78" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/filmingFlowHandler.php" />
@@ -280,7 +275,6 @@
       <jump line="70" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/LineHandlers.php" />
       <jump line="214" column="21" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/WebHooks.php" />
       <jump line="48" column="48" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/followFlowHandler.php" />
-      <jump line="21" column="20" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/EventHandler.php" />
       <jump line="23" column="44" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/Slot.php" />
       <jump line="7" column="48" filename="$USER_HOME$/Documents/EricWeddingBot/writable/logs/log-2020-05-11.log" />
       <jump line="139" column="11" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/backstage/application/controllers/push/notification.php" />
@@ -327,15 +321,21 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/dayoff.js" />
       <jump line="104" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/dayoff.js" />
       <jump line="106" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/dayoff.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
+      <jump line="1348" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
+      <jump line="225" column="15" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
+      <jump line="220" column="10" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/EventHandler.php" />
+      <jump line="21" column="20" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/EventHandler.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHJlZnMvcmV3cml0dGVuL2ZlYXR1cmUvMjAyMC0wMy00Njg5Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmV2ZW50SGFuZGxlci0+Z2V0VXNlcklkKCkgIT0gJ2FzZGZhJykgewogICAgICAgICAgICAKICAgICAgICB9CiAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -344,25 +344,25 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X+W5tOaciOaXpemDveaYr+aVuOWtlygpCiAgICB7CiAgICAgICAgJHRhcmdldCA9IG5ldyBEYXRlVGltZUNvbnZlcnRIZWxwZXIoKTsKCiAgICAgICAgJGFjdHVhbCA9ICR0YXJnZXQtPmNvbnZlcnQoJ0ZyaSwgMjYgMDQgMjAxOSAxMDowMjo0OCArMDgwMCAoQ1NUKScsICdBc2lhL1RhaXBlaScpOwoKICAgICAgICAkZXhwZWN0ZWQgPSAnRnJpLCAyNiBBcHIgMjAxOSAxMDowMjo0OCArMDgwMCc7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRhY3R1YWwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHJlZnMvcmV3cml0dGVuL2ZlYXR1cmUvMjAyMC0wMy00Njg5Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmV2ZW50SGFuZGxlci0+Z2V0VXNlcklkKCkgIT0gJ2FzZGZhJykgewogICAgICAgICAgICAKICAgICAgICB9CiAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBpbl9hcnJheSgkdGhpcy0+ZXZlbnRIYW5kbGVyLT5nZXRVc2VySWQoKSwgW10pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbl9hcnJheSgkbmVlZGxlLCAkaGF5c3RhY2spCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiByZWZzL3Jld3JpdHRlbi9mZWF0dXJlLzIwMjAtMDMtNDY4OQo=</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHJlZnMvcmV3cml0dGVuL2ZlYXR1cmUvMjAyMC0wMy00Njg5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1Yjg4MTZmNzMuLi4gSXNzdWUgIzQxODMg55W26KGo5Zau54K6IOWWnOWjq+WkmuWHuuW3rueUs+iri+WWriDmmYLkuI3llZ/nlKjooYzkuovmm4bpgKPli5UK</text>
+        <text encoding="base64">Pj4+Pj4+PiByZWZzL3Jld3JpdHRlbi9mZWF0dXJlLzIwMjAtMDMtNDY4OQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
@@ -371,7 +371,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action AceAction</text>
       </register>
     </registers>
   </component>
