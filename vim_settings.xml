@@ -50,8 +50,8 @@
         <entry>1265</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
-        <entry>action Back</entry>
         <entry>action AceAction</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -152,11 +152,11 @@
         <mark key="]" line="250" column="0" />
         <mark key="." line="250" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1589872184589">
-        <mark key="'" line="1421" column="0" />
-        <mark key="[" line="1369" column="0" />
-        <mark key="]" line="1369" column="0" />
-        <mark key="." line="1369" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1589877365653">
+        <mark key="'" line="1399" column="0" />
+        <mark key="[" line="1393" column="0" />
+        <mark key="]" line="1393" column="0" />
+        <mark key="." line="1393" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_ChangeStatus.php" timestamp="1589770425267">
         <mark key="[" line="52" column="0" />
@@ -244,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php" />
-      <jump line="166" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php" />
       <jump line="174" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php" />
       <jump line="190" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php" />
       <jump line="195" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php" />
@@ -344,15 +342,17 @@
       <jump line="1396" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1416" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1421" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="1412" column="57" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="1402" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJGRhdGUnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRkYXRlKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTtleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfHwgZW1wdHkoJGl0ZW1bJGNhcmRbJ3B1bmNoTWluSW5kZXgnXV0pID09IGZhbHNlICYmICRjYXJkTWV0aG9kCg==</text>
       </register>
       <register name="-" type="4">
-        <text>VA_DAYOFF_TIME_SCALE</text>
+        <text>empt</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -361,34 +361,34 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X+W5tOaciOaXpemDveaYr+aVuOWtlygpCiAgICB7CiAgICAgICAgJHRhcmdldCA9IG5ldyBEYXRlVGltZUNvbnZlcnRIZWxwZXIoKTsKCiAgICAgICAgJGFjdHVhbCA9ICR0YXJnZXQtPmNvbnZlcnQoJ0ZyaSwgMjYgMDQgMjAxOSAxMDowMjo0OCArMDgwMCAoQ1NUKScsICdBc2lhL1RhaXBlaScpOwoKICAgICAgICAkZXhwZWN0ZWQgPSAnRnJpLCAyNiBBcHIgMjAxOSAxMDowMjo0OCArMDgwMCc7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRhY3R1YWwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJGRhdGUnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRkYXRlKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTtleGl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfHwgZW1wdHkoJGl0ZW1bJGNhcmRbJ3B1bmNoTWluSW5kZXgnXV0pID09IGZhbHNlICYmICRjYXJkTWV0aG9kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBTWVNfQ09ORklHIHdoZXJlIG5hbWUgPSAnVkFfREFZT0ZGX1RJTUVfU0NBTEUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKgogICAgICAgICAgICAgICAgICogCiAgICAgICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAqIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxOGM3Mzc3ZjYuLi4gSXNzdWUgIzQ2Mjkg5paw5aKe77yMIEhSX0VtcGxveWVlUmlnaHQg5paw5aKeIOWPr+ihjOWLleaJk+WNoeashOS9jQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJGRhdGUnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRkYXRlKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTtleGl0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBTWVNfQ09ORklHIHdoZXJlIG5hbWUgPSAnVkFfREFZT0ZGX1RJTUVfU0NBTEUnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHJlZnMvcmV3cml0dGVuL2ZlYXR1cmUvMjAyMC0wMy00Njg5Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAxOGM3Mzc3ZjYuLi4gSXNzdWUgIzQ2Mjkg5paw5aKe77yMIEhSX0VtcGxveWVlUmlnaHQg5paw5aKeIOWPr+ihjOWLleaJk+WNoeashOS9jQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHJlZnMvcmV3cml0dGVuL2ZlYXR1cmUvMjAyMC0wMy00Njg5Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
