@@ -46,12 +46,12 @@
         <entry>action AceAction</entry>
         <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
-        <entry>action MethodDown</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoNextError</entry>
         <entry>action Back</entry>
         <entry>action ChangeSignature</entry>
         <entry>action MethodUp</entry>
+        <entry>action MethodDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -152,12 +152,12 @@
         <mark key="]" line="250" column="0" />
         <mark key="." line="250" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1589882459405">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1589954999510">
         <mark key="'" line="1617" column="5" />
-        <mark key="[" line="1618" column="26" />
-        <mark key="]" line="1620" column="0" />
-        <mark key="^" line="1620" column="0" />
-        <mark key="." line="1620" column="0" />
+        <mark key="[" line="1414" column="34" />
+        <mark key="]" line="1414" column="34" />
+        <mark key="^" line="1414" column="34" />
+        <mark key="." line="1414" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_ChangeStatus.php" timestamp="1589770425267">
         <mark key="[" line="52" column="0" />
@@ -169,11 +169,15 @@
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" timestamp="1589770378683">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="915" column="0" />
-        <mark key="]" line="915" column="0" />
-        <mark key="." line="915" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1589956305832">
+        <mark key="'" line="6604" column="21" />
+        <mark key="[" line="6599" column="5" />
+        <mark key="]" line="6600" column="4" />
+        <mark key="^" line="6600" column="4" />
+        <mark key="." line="6600" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589956272898">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_FlowUpdate.php" timestamp="1589770419650">
         <mark key="[" line="443" column="0" />
@@ -214,11 +218,6 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_List.php" timestamp="1589770383602">
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="." line="255" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Package/install.sh" timestamp="1589785392613">
         <mark key="'" line="0" column="0" />
       </file>
@@ -241,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="26" filename="$USER_HOME$/Documents/EricWeddingBot/writable/logs/log-2020-05-11.log" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/writable/logs/log-2020-05-11.log" />
       <jump line="36" column="94" filename="$USER_HOME$/Documents/EricWeddingBot/writable/logs/log-2020-05-11.log" />
       <jump line="70" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Libraries/LineHandlers.php" />
       <jump line="214" column="21" filename="$USER_HOME$/Documents/EricWeddingBot/app/Controllers/Api/WebHooks.php" />
@@ -341,6 +338,8 @@
       <jump line="1444" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1417" column="55" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1620" column="5" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
+      <jump line="1446" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="6599" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -385,7 +384,7 @@
         <text encoding="base64">ICAgICAqCiAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action MethodDown</text>
       </register>
     </registers>
   </component>
