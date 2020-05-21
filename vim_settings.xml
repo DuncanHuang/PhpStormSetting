@@ -48,10 +48,10 @@
         <entry>action AceAction</entry>
         <entry>action MethodUp</entry>
         <entry>action GotoNextError</entry>
-        <entry>action Back</entry>
         <entry>action Debug</entry>
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>action Run</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -172,12 +172,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/vendor/phpunit/phpunit/src/Framework/Assert.php" timestamp="1590033195073" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1590033316810">
-        <mark key="'" line="380" column="31" />
-        <mark key="[" line="284" column="231" />
-        <mark key="]" line="284" column="234" />
-        <mark key="." line="284" column="233" />
-        <mark key="^" line="284" column="234" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1590033489373">
+        <mark key="'" line="322" column="41" />
+        <mark key="[" line="289" column="1" />
+        <mark key="]" line="289" column="1" />
+        <mark key="." line="289" column="0" />
+        <mark key="^" line="289" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" timestamp="1589785478991">
         <mark key="'" line="39" column="35" />
@@ -239,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/exchange.php" />
       <jump line="209" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/exchange.php" />
       <jump line="218" column="0" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/exchange.php" />
       <jump line="75" column="8" filename="$USER_HOME$/Dropbox/Coding/Case/Anson/9173/api/application/controllers/exchange_log.php" />
@@ -339,6 +338,7 @@
       <jump line="6610" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
       <jump line="836" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="380" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
+      <jump line="322" column="41" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -383,7 +383,7 @@
         <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRwdW5jaF9pbicgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHB1bmNoX2luKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsKICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRuZXRhc2tfY2FyZF91c2VyJyAuIFBIUF9FT0wgLiBqc29uX2VuY29kZSgkbmV0YXNrX2NhcmRfdXNlcikgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckYWxsX2R1dHknIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRhbGxfZHV0eSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckYWxsX3ZhY2F0aW9uX2NhcmQnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRhbGxfdmFjYXRpb25fY2FyZCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckdmFjYXRpb25fY2FyZF9yZXZpc2UnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCR2YWNhdGlvbl9jYXJkX3JldmlzZSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
