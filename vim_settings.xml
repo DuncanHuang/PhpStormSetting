@@ -10,7 +10,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>10</entry>
         <entry>-12</entry>
         <entry>-2</entry>
         <entry>and</entry>
@@ -30,6 +29,7 @@
         <entry>function</entry>
         <entry>log</entry>
         <entry>params</entry>
+        <entry>error list</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -50,8 +50,8 @@
         <entry>action Run</entry>
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>action MethodUp</entry>
-        <entry>action Back</entry>
         <entry>TabNine::config</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -145,18 +145,18 @@
       <file name="/Dummy.txt" timestamp="1589956272898">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1590054504705">
-        <mark key="'" line="367" column="16" />
-        <mark key="[" line="446" column="25" />
-        <mark key="]" line="446" column="25" />
-        <mark key="." line="446" column="24" />
-        <mark key="^" line="446" column="25" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1590115324165">
+        <mark key="'" line="368" column="16" />
+        <mark key="[" line="364" column="5" />
+        <mark key="]" line="365" column="71" />
+        <mark key="." line="365" column="70" />
+        <mark key="^" line="365" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_get_duty.php" timestamp="1590114115756">
-        <mark key="'" line="25" column="58" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_get_duty.php" timestamp="1590115296737">
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1589882446479">
         <mark key="[" line="0" column="0" />
@@ -186,18 +186,19 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.7.1.migration.sql" timestamp="1590115291366">
+        <mark key="'" line="7" column="37" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="7" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.8.0.migration.sql" timestamp="1589865959518">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="9" column="45" />
         <mark key="]" line="9" column="45" />
         <mark key="^" line="9" column="45" />
         <mark key="." line="9" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/business_trip.js" timestamp="1589782038803">
-        <mark key="'" line="1259" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.php" timestamp="1590053109248">
         <mark key="'" line="98" column="42" />
@@ -248,10 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="340" column="55" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/remote/flowUpdate.php" />
-      <jump line="315" column="13" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/remote/flowUpdate.php" />
-      <jump line="17" column="45" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="19" column="26" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="186" column="31" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="179" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
@@ -344,52 +341,56 @@
       <jump line="367" column="16" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/List.php" />
       <jump line="91" column="56" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_get_duty.php" />
-      <jump line="55" column="55" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_get_duty.php" />
       <jump line="67" column="56" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_get_duty.php" />
       <jump line="79" column="56" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_get_duty.php" />
-      <jump line="25" column="58" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_get_duty.php" />
+      <jump line="48" column="22" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_get_duty.php" />
+      <jump line="55" column="56" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_get_duty.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_get_duty.php" />
+      <jump line="25" column="49" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_get_duty.php" />
+      <jump line="171" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_get_duty.php" />
+      <jump line="7" column="37" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.7.1.migration.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">VGFiTmluZTo6Y29uZmlnCg==</text>
+        <text encoding="base64">ICAgICAgICBmbG9nCg==</text>
       </register>
       <register name="-" type="4">
         <text>1000</text>
       </register>
       <register name="/" type="4">
-        <text>params</text>
+        <text>error list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X+W5tOaciOaXpemDveaYr+aVuOWtlygpCiAgICB7CiAgICAgICAgJHRhcmdldCA9IG5ldyBEYXRlVGltZUNvbnZlcnRIZWxwZXIoKTsKCiAgICAgICAgJGFjdHVhbCA9ICR0YXJnZXQtPmNvbnZlcnQoJ0ZyaSwgMjYgMDQgMjAxOSAxMDowMjo0OCArMDgwMCAoQ1NUKScsICdBc2lhL1RhaXBlaScpOwoKICAgICAgICAkZXhwZWN0ZWQgPSAnRnJpLCAyNiBBcHIgMjAxOSAxMDowMjo0OCArMDgwMCc7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRhY3R1YWwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VGFiTmluZTo6Y29uZmlnCg==</text>
+        <text encoding="base64">ICAgICAgICBmbG9nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JGFkZiA9ICdkdScK</text>
+        <text encoding="base64">ICAgICAgICBmbG9nZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGtjb20K</text>
+        <text encoding="base64">ZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRzcWwpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsKZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRwYXJhbXMpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGRhUmVkZAo=</text>
+        <text encoding="base64">VGFiTmluZTo6Y29uZmlnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgKCRkYXRhUmVnaW9uKSB7CiAgICAKfQo=</text>
+        <text encoding="base64">JGFkZiA9ICdkdScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGtjb20K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">JGRhUmVkZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAnYSc7Cg==</text>
+        <text encoding="base64">aWYgKCRkYXRhUmVnaW9uKSB7CiAgICAKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
@@ -398,9 +399,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>params</last-search>
+      <last-search>error list</last-search>
       <last-offset />
-      <last-pattern>params</last-pattern>
+      <last-pattern>error list</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
