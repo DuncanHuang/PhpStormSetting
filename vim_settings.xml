@@ -185,11 +185,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/lysCommon.php" timestamp="1590384764824">
-        <mark key="[" line="492" column="109" />
-        <mark key="]" line="493" column="117" />
-        <mark key="." line="493" column="116" />
-        <mark key="^" line="493" column="117" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/lysCommon.php" timestamp="1590385950809">
+        <mark key="'" line="492" column="8" />
+        <mark key="[" line="484" column="18" />
+        <mark key="]" line="484" column="18" />
+        <mark key="." line="484" column="17" />
+        <mark key="^" line="484" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.8.0.migration.sql" timestamp="1589865959518">
         <mark key="'" line="9" column="0" />
@@ -248,7 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Package/install.sh" />
       <jump line="7" column="35" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.8.0.migration.sql" />
       <jump line="1340" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
@@ -348,15 +348,16 @@
       <jump line="1442" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1447" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Config/Routes.php" />
+      <jump line="492" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/lysCommon.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRzcWx2YScgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHF2YSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>clearWin</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
