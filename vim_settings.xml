@@ -32,7 +32,6 @@
         <entry>set</entry>
       </history-search>
       <history-cmd>
-        <entry>action Forward</entry>
         <entry>action VcsShowPrevChangeMarker</entry>
         <entry>.,.+6action AceAction</entry>
         <entry>action AceAction</entry>
@@ -52,6 +51,7 @@
         <entry>29</entry>
         <entry>action Back</entry>
         <entry>w</entry>
+        <entry>85</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -163,9 +163,6 @@
         <mark key="." line="33" column="29" />
         <mark key="^" line="33" column="30" />
       </file>
-      <file name="/fragment.php" timestamp="1589882446479">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1590040872625">
         <mark key="'" line="322" column="41" />
         <mark key="[" line="289" column="1" />
@@ -226,8 +223,9 @@
         <mark key="^" line="59" column="4" />
         <mark key="." line="59" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Import.php" timestamp="1590464251473">
-        <mark key="[" line="29" column="1" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Import.php" timestamp="1590471403336">
+        <mark key="'" line="85" column="4" />
+        <mark key="[" line="29" column="48" />
         <mark key="]" line="29" column="1" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="1" />
@@ -248,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="35" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.8.0.migration.sql" />
       <jump line="1340" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1345" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
@@ -348,6 +345,7 @@
       <jump line="1447" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Config/Routes.php" />
       <jump line="492" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/lysCommon.php" />
+      <jump line="84" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Import.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -392,7 +390,7 @@
         <text encoding="base64">ICAgICAgICAkdmFjYXRpb25DYXJkUHVuY2hEQU86OmNsYQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>85</text>
       </register>
     </registers>
   </component>
