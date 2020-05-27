@@ -33,7 +33,6 @@
       </history-search>
       <history-cmd>
         <entry>.,.+6action AceAction</entry>
-        <entry>action GotoNextError</entry>
         <entry>action Debug</entry>
         <entry>action Run</entry>
         <entry>TabNine::config</entry>
@@ -50,8 +49,9 @@
         <entry>85</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
-        <entry>action AceAction</entry>
         <entry>action Back</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -148,34 +148,17 @@
         <mark key="^" line="140" column="13" />
         <mark key="." line="140" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1590114244098">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.php" timestamp="1590116047319">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/rpc2.php" timestamp="1590052417047">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Koala/kwcr2.php" timestamp="1590116594831">
         <mark key="[" line="59" column="47" />
         <mark key="]" line="59" column="4" />
         <mark key="^" line="59" column="4" />
         <mark key="." line="59" column="3" />
-      </file>
-      <file name="$USER_HOME$/Downloads/a.php" timestamp="1590044513747">
-        <mark key="'" line="17" column="3" />
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" timestamp="1590562333863">
         <mark key="[" line="125" column="39" />
@@ -202,10 +185,10 @@
         <mark key="^" line="33" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/vacationRecord.php" timestamp="1590563562233">
-        <mark key="[" line="99" column="38" />
-        <mark key="]" line="99" column="39" />
-        <mark key="^" line="99" column="39" />
-        <mark key="." line="99" column="38" />
+        <mark key="[" line="98" column="38" />
+        <mark key="]" line="98" column="39" />
+        <mark key="^" line="98" column="39" />
+        <mark key="." line="98" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.7.1.migration.sql" timestamp="1590115291366">
         <mark key="'" line="7" column="37" />
@@ -221,6 +204,13 @@
         <mark key="." line="484" column="17" />
         <mark key="^" line="484" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.8.0.migration.sql" timestamp="1590567284201">
+        <mark key="'" line="12" column="33" />
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/VA/KWCR2VacationCardPunchDAO.php" timestamp="1590118772718">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -232,28 +222,29 @@
         <mark key="^" line="43" column="37" />
         <mark key="." line="43" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/KWCR2EmployeeRightDAO.php" timestamp="1590567286217">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="41" column="15" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Import.php" timestamp="1590471403336">
         <mark key="'" line="84" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/List.php" timestamp="1590054802160">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="397" column="14" />
-        <mark key="]" line="397" column="14" />
-        <mark key="^" line="397" column="14" />
-        <mark key="." line="397" column="13" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/dayoff.js" timestamp="1590564332429">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_User_Permission_Scopes.php" timestamp="1590567203480">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.8.0.migration.sql" />
-      <jump line="1340" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
-      <jump line="1345" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
-      <jump line="1347" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
-      <jump line="1349" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
-      <jump line="1352" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
-      <jump line="1358" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
-      <jump line="1363" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
-      <jump line="1367" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
-      <jump line="1377" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1412" column="57" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1402" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1416" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
@@ -344,12 +335,22 @@
       <jump line="37" column="0" filename="$USER_HOME$/Documents/EricWeddingBot/app/Config/Routes.php" />
       <jump line="492" column="8" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/lysCommon.php" />
       <jump line="84" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_SubTitle_Import.php" />
+      <jump line="61" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_User_Permission_Scopes.php" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_User_Permission_Scopes.php" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_User_Permission_Scopes.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_User_Permission_Scopes.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_User_Permission_Scopes.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_User_Permission_Scopes.php" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_User_Permission_Scopes.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_User_Permission_Scopes.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_User_Permission_Scopes.php" />
+      <jump line="12" column="33" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.8.0.migration.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHNxbHN0cik7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwogICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkcGFyYW1zKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7CiAgICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>$impfile</text>
@@ -361,34 +362,34 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X+W5tOaciOaXpemDveaYr+aVuOWtlygpCiAgICB7CiAgICAgICAgJHRhcmdldCA9IG5ldyBEYXRlVGltZUNvbnZlcnRIZWxwZXIoKTsKCiAgICAgICAgJGFjdHVhbCA9ICR0YXJnZXQtPmNvbnZlcnQoJ0ZyaSwgMjYgMDQgMjAxOSAxMDowMjo0OCArMDgwMCAoQ1NUKScsICdBc2lhL1RhaXBlaScpOwoKICAgICAgICAkZXhwZWN0ZWQgPSAnRnJpLCAyNiBBcHIgMjAxOSAxMDowMjo0OCArMDgwMCc7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRhY3R1YWwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHNxbHN0cik7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwogICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkcGFyYW1zKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7CiAgICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkaW1wZmlsZSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2V4aXQoKTsK</text>
+        <text encoding="base64">ZGllKCdxJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkX0ZJTEVTKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRzcWx2YScgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHF2YSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkaW1wZmlsZSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2V4aXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JHJvdXRlcy0+Z2V0KCcvYXBpL3Nsb3QvY2xlYXJXaW4nLCAnJyk7Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkX0ZJTEVTKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2woKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJyRzcWx2YScgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJHF2YSkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRzcWxzdHIpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsKICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRwYXJhbXMpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
+        <text encoding="base64">JHJvdXRlcy0+Z2V0KCcvYXBpL3Nsb3QvY2xlYXJXaW4nLCAnJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+Z2V0RGIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2woKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFjYXRpb25DYXJkUHVuY2hEQU86OmNsYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRzcWxzdHIpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsKICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRwYXJhbXMpO2VjaG8gJzwvcHJlPicuUEhQX0VPTDsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action AceAction</text>
       </register>
     </registers>
   </component>
