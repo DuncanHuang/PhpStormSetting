@@ -32,7 +32,6 @@
         <entry>set</entry>
       </history-search>
       <history-cmd>
-        <entry>TabNine::config</entry>
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>167</entry>
         <entry>1449</entry>
@@ -51,6 +50,7 @@
         <entry>action AceAction</entry>
         <entry>action MethodUp</entry>
         <entry>action Back</entry>
+        <entry>action Debug</entry>
         <entry>action Run</entry>
       </history-cmd>
       <history-expr />
@@ -173,11 +173,11 @@
         <mark key="." line="1855" column="35" />
         <mark key="^" line="1855" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1590633528743">
-        <mark key="[" line="100" column="28" />
-        <mark key="]" line="100" column="28" />
-        <mark key="^" line="100" column="28" />
-        <mark key="." line="100" column="27" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1590656848079">
+        <mark key="[" line="312" column="41" />
+        <mark key="]" line="312" column="69" />
+        <mark key="^" line="312" column="69" />
+        <mark key="." line="312" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" timestamp="1590562333863">
         <mark key="[" line="125" column="39" />
