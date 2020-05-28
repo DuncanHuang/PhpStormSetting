@@ -32,10 +32,6 @@
         <entry>set</entry>
       </history-search>
       <history-cmd>
-        <entry>action VcsShowNextChangeMarker</entry>
-        <entry>167</entry>
-        <entry>1449</entry>
-        <entry>33</entry>
         <entry>1492</entry>
         <entry>action GotoPreviousError</entry>
         <entry>494</entry>
@@ -47,11 +43,15 @@
         <entry>action MethodDown</entry>
         <entry>367</entry>
         <entry>557</entry>
-        <entry>action AceAction</entry>
         <entry>action MethodUp</entry>
         <entry>action Back</entry>
-        <entry>action Debug</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gSW50cm9kdWNlUGFyYW1ldGVy</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gSW5saW5l</entry>
+        <entry>action IntroduceVariable</entry>
+        <entry>action AceAction</entry>
         <entry>action Run</entry>
+        <entry>action Debug</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -162,6 +162,9 @@
         <mark key="." line="204" column="26" />
         <mark key="^" line="204" column="27" />
       </file>
+      <file name="/a.dummy" timestamp="1590659765448">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1590633033843">
         <mark key="'" line="730" column="4" />
       </file>
@@ -173,11 +176,11 @@
         <mark key="." line="1855" column="35" />
         <mark key="^" line="1855" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1590656848079">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1590660129889">
         <mark key="[" line="312" column="41" />
-        <mark key="]" line="312" column="69" />
-        <mark key="^" line="312" column="69" />
-        <mark key="." line="312" column="68" />
+        <mark key="]" line="312" column="42" />
+        <mark key="^" line="312" column="42" />
+        <mark key="." line="312" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/api/va/report/overtimeRecord.php" timestamp="1590562333863">
         <mark key="[" line="125" column="39" />
@@ -204,13 +207,6 @@
         <mark key="." line="106" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/EDIData/config.carddata_import_other.inc" timestamp="1590646421598" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/lysCommon.php" timestamp="1590385950809">
-        <mark key="'" line="492" column="8" />
-        <mark key="[" line="484" column="18" />
-        <mark key="]" line="484" column="18" />
-        <mark key="." line="484" column="17" />
-        <mark key="^" line="484" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/8.8.0.migration.sql" timestamp="1590567284201">
         <mark key="'" line="12" column="33" />
         <mark key="[" line="12" column="34" />
@@ -349,10 +345,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>08:00</text>
+        <text encoding="base64">ICsgKCRhY3Rfc3RhcnQgLSAkZHV0eV9zdGFydCkg</text>
       </register>
       <register name="-" type="4">
-        <text>08:00</text>
+        <text encoding="base64">ICsgKCRhY3Rfc3RhcnQgLSAkZHV0eV9zdGFydCkg</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -388,7 +384,7 @@
         <text encoding="base64">ICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkaW1wZmlsZSk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MO2V4aXQoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action Debug</text>
       </register>
     </registers>
   </component>
