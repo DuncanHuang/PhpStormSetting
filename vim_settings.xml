@@ -142,17 +142,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Queue/dm_function.php" timestamp="1590978331739">
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="53" column="4" />
-        <mark key="^" line="53" column="4" />
-        <mark key="." line="53" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/VacationRecordRepo.php" timestamp="1590563546321">
-        <mark key="[" line="140" column="13" />
-        <mark key="]" line="140" column="13" />
-        <mark key="^" line="140" column="13" />
-        <mark key="." line="140" column="12" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Queue/dm_function.php" timestamp="1590990985128">
+        <mark key="[" line="163" column="21" />
+        <mark key="]" line="163" column="21" />
+        <mark key="^" line="163" column="21" />
+        <mark key="." line="163" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/HR_login.php" timestamp="1590653684844">
         <mark key="'" line="91" column="27" />
@@ -168,11 +162,11 @@
         <mark key="." line="204" column="26" />
         <mark key="^" line="204" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Queue/Jobs/createPDF.php" timestamp="1590989787046">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Console/Queue/Jobs/createPDF.php" timestamp="1590990989258">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
-        <mark key="^" line="67" column="36" />
+        <mark key="^" line="65" column="28" />
       </file>
       <file name="/a.dummy" timestamp="1590659765448">
         <mark key="[" line="0" column="0" />
@@ -220,6 +214,7 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/va/va_card_punch.html" timestamp="1590650742528">
         <mark key="'" line="158" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Shell/dm_restart_worker.sh" timestamp="1590989829146" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/sp_forms/dayoff.js" timestamp="1590564332429">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="17" column="15" />
@@ -352,7 +347,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkbmV3UGF0aFsnY3VzdG9tUGF0aCddIC4gUEhQX0VPTDsKICAgICAgICAgICAgZWNobyAnRHVuY2FuJyAuIFBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckbmV3UGF0aCcgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJG5ld1BhdGgpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -364,31 +359,31 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X+W5tOaciOaXpemDveaYr+aVuOWtlygpCiAgICB7CiAgICAgICAgJHRhcmdldCA9IG5ldyBEYXRlVGltZUNvbnZlcnRIZWxwZXIoKTsKCiAgICAgICAgJGFjdHVhbCA9ICR0YXJnZXQtPmNvbnZlcnQoJ0ZyaSwgMjYgMDQgMjAxOSAxMDowMjo0OCArMDgwMCAoQ1NUKScsICdBc2lhL1RhaXBlaScpOwoKICAgICAgICAkZXhwZWN0ZWQgPSAnRnJpLCAyNiBBcHIgMjAxOSAxMDowMjo0OCArMDgwMCc7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRhY3R1YWwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkbmV3UGF0aFsnY3VzdG9tUGF0aCddIC4gUEhQX0VPTDsKICAgICAgICAgICAgZWNobyAnRHVuY2FuJyAuIFBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckbmV3UGF0aCcgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoJG5ld1BhdGgpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkbmV3UGF0aFsnY3VzdG9tUGF0aCddIC4gUEhQX0VPTDsKICAgICAgICAgICAgZWNobyAnRHVuY2FuJyAuIFBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnPHByZT4nO3Zhcl9kdW1wKCRuZXdGaWxlUGF0aCk7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckbmV3RmlsZVBhdGgnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCQpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkbmV3UGF0aFsnY3VzdG9tUGF0aCddIC4gUEhQX0VPTDsKICAgICAgICAgICAgZWNobyAnRHVuY2FuJyAuIFBIUF9FT0w7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkbmV3UGF0aFsnY3VzdG9tUGF0aCddIC4gUEhQX0VPTDsKICAgICAgICAgICAgZWNobyAnRHVuY2FuJyAuIFBIUF9FT0w7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcChGSUVMRG9mTlVNQkVSKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckbmV3RmlsZVBhdGgnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCQpIC4gUEhQX0VPTCwgRklMRV9BUFBFTkQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFyZ2V0LT5zZXRPdmVydGltZUJ1ZmZlcigzMCk7ICAvL+WKoOePreS4i+ePreaJk+WNoee3qeihneaZgumWkwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcChGSUVMRG9mTlVNQkVSKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGFyZ2V0LT5zZXRPdmVydGltZUJ1ZmZlcigzMCk7ICAvL+WKoOePreS4i+ePreaJk+WNoee3qeihneaZgumWkwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICc8cHJlPic7dmFyX2R1bXAoJHNxbHN0cik7ZWNobyAnPC9wcmU+Jy5QSFBfRU9MOwogICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcCgkcGFyYW1zKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7CiAgICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
