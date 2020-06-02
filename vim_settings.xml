@@ -32,7 +32,6 @@
         <entry>set</entry>
       </history-search>
       <history-cmd>
-        <entry>1492</entry>
         <entry>action GotoPreviousError</entry>
         <entry>494</entry>
         <entry>573</entry>
@@ -52,6 +51,7 @@
         <entry>action MethodUp</entry>
         <entry>action Back</entry>
         <entry>w</entry>
+        <entry>68</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -382,7 +382,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJzxwcmU+Jzt2YXJfZHVtcChGSUVMRG9mTlVNQkVSKTtlY2hvICc8L3ByZT4nLlBIUF9FT0w7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>68</text>
       </register>
     </registers>
   </component>
