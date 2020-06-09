@@ -32,8 +32,6 @@
         <entry>program</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gSW50cm9kdWNlUGFyYW1ldGVy</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRXh0cmFjdE1ldGhvZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSW5saW5l</entry>
         <entry>action IntroduceVariable</entry>
         <entry>68</entry>
@@ -44,14 +42,16 @@
         <entry>47</entry>
         <entry>.,.+235</entry>
         <entry>35</entry>
-        <entry>action VcsShowNextChangeMarker</entry>
         <entry>365</entry>
         <entry>action MethodUp</entry>
         <entry>action AceAction</entry>
         <entry>w</entry>
         <entry>action Back</entry>
-        <entry>action Debug</entry>
         <entry>action Run</entry>
+        <entry>action IntroduceParameter</entry>
+        <entry>action Debug</entry>
+        <entry>action VcsShowPrevChangeMarker</entry>
+        <entry>action VcsShowNextChangeMarker</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -149,23 +149,9 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1591684691094">
-        <mark key="[" line="181" column="38" />
-        <mark key="]" line="181" column="38" />
-        <mark key="." line="181" column="37" />
-        <mark key="^" line="181" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/ImportShift.php" timestamp="1591687321929">
-        <mark key="[" line="207" column="1" />
-        <mark key="]" line="207" column="1" />
-        <mark key="." line="207" column="0" />
-        <mark key="^" line="207" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/edi/CardToNetaskTest.php" timestamp="1591683470346">
-        <mark key="[" line="41" column="40" />
-        <mark key="]" line="41" column="40" />
-        <mark key="^" line="41" column="40" />
-        <mark key="." line="41" column="39" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/VA/CardStatusHelperTest.php" timestamp="1591696325919" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordList.php" timestamp="1591695154359">
+        <mark key="'" line="271" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/TestFiles/bb.csv" timestamp="1591688969238">
         <mark key="[" line="0" column="3" />
@@ -173,51 +159,66 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Common.php" timestamp="1591686877616">
-        <mark key="[" line="107" column="24" />
-        <mark key="]" line="107" column="24" />
-        <mark key="^" line="107" column="24" />
-        <mark key="." line="107" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/TestFiles/aaa.csv" timestamp="1591689468355">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/edi/inc/card2netask.inc" timestamp="1591683189062">
-        <mark key="'" line="3" column="9" />
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="6" column="14" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" timestamp="1591696598492">
+        <mark key="[" line="745" column="55" />
+        <mark key="]" line="747" column="0" />
+        <mark key="^" line="747" column="0" />
+        <mark key="." line="747" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/DetectUtfEncodingHelper.php" timestamp="1591689392777">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1591696607480">
+        <mark key="[" line="183" column="1" />
+        <mark key="]" line="183" column="1" />
+        <mark key="^" line="183" column="1" />
+        <mark key="." line="183" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/DetectUtfEncodingHelper.php" timestamp="1591694674978">
         <mark key="[" line="26" column="24" />
         <mark key="]" line="26" column="25" />
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" timestamp="1591672999732">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/VA/CardStatusHelper.php" timestamp="1591695795514">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="44" column="118" />
+        <mark key="]" line="44" column="118" />
+        <mark key="." line="44" column="117" />
+        <mark key="^" line="44" column="118" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DetectUtfEncodingHelperTest.php" timestamp="1591689451028">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordReport.php" timestamp="1591696177494">
+        <mark key="[" line="69" column="47" />
+        <mark key="]" line="69" column="47" />
+        <mark key="^" line="69" column="47" />
+        <mark key="." line="69" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardSet.php" timestamp="1591695925152" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/DetectUtfEncodingHelperTest.php" timestamp="1591689492310">
         <mark key="[" line="36" column="59" />
         <mark key="]" line="36" column="62" />
         <mark key="^" line="36" column="62" />
         <mark key="." line="36" column="61" />
       </file>
       <file name="$USER_HOME$/Downloads/va_shift_import_v2包裝理貨部6.csv" timestamp="1591687921828" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardRecord_List.php" timestamp="1591696096250" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/CSVImportHelper.php" timestamp="1591688585691">
         <mark key="'" line="52" column="4" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/UserStringParser.php" timestamp="1591669625161" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/List.php" timestamp="1591696026736">
+        <mark key="'" line="378" column="82" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardStatus_List.php" timestamp="1591695095021">
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="25" />
+        <mark key="." line="38" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/CSVImportHelperTest.php" timestamp="1591688119851">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -226,10 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/VA/VA_cardPunch.php" />
-      <jump line="1451" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
-      <jump line="1500" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
-      <jump line="1458" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1489" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1449" column="72" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
       <jump line="1401" column="35" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" />
@@ -326,15 +323,19 @@
       <jump line="31" column="92" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/TestFiles/aaa.csv" />
       <jump line="1" column="2" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/TestFiles/aaa.csv" />
       <jump line="5" column="23" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/TestFiles/aaa.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/VA/CardStatusHelper.php" />
+      <jump line="120" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/VA/CardStatusHelper.php" />
+      <jump line="17" column="46" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordList.php" />
+      <jump line="253" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordList.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>陳</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>陳</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>program</text>
@@ -343,34 +344,34 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X+W5tOaciOaXpemDveaYr+aVuOWtlygpCiAgICB7CiAgICAgICAgJHRhcmdldCA9IG5ldyBEYXRlVGltZUNvbnZlcnRIZWxwZXIoKTsKCiAgICAgICAgJGFjdHVhbCA9ICR0YXJnZXQtPmNvbnZlcnQoJ0ZyaSwgMjYgMDQgMjAxOSAxMDowMjo0OCArMDgwMCAoQ1NUKScsICdBc2lhL1RhaXBlaScpOwoKICAgICAgICAkZXhwZWN0ZWQgPSAnRnJpLCAyNiBBcHIgMjAxOSAxMDowMjo0OCArMDgwMCc7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRhY3R1YWwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">djIsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsCjEs6buD5b2iKDg6MDAtMTk6MDApLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsCiwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwKMjAyMCw2LDEsMiwzLDQsNSw2LDcsOCw5LDEwLDExLDEyLDEzLDE0LDE1LDE2LDE3LDE4LDE5LDIwLDIxLDIyLDIzLDI0LDI1LDI2LDI3LDI4LDI5LDMwCmp1anUueHUs6Kix5a625qabL2p1anUueHUsMXgsMSwxLDEsMXgsMSwxLDF4LDEsMSwxLDF4LDF4LDEsMSwxeCwxLDEsMSwxeCwxeCwxLDEsMXgsMXgsMSwxLDF4LDF4LDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ04wMycgPT4gYXJyYXkoJ2Rlc2NyaXB0aW9uJyA9PiAkdGhpcy0+Z2V0VkFMYW5nKCd2YV9jYXJkX2Nyb3NzZGF5X2Nsb2NraW5nXzMnKSwgJ2Fibm9ybWFsJyA9PiBmYWxzZSksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">6buD5paH5b63Cg==</text>
+        <text encoding="base64">ICAgICdjaGVja2VkJwo=</text>
       </register>
       <register name="3" type="2">
-        <text />
+        <text encoding="base64">djIsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsCjEs6buD5b2iKDg6MDAtMTk6MDApLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsCiwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwKMjAyMCw2LDEsMiwzLDQsNSw2LDcsOCw5LDEwLDExLDEyLDEzLDE0LDE1LDE2LDE3LDE4LDE5LDIwLDIxLDIyLDIzLDI0LDI1LDI2LDI3LDI4LDI5LDMwCmp1anUueHUs6Kix5a625qabL2p1anUueHUsMXgsMSwxLDEsMXgsMSwxLDF4LDEsMSwxLDF4LDF4LDEsMSwxeCwxLDEsMSwxeCwxeCwxLDEsMXgsMXgsMSwxLDF4LDF4LDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">6K6K5b2iCg==</text>
+        <text encoding="base64">6buD5paH5b63Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MSzororlvaIsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCx6Cg==</text>
+        <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">djIsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsCg==</text>
+        <text encoding="base64">6K6K5b2iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLAoyMDIwLDYsMSwyLDMsNCw1LDYsNyw4LDksMTAsMTEsMTIsMTMsMTQsMTUsMTYsMTcsMTgsMTksMjAsMjEsMjIsMjMsMjQsMjUsMjYsMjcsMjgsMjksMzAK</text>
+        <text encoding="base64">MSzororlvaIsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCx6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">anVqdS54dSzoqLEvanVqdS54dSwxeCwxLDEsMSwxeCwxLDEsMXgsMSwxLDEsMXgsMXgsMSwxLDF4LDEsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMXgsMXgsMQo=</text>
+        <text encoding="base64">djIsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGluZy5odWFuZyzpu4Pnp4DkvLYvbGluZy5odWFuZywxeCwxLDEsMSwxeCwxLDEsMSwxeCwxLDEsMXgsMXgsMSwxLDEsMXgsMSwxLDF4LDEsMSwxLDF4LDF4LDEsMXgsMXgsMXgsMQpib2JvLmNoZW4s6Zmz5oOg6IqsL2JvYm8uY2hlbiwxLDF4LDEsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMXgsMXgsMSwxLDF4LDEsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMQp3ZW4uemhvbmcs6Y2+6YOB6ZuvL3dlbi56aG9uZywxLDF4LDEsMSwxLDF4LDF4LDEsMSwxeCwxLDEsMXgsMXgsMXgsMSwxLDEsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMXgKYW5uaWUuaHNpZWgs6Kyd5aaN5aauL2FubmllLmhzaWVoLDF4LDEsMSwxeCwxLDEsMSwxeCwxeCwxLDEsMXgsMSwxLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxLDF4LDF4LDF4LDEsMXgsMQphbXkuemVuZyzmm77oqanokI0vYW15LnplbmcsMXgsMSwxLDF4LDEsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxLDF4LDEsMSwxeCwxeCwxCmh1aS5saW4s5p6X5L2z5oWnL2h1aS5saW4sMSwxLDEsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgsMXgKbHUubGluLOael+iKs+Wmgi9sdS5saW4sMSwxLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxLDF4LDEsMSwxeCwxeCwxLDEsMXgsMXgsMSwxLDEsMXgsMSwxeCwxeCwxeCwxCmxhbi5oc3Us5b6Q5oW26JitL2xhbi5oc3UsMXgsMSwxLDEsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMSwxeCwxLDEsMXgsMXgsMSwxLDEsMXgsMSwxLDF4LDF4LDEKeW9uZy5odWFuZyzpu4PlmInoqaAveW9uZy5odWFuZywxeCwxLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxeCwxLDEsMXgsMSwxLDF4LDEsMSwxLDF4LDF4LDEsMSwxeCwxLDEKaHVpLmh1YW5nLOm7g+mmqOaFpy9odWkuaHVhbmcsMXgsMSwxLDEsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMXgsMSwxLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxeCwxLDEKZmVuZy5sYWks6LO05L2z5qWTL2ZlbmcubGFpLDF4LDEsMSwxLDF4LDEsMSwxeCwxeCwxLDEsMSwxeCwxLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxLDF4LDEsMSwxeCwxeCwxCm1laS5oc2llbizmlr3nvo7lq7svbWVpLmhzaWVuLDF4LDEsMSwxeCwxLDEsMSwxeCwxeCwxLDEsMXgsMXgsMSwxLDEsMXgsMSwxLDF4LDF4LDEsMSwxLDF4LDEsMSwxeCwxeCwxCnRpbmcubGlhbyzlu5blp7XlqbcvdGluZy5saWFvLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMXgsMSwxLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMQpyYW4ubGluLOael+iLpeaZni9yYW4ubGluLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMXgsMSwxLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMQp5aS50c2FpLOiUoeS6puiyvS95aS50c2FpLDEsMXgsMSwxLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxLDF4LDEsMSwxLDF4LDEsMXgsMXgsMXgsMSwxLDF4LDF4LDEsMSwxeAp5aS5saW4s5p6X5L2z5YSAL3lpLmxpbiwxLDF4LDEsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMXgsMXgsMSwxLDEsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMXgKY2hpdS55dWVuLOmtj+eni+aciC9jaGl1Lnl1ZW4sMSwxeCwxeCwxLDEsMXgsMSwxLDF4LDEsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMSwxeCwxLDEsMXgsMXgsMSwxLDF4CnR6dS5qdW5nLOiRieWtkOiTiS90enUuanVuZywxLDF4LDF4LDEsMSwxLDF4LDEsMSwxeCwxeCwxLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMXgsMXgsMSwxLDEKY2hpbmcuY2hlbizpmbPmgKHpnZwvY2hpbmcuY2hlbiwxLDF4LDEsMSwxLDF4LDF4LDEsMSwxLDF4LDEsMSwxLDF4LDEsMSwxeCwxeCwxLDF4LDEsMXgsMSwxLDF4LDF4LDEsMSwxeApjaGloLmh1bmcs5rSq56Wl5pm6L2NoaWguaHVuZywxLDEsMXgsMSwxLDF4LDF4LDEsMSwxeCwxLDEsMSwxeCwxeCwxLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMXgKZG9yYS5saSzmnY7kvbPnj40vZG9yYS5saSwxLDF4LDEsMSwxLDF4LDEsMSwxLDF4LDF4LDEsMSwxeCwxLDEsMSwxeCwxeCwxLDEsMXgsMSwxLDEsMXgsMXgsMSwxLDF4CmxpLnNoYW4s6buD6I6J54+KL2xpLnNoYW4sMSwxeCwxeCwxLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMSwxeCwxLDEsMXgsMXgsMSwxLDF4LDEsMXgsMSwxCnR6dS55dSzlionlrZDmuJ0vdHp1Lnl1LDEsMXgsMSwxLDEsMXgsMXgsMSwxLDEsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxeApjaGkuaHUs6IOh6Iqz57a6L2NoaS5odSwxeCwxLDF4LDEsMSwxLDEsMXgsMXgsMXgsMSwxLDF4LDEsMSwxLDF4LDEsMSwxeCwxeCwxLDEsMXgsMXgsMSwxLDF4LDEsMQprYWkuemh1YW5nLOiOiuizgOWHsS9rYWkuemh1YW5nLDEsMXgsMXgsMSwxLDF4LDEsMXgsMSwxeCwxLDEsMSwxeCwxeCwxLDEsMXgsMSwxLDEsMXgsMXgsMSwxeCwxeCwxLDEsMSwxeApsaW5nLmNoZW4s6Zmz6ZuF546yL2xpbmcuY2hlbiwxeCwxLDEsMSwxeCwxLDF4LDEsMSwxLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMXgsMSwxLDF4LDF4LDF4LDEKeWkudGluZyzpu4Pku6XlqbcveWkudGluZywxeCwxLDEsMSwxeCwxLDEsMXgsMSwxLDEsMXgsMXgsMSwxLDF4LDF4LDEsMSwxeCwxeCwxLDEsMXgsMXgsMSwxLDF4LDF4LDEK</text>
+        <text encoding="base64">LCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLAoyMDIwLDYsMSwyLDMsNCw1LDYsNyw4LDksMTAsMTEsMTIsMTMsMTQsMTUsMTYsMTcsMTgsMTksMjAsMjEsMjIsMjMsMjQsMjUsMjYsMjcsMjgsMjksMzAK</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>action VcsShowNextChangeMarker</text>
       </register>
     </registers>
   </component>
