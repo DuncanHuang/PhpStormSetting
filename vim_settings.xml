@@ -189,12 +189,12 @@
         <mark key="^" line="2570" column="62" />
         <mark key="." line="2570" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" timestamp="1591945238782">
-        <mark key="'" line="2843" column="63" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="215" column="2" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" timestamp="1591952248990">
+        <mark key="'" line="2868" column="63" />
+        <mark key="[" line="2868" column="61" />
+        <mark key="]" line="2868" column="61" />
+        <mark key="." line="2868" column="61" />
+        <mark key="^" line="2864" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordList.php" timestamp="1591766146275">
         <mark key="'" line="271" column="0" />
@@ -346,17 +346,17 @@
       <jump line="215" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
-      <jump line="2843" column="63" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="12" column="1" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/wfadm/index.php" />
+      <jump line="2843" column="63" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(宏景智權)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(宏景智權)</text>
       </register>
       <register name="/" type="4">
         <text>prj</text>
@@ -365,31 +365,31 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X+W5tOaciOaXpemDveaYr+aVuOWtlygpCiAgICB7CiAgICAgICAgJHRhcmdldCA9IG5ldyBEYXRlVGltZUNvbnZlcnRIZWxwZXIoKTsKCiAgICAgICAgJGFjdHVhbCA9ICR0YXJnZXQtPmNvbnZlcnQoJ0ZyaSwgMjYgMDQgMjAxOSAxMDowMjo0OCArMDgwMCAoQ1NUKScsICdBc2lhL1RhaXBlaScpOwoKICAgICAgICAkZXhwZWN0ZWQgPSAnRnJpLCAyNiBBcHIgMjAxOSAxMDowMjo0OCArMDgwMCc7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRhY3R1YWwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluX2FycmF5KCRfU0VSVkVSLCAkaGF5c3RhY2spCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGluX2FycmF5KCRfU0VSVkVSLCAkaGF5c3RhY2spCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChpbl9hcnJheSgkX1NFUlZFUiwgJyRoYXlzdGFjaycpKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGluX2FycmF5KCRfU0VSVkVSLCAkaGF5c3RhY2spCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIGluX2FycmF5KCRfU0VSVkVSLCAkaGF5c3RhY2spCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGlmIChpbl9hcnJheSgkX1NFUlZFUiwgJyRoYXlzdGFjaycpKSB7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhOThmYjA4OGQuLi4gSXNzdWUgIzQ5MzggOC42LjE5IFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhOThmYjA4OGQuLi4gSXNzdWUgIzQ5MzggOC42LjE5IFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBhOThmYjA4OGQuLi4gSXNzdWUgIzQ5MzggOC42LjE5IFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
