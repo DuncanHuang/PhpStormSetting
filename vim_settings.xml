@@ -32,11 +32,9 @@
         <entry>prj</entry>
       </history-search>
       <history-cmd>
-        <entry>365</entry>
         <entry>w</entry>
         <entry>action IntroduceParameter</entry>
         <entry>action VcsShowPrevChangeMarker</entry>
-        <entry>action AceAction</entry>
         <entry>action Forward</entry>
         <entry>action RenameElement</entry>
         <entry>action Inline</entry>
@@ -46,12 +44,14 @@
         <entry>action Debug</entry>
         <entry>27</entry>
         <entry>268</entry>
-        <entry>action MethodUp</entry>
         <entry>action Run</entry>
         <entry>111</entry>
-        <entry>action MethodDown</entry>
         <entry>action VcsShowNextChangeMarker</entry>
+        <entry>action AceAction</entry>
+        <entry>action MethodUp</entry>
+        <entry>action MethodDown</entry>
         <entry>action Back</entry>
+        <entry>action GotoNextError</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -142,11 +142,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/HR/Signature.php" timestamp="1592451599976">
-        <mark key="[" line="34" column="50" />
-        <mark key="]" line="34" column="50" />
-        <mark key="^" line="34" column="50" />
-        <mark key="." line="34" column="49" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/HR/Signature.php" timestamp="1592467611943">
+        <mark key="[" line="43" column="80" />
+        <mark key="]" line="43" column="80" />
+        <mark key="." line="43" column="79" />
+        <mark key="^" line="43" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/7.2.migration.sql" timestamp="1591779520959">
         <mark key="[" line="5" column="8" />
@@ -154,7 +154,7 @@
         <mark key="^" line="4" column="98" />
         <mark key="." line="4" column="97" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManEmpUpdate.php" timestamp="1592451337699">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManEmpUpdate.php" timestamp="1592462421381">
         <mark key="[" line="830" column="48" />
         <mark key="]" line="830" column="48" />
         <mark key="^" line="830" column="48" />
@@ -172,13 +172,6 @@
         <mark key="]" line="15" column="36" />
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordDescriptionTest.php" timestamp="1591773474778">
-        <mark key="'" line="1813" column="40" />
-        <mark key="[" line="1825" column="36" />
-        <mark key="]" line="1825" column="36" />
-        <mark key="^" line="1825" column="36" />
-        <mark key="." line="1825" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_SignIt.php" timestamp="1591846265425">
         <mark key="'" line="494" column="21" />
@@ -216,17 +209,25 @@
         <mark key="^" line="2863" column="9" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/KWCR2SignatureDAO.php" timestamp="1592459658977">
-        <mark key="'" line="61" column="24" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/KWCR2SignatureDAO.php" timestamp="1592467715161">
+        <mark key="'" line="177" column="4" />
+        <mark key="[" line="177" column="36" />
+        <mark key="]" line="177" column="28" />
+        <mark key="^" line="177" column="28" />
+        <mark key="." line="177" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/7.14.0.signature-migration.php" timestamp="1592450721332" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/db_upgrade.sh" timestamp="1592376649987">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/AbstractSignatureDAO.php" timestamp="1592467744450">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="105" column="63" />
+        <mark key="]" line="105" column="64" />
+        <mark key="." line="105" column="63" />
+        <mark key="^" line="105" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/wfadm/index.php" timestamp="1591948694986">
         <mark key="'" line="12" column="1" />
@@ -237,13 +238,6 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" timestamp="1592387488079" />
     </filemarks>
     <jumps>
-      <jump line="1204" column="52" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
-      <jump line="1240" column="17" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
-      <jump line="1266" column="61" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
-      <jump line="1293" column="61" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
-      <jump line="1360" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
-      <jump line="1323" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
-      <jump line="1362" column="61" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="1389" column="61" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="1415" column="50" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="1441" column="50" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
@@ -337,15 +331,22 @@
       <jump line="834" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManEmpUpdate.php" />
       <jump line="693" column="9" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/HR/PerManEmpUpdate.php" />
       <jump line="64" column="24" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/KWCR2SignatureDAO.php" />
+      <jump line="19" column="30" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/AbstractSignatureDAO.php" />
+      <jump line="91" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/KWCR2SignatureDAO.php" />
+      <jump line="89" column="6" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/KWCR2SignatureDAO.php" />
+      <jump line="46" column="23" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/HR/Signature.php" />
+      <jump line="177" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/KWCR2SignatureDAO.php" />
+      <jump line="78" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/AbstractSignatureDAO.php" />
+      <jump line="70" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/AbstractSignatureDAO.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, $group_id)</text>
       </register>
       <register name="-" type="4">
-        <text>detrba</text>
+        <text>, $group_id)</text>
       </register>
       <register name="/" type="4">
         <text>prj</text>
@@ -354,34 +355,34 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X+W5tOaciOaXpemDveaYr+aVuOWtlygpCiAgICB7CiAgICAgICAgJHRhcmdldCA9IG5ldyBEYXRlVGltZUNvbnZlcnRIZWxwZXIoKTsKCiAgICAgICAgJGFjdHVhbCA9ICR0YXJnZXQtPmNvbnZlcnQoJ0ZyaSwgMjYgMDQgMjAxOSAxMDowMjo0OCArMDgwMCAoQ1NUKScsICdBc2lhL1RhaXBlaScpOwoKICAgICAgICAkZXhwZWN0ZWQgPSAnRnJpLCAyNiBBcHIgMjAxOSAxMDowMjo0OCArMDgwMCc7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRhY3R1YWwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkZ3JvdXBfaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnL3RtcC9sb2cudHh0JywgJycgLiBQSFBfRU9MIC4ganNvbl9lbmNvZGUoKSAuIFBIUF9FT0wsIEZJTEVfQVBQRU5EKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkZ3JvdXBfaWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICcnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCkgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cnVuIDguOC4wLm1pZ3JhdGlvbi5zcWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCcvdG1wL2xvZy50eHQnLCAnJGEnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCdhZGZhZHNmJykgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQU5EIEdyb3VwSUQgPSA/Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmlsZV9wdXRfY29udGVudHMoJy90bXAvbG9nLnR4dCcsICckbm9wZGYnIC4gUEhQX0VPTCAuIGpzb25fZW5jb2RlKCRub1BERikgLiBQSFBfRU9MLCBGSUxFX0FQUEVORCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBEQiDmspLmnInoqbLpg6jploDnsL3lkI3mqpTos4fmlpkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdHZhbChqKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBEQiDmspLmnInoqbLpg6jploDnsL3lkI3mqpTos4fmlpkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action GotoNextError</text>
       </register>
     </registers>
   </component>
