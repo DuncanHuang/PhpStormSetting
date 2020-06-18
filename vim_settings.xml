@@ -47,11 +47,11 @@
         <entry>action Run</entry>
         <entry>111</entry>
         <entry>action VcsShowNextChangeMarker</entry>
-        <entry>action AceAction</entry>
-        <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
-        <entry>action Back</entry>
         <entry>action GotoNextError</entry>
+        <entry>action MethodUp</entry>
+        <entry>action Back</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -142,11 +142,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/HR/Signature.php" timestamp="1592467611943">
-        <mark key="[" line="43" column="80" />
-        <mark key="]" line="43" column="80" />
-        <mark key="." line="43" column="79" />
-        <mark key="^" line="43" column="80" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/HR/Signature.php" timestamp="1592469171368">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="38" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="45" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Installation/Migration/7.2.migration.sql" timestamp="1591779520959">
         <mark key="[" line="5" column="8" />
@@ -209,7 +209,7 @@
         <mark key="^" line="2863" column="9" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/KWCR2SignatureDAO.php" timestamp="1592467715161">
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/KWCR2SignatureDAO.php" timestamp="1592469074647">
         <mark key="'" line="177" column="4" />
         <mark key="[" line="177" column="36" />
         <mark key="]" line="177" column="28" />
@@ -238,8 +238,6 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/Update.php" timestamp="1592387488079" />
     </filemarks>
     <jumps>
-      <jump line="1389" column="61" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
-      <jump line="1415" column="50" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="1441" column="50" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="1477" column="52" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="1513" column="17" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
@@ -338,15 +336,17 @@
       <jump line="177" column="4" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/KWCR2SignatureDAO.php" />
       <jump line="78" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/AbstractSignatureDAO.php" />
       <jump line="70" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/AbstractSignatureDAO.php" />
+      <jump line="58" column="38" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/HR/Signature.php" />
+      <jump line="75" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/HR/Signature.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>, $group_id)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkZGJfc2lnbmF0dXJlWydTaWduYXR1cmVQYXRoJ10K</text>
       </register>
       <register name="-" type="4">
-        <text>, $group_id)</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>prj</text>
@@ -355,34 +355,34 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X+W5tOaciOaXpemDveaYr+aVuOWtlygpCiAgICB7CiAgICAgICAgJHRhcmdldCA9IG5ldyBEYXRlVGltZUNvbnZlcnRIZWxwZXIoKTsKCiAgICAgICAgJGFjdHVhbCA9ICR0YXJnZXQtPmNvbnZlcnQoJ0ZyaSwgMjYgMDQgMjAxOSAxMDowMjo0OCArMDgwMCAoQ1NUKScsICdBc2lhL1RhaXBlaScpOwoKICAgICAgICAkZXhwZWN0ZWQgPSAnRnJpLCAyNiBBcHIgMjAxOSAxMDowMjo0OCArMDgwMCc7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRhY3R1YWwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkZ3JvdXBfaWQK</text>
+        <text encoding="base64">ICAgICAgICAkZGJfc2lnbmF0dXJlWydTaWduYXR1cmVQYXRoJ10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHNpZ25hdHVyZV9maWxlX3BhdGNoICE9ICcnKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkZ3JvdXBfaWQK</text>
+        <text encoding="base64">ICAgICAgICAvLyDmnInkuIrlgrPnsL3lkI3mqpTmqpTmoYjkuIDlvovopoHmlrDlu7rnq4vnsL3lkI3mqpTos4fmlpkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyDlhaflrrnlrozlhajkuIDoh7TvvIznm7TmjqXkvb/nlKjljp/mnKznmoQgU2lnbmF0dXJlSUQKICAgICAgICByZXR1cm4gJGRiX3NpZ25hdHVyZVsnSUQnXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIEdyb3VwSUQgPSA/Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8gREIg5pyJ6Kmy6YOo6ZaA57C95ZCN5qqU6LOH5paZ77yM5pyJ5pu05YuV5YWn5a6577yM5L2G5piv57C95ZCN5qqU5qqU5ZCN5L+d5oyB5LiN6K6KCiAgICAgICAgaWYgKAogICAgICAgICAgICAkZGJfc2lnbmF0dXJlWydDTmFtZSddICE9ICR1c2VyX2RldGFpbFskdXNlcl9pZF1bJ0NISU5FU0VOQU1FJ10KICAgICAgICAgICAgfHwgJGRiX3NpZ25hdHVyZVsnRU5hbWUnXSAhPSAkdXNlcl9kZXRhaWxbJHVzZXJfaWRdWydFTkdMSVNITkFNRSddCiAgICAgICAgICAgIHx8ICRkYl9zaWduYXR1cmVbJ0pvYlRpdGxlJ10gIT0gJHRpdGxlCiAgICAgICAgICAgIHx8ICRkYl9zaWduYXR1cmVbJ0dyb3VwTmFtZSddICE9ICRncm91cF9uYW1lCiAgICAgICAgKSB7CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+c2lnbmF0dXJlX2Rhby0+aW5zZXJ0U2lnbmF0dXJlKAogICAgICAgICAgICAgICAgJHVzZXJfaWQsCiAgICAgICAgICAgICAgICAkdXNlcl9kZXRhaWxbJHVzZXJfaWRdWydDSElORVNFTkFNRSddLAogICAgICAgICAgICAgICAgJHVzZXJfZGV0YWlsWyR1c2VyX2lkXVsnRU5HTElTSE5BTUUnXSwKICAgICAgICAgICAgICAgICR0aXRsZSwKICAgICAgICAgICAgICAgICRncm91cF9uYW1lLAogICAgICAgICAgICAgICAgJGdyb3VwX2lkLAogICAgICAgICAgICAgICAgJGRiX3NpZ25hdHVyZVsnU2lnbmF0dXJlUGF0aCddCiAgICAgICAgICAgICk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBEQiDmspLmnInoqbLpg6jploDnsL3lkI3mqpTos4fmlpkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBEQiDmnInoqbLpg6jploDnsL3lkI3mqpTos4fmlpnvvIzmnInmm7Tli5XlhaflrrnvvIzkvYbmmK/nsL3lkI3mqpTmqpTlkI3kv53mjIHkuI3orooKICAgICAgICBpZiAoCiAgICAgICAgICAgICRkYl9zaWduYXR1cmVbJ0NOYW1lJ10gIT0gJHVzZXJfZGV0YWlsWyR1c2VyX2lkXVsnQ0hJTkVTRU5BTUUnXQogICAgICAgICAgICB8fCAkZGJfc2lnbmF0dXJlWydFTmFtZSddICE9ICR1c2VyX2RldGFpbFskdXNlcl9pZF1bJ0VOR0xJU0hOQU1FJ10KICAgICAgICAgICAgfHwgJGRiX3NpZ25hdHVyZVsnSm9iVGl0bGUnXSAhPSAkdGl0bGUKICAgICAgICAgICAgfHwgJGRiX3NpZ25hdHVyZVsnR3JvdXBOYW1lJ10gIT0gJGdyb3VwX25hbWUKICAgICAgICApIHsKICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zaWduYXR1cmVfZGFvLT5pbnNlcnRTaWduYXR1cmUoCiAgICAgICAgICAgICAgICAkdXNlcl9pZCwKICAgICAgICAgICAgICAgICR1c2VyX2RldGFpbFskdXNlcl9pZF1bJ0NISU5FU0VOQU1FJ10sCiAgICAgICAgICAgICAgICAkdXNlcl9kZXRhaWxbJHVzZXJfaWRdWydFTkdMSVNITkFNRSddLAogICAgICAgICAgICAgICAgJHRpdGxlLAogICAgICAgICAgICAgICAgJGdyb3VwX25hbWUsCiAgICAgICAgICAgICAgICAkZ3JvdXBfaWQsCiAgICAgICAgICAgICAgICAkZGJfc2lnbmF0dXJlWydTaWduYXR1cmVQYXRoJ10KICAgICAgICAgICAgKTsKICAgICAgICB9CgogICAgICAgIC8vIOWFp+WuueWujOWFqOS4gOiHtO+8jOebtOaOpeS9v+eUqOWOn+acrOeahCBTaWduYXR1cmVJRAogICAgICAgIHJldHVybiAkZGJfc2lnbmF0dXJlWydJRCddOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAvLyBEQiDmspLmnInoqbLpg6jploDnsL3lkI3mqpTos4fmlpkK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoNextError</text>
+        <text>action AceAction</text>
       </register>
     </registers>
   </component>
