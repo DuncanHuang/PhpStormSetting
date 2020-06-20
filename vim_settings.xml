@@ -180,12 +180,12 @@
         <mark key="^" line="830" column="48" />
         <mark key="." line="830" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" timestamp="1592630643213">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="48" />
-        <mark key="]" line="6" column="48" />
-        <mark key="^" line="6" column="48" />
-        <mark key="." line="6" column="47" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" timestamp="1592631723527">
+        <mark key="'" line="237" column="0" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
+        <mark key="^" line="237" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/KWCR2SignatureDAO.php" timestamp="1592469074647">
         <mark key="'" line="177" column="4" />
@@ -224,15 +224,6 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/form_tools/DateSelectTW.htm" timestamp="1592618479168" />
     </filemarks>
     <jumps>
-      <jump line="1734" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
-      <jump line="1704" column="60" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
-      <jump line="1735" column="50" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
-      <jump line="1834" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
-      <jump line="1764" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
-      <jump line="1836" column="61" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
-      <jump line="1862" column="60" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
-      <jump line="1893" column="50" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
-      <jump line="2008" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="1922" column="20" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="2009" column="50" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="2033" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
@@ -323,13 +314,22 @@
       <jump line="117" column="22" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_file_list.php" />
       <jump line="120" column="16" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/DM/DM_file_list.php" />
       <jump line="35" column="22" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="16" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="248" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="238" column="21" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="54" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="253" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="246" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="69" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
+      <jump line="237" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAxODdmMDgxN2MuLi4gSXNzdWUgIzQ5NjIgOC42LjIwIFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICA=</text>
@@ -341,31 +341,31 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEB0ZXN0CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X+W5tOaciOaXpemDveaYr+aVuOWtlygpCiAgICB7CiAgICAgICAgJHRhcmdldCA9IG5ldyBEYXRlVGltZUNvbnZlcnRIZWxwZXIoKTsKCiAgICAgICAgJGFjdHVhbCA9ICR0YXJnZXQtPmNvbnZlcnQoJ0ZyaSwgMjYgMDQgMjAxOSAxMDowMjo0OCArMDgwMCAoQ1NUKScsICdBc2lhL1RhaXBlaScpOwoKICAgICAgICAkZXhwZWN0ZWQgPSAnRnJpLCAyNiBBcHIgMjAxOSAxMDowMjo0OCArMDgwMCc7CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkZXhwZWN0ZWQsICRhY3R1YWwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAxODdmMDgxN2MuLi4gSXNzdWUgIzQ5NjIgOC42LjIwIFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgLiAiKSI=</text>
+      <register name="2" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZGJfc2lnbmF0dXJlWydTaWduYXR1cmVQYXRoJ10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHNpZ25hdHVyZV9maWxlX3BhdGNoICE9ICcnKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmnInkuIrlgrPnsL3lkI3mqpTmqpTmoYjkuIDlvovopoHmlrDlu7rnq4vnsL3lkI3mqpTos4fmlpkK</text>
+        <text encoding="base64">Pj4+Pj4+PiAxODdmMDgxN2MuLi4gSXNzdWUgIzQ5NjIgOC42LjIwIFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlhaflrrnlrozlhajkuIDoh7TvvIznm7TmjqXkvb/nlKjljp/mnKznmoQgU2lnbmF0dXJlSUQKICAgICAgICByZXR1cm4gJGRiX3NpZ25hdHVyZVsnSUQnXTsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gREIg5pyJ6Kmy6YOo6ZaA57C95ZCN5qqU6LOH5paZ77yM5pyJ5pu05YuV5YWn5a6577yM5L2G5piv57C95ZCN5qqU5qqU5ZCN5L+d5oyB5LiN6K6KCiAgICAgICAgaWYgKAogICAgICAgICAgICAkZGJfc2lnbmF0dXJlWydDTmFtZSddICE9ICR1c2VyX2RldGFpbFskdXNlcl9pZF1bJ0NISU5FU0VOQU1FJ10KICAgICAgICAgICAgfHwgJGRiX3NpZ25hdHVyZVsnRU5hbWUnXSAhPSAkdXNlcl9kZXRhaWxbJHVzZXJfaWRdWydFTkdMSVNITkFNRSddCiAgICAgICAgICAgIHx8ICRkYl9zaWduYXR1cmVbJ0pvYlRpdGxlJ10gIT0gJHRpdGxlCiAgICAgICAgICAgIHx8ICRkYl9zaWduYXR1cmVbJ0dyb3VwTmFtZSddICE9ICRncm91cF9uYW1lCiAgICAgICAgKSB7CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+c2lnbmF0dXJlX2Rhby0+aW5zZXJ0U2lnbmF0dXJlKAogICAgICAgICAgICAgICAgJHVzZXJfaWQsCiAgICAgICAgICAgICAgICAkdXNlcl9kZXRhaWxbJHVzZXJfaWRdWydDSElORVNFTkFNRSddLAogICAgICAgICAgICAgICAgJHVzZXJfZGV0YWlsWyR1c2VyX2lkXVsnRU5HTElTSE5BTUUnXSwKICAgICAgICAgICAgICAgICR0aXRsZSwKICAgICAgICAgICAgICAgICRncm91cF9uYW1lLAogICAgICAgICAgICAgICAgJGdyb3VwX2lkLAogICAgICAgICAgICAgICAgJGRiX3NpZ25hdHVyZVsnU2lnbmF0dXJlUGF0aCddCiAgICAgICAgICAgICk7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">Pj4+Pj4+PiAxODdmMDgxN2MuLi4gSXNzdWUgIzQ5NjIgOC42LjIwIFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
