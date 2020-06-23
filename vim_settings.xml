@@ -145,9 +145,6 @@
       <file name="/Dummy.txt" timestamp="1592558736056">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Helper/VA/CardStatusHelperTest.php" timestamp="1592806624094" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Helper/VA/CardStatusHelper.php" timestamp="1592806665965" />
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardToNetask.php" timestamp="1592806189190" />
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/IncludeFile/WF/WF_FlowUpdate.php" timestamp="1592546363343">
         <mark key="'" line="892" column="0" />
       </file>
@@ -163,12 +160,12 @@
         <mark key="^" line="830" column="48" />
         <mark key="." line="830" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" timestamp="1592631723527">
-        <mark key="'" line="237" column="0" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="0" />
-        <mark key="." line="245" column="0" />
-        <mark key="^" line="237" column="2" />
+      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" timestamp="1592895895728">
+        <mark key="'" line="248" column="28" />
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/DAO/HR/KWCR2SignatureDAO.php" timestamp="1592469074647">
         <mark key="'" line="177" column="4" />
@@ -201,10 +198,8 @@
       <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" timestamp="1592806432948">
         <mark key="'" line="388" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Netask/BrowserUI/tw/wf/form_tools/DateSelectTW.htm" timestamp="1592618479168" />
     </filemarks>
     <jumps>
-      <jump line="2009" column="50" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="2033" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="2074" column="61" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
       <jump line="2243" column="29" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/tests/PHP/Repository/VA/CardRecordListTest.php" />
@@ -304,15 +299,16 @@
       <jump line="69" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="237" column="0" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
       <jump line="388" column="57" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/Foundation/Repository/VA/CardRecordDescription.php" />
+      <jump line="235" column="28" filename="$USER_HOME$/Documents/NovaxCode/novax-netask-web/CHANGELOG.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxODdmMDgxN2MuLi4gSXNzdWUgIzQ5NjIgOC42LjIwIFJlbGVhc2UgLSDlop7liqAgQ0hBTkdFTE9HCg==</text>
+      <register name="&quot;" type="4">
+        <text>12</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>12</text>
       </register>
       <register name="/" type="4">
         <text>19</text>
