@@ -1,7 +1,7 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="13d687f9-4a00-4788-b5ba-a6e154dbc259" name="PHP 7.1.32(MAMP)" home="/Applications/MAMP/bin/php/php7.1.32/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/MAMP/bin/php/php7.1.32/lib/php/extensions/no-debug-non-zts-20160303/xdebug.so" />
+      <interpreter id="13d687f9-4a00-4788-b5ba-a6e154dbc259" name="PHP 7.1.32(MAMP)" home="/Applications/MAMP/bin/php/php7.1.33/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/MAMP/bin/php/php7.1.33/lib/php/extensions/no-debug-non-zts-20160303/xdebug.so" />
       <interpreter id="c8995579-cfc0-46af-ae8c-3016c567c290" name="PHP 7.0.33(phpbrew)" home="$USER_HOME$/.phpbrew/php/php-7.0.33/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="$USER_HOME$/.phpbrew/php/php-7.0.33/lib/php/extensions/debug-zts-20151012/xdebug.so" />
       <interpreter id="1ce03534-87d6-474e-b9db-3b2bd38fc330" name="PHP 7.3.12(phpbrew)" home="$USER_HOME$/.phpbrew/php/php-7.3.12/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="$USER_HOME$/.phpbrew/php/php-7.3.12/bin/php" />
       <interpreter id="4fc0e5e9-433d-4f4c-a6e6-f6800d49a99b" name="PHP 7.3" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
@@ -312,9 +312,7 @@
             <extension name="pcntl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
-            <extension name="pgsql" />
             <extension name="posix" />
             <extension name="readline" />
             <extension name="session" />
@@ -337,14 +335,14 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.1.32(MAMP)">
-        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.1.32/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.1.32/bin/php" path_separator=":" version="7.1.32">
+        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.1.33/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.1.33/bin/php" path_separator=":" version="7.1.33">
           <additional_php_ini />
-          <configuration_file>/Applications/MAMP/bin/php/php7.1.32/conf/php.ini</configuration_file>
+          <configuration_file>/Applications/MAMP/bin/php/php7.1.33/conf/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.1.32/lib/php" />
+            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.1.33/lib/php" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.9.0">
+            <debugger_info debugger="xdebug" debugger_version="2.9.6">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -380,11 +378,10 @@
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="openssl" />
+            <extension name="pcntl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
-            <extension name="pgsql" />
             <extension name="posix" />
             <extension name="readline" />
             <extension name="session" />
