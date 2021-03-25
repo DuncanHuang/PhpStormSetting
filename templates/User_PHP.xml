@@ -65,4 +65,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="llog" value="\Log::info('$LOG_NAME$' . PHP_EOL . json_encode($Params$));" description="\Log::info(*)" toReformat="false" toShortenFQNames="true">
+    <variable name="LOG_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Params" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
