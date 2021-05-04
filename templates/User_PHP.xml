@@ -72,4 +72,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="dbllog" value="\Illuminate\Support\Facades\DB::listen(function ($query) {&#10;    \Log::info([&#10;        'sql' =&gt; $query-&gt;sql,&#10;        'bindings' =&gt; json_encode($query-&gt;bindings),&#10;        'time' =&gt; $query-&gt;time,&#10;    ]);&#10;});" description="\DBListnLog::info(*)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
